@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="star chart, LTW project">
+        <meta name="author" content="Anna Cossai, Giovanni Buscaglione">
+
+        <title>Skywalker</title>
+
+        <link href="./css/bootstrap.css" rel="stylesheet">
+    
+
+    </head>
+
+    <body class="text-center">
+        
+        <div class="container">
+
+            <div class="row">
+                <div class="col">
+                <h1>Skywalker</h1>
+                </div>
+            </div>
+
+            <div class="row">
+                 <div class="col">
+                    <form action="" method="get" name="search-form" onSubmit="return search();">
+                        <div class="input-group mb-4">
+                            <input type="text" class="form-control" id="star-search" placeholder="Star or constellation" required>
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-dark" type="submit" id="button-go">Go</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <span class="align-right">
+                    <button class="btn btn-secondary">Index</button>
+                    </span>
+                </div>
+                <div class="col">
+                    <button class="btn btn-secondary">Random</button>
+                </div>
+            </div>
+
+        </div>
+
+        <script src="./js/skywalker.js"></script>
+    </body>
+</html>
