@@ -1,11 +1,11 @@
 Bootes is the 13th biggest constellation in size and covers 907 square degrees. It can be viewed in the third quadrant of the Northern hemisphere and lies specifically at latitudes between +90° and -50°. To correctly say, Bootes, each “o” is pronounced separately, putting emphasis on the “tes.”
-main stars
-Arcturus (Alpha Boötis) is the brightest star in this constellation, which will be discussed later in detail.
-Nekkar (Beta Boötis) is also known as “Meress” and is a yellow G-type giant. Nekkar is also a “flare star” which means it will show shines of brilliant luminosity for brief periods of time.
-Seginus (Gamma Boötis) is considered a Delta Scuti type variable star, because it has degrees of luminosity due to radial and non-radial surface pulsations.
-Izar (Pulcherrima) ~ (Epsilon Boötis) is sometimes known as, Pulcherrima, which means “loveliness” in Latin. This star is binary in nature consisting of a bright orange giant and a fainter main sequence star.
-Muphrid (Saak) ~ (Eta Boötis) this star’s name originates from the Arabic phrase meaning, “the single one of the lancer.” It is close to Arcturus and is catalogued as a spectroscopic binary star.
-Alkalurops ~ (Mu Boötis) is derived from the Greek language (kalaurops) which means “the shepherd’s staff.” It is a triple star made up of a bright yellow-white F-type subgiant and a fainter binary star.
-Merga (38 Boötis) is located 153 light-years away and its name is derived from the Arabic pharse which means “the chained woman.” It is also catalogued as a spectral class F7IVw.
-Nadlat (Psi Boötis) is an orange K-type giant that is located about 250 light-years from Earth.
-Tau Boötis is binary in nature; yellow-white dwarf and a dim red giant. The main star was discovered (in 1996) to have an extrasolar planet in its orbit.
+Boötes is traditionally depicted as a herdsman with two hunting dogs on a leash and a club in his other hand. In the sky, Boötes follows Ursa Major around the pole. In one story, the constellation represents a ploughman driving the oxen in the Ursa Major constellation, followed by his two dogs, Asterion and Chara (represented by the constellation Canes Venatici, the Hunting Dogs). The ploughman’s oxen are tied to the polar axis and their movement keeps the skies in constant rotation. Most commonly, Boötes is taken to represent Arcas, son of Zeus and Callisto, daughter of the Arcadian king Lycaon. Arcas was brought up by his grandfather, the king, who one day decided to test Zeus by serving him his own son for a meal. Zeus, however, saw through Lycaon’s intentions, transformed the cruel king into a wolf, killed all his sons with thunderbolts, and brought Arcas back to life. Zeus’ wife Hera, having heard of her husband’s infidelity, transformed Callisto into a bear. Callisto roamed the woods until years later she met her son, who was now grown up. Arcas didn’t recognize his mother and began to chase her. Callisto hid herself in a temple, where he could not hurt her without risking being convicted to death for defiling a sacred place. To avoid a tragedy, Zeus placed both of them in the sky; Callisto as Ursa Major and Arcas as Boötes. In another story, Boötes is taken to represent Icarius, a grape grower who once invited Dionysus to visit his vineyards. The god was so impressed that he gave Icarius the secret of making wine. Icarius followed the recipe and enjoyed the beverage so much that he invited all his friends to try it. They, however, enjoyed it a bit too much and, when they woke up the next day with bad hangovers, they assumed Icarius had tried to poison them. Angry, they decided to murder him in his sleep. Dionysus was saddened by the death of his friend and decided to place Icarius among the stars. In another myth, Boötes is credited for inventing the plough, which prompted the goddess Ceres to place him in the heavens.
+Arcturus (Alpha Boötis)
+Nekkar (Beta Boötis)
+Seginus (Gamma Boötis)
+Izar (Pulcherrima) ~ (Epsilon Boötis)
+Muphrid (Saak) ~ (Eta Boötis)
+Alkalurops ~ (Mu Boötis)
+Merga (38 Boötis)
+Nadlat (Psi Boötis)
+Tau Boötis

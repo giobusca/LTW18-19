@@ -1,10 +1,10 @@
 Apus is another relatively small constellation covering only 206 square degrees in the third quadrant of the Southern hemisphere. It can be viewed at latitudes between +5° and -90°. Apus represents the bird of paradise and actually gets its name from the Greek word, apous which means ‘footless’ (these birds were once believed to have no feet).
-main stars
-Alpha Apodis is the brightest star in Apus (which will be discussed later in detail).
-Gamma Apodis is a yellow G-type giant star located about 160 light-years away. It is also the second brightest in this constellation.
-Delta Apodis is a binary star. The first and brightest component is an irregular variable star (Delta-1 Apodis) and is also a M-type red giant. The dimmer star (Delta-2 Apodis) is an orange K-type giant star.
-Kappa Apodis has two star systems. The first is Kappa-1 Apodis which is a blue-white B-type subgiant. It lies about about 1,020 light-years away. The second (Kappa-2 Apodis) is a binary star with a blue-white B-type giant and an orange K-type main sequence dwarf.
-Beta Apodis shines the third brightest in Apus and is considered an orange K-type giant star that is located 158 light-years away.
-Zeta Apodis is located 312 light-years from Earth and is also catalogued as a orange K-type giant.
-Eta Apodis is noteworthy as it is showing signs of absorbing some metals while being deficient in others. It is also emitting excess infrared radiation.
-Epsilon Apodis lies about 551 light-years away and is a blue-white B-type main sequence.
+Apus was originally named Paradysvogel Apis Indica by Petrus Plancius, who created and introduced the constellation. Paradysvogel means “the bird of paradise” in Dutch, and Apis Indica is Latin for “indian bee.” Apis, the word for “bee,” was presumably used in error and the constellation should have been named Avis, which means “bird.” The constellation was also called Apis Indica in Bayer’s Uranometria, while other astronomers, like Johannes Kepler, referred to it as Avis Indica, as Kepler did in his Rudolphine Tables in 1627. As a result of the confusion, Avis Indica was renamed to Apus, and Apis, the constellation representing the bee, became Musca, the fly. French astronomer Lacaille called the constellation Apus in his chart of the southern skies published in 1763, but both Apis and Avis continued to be used well into the 19th century.
+Alpha Apodis
+Gamma Apodis
+Delta Apodis
+Kappa Apodis
+Beta Apodis
+Zeta Apodis
+Eta Apodis
+Epsilon Apodis

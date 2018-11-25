@@ -1,12 +1,12 @@
 Aquila is a loose triangular-shaped constellation covering 652 square degrees in the fourth quadrant of the Northern hemisphere (near the celestial equator). It can be viewed at latitudes between +90° and -75°. Aquila represents the eagle of the Roman god, Jupiter and, in fact, gets its name from the Latin word meaning “eagle.”
-main stars
-Altair (Alpha Aquilae) is the brightest star in Aquila (which will be discussed later in detail).
-Alshain (Beta Aquilae) is the seventh brightest star in Aquila. It shines 44.7 light-years away and is catalogued as a class G subgiant. It got its name from the Perso-Arabic word, aš-šāhīn, which means “the (peregrine) falcon.”
-Tarazed (Gamma Aquilae) is a class K (spectral class K3) bright giant that got its name from the Persian phrase šāhin tarāzu, meaning “the beam of the scale.” This star is around 100 million years-old and is also known as a source of X-rays.
-Deneb el Okab (Epsilon Aquilae) this triple star system is also known as, Deneb el Okab, an Arabic phrase (ðanab al-cuqāb) meaning “the tail of the eagle.” The brightest aspect of this star is a barium star known as a K-type giant.
-Deneb el Okab (Zeta Aquilae) is about 83.2 light-years in distance and is another triple star. The brightest component shines with a 2.99 magnitude and is considered an A-type main sequence dwarf.
-Bezek (Eta Aquilae) is 3,000 times brighter than the Sun and is, in fact, one of the easiest to spot in the night sky. Its name is derived from the Hebrew word (bazak) which means “lightning.”
-Tseen Foo (Theta Aquilae) is noteworthy as it is known as the “Celestial Drumstick” in Chinese – Mandarin word, tianfu, means “drumstick” or “heavenly rafters.”
-Al Thalimain (Iota Aquilae) lies about 307 light-years away and is a blue-white B-type star. Its name means “the two ostriches” which it shares with Lambda Aquilae.
-Al Thalimain (Lambda Aquilae) is a blue-white B-type main sequence dwarf. In 1973 NASA launched the probe, Pioneer 11, that is suppose to be enroute to this star. It is estimated to take around four million years to reach this celestial body; however, since the power source is too weak there has been no data transmitted since 1995.
-15 Aquilae is about 320 light-years away and can be seen through a small telescope.
+In Greek mythology, Aquila is identified as the eagle that carried Zeus’ thunderbolts and was once dispatched by the god to carry Ganymede, the young Trojan boy Zeus desired, to Olympus to be the cup bearer of the gods. Ganymede is represented by the neighbouring constellation Aquarius. In another story, the eagle is found guarding the arrow of Eros (represented by the constellation Sagitta), which hit Zeus and made him love-struck. In yet another myth, Aquila represents Aphrodite disguised as an eagle, pretending to pursue Zeus in the form of a swan, so that Zeus’ love interest, the goddess Nemesis, would give him shelter. In the story, Zeus later placed the images of the eagle and the swan among the stars to commemorate the event. The name of the brightest star in the constellation, Altair, is derived from the Arabic al-nasr al-ta’ir, which means “flying eagle” or “vulture.” Ptolemy called the star Aetus, which is Latin for “eagle.” Similarly, both Babylonians and Sumerians called Altair “the eagle star.”
+Altair (Alpha Aquilae)
+Alshain (Beta Aquilae)
+Tarazed (Gamma Aquilae)
+Deneb el Okab (Epsilon Aquilae)
+Deneb el Okab (Zeta Aquilae)
+Bezek (Eta Aquilae)
+Tseen Foo (Theta Aquilae)
+Al Thalimain (Iota Aquilae)
+Al Thalimain (Lambda Aquilae)
+15 Aquilae

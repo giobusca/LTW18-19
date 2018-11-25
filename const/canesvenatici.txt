@@ -1,7 +1,7 @@
 Canes Venatici is derived from the Latin language and means “hunting dogs,” representing the hunting dogs of the herdsman in the Bootes constellation. It can be found in the third quadrant of the Northern hemisphere and is located specifically between latitudes of +90° and -40°. This constellation is also home to the famous Cor Caroli and La Superba stars.
-main stars
-Cor Caroli (Alpha Canum Venaticorum) shines the brightest in the Cancer constellation (which will be discussed later in detail).
-Chara (Beta Canum Venaticorum) is the second brightest star in Canes Venatici. It is located about 24.7 light-years away and is classified as a G-type main sequence dwarf. Its name means “joy” in Greek and symbolizes the Southern dog.
-La Superba (Gamma Canum Venaticorum) is well known for being one of the most red stars in the night sky. This semi-regular variable star is losing its mass at a high rate and will soon form into a nebula then become a white dwarf.
-AM Canum Venaticorum is catalogued as a cataclysmic variable star; binary stars composed of a white dwarf and a mass-transferring secondary star.
-RS Canum Venaticorum is a class of variable stars that is made up of mostly close-set binary stars with variations in brightness.
+In the Middle Ages, Canes Venatici was identified with the two dogs held on a leash by Boötes, the Herdsman, because there was a mistake in the translation of Ptolemy’s Almagest from Greek to Arabic. In Ptolemy’s text, some of the stars in Boötes represent the Herdsman’s club. The translator loosely translated the Greek word for “club” (Κολλοροβος ) as “the spearshaft with a hook” (“al-`aşā dhāt al-kullāb”). When the Arabic phrase he used was later translated to Latin, the translator mistook one of the words for kilāb, which means “dogs.” Boötes was depicted with two dogs in 1533 on a map by the German astronomer Peter Apian, and Hevelius decided to define the dogs’ position in the night sky in the 17th century. Hevelius named the northern dog Asterion (“little star” in Greek) and the southern one Chara (“joy”). The name Chara later started to be used specifically to refer to the star Beta CVn.
+Cor Caroli (Alpha Canum Venaticorum)
+Chara (Beta Canum Venaticorum)
+La Superba (Gamma Canum Venaticorum)
+AM Canum Venaticorum
+RS Canum Venaticorum
