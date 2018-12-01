@@ -24,11 +24,11 @@
 
             <div class="row">
                  <div class="col">
-                    <form action="" method="get" name="search-form" onSubmit="return search();">
+                    <form action="" method="get" name="search-form" onSubmit="return searchForm();">
                         <div class="input-group mb-4">
                             <input type="text" class="form-control" id="star-search" placeholder="Star or constellation" required>
                             <div class="input-group-append">
-                                <button class="btn btn-outline-secondary" type="submit" id="button-go">Go</button>
+                                <button class="btn btn-outline-light" type="submit" id="button-go">Go</button>
                             </div>
                         </div>
                     </form>
@@ -40,7 +40,7 @@
                     <button class="btn btn-secondary">Index</button>
                 </div>
                 <div class="col" style="text-align: start">
-                    <button class="btn btn-secondary">Random</button>
+                    <button class="btn btn-secondary" onclick="return random();">Random</button>
                 </div>
             </div>
         </div>

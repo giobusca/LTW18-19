@@ -1,8 +1,14 @@
 var DEBUG = false;
 
-// ======== takes the argument of the form and searches in the lists to see if it's there, calls the function to change the display-area ======== (modulate better?)
-function search(){
+// ======== takes the argument of the form and passes it to the search function
+function searchForm(){
     var search_arg = document.forms["search-form"].elements["star-search"].value;
+    search(search_arg);
+    return false;
+}
+
+// ======== Searches in the lists to see if it's there, calls the function to change the display-area ======== (modulate better?)
+function search(search_arg){
     search_arg = search_arg.toLowerCase().replace(/\s/g,"");                  // Makes the whole search argument lowercase, and removes white spaces
     var search_arg_capitalized = search_arg.charAt(0).toUpperCase() + search_arg.substring(1,search_arg.length);    // then capitalizes the first letter for compatibility with the .txt files
     if(DEBUG) alert("You searched for: "+search_arg);
@@ -10,34 +16,41 @@ function search(){
     // decides if search is for stars or const, or not found
     // possible improvement -> single, parametrised if instead of 2 similar ifs
     var listText = readTextFile("./const/list-const.txt");
+    if(listText==null) alert("Could not find "+"const/list-const.txt");
 
     if(listText.includes(search_arg)){
         if(DEBUG) alert("Found "+search_arg+" in constellations' list");
         
-        //checks to see if the search_arg is the full name of the constellation or only par of it
+        //checks to see if the search_arg is the full name of the constellation or only part of it
         var startIndex = listText.indexOf(search_arg);
         var endIndex = startIndex + search_arg.length -1;
         if( myXOR(startIndex != 0, listText.charAt(startIndex - 1).includes("\n") ) ){
             if(DEBUG) alert("Entered incomplete-name if");
             var full_name = listText.substring( ( (startIndex!=0) ? listText.lastIndexOf("\n",startIndex)+1 : 0 ), listText.indexOf(";",endIndex));
-            alert("Perhaps you meant: '"+full_name+"'?");
+            alert("Perhaps you meant: '"+full_name.charAt(0).toUpperCase()+full_name.substring(1)+"'?");
             return false;
         } if(listText.charAt(endIndex + 1) != ";") {
             full_name = listText.substring(startIndex, listText.indexOf(";", endIndex));
-            alert("Perhaps you meant: '"+full_name+"'?");
+            alert("Perhaps you meant: '"+full_name.charAt(0).toUpperCase()+full_name.substring(1)+"'?");
             return false;
         }
 
         var search_desc = readTextFile("./const/"+search_arg+".txt");
+        if(search_desc==null) alert("Could not find "+"const/"+search_arg+".txt");
+
         displayConst(search_arg, search_desc);
 
     } else {
         listText = readTextFile("./stars/list-stars.txt");
+        if(listText==null) alert("Could not find "+"stars/list-stars.txt");
+
 
         if(listText.includes(search_arg)){
             if(DEBUG) alert("Found "+search_arg+" in stars' list");
 
             search_desc = readTextFile("./stars/"+search_arg+".txt");
+            if(search_desc==null) alert("Could not find "+"stars/"+search_arg+".txt");
+
             displayStar(search_arg, search_desc);
 
         } else {
@@ -50,6 +63,7 @@ function search(){
 // ======== takes the path of the file (in str format) and returns the whole text of the file as a single str ======== DONE
 function readTextFile(file) {
     var rawFile = new XMLHttpRequest();
+    var ris = null;
     rawFile.onreadystatechange = function () {
         switch(rawFile.readyState) {
             case 0:     // unsent
@@ -61,8 +75,9 @@ function readTextFile(file) {
             case 3:     // loading
                 break;
             case 4:     // done
-                if(rawFile.status === 200 || rawFile.status === 0) {
+                if(rawFile.status === 200 || rawFile.status === 0) {    // rawFile.status === 0 for compatibility with Safari
                     if(DEBUG) alert(rawFile.responseText);
+                    ris = rawFile.responseText;
                 }
                 break;
             default:
@@ -73,7 +88,7 @@ function readTextFile(file) {
     rawFile.open("GET", file, false);
     rawFile.send(null);
 
-    return rawFile.responseText;
+    return ris;
 }
 
 // ======== edits the display area to the description of a constellation ======== TODO
@@ -83,13 +98,14 @@ function displayConst(constellation, rawText) {
     //document.getElementById("display-area").innerHTML = rawText;
 
     var newHTML = "";
-    newHTML += "<img src='./images/constellations/"+constellation+".png' alt='Constellation map from IAU'>\n";
+    newHTML += "<h1>"+constellation.toUpperCase()+"</h1>";
+    newHTML += "<img src='./images/constellations/"+constellation+".png' alt='Constellation map from IAU' width='600'>\n";
 
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
-        newHTML += "<div class='mt-4";
+        newHTML += "<p class='mt-4";
         if(i==0||i==1) newHTML += " text-left";
-        newHTML += "'>"+desc_ar[i]+"</div>\n";
+        newHTML += "'>"+desc_ar[i]+"</p>\n";
     }
 
     document.getElementById("display-area").innerHTML = newHTML;
@@ -102,6 +118,27 @@ function displayStar(star, rawText) {
     // TODO
     document.getElementById("display-area").innerHTML = rawText;
     return true;
+}
+
+// ======== generates a random name from the constellation&stars lists and calls the diplay for that constellation
+function random(){
+    var rawList = readTextFile("./const/list-const.txt");
+    if(rawList==null) alert("Could not find "+"const/list-const.txt");
+    
+    /* ======== DECOMMENT when star descriptions are implemented ========
+    var starList = readTextFile("./stars/list-stars.txt");
+    if(starList==null) alert("Could not find "+"stars/list-stars.txt");
+    rawList += starList;
+    */
+
+    var arrayList = rawList.split("\n");
+    var randomIndex = Math.round(Math.random()*arrayList.length);
+    var randConst = arrayList[ randomIndex ];
+    var constName = randConst.slice(0,randConst.indexOf(";"));
+    var rand_desc = readTextFile("./const/"+constName+".txt");
+    if(rand_desc==null) alert("Could not find "+"const/"+constName+".txt");
+
+    displayConst(constName, rand_desc);
 }
 
 function myXOR(a,b) {
