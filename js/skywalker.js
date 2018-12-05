@@ -144,3 +144,68 @@ function random(){
 function myXOR(a,b) {
     return ( a || b ) && !( a && b );
 }
+
+function julianDay() {
+    var date = new Date()
+    var yy = date.getUTCFullYear();
+    var mm = date.getUTCMonth();
+    var dd = date.getUTCDate();
+    var hh = date.getUTCHours();
+    var min = date.getUTCMinutes();
+    var sec = date.getUTCSeconds();
+
+    var jdn =  (1461 * (yy + 4800 + (mm - 14)/12))/4 +(367 * (mm - 2 - 12*((mm - 14)/12)) )/12 - (3 * ((yy + 4900 + (mm - 14)/12)/100))/4 + dd - 32075;
+    var jd = jdn + (hh-12)/24 + min/1440 + sec/86400;
+
+    return jd;
+}
+
+function getPosition(position){
+    alert("prova posizione");
+    var declination = sessionStorage.declination;
+    var rightAscention = sessionStorage.rightAsc;
+    var lat = position.coordinates.latitude;
+    var long = position.coordinates.longitude;
+
+    var jd = juliandDay();
+    
+    var gmst = (jd - 2451545) / 36525;
+
+    var lha = gmst + long - rightAscention;
+    
+    var alt = Math.asin( Math.sin(lat)*Math.sin(declination) + Math.cos(lat)*Math.cos(declination)*Math.cos(lha) );
+    var az = Math.acos( (Math.sin(Dec) - Math.sin(lat)*Math.sin(alt)) / (Math.cos(lat)*Math.cos(alt)) );
+
+
+    alert([alt, az]);
+
+    return true;
+}
+
+function getAltAz(){
+    navigator.geolocation.getCurrentPosition(getPosition);
+
+    /*
+    var lat = position[0];
+    var long = position[1];
+    var jd = juliandDay();
+    
+    var gmst = (jd - 2451545) / 36525;
+
+    var lha = gmst + long - rightAscention;
+    
+    var alt = Math.asin( Math.sin(lat)*Math.sin(declination) + Math.cos(lat)*Math.cos(declination)*Math.cos(lha) );
+    var az = Math.acos( (Math.sin(Dec) - Math.sin(lat)*Math.sin(alt)) / (Math.cos(lat)*Math.cos(alt)) );
+
+    return [alt, az]; 
+    */
+}
+
+function testVis(){
+    sessionStorage.rightAsc = document.getElementById("rightAsc").value.toString();
+    sessionStorage.declination = document.getElementById("declination").value.toString();
+
+    getAltAz();
+    return true;
+}
+
