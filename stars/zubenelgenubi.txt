@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Libra
+
+Right ascension: 14 h 50 m 41.18097 s
+
+Declination: –15° 59′ 50.0482″
+
+Apparent magnitude: +5.153
+
+Distance: 74.9 ± 0.7 ly
+
+Mass: 1.97 + 1.60 M
+
+Temperature: 6,653 K
+
+Rotational velocity: 5.95 km/s
+
+
+
+Alpha Librae (α Librae, abbreviated Alpha Lib, α Lib), is a double star and despite its 'alpha' designation the second-brightest star in the constellation of Libra. The two components are designated α¹ Librae and α² Librae. The system bore the traditional name of Zubenelgenubi, though the International Astronomical Union now regards that name as only applying to α² Librae.Alpha² Librae is 0.33 degrees north of the ecliptic so it can be occulted by the Moon and (very rarely) by planets. It was occulted by Venus on October 25, 1947; the next occultation by a planet will be by Mercury on 10 November 2052.
+
+
+== Nomenclature ==
+α Librae (Latinised to Alpha Librae) is the system's Bayer designation.
+Zubenelgenubi , also rendered Zuben Elgenubi, derives from the Arabic ّالزُبَانَى الجَنُوبِي al-zubānā al-janūbiyy "the southern claw", which was coined before Libra was recognized as a constellation distinct from Scorpius. The alternative name Kiffa Australis (Elkhiffa Australis) is a partial Latin translation of the Arabic al-kiffah al-janubiyyah الكفة الجنوبية "southern pan [of the scales]". Another name used in older astronomy texts, equivalent to "southern pan", was Lanx Australis.In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Zubenelgenubi for α² Librae on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 氐宿 (Dī Xiù), meaning Root, refers to an asterism consisting of α2 Librae, ι Librae, γ Librae and β Librae. Consequently, α2 Librae itself is known as 氐宿一 (Dī Xiù yī), "the First Star of Root".
+
+
+== Properties ==
+Alpha Librae is about 77 light-years (24 parsecs) from the Sun. The two brightest components of Alpha Librae form a double star moving together through space as common proper motion companions. The brightest member, α2 Librae, is itself a spectroscopic binary system. The second member, α1 Librae, is separated from the primary system by around 5400 AU. It too is a spectroscopic binary with an orbital period of 5,870 days and an angular separation of 0.383 arcseconds; equal to about 10 AU. The system may have a fifth component, the star KU Librae at a separation of 2.6°, thus forming a hierarchical quintuple star system. KU Lib shares a similar motion through space to the Alpha Librae system, but is separated from the other stars by about a parsec. It is sufficiently close to be gravitationally bound to the other members, but has a substantially different metallicity.The two brightest members of Alpha Librae are separated in the sky by an angular distance of 231" (3'51"). The position angle of the companion is 314 degrees. The brighter of the two is a white star of spectral type A3, with an apparent brightness of 2.8. Its companion is a type F4 star of apparent brightness 5.2. They are probably members of the Castor Moving Group of stars that have a similar motion through space and share a common origin some 200 million years ago.
+
+

@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Hercules
+
+Right ascension: 17 h 30 m 44.3099 s
+
+Declination: +26° 06′ 38.323″
+
+Apparent magnitude: 4.402
+
+Distance: 370 ± 30 ly
+
+Luminosity: 465 L
+
+Temperature: 4,070 K
+
+Rotational velocity: 8 km/s
+
+
+
+Lambda Herculis (λ Herculis. abbreviated Lambda Her, λ Her), also named Maasym, is a star in the constellation of Hercules. From parallax measurements taken during the Hipparcos mission, it is approximately 370 light-years from the Sun.
+
+
+== Nomenclature ==
+λ Herculis (Latinised to Lambda Herculis) is the star's Bayer designation.
+It bore the traditional name Maasym, meaning "wrist". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Maasym for this star on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 天市左垣 (Tiān Shì Zuǒ Yuán), meaning Left Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven old states in China and which is marking the left borderline of the enclosure, consisting of Lambda Herculis, Delta Herculis, Mu Herculis, Omicron Herculis, 112 Herculis, Zeta Aquilae, Theta1 Serpentis, Eta Serpentis, Nu Ophiuchi, Xi Serpentis and Eta Ophiuchi. Consequently, Lambda Herculis itself is known as 天市左垣二 (Tiān Shì Zuǒ Yuán èr, English: the Second Star of Left Wall of Heavenly Market Enclosure), and represents the state Zhao (or Chaou (趙)), together with 26 Capricorni and 27 Capricorni ("m Capricorni" in R.H.Allen version) in Twelve States (asterism).
+
+
+== Description ==
+Lambda Herculis has apparent magnitude +4.4 spectral class K4III, indicating that it is a red giant with a temperature of 4,070 k.  Visually it has an absolute magnitude of −0.86, meaning it is nearly 200 times brighter than the sun, but its bolometric luminosity across all wavelengths is 465 L☉.
+In 1783, English-German astronomer William Herschel described the solar apex, the point in sky towards which the Solar System is moving; using data from double stars, he identified this position as close to Lambda Herculis. Today it is known the solar apex is not so close to this star, however it is only 10° away from the position currently accepted (in Hercules, southwest of Vega).
+
+

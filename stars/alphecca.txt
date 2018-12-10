@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Corona Borealis
+
+Right ascension: 15 h 34 m 41.268 s
+
+Declination: +26° 42′ 52.89″
+
+Apparent magnitude: 2.23
+
+Distance: 75.0 ± 0.5 ly
+
+Mass: 2.58 M
+
+Radius: 2.89–3.04 R
+
+Luminosity: 74 L
+
+Temperature: 9,700 K
+
+Rotational velocity: 139 km/s
+
+
+
+Alpha Coronae Borealis (α Coronae Borealis, abbreviated Alpha CrB, α CrB), also named Alphecca, is an eclipsing binary star in the constellation of Corona Borealis. It is located about 75 light years from the Sun and contains two main sequence stars, one class A and one class G.
+
+
+== Properties ==
+
+Alpha Coronae Borealis is a binary system containing two stars.  The stars are orbiting about each other in an eccentric orbit one every 17.36 days. Because the plane of this orbit is inclined at an angle of 88.2° to the line of sight to the Earth, the pair form a detached eclipsing binary system similar to Algol (β Per). The periodic eclipses result in a magnitude variation of +2.21 to +2.32, which is hardly noticeable to the unaided eye.
+The primary component is a white main sequence star that has a stellar classification of A0V and 2.6 times the mass of the Sun. Estimates of the star's radius range from 2.89 to 3.04 times the radius of the Sun. An excess of infrared radiation at 24 μm and 70 μm has been detected about the primary star by the IRAS. This suggests the presence of a large disc of dust and material around Alphecca, prompting speculation of a planetary or proto-planetary system similar to that currently assumed around Vega. The disk extends out to a radius of around 60 astronomical units (AU).The secondary component is a yellow main sequence star with an estimated stellar class of G5, 0.92 times the Sun's mass and 0.90 times the Sun's radius. The X-ray luminosity of this star is 6 × 1028 erg s−1, which is 30 times greater than the peak activity level of the Sun. This higher activity level is expected for a young star of this class. The corona has a temperature of about 5 MK, which is much hotter than the Sun's corona. The upper limit of 14 km/s for the equatorial rotation velocity is equivalent to a rotation period of 3 days. More likely, the rotation period is 7–9 days.The space velocity components of this star system are U = +14.257, V = +0.915 and W = +3.147 km/s. α CrB is believed to be a member of the Ursa Major Moving Group of stars that have a common motion through space.
+
+
+== Nomenclature ==
+
+α Coronae Borealis (Latinised to Alpha Coronae Borealis) is the star's Bayer designation.
+It bore the traditional names Alphecca (or Alphekka), Gemma, Gnosia (Gnosia Stella Coronae), and Asteroth (or Ashtaroth). Alphecca is Arabic, short for نير الفكّة nayyir al-fakka "the bright (star) of the broken (ring of stars)". Gemma is Latin for "jewel". Gnosia is also Latin, short for Gnōsia stella corōnæ "star of the crown of Knossos". Asteroth is Hebrew, עשתרות ‘ašterôt "Astarte (idols)". As the brightest star in Corona Borealis, it lent its name to Alphekka Meridiana, the brightest in the constellation of Corona Australis. The International Astronomical Union Working Group on Star Names (WGSN) has chosen Alphecca as the preferred formal name for this star.The term nayyir al-fakka or Nir al Feccah appeared in the Al Achsasi Al Mouakket catalogue.In Chinese, 貫索 (Guàn Suǒ), meaning Coiled Thong, refers to an asterism consisting of Alpha Coronae Borealis, Pi Coronae Borealis, Theta Coronae Borealis, Beta Coronae Borealis, Gamma Coronae Borealis, Delta Coronae Borealis, Epsilon Coronae Borealis, Iota Coronae Borealis and Rho Coronae Borealis. Consequently, Alpha Coronae Borealis itself is known as 貫索四 (Guàn Suǒ sì, English: the Fourth Star of Coiled Thong.).
+
+

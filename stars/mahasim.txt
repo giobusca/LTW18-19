@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Auriga
+
+Right ascension: 05 h 59 m 43.27012 s
+
+Declination: +37° 12′ 45.3047″
+
+Apparent magnitude: 2.62 - 2.70
+
+Distance: 166 ± 1 ly
+
+Mass: 3.38 ± 0.08 M
+
+Radius: 5.1 ± 0.4 R
+
+Luminosity: 263 L
+
+Temperature: 10,400 ± 300 K
+
+Rotation: 3.6187 days
+
+Rotational velocity: 55 km/s
+
+
+
+Theta Aurigae (θ Aurigae, abbreviated Theta Aur, θ Aur) is a binary star in the constellation of Auriga. Based upon parallax measurements, the distance to this system is about 166 light-years (51 parsecs).The two components are designated Theta Aurigae A (also named Mahasim) and B.
+
+
+== Nomenclature ==
+θ Aurigae (Latinised to Theta Aurigae) is the system's Bayer designation. The designations of the two components as Theta Aurigae A and B derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Some authors state that Theta Aurigae had no traditional name, although Richard Hinckley Allen makes a passing reference about the name Mahasim, as a name also used, with various spellings, for Eta Aurigae and Lambda Herculis, from the Arabic المِعْصَم al-micşam "wrist" (of the charioteer). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Mahasim for the component Theta Aurigae A on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.It is known as 五車四 (the Fourth Star of the Five Chariots) in Chinese
+
+
+== Properties ==
+The primary component, Theta Aurigae A, is a large star with more than three times the mass of the Sun and over five times the Sun's radius. It is radiating 263 times the Sun's luminosity from its outer atmosphere at an effective temperature of 10,400 K, giving it the white hue of an A-type star. The star has a stellar classification of A0pSi, with the 'pSi' suffix indicating it is a chemically peculiar star with an abnormal abundance of silicon.
+The primary is classified an Alpha2 Canum Venaticorum type variable star and has a surface magnetic field of about 1 kG. Its projected rotational velocity is 55 km s−1, with the star completing a rotation in only 3.6 days. The axis of rotation is inclined by an angle of 51◦ ± 6 to the line of sight from the Earth.The secondary, Theta Aurigae B, is a +7.2 magnitude companion, 4.5 magnitudes fainter than the primary, located at an angular separation of 3.91 arcseconds along a position angle of 304.9° as of 2002. This is an F-type main sequence star with a stellar classification in the range F2-5 V.The mean combined apparent magnitude of the system is +2.65 but the variation of the primary causes the system's brightness to range from magnitude +2.62 to +2.70 with a period of 1.37 days. The system is an X-ray source with a luminosity of 9.49 × 1026 erg s−1.
+
+

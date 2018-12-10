@@ -1,0 +1,63 @@
+==Datasheet==
+
+Constellation: Auriga
+
+Right ascension: 05 h 01 m 58.129 s
+
+Declination: +43° 49′ 23.87″
+
+Apparent magnitude: 2.98
+
+Distance: 653 - 1,500ly
+
+Mass: 2.2-15 M
+
+Radius: 143 - 358 R
+
+Temperature: 7,750 K
+
+Rotational velocity: 54 km/s
+
+
+
+Epsilon Aurigae (ε Aurigae, abbreviated Epsilon Aur, ε Aur) is a multiple star system in the northern constellation of Auriga. It is an unusual eclipsing binary system comprising an F0 supergiant (also named Almaaz) and a companion which is generally accepted to be a huge dark disk orbiting an unknown object, possibly a binary system of two small B-type stars. The distance to the system is still a subject of debate, but modern estimates place it approximately 2,000 light years from Earth. Data from the Gaia spacecraft puts its distance at around 1,350±300 light years from Earth.Epsilon Aurigae was first suspected to be a variable star when German astronomer Johann Heinrich Fritsch observed it in 1821. Later observations by Eduard Heis and Friedrich Wilhelm Argelander reinforced Fritsch's initial suspicions and attracted attention to the star. Hans Ludendorff, however, was the first to study it in great detail. His work revealed that the system was an eclipsing binary variable, a star that dims when its partner obscures its light.
+About every 27 years, Epsilon Aurigae's brightness drops from an apparent visual magnitude of +2.92 to +3.83. This dimming lasts 640–730 days. In addition to this eclipse, the system also has a low amplitude pulsation with a non-consistent period of around 66 days.Epsilon Aurigae's eclipsing companion has been subject to much debate since the object does not emit as much light as is expected for an object its size. As of 2008, the most popularly accepted model for this companion object is a binary star system surrounded by a massive, opaque disk of dust; theories speculating that the object is a large, semitransparent star or a black hole have since been discarded.
+
+
+== Nomenclature ==
+ε Aurigae (Latinised to Epsilon Aurigae) is the system's Bayer designation. It also bears the Flamsteed designation 7 Aurigae. It is listed in several multiple star catalogues as ADS 3605 A, CCDM J05020+4350A, and WDS J05020+4349A.
+Richard Hinckley Allen reported that Oxford scholar Thomas Hyde recorded the  traditional name Almaaz in his 1665 translation of the catalogue of Ulugh Beg, and medieval Persian astronomer Zakariya al-Qazwini knew it as Al Anz, derived from the Arabic اَلْمَاعَزْ al-mācz ((billy) goat), corresponding to the name of the star Capella (Latin for "nanny goat"). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN to catalogue and standardize proper names for stars. For such names relating to members of multiple star systems, and where a component letter (from e.g. Washington Double Star Catalog) is not explicitly listed, the WGSN says that the name should be understood to be attributed to the brightest component by visual brightness. The WGSN approved the name Almaaz for the brightest component of this system on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 柱 (Zhù), meaning Pillars, refers to an asterism consisting of Epsilon Aurigae, Zeta Aurigae, Eta Aurigae, Upsilon Aurigae, Nu Aurigae, Tau Aurigae, Chi Aurigae and 26 Aurigae. Consequently, Epsilon Aurigae itself is known as 柱一 (Zhù yī, "First Star of Pillars").
+
+
+== Observational history ==
+
+Although the star is easily visible to the naked eye, Johann Fritsch's 1821 observations suggest he was the first to notice that the system was a variable. Eventually, from 1842 to 1848, German mathematician Eduard Heis and Prussian astronomer Friedrich Wilhelm Argelander began observing it once every few years. Both Heis' and Argelander's data revealed that the star had become significantly dimmer by 1847, attracting the full attention of both men at that point. Epsilon Aurigae had brightened significantly, and had returned to "normal" by the following September. As it attracted more attention, more and more data was compiled. The observational data revealed that Epsilon Aurigae did not just vary over a long period, but also experienced short-term variations in brightness as well. Later eclipses took place between 1874 and 1875 and, nearly thirty years later, between 1901 and 1902.Hans Ludendorff, who had also been observing Epsilon Aurigae, was the first to conduct a detailed study of the star. In 1904, he published in Astronomische Nachrichten an article titled Untersuchungen über den Lichtwechsel von ε Aurigae (Investigations of the Light Changes of Epsilon Aurigae), where he suggested the star was an Algol variable and an eclipsing binary.The first hypothesis, set forth in 1937 by astronomers Gerard Kuiper, Otto Struve, and Bengt Strömgren, suggested that Epsilon Aurigae was a binary star system containing an F2 supergiant and an extremely cool "semitransparent" star that would completely eclipse its companion. However, the eclipsing star would scatter light emitted by its eclipsed companion resulting in the observed decrease in magnitude. The scattered light would be detected on Earth as a star visible to the naked eye, although this light would be significantly dimmed.
+In 1961, Italian astrophysicist Margherita Hack proposed the secondary was a hot star surrounded by a shell of material, which was responsible for the eclipse, after observing it though the 1955-57 eclipse.Astronomer Su-Shu Huang published a paper in 1965 that outlined the defects of the Kuiper-Struve-Strömgren model, and proposed that the companion is a large disk system, edge-on from the perspective of Earth. Robert Wilson, in 1971, proposed that a "central opening" lay in the disk, a possible reason for the system's sudden brightening midway through the eclipse. In 2005, the system was observed in the ultraviolet by the Far Ultraviolet Spectroscopic Explorer (FUSE); as the star system was not emitting energy at rates characteristic of objects such as the neutron star binary system Circinus X-1 or black hole binary system Cygnus X-1, the object occupying the center of the disk is not expected to be anything of the sort; in contrast, a new hypothesis has suggested that the central object is actually a B5-type star.Another hypothesis by astronomers A. G. W. Cameron and R. Stothers states that the companion of Epsilon Aurigae A is a black hole, consuming solid particles from the dusk cloud that bypass its event horizon which sends out the infrared light detected from Earth. This hypothesis has since been regarded obsolete and discarded.
+Epsilon Aurigae was targeted for observation by International Year of Astronomy observers from 2009 to 2011, the three years that overlapped its most recent eclipse.
+
+
+== Nature of the system ==
+
+The nature of the Epsilon Aurigae system is unclear.  It has long been known to consist of at least two components which undergo periodic eclipses with an unusual flat-bottomed dimming every 27 years.  Early explanations with exceptionally large diffuse stars, black holes, and odd doughnut-shaped discs are no longer accepted.  There are now two main explanations that can account for the known observed characteristics: a high mass model where the primary is a yellow supergiant of around 15 M☉; and a low mass model where the primary is about 2 M☉ and a less luminous evolved star.Variations on the high mass model have always been popular, since the primary star is to all appearances a large supergiant star.  Spectroscopically it is early F or late A with luminosity class Ia or Iab.  Distance estimates consistently lead to luminosities expected for a bright supergiant.  One exception is the Hipparcos parallax measurement, but the margin of error is as large as the value itself and so the derived distance is likely to be anything from 355 to 4167 parsecs.  The main problem with this model is the nature of the secondary, which is required by the known mass function to have a mass comparable to the primary, at odds with observations where it appears as a B-type main-sequence star.  The secondary may be a close binary involving two lower-mass main sequence stars, or a more complex system.The low mass model, recently popularised by the Citizen Sky project, proposes that the primary is an evolved asymptotic giant branch star of 2–4 M☉.  This relies on distance and luminosity estimates lower than most observations.  The star would be an unusually large and bright giant star for the given mass, possibly as the result of very high mass loss.  To match the observed eclipse and orbital data, the secondary is a fairly normal B main sequence star of about 6 M☉ embedded in a thick disc seen nearly edge on.The orbit itself is now fairly well determined, inclined at over 87 degrees to Earth. The primary and secondary are around 35 AU apart (in the high mass model), which is further than the planet Neptune from the Sun. In the low mass model, the separation is only 18 AU.
+
+
+=== Visible component ===
+
+The visible component, Epsilon Aurigae A, is a semiregular pulsating post-asymptotic giant branch star belonging to the spectral class F0. This F-type star has around 143 to 358 times the diameter of the Sun, and is 37,875 times as luminous. (Reliable sources vary considerably in their estimates of both quantities.) If the star were in the position of the Sun, it would envelop Mercury and possibly Venus. F-type stars like Epsilon Aurigae tend to glow white and display strong ionized calcium absorption lines and weak hydrogen absorption lines; being a class above the Sun (which is a G-type star), F-type stars are typically hotter than sunlike stars. Other F-type stars include Procyon's primary star, the brightest star in the constellation Canis Minor.
+
+
+=== Eclipsing component ===
+The eclipsing component emits a comparatively insignificant amount of light, and is not visible to the naked eye. A heated region, however, has been discovered in the center of the object. It is widely thought to be a dusty disc surrounding a class B main sequence star. Modelling the spectral energy distribution for ε Aurigae as a whole produces the best fit with a B5V star at the centre of the disc. Such a star would have a mass around 5.9 M☉. The observed orbit, assuming a fairly normal F-type supergiant for the primary star, requires a secondary with a mass over 13 M☉. The low mass model accepts the 5.9 M☉ secondary and so also requires a low-mass primary. The high-mass model accepts a normal mass supergiant primary and argues for a pair of B-type stars, or an unusual single higher-mass star.
+
+The disc around the secondary star is 3.8 AU wide, 0.475 AU thick, and blocks about 70% of the light passing through it, allowing some light from the primary star to be seen even during the eclipses. It radiates like a 550 K black body.
+
+
+== Observation ==
+The star is easily found because of its brightness and apparent proximity to the star Capella. It is the apex of the isosceles triangle forming the 'nose' of the constellation Auriga. The star is bright enough to be seen from most urban locations with moderate amounts of light pollution.
+Visual variable star observers make an estimate of its brightness by comparing its brightness with nearby stars with a known brightness value. This can be done by interpolating the brightness of the variable between two comparison stars, or by individually estimating the magnitude difference between the variable and several different comparisons. Repeating the observation on different nights allows a light curve to be produced showing the variation in brightness of the star. In practice, visual variable star estimates from many observers are statistically combined to produce more accurate results.
+
+
+== Citizen Sky ==
+The National Science Foundation has awarded the AAVSO a three-year grant to fund a citizen science project built around the 2009-2011 eclipse. The project, called Citizen Sky, is organizing and training participants to observe the eclipse and report their data to a central database. In addition, participants will help validate and analyze the data while testing their own theories and publishing original research articles in a peer-reviewed astronomical journal.
+
+

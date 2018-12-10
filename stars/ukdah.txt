@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Hydra
+
+Right ascension: 09 h 39 m 51.36145 s
+
+Declination: −01° 08′ 34.1135″
+
+Apparent magnitude: 3.91
+
+Distance: 263 ± 3 ly
+
+Mass: 1.92 M
+
+Radius: 33 R
+
+Luminosity: 83 L
+
+Rotational velocity: 4.5 km/s
+
+
+
+Iota Hydrae (ι Hydrae, abbreviated Iota Hya, ι Hya), also named Ukdah, is a star in the constellation of Hydra, about 8° to the north-northwest of Alphard (Alpha Hydrae) and just to the south of the celestial equator. Visible to the naked eye, it is a suspected variable star with an apparent visual magnitude that ranges between 3.87 and 3.91. Based upon an annual parallax shift of 12.39 mas measured during the Hipparcos mission, it is located around 263 light-years from the Sun.
+
+
+== Nomenclature ==
+ι Hydrae (Latinised to Iota Hydrae) is the star's Bayer designation.
+This star along with Tau¹ Hydrae, Tau² Hydrae and 33 Hydrae (A Hydrae), were Ptolemy's Καμπή (Kampē); but Kazwini knew them as ʽUḳdah, "the Knot". According to a 1971 NASA memorandum, Uḳdah was the title for four stars: Tau¹ Hydrae as Uḳdah I, Tau² Hydrae as Uḳdah II, 33 Hydrae as Uḳdah III and Iota Hydrae as Uḳdah IV. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Ukdah for Iota Hydrae on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In Chinese, 柳宿 (Xīng Sù), meaning Star (asterism), refers to an asterism consisting of ι Hydrae, Alphard, τ1 Hydrae, τ2 Hydrae, 26 Hydrae, 27 Hydrae, HD 82477 and HD 82428. Consequently, ι Hydrae are known as 星宿四 (Xīng Sù sì, English: the Fourth Star of Star).
+
+
+== Properties ==
+This is an evolved K-type giant star with a stellar classification of K2.5 III. It is a Barium star, which means that, for a giant star, it displays unusually strong absorption lines of singly-ionized barium and strontium. Iota Hydrae has nearly twice the mass of the Sun and has expanded to 33 times the Sun's radius. It is around 2.5 billion years old and is spinning with a leisurely projected rotational velocity of 4.5 km/s. It may be a member of the Wolf 630 moving group of stars that share a common trajectory through space.
+
+

@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Columba
+
+Right ascension: 06 h 07 m 31.63216 s
+
+Declination: −37° 15′ 10.5114″
+
+Apparent magnitude: 5.02
+
+Distance: 720 ± 30 ly
+
+Luminosity: 472 L
+
+Temperature: 9,916 K
+
+Rotational velocity: 249 km/s
+
+
+
+Theta Columbae (θ Columbae, abbreviated Theta Col, θ Col), also named Elkurud, is a solitary star in the southern constellation of Columba. It is faintly visible to the naked eye, having an apparent visual magnitude of 5.02. Based upon parallax measurements taken during the Hipparcos mission, it is roughly 720 light-years (220 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+θ Columbae (Latinised to Theta Columbae) is the star's Bayer designation.
+For ancient Arabian astronomers, this star, along with Zeta Canis Majoris, Lambda Canis Majoris, Gamma Columbae, Delta Columbae, Kappa Columbae, Lambda Columbae, Mu Columbae and Xi Columbae, formed Al Ḳurūd (ألقرد al-qird), "the Apes". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Elkurud for this star on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In Chinese, 孫 (Sūn), meaning Grandson, refers to an asterism consisting of Theta Columbae and Kappa Columbae. Consequently, Theta Columbae itself is known as 孫二 (Sūn èr, English: the Second Star of Grandson).
+
+
+== Properties ==
+At its present distance, the visual magnitude of the star is reduced by an interstellar extinction factor of 0.11. It is currently moving away from the Sun with a radial velocity of 45.3 km/s. The star made its closest approach about 4.7 million years ago when it underwent perihelion passage at a distance of 10.9 ly (3.33 pc).This is an evolving B-type subgiant star with a stellar classification of B8 IV, having recently left the main sequence. It is spinning rapidly with a projected rotational velocity of 249 km/s. The star has an estimated four times the mass of the Sun. It radiates 472 times the solar luminosity from its outer atmosphere at an effective temperature of 9,916 K.
+
+

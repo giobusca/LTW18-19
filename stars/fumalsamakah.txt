@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Pisces
+
+Right ascension: 23 h 03 m 52.61349 s
+
+Declination: +03° 49′ 12.1662″
+
+Apparent magnitude: +4.40
+
+Distance: 410 ± 10 ly
+
+Mass: 4.7  M
+
+Radius: 3.6  R
+
+Luminosity: 523.6 L
+
+Temperature: 15500  K
+
+Rotational velocity: 90 ± 15 km/s km/s
+
+
+
+Beta Piscium (β Piscium, abbreviated Beta Psc, β Psc), also named Fumalsamakah, is a blue-white hued star in the zodiac constellation of Pisces. Its apparent magnitude is 4.40, meaning it can be faintly seen with the naked eye. Based on parallax measurements taken during the Hipparcos mission, it is about 410 light-years (125 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+β Piscium (Latinised to Beta Piscium) is the star's Bayer designation.
+It bore the traditional name Fum al Samakah from the Arabic فم السمكة fum al-samakah "mouth of the fish" (compare Fomalhaut). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Fumalsamakah for this star on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In Chinese, 霹靂 (Pī Lì), meaning Thunderbolt, refers to an asterism consisting of Beta Piscium and Gamma, Theta, Iota and Omega Piscium. Consequently, Beta Piscium itself is known as 霹靂一 (Pī Lì yī, English: the First Star of Thunderbolt).
+
+
+== Properties ==
+Beta Piscium is a Be star, a special class of B-type stars with emission lines in their spectra. With a spectral type of B6Ve its mass is estimated to be about 4.7 M☉, and its radius is about 3.6 R☉. It is suspected to be a variable star. Beta Piscium is radiating 524 times the Sun's luminosity from its photosphere at an effective temperature of 15,500 K. The star has a high rate of spin, showing a projected rotational velocity of around 90 km/s.
+
+

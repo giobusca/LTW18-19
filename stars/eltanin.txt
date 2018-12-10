@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 17 h 56 m 36.36988 s
+
+Declination: +51° 29′ 20.0242″
+
+Apparent magnitude: 2.23
+
+Distance: 154.3 ± 0.7 ly
+
+Mass: 1.72 M
+
+Radius: 48.15 ± 1.09 R
+
+Luminosity: 471 ± 30 L
+
+Temperature: 3,930 K
+
+Rotational velocity: 6.0 km/s
+
+
+
+Gamma Draconis (γ Draconis, abbreviated Gamma Dra, γ Dra), also named Eltanin, is a star in the northern constellation of Draco. Contrary to its gamma-designation (historically third-ranked), it is the brightest star in Draco at magnitude 2.4, outshining Rastaban (Beta Draconis) by nearly half a magnitude. In 1.5 million years, Eltanin will pass within 28 light years of Earth. For a period, if its current absolute magnitude does not change, it will be the brightest star in the night sky, nearly as bright as Sirius is at present.It is by far the brightest star having a zenith above a point near London (and thus Leipzig, Düsseldorf, Astana and Calgary) which occurs near midnight (24:00h) at London which led to its vaunting in these places as the "zenith star" or "London zenith star". From other locations it has a nearby bright, well-known star in Lyra in night sky; finding Vega, Eltanin is the red star just north-northwest of it.
+Eltanin is at a distance of 154.3 light-years (47.3 parsecs) from the Sun, as determined by parallax measurements from the Hipparcos astrometry satellite. In 1728, while unsuccessfully attempting to measure the parallax of this star, James Bradley discovered the aberration of light resulting from the movement of the Earth. Bradley's discovery confirmed Copernicus' theory that the Earth revolved around the Sun.
+
+
+== Properties ==
+Gamma Draconis is an evolved giant star with a stellar classification of K5 III. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It has 72% more mass than the Sun and it has expanded to around 48 times the Sun's girth. It is radiating about 471 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 3,930 K. This is cooler than the Sun, giving this star the orange-hued glow of a K-type star.It may have a physical companion. If so, the two are separated by about 1000 AU. The luminosity of this object suggests it is a red dwarf star.
+
+
+== Nomenclature ==
+γ Draconis (Latinised to Gamma Draconis) is the star's Bayer designation.
+It bore the traditional name Eltanin (or Etamin, Ettanin) derived from the Arabic التنين At-Tinnin 'The great serpent'. The name Rastaban was formerly used for Gamma Draconis, and the two terms share an Arabic root meaning "serpent" or "dragon". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Eltanin for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.Gamma Draconis, along with Beta Draconis, Mu Draconis, Nu Draconis, and Xi Draconis were Al ʽAwāïd "the Mother Camels", which was later known as the Quinque Dromedarii.In Chinese, 天棓 (Tiān Bàng), meaning Celestial Flail, refers to an asterism consisting of Gamma Draconis, Xi Draconis, Nu Draconis, Beta Draconis and Iota Herculis. Consequently, Gamma Draconis itself is known as 天棓四 (Tiān Bàng sì, English: the Fourth Star of Celestial Flail.)
+
+
+=== Namesake ===
+USS Etamin (AK-93) was a United States Navy Crater class cargo ship named after the star.
+
+

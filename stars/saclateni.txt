@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Auriga
+
+Right ascension: 05 h 02 m 28.68739 s
+
+Declination: +41° 04′ 33.0200″
+
+Apparent magnitude: 3.70 - 3.97
+
+Distance: 790 ± 50 ly
+
+Mass: 4.94 ± 0.79 M
+
+Radius: 0.3973 ± 0.0007 R
+
+Luminosity: 3,254 L
+
+Temperature: 3,920 K
+
+Rotational velocity: 68 km/s
+
+
+
+Zeta Aurigae (ζ Aurigae, abbreviated Zeta Aur, ζ Aur), is a binary star in the northern  constellation of Auriga. Based upon parallax measurements made during the Hipparcos mission, this system is approximately 790 light-years (240 parsecs) distant from the sun. It has a combined apparent visual magnitude of 3.75, which is bright enough to be seen with the naked eye.
+The two components are designated Zeta Aurigae A (also named Saclateni) and B.
+
+
+== Nomenclature ==
+ζ Aurigae (Latinised to Zeta Aurigae) is the system's Bayer designation. The designations of the two components as ζ Aurigae A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional names Haedus I (also Hoedus) and Sadatoni (rarely Saclateni). It was one of the two haedi (Latin: 'kids') of the she-goat Capella, the other being Haedus II, Eta Aurigae. The name Sadatoni is from the Arabic الساعد الثاني as-sācid aθ-θānī "the second arm (of the charioteer)". The rare traditional name Azaleh is shared (in the form Hassaleh) with Iota Aurigae. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the names Saclateni for the component Zeta Aurigae A and Haedus for Eta Aurigae on 30 June 2017 and they are both now so included in the List of IAU-approved Star Names.In Chinese, 柱 (Zhù), meaning Pillars, refers to an asterism consisting of Zeta Aurigae, Epsilon Aurigae, Eta Aurigae, Upsilon Aurigae, Nu Aurigae, Tau Aurigae, Chi Aurigae and 26 Aurigae. Consequently, Zeta Aurigae itself is known as 柱二 (Zhù èr, English: the Second Star of Pillars.)
+
+
+== Properties ==
+Zeta Aurigae is an eclipsing binary with the orbital plane being oriented close to the line of sight from the Earth; the inclination of this system is estimated as 87.0°. As a result, an eclipse of one star by the other occurs during each orbit, causing the magnitude to decrease to +3.99. The pair have an orbital period of 972 days (2.66 years) and an eccentricity of 0.4. The primary component, Zeta Aurigae A, has been categorized as a K-type bright giant or supergiant star. Its companion, Zeta Aurigae B, is a B-type main sequence star of stellar classification B5 V or B7 V.

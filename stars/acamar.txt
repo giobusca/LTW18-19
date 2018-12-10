@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Eridanus
+
+Right ascension: 02 h 58 m 15.67525 s
+
+Declination: −40° 18′ 16.8524″
+
+Apparent magnitude: 3.2
+
+Distance: 161 ± 4 ly
+
+Mass: 2.6 M
+
+Radius: 16.0 R
+
+Luminosity: 145 L
+
+Temperature: 8,200 K
+
+Rotation: 569 days
+
+Rotational velocity: 70 km/s
+
+
+
+Theta Eridani (θ Eridani, abbreviated Theta Eri, θ Eri) is a binary system in the constellation of Eridanus. Its two components are designated θ¹ Eridani, also named Acamar, and θ² Eridani. The system's distance from the Sun as measured by the Hipparcos astrometry satellite is approximately 120 light-years.
+
+
+== Nomenclature ==
+Theta Eridani is the system's Bayer designation; θ¹ and θ² Eridani those of its two components.
+The system bore the traditional name Acamar, derived from the Arabic آخِر النَّهْر Ākhir an-nahr which means "the end of the river", via a Roman-alphabet handwriting misread "rn" to "m". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Acamar for θ¹ Eridani on 20 July 2016 and it is now so entered in the IAU Catalog of Star Names.The term Ākhir an-nahr or Achr al Nahr appeared in the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, which was translated into Latin as Postrema Fluminis.Historically, Acamar represented the end of the constellation Eridanus. Now that distinction is held by the star Achernar, which shares the same Arabic etymology. Achernar is not visible from the Greek isles (latitudes > 33° North), hence the choice of Acamar as the river's end during the time of Hipparchus and later Ptolemy.
+In Chinese, 天園 (Tiān Yuán), meaning Celestial Orchard, refers to an asterism consisting of Theta Eridani, Chi Eridani, Phi Eridani, Kappa Eridani, HD 16754, HD 23319, HD 24072, HD 24160, Upsilon4 Eridani, Upsilon3 Eridani, Upsilon2 Eridani and Upsilon1 Eridani. Consequently, Theta Eridani itself is known as 天園六 (Tiān Yuán liù, English: the Sixth Star of Celestial Orchard.)
+
+
+== Stellar system ==
+Theta Eridani is a binary system with some evidence suggesting it is part of a multiple star system. The main star, θ¹ Eridani, is of spectral class A4 with a +3.2 apparent magnitude. Its companion star, θ² Eridani, is of spectral class A1 with an apparent magnitude of +4.3. The angular separation of the two stars is equal to 8.3 arcseconds.Ptolemy described Theta Eridani as a first-magnitude star, which some have taken to be in fact Achernar, which today appears just above the horizon in Alexandria where Ptolemy lived. Achernar, however, was not visible to Ptolemy (it is from Alexandria today due to precession); its declination in 100CE was -67, making it invisible even at Aswan. Ptolemy's Eridanus thus without doubt ended at Theta Eridani, which rose about 10 degrees above the horizon from Alexandria. This fact besides positively identifying Theta Eridani as the original "end of the river", also strengthens the case for it having been first magnitude in ancient times.
+
+

@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Cetus
+
+Right ascension: 03 h 02 m 16.77307 s
+
+Declination: +04° 05′ 23.0596″
+
+Apparent magnitude: 2.53
+
+Distance: 249 ± 8 ly
+
+Mass: 2.3 ± 0.2 M
+
+Radius: 89 ± 5 R
+
+Luminosity: 1455 ± 328 L
+
+Temperature: 3,795 ± 70 K
+
+Rotational velocity: 6.9 km/s
+
+
+
+Alpha Ceti (α Ceti, abbreviated Alpha Cet, α Cet), also named Menkar, is the second-brightest star in the constellation of Cetus.  It is a cool luminous red giant about 250 light years away.
+
+
+== Nomenclature ==
+Alpha Ceti is the star's Bayer designation. It has the traditional names Menkar or Menkab, the former deriving from the Arabic word  منخر manħar "nostril" (of Cetus). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Menkar for this star.
+This star, along with γ Cet (Kaffaljidhma), δ Cet, λ Cet (also Menkar), μ Cet, ξ1 Cet and ξ2 Cet were Al Kaff al Jidhmah, "the Part of a Hand".In Chinese, 天囷 (Tiān Qūn), meaning Circular Celestial Granary, refers to an asterism consisting of α Ceti, κ1 Ceti, λ Ceti, μ Ceti, ξ1 Ceti, ξ2 Ceti, ν Ceti, γ Ceti, δ Ceti, 75 Ceti, 70 Ceti, 63 Ceti and 66 Ceti. Consequently, α Ceti itself is known as 天囷一 (Tiān Qūn yī, English: the First Star of Circular Celestial Granary.)
+
+
+== Structure ==
+Despite having the Bayer designation α Ceti, at visual magnitude 2.54 this star is actually not the brightest star in the constellation Cetus. That honor goes instead to Beta Ceti at magnitude 2.04. Menkar is a red giant with a stellar classification of M1.5 IIIa. It has more than twice the mass of the Sun and, as a giant star has expanded to about 89 times the Sun's radius. The large area of the photosphere means that it is emitting about 1,455 times as much energy as the Sun, even though the effective temperature is only 3,795 K (compared to 5,778 K on the Sun). The relatively low temperature gives Menkar the red hue of an M-type star.Menkar has evolved from the main sequence after exhausting the hydrogen at its core. It has also exhausted its core helium, becoming an asymptotic giant branch star, and will probably become a highly unstable star like Mira before finally shedding its outer layers and forming a planetary nebula, leaving a relatively large white dwarf remnant.  It has been observed to vary in brightness, but only with an amplitude of about one hundredth of a magnitude.
+
+
+== Namesakes ==
+Menkar (AK-123) was a United States Navy Crater class cargo ship named after the star.
+
+

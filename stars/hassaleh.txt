@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Auriga
+
+Right ascension: 04 h 56 m 59.62109 s
+
+Declination: +33° 09′ 57.9585″
+
+Apparent magnitude: 2.69
+
+Distance: 490 ± 30 ly
+
+Mass: 7.1 ± 0.7 M
+
+Radius: 127 R
+
+Luminosity: 4,581 L
+
+Temperature: 4,160 K
+
+Rotational velocity: 8 km/s
+
+
+
+Iota Aurigae (ι Aurigae, abbreviated Iota Aur, ι Aur), also named Hassaleh, is a star in the northern constellation of Auriga. It has an apparent visual magnitude of 2.7, which is bright enough to be readily visible to the naked eye. Parallax measurements give a distance estimate of roughly 490 light-years (150 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ι Aurigae (Latinised to Iota Aurigae) is the star's Bayer designation.
+It bore the traditional name Hassaleh in Antonín Bečvář's atlas. It also bore the traditional name Al Kab, short for Kabdhilinan, from the Arabic الكعب ذي العنان al-kacb ðīl-cinān "the shoulder of the rein holder (charioteer)". Under the name Alkab, this star is a marker on the astrolabe described by Geoffrey Chaucer in his Treatise on the Astrolabe in 1391. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Hassaleh for this star on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.It is known as 五車一 (the First Star of the Five Chariots) in Chinese.
+
+
+== Properties ==
+At Iota Aurigae's distance, extinction from interstellar dust is causing a magnitude reduction of about 0.6. Examination of the spectrum yields a stellar classification of K3 II, with the luminosity class of 'II' indicating this is a category of evolved star known as a bright giant. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The effective temperature of the outer envelope is 4,160 K, which is cooler than the Sun's effective temperature and gives Iota Aurigae the orange hue of a K-type star.It is a weak X-ray emitter with an X-ray luminosity of about 1.8 × 1027 ergs s−1. This emission is most likely coming from transient loops of plasma in Iota Aurigae's outer atmosphere, which have a temperature of around 3 million K. This is a suspected variable star, although this variability remains unconfirmed.
+
+
+=== Unconfirmed substellar companions ===
+During the Extreme Solar Systems conference held on June 25–29, 2007, in Santorini, Greece, Reffert et al. announced the detection of two substellar objects orbiting Iota Aurigae in 2:1 resonance. Such companions would be brown dwarfs with orbital periods of approximately 2 and 4 years. No minimum mass for the candidates was provided. So far the detection has not been confirmed, though Hekker et al. (2008) listed significant radial velocity variations at periods of 767 and 1586 days.
+
+

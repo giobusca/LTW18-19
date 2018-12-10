@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Libra
+
+Right ascension: 15 h 17 m 00.41382 s
+
+Declination: −09° 22′ 58.4919″
+
+Apparent magnitude: 2.61
+
+Distance: 185 ± 2 ly
+
+Radius: 4.9 R
+
+Luminosity: 130  L
+
+Rotational velocity: 250 km/s
+
+
+
+Beta Librae (β Librae, abbreviated Beta Lib, β Lib), also named Zubeneschamali, is (despite its 'beta' designation) the brightest star in the zodiac constellation of Libra. From parallax measurements, its distance can be estimated as 185 light-years (57 parsecs) from the Sun.The apparent visual magnitude of this star is 2.6. According to Eratosthenes Beta Librae was observed to be brighter than Antares. Ptolemy, 350 years later, said it was as bright as Antares. The discrepancy may be due to Antares becoming brighter, but this is not known for certain. It could simply be caused by Beta Librae being a variable star, showing a present-day variability of 0.03 of a magnitude.
+
+
+== Name ==
+β Librae (Latinised to Beta Librae) is the star's Bayer designation.
+It bore the traditional name Zubeneschamali  (less common renderings, or corruptions, are Zuben Eschamali, Zuben el Chamali, Zubenesch, Zubenelg), derived from the Arabic ّالزُبَانَى الشَمَالِي (al-zubānā al-šamāliyy) meaning "The Northern Claw". This name originated in a time when Libra was viewed as representing the "Claws of the Scorpion". There was also Kiffa Borealis, from the Arabic al-kiffah aš-šamāliyy "the northern pan (of the scales)" and the Latin equivalent Lanx Borealis. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Zubeneschamali for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 氐宿 (Dī Xiù), meaning Root, refers to an asterism consisting of β Librae, α2 Librae, ι Librae and γ Librae. Consequently, β Librae itself is known as 氐宿四 (Dī Xiù sì), "the Fourth Star of Root".
+
+
+== Properties ==
+Based upon the features of its spectrum, Beta Librae has a stellar classification of B8 V, making it a B-type main sequence star. It is about 130 times more luminous than the Sun and has a surface temperature of 12300 K, double that of the Sun. This high temperature produces light with a simple spectrum, making it ideal for examining the interstellar gas and dust between Earth and the star. Like many stars of its kind, it is spinning rapidly, over 100 times faster than the Sun with a projected rotational velocity of 250 km·s−1. The measured angular diameter of the primary star is 0.801 mas. At the estimated distance of this system, this yields a physical size of about 4.9 times the radius of the Sun. This type of massive, hydrogen-fusing star often appears blue-white, and is usually stated to be white or bluish by modern observers, but earlier observers often described Beta Librae as the only greenish star visible to the naked eye. There seems to be no generally accepted explanation for why some observers see it as green.
+The small periodic variations in the magnitude of Beta Librae suggest the presence of a companion star which is not directly observable from Earth. However, it is categorized as a single star.
+
+

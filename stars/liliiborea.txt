@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Aries
+
+Right ascension: 02 h 47 m 54.54142 s
+
+Declination: +29° 14′ 49.6132″
+
+Apparent magnitude: 4.514
+
+Distance: 172 ± 2 ly
+
+Mass: 1.6 M
+
+Radius: 11.1 ± 0.8 R
+
+Luminosity: 56 L
+
+Temperature: 4,603 K
+
+Rotational velocity: 4.5 km/s
+
+
+
+39 Arietis (abbreviated 39 Ari), also named Lilii Borea, is a star in the northern constellation of Aries. It is visible to the naked eye with an apparent visual magnitude of +4.5. The distance to this star, as determined from an annual parallax shift of 19.01 mas, is approximately 172 light-years (53 parsecs).
+
+
+== Nomenclature ==
+39 Arietis is the star's Flamsteed designation.
+This star was named Lilli Borea by Nicolas-Louis de Lacaille in 1757. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Lilii Borea for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 胃宿 (Wèi Su), meaning Stomach, refers to an asterism consisting of 39 Arietis, 35 Arietis and 41 Arietis. Consequently, 39 Arietis itself is known as 胃宿二 (Wèi Su èr, English: the Second Star of Stomach).
+
+
+== Properties ==
+39 Arietis is a giant star with a stellar classification of K1.5 III. It is currently at an evolutionary stage known as the red clump, indicating that it is generating energy through the fusion of helium at its core. It has 1.6 times the mass of the Sun, but its outer envelope has expanded to around 11 times the Sun's radius. It shines with 56 times the luminosity of the Sun. This energy is being radiated into outer space from its outer atmosphere at an effective temperature of 4,603 K, giving it the cool orange-hued glow of a K-type star.
+
+

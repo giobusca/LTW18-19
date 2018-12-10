@@ -1,0 +1,52 @@
+==Datasheet==
+
+Constellation: Canes Venatici
+
+Right ascension: 12 h 56 m 01.66622 s
+
+Declination: +38° 19′ 06.1541″
+
+Apparent magnitude: 2.84 to 2.98
+
+Distance: 115 ± 4 ly
+
+Mass: 2.97 ± 0.07 M
+
+Radius: 2.49 ± 0.26 R
+
+Luminosity: 101 ± 12 L
+
+Temperature: 11600 ± 500 K
+
+Rotation: 5.46939 d
+
+Rotational velocity: 18.4 ± 0.5 km/s
+
+
+
+Cor Caroli is the traditional name for the binary star also designated Alpha Canum Venaticorum (α Canum Venaticorum, abbreviated Alpha CVn, α CVn), although the International Astronomical Union now regards the name as only applying to the brightest component. Alpha Canum Venaticorum is the brightest point of light in the northern constellation of Canes Venatici.
+
+
+== Nomenclature ==
+α Canum Venaticorum (Latinised to Alpha Canum Venaticorum) is the system's Bayer designation.  The brighter of the two stars is designated α2 Canum Venaticorum, the fainter α1 Canum Venaticorum.In the western world Alpha Canum Venaticorum had no name until the 17th century, when it was named Cor Caroli, which means "Charles's Heart". There has been some uncertainty whether it was named in honour of King Charles I of England, who was executed in 1649 during the English Civil War, or of his son, Charles II, who restored the English monarchy to the throne in 1660. The name was coined in 1660 by Sir Charles Scarborough, physician to Charles II, who claimed the star seemed to shine exceptionally brightly on the night of Charles II's return to England. In Star Names, R.H. Allen claimed that Scarborough suggested the name to Edmond Halley and intended it to refer to Charles II. However, Robert Burnham Jr. notes that "the attribution of the name to Halley appears in a report published by J. E. Bode at Berlin in 1801, but seems to have no other verification". In Star Tales, Ian Ridpath points out that the name's first appearance on a star map was in the 1673 chart of Francis Lamb, who labelled it Cor Caroli Regis Martyris ('the heart of Charles the martyred king'), clearly indicating that it was seen as referring to Charles I.In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Cor Caroli for the star α2 Canum Venaticorum.
+In Chinese, 常陳 (Cháng Chén), meaning Imperial Guards, refers to an asterism consisting of α Canum Venaticorum, 10 Canum Venaticorum, Beta Canum Venaticorum, 6 Canum Venaticorum, 2 Canum Venaticorum, 67 Ursae Majoris. Consequently, Alpha Canum Venaticorum itself is known as 常陳一 (Cháng Chén yī, English: the First Star of Imperial Guards.) From this Chinese name, the name Chang Chen was derived.
+
+
+== Stellar properties ==
+
+Alpha Canum Venaticorum is a binary star with a combined apparent magnitude of 2.81.  The two stars are 19.6 arcseconds apart in the sky and are easily resolved in small telescopes. The system lies approximately 110 light years from the Sun.
+It marks the northern vertex of the asterism known as the Great Diamond or the Diamond of Virgo.
+
+
+=== α2 Canum Venaticorum ===
+α2 Canum Venaticorum has a spectral type of A0, and has an apparent visual magnitude which varies between 2.84 and 2.98, with a period of 5.47 days. It is a chemically peculiar star with a strong magnetic field, about 5,000 times as strong as the Earth's, and is also classified as an Ap/Bp star. Its atmosphere has overabundances of some elements, such as silicon, mercury, and europium. This is thought to be due to some elements sinking down into the star under the force of gravity while others are elevated by radiation pressure. This star is the prototype of a class of variable stars, the so-called α2 Canum Venaticorum variables. The strong magnetic field of these stars is believed to produce starspots of enormous extent. Due to these starspots the brightness of α2 Canum Venaticorum stars varies considerably during their rotation.
+
+
+=== α1 Canum Venaticorum ===
+α1 Canum Venaticorum is a F-type main sequence star. It is considerably fainter than its companion and has an apparent visual magnitude of approximately 5.60.
+
+
+== Namesakes ==
+Cor Caroli was a United States Navy Crater class cargo ship named after the star.
+
+

@@ -1,0 +1,44 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 13 h 47 m 32.43776 s
+
+Declination: +49° 18′ 47.7602″
+
+Apparent magnitude: +1.86
+
+Distance: 103.9 ± 0.8 ly
+
+Mass: 6.1 ± 0.1 M
+
+Radius: 3.4 R
+
+Luminosity: 594 ± 31 L
+
+Temperature: 15,540 ± 1157 K
+
+Rotational velocity: 150 km/s
+
+
+
+Eta Ursae Majoris (η Ursae Majoris, abbreviated Eta UMa, η UMa), also named Alkaid, is a star in the constellation of Ursa Major. It is the most eastern (leftmost) star in the Big Dipper (Plough) asterism. However, unlike most stars of the Big Dipper, it is not a member of the Ursa Major moving group. With an apparent visual magnitude of +1.84, it is the third-brightest star in the constellation and one of the brightest stars in the night sky.
+
+
+== Description ==
+Eta Ursae Majoris is a 10-million-year-old B-type main sequence star with a stellar classification of B3 V. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It has six times the mass; 3.4 times the radius, and is radiating around 594 times as much energy as the Sun. Its outer atmosphere has an effective temperature of about 15,540 K, giving it the blue-white hue of a B-type star. This star is an X-ray emitter with a luminosity of 9.3 × 1028 erg s−1.Eta Ursae Majoris was listed as a standard star for the spectral type B3 V.  It has broadened absorption lines due to its rapid rotation, which is common in stars of this type.  However, the lines are very slightly distorted and variable, which may be caused by some emission from a weak disk of material produced by the rapid rotation.Eta Ursae Majoris is a relatively nearby and bright star and has been examined closely, but no exoplanets or companion stars have been discovered.
+
+
+== Nomenclature ==
+η Ursae Majoris (Latinised to Eta Ursae Majoris) is the star's Bayer designation.
+It bore the traditional names Alkaid (or Elkeid from the Arabic القايد القائد) and Benetnash (Benetnasch). Alkaid derives from the Arabic phrase meaning "The leader of the daughters of the bier" (قائد بنات نعش qā'id bināt naʿsh). The daughters of the bier, i.e. the mourning maidens, are the three stars of the handle of the Big Dipper, Alkaid, Mizar, and Alioth; while the four stars of the bowl, Megrez, Phecda, Merak, and Dubhe, are the bier. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alkaid for this star.
+It is known as 北斗七 (the Seventh Star of the Northern Dipper) or 瑤光 (the Star of Twinkling Brilliance) in Chinese.
+The Hindus knew this star as Marīci, one of the Seven Rishis.In Japan and Korea, Alkaid is known as Hagunsei and Mukokseong respectively ("the military breaking star" or "most corner star"). Both meanings come from ancient China's influence in both countries.
+
+
+== In culture ==
+
+USS Alkaid (AK-114) was a United States Navy Crater class cargo ship named after the star.
+In Chinese fortune-telling, north is believed to be a very unlucky direction. Northwest is even worse. Hunters and soldiers traditionally did not point guns and weapons in the direction of this star.
+
+

@@ -1,0 +1,27 @@
+==Datasheet==
+
+Constellation: Cassiopeia
+
+Right ascension: 00 h 56 m 39.905 s
+
+Declination: +59° 10′ 51.80″
+
+Apparent magnitude: +4.62
+
+Distance: 200 ± 3 ly
+
+Luminosity: 67.6  L
+
+
+
+Upsilon² Cassiopeiae (υ² Cassiopeiae, abbreviated Ups² Cas, υ² Cas), also named Castula, is a solitary star in the constellation of Cassiopeia. It is a yellow G-type giant with an apparent magnitude of +4.62 and is approximately 200 light-years from the Sun.
+
+
+== Nomenclature ==
+υ² Cassiopeiae (Latinised to Upsilon² Cassiopeiae) is the star's Bayer designation. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Castula for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Barium star ==
+υ² Cassiopeiae is a barium star, a red giant showing an excess of the element barium in its spectrum.  This is thought to be caused by mass transfer from a more-evolved companion star which has now become a white dwarf, although no companion has been detected.
+
+

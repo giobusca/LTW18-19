@@ -9,8 +9,8 @@ function searchForm(){
 
 // ======== Searches in the lists to see if it's there, calls the function to change the display-area ======== (modulate better?)
 function search(search_arg){
-    search_arg = search_arg.toLowerCase().replace(/\s/g,"");                  // Makes the whole search argument lowercase, and removes white spaces
-    var search_arg_capitalized = search_arg.charAt(0).toUpperCase() + search_arg.substring(1,search_arg.length);    // then capitalizes the first letter for compatibility with the .txt files
+    search_arg_low = search_arg.toLowerCase().replace(/\s/g,"");                  // Makes the whole search argument lowercase, and removes white spaces
+    var search_arg_capitalized = search_arg_low.charAt(0).toUpperCase() + search_arg_low.substring(1,search_arg_low.length);    // then capitalizes the first letter for compatibility with the .txt files
     if(DEBUG) alert("You searched for: "+search_arg);
 
     // decides if search is for stars or const, or not found
@@ -18,12 +18,12 @@ function search(search_arg){
     var listText = readTextFile("./const/list-const.txt");
     if(listText==null) alert("Could not find "+"const/list-const.txt");
 
-    if(listText.includes(search_arg)){
+    if(listText.includes(search_arg_low)){
         if(DEBUG) alert("Found "+search_arg+" in constellations' list");
-        
+
         //checks to see if the search_arg is the full name of the constellation or only part of it
-        var startIndex = listText.indexOf(search_arg);
-        var endIndex = startIndex + search_arg.length -1;
+        var startIndex = listText.indexOf(search_arg_low);
+        var endIndex = startIndex + search_arg_low.length -1;
         if( myXOR(startIndex != 0, listText.charAt(startIndex - 1).includes("\n") ) ){
             if(DEBUG) alert("Entered incomplete-name if");
             var full_name = listText.substring( ( (startIndex!=0) ? listText.lastIndexOf("\n",startIndex)+1 : 0 ), listText.indexOf(";",endIndex));
@@ -35,8 +35,8 @@ function search(search_arg){
             return false;
         }
 
-        var search_desc = readTextFile("./const/"+search_arg+".txt");
-        if(search_desc==null) alert("Could not find "+"const/"+search_arg+".txt");
+        var search_desc = readTextFile("./const/"+search_arg_low+".txt");
+        if(search_desc==null) alert("Could not find "+"const/"+search_arg_low+".txt");
 
         displayConst(search_arg, search_desc);
 
@@ -45,11 +45,11 @@ function search(search_arg){
         if(listText==null) alert("Could not find "+"stars/list-stars.txt");
 
 
-        if(listText.includes(search_arg)){
+        if(listText.includes(search_arg_low)){
             if(DEBUG) alert("Found "+search_arg+" in stars' list");
 
-            search_desc = readTextFile("./stars/"+search_arg+".txt");
-            if(search_desc==null) alert("Could not find "+"stars/"+search_arg+".txt");
+            search_desc = readTextFile("./stars/"+search_arg_low+".txt");
+            if(search_desc==null) alert("Could not find "+"stars/"+search_arg_low+".txt");
 
             displayStar(search_arg, search_desc);
 
@@ -99,7 +99,8 @@ function displayConst(constellation, rawText) {
 
     var newHTML = "";
     newHTML += "<h1>"+constellation.toUpperCase()+"</h1>";
-    newHTML += "<img src='./images/constellations/"+constellation+".png' alt='Constellation map from IAU' width='600'>\n";
+    constellation_low = constellation.toLowerCase().replace(/\s/g,"");
+    newHTML += "<img src='./images/constellations/"+constellation_low+".png' alt='Constellation map from IAU' width='600'>\n";
 
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
@@ -112,33 +113,56 @@ function displayConst(constellation, rawText) {
     return true;
 }
 
-// ======== edits the display area to the description of a star ======== TODO
+// ======== edits the display area to the description of a star =====
 function displayStar(star, rawText) {
     if(DEBUG) alert("diplayStar");
-    // TODO
-    document.getElementById("display-area").innerHTML = rawText;
+
+    var newHTML = "";
+    newHTML += "<h1>"+star.toUpperCase()+"</h1>";
+    var constName = getConstName(rawText);
+    var const_low = constName.toLowerCase().replace(/\s/g,"");
+    newHTML += "<img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'>\n";
+    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='testVis()'>Can I see it?</button>\n";
+    var desc_ar = rawText.split(/\n/);
+    for(var i = 0; i < desc_ar.length; i++){
+        newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
+    }
+
+    document.getElementById("display-area").innerHTML = newHTML;
     return true;
+}
+
+// ======== get constellation name from star rawText ====
+function getConstName(text) {
+    var name = text.split("Constellation: ");
+    name = name[1].split(/\n/);
+    name = name[0];
+    return name;
 }
 
 // ======== generates a random name from the constellation&stars lists and calls the diplay for that constellation
 function random(){
     var rawList = readTextFile("./const/list-const.txt");
     if(rawList==null) alert("Could not find "+"const/list-const.txt");
-    
-    /* ======== DECOMMENT when star descriptions are implemented ========
+
     var starList = readTextFile("./stars/list-stars.txt");
     if(starList==null) alert("Could not find "+"stars/list-stars.txt");
     rawList += starList;
-    */
 
     var arrayList = rawList.split("\n");
     var randomIndex = Math.round(Math.random()*arrayList.length);
-    var randConst = arrayList[ randomIndex ];
-    var constName = randConst.slice(0,randConst.indexOf(";"));
-    var rand_desc = readTextFile("./const/"+constName+".txt");
-    if(rand_desc==null) alert("Could not find "+"const/"+constName+".txt");
-
-    displayConst(constName, rand_desc);
+    var randName = arrayList[ randomIndex ];
+    var onlyName = randName.slice(0,randName.indexOf(";"));
+    if (randomIndex <= 88){                                       //88 is number of constellations
+        var rand_desc = readTextFile("./const/"+onlyName+".txt");
+        if(rand_desc==null) alert("Could not find "+"const/"+onlyName+".txt");
+        displayConst(onlyName, rand_desc);
+    }
+    else {
+        var rand_desc = readTextFile("./stars/"+onlyName+".txt");
+        if(rand_desc==null) alert("Could not find "+"stars/"+onlyName+".txt");
+        displayStar(onlyName, rand_desc);
+    }
 }
 
 function myXOR(a,b) {
@@ -165,6 +189,7 @@ function julianCenturiesSinceJ2000() {
     var jd = dd + Math.floor((153 * m + 2) / 5) + 365 * y + Math.floor(y / 4) - Math.floor(y / 100) + Math.floor(y / 400) - 32045;
     var jt = jd + (hh-12 + min/60.0 + sec/3600.0)/24.0;
 
+<<<<<<< HEAD
     var j2000d = jt - 2451545;
     console.log("JD: "+jd+" - J2000D: "+j2000d);
     
@@ -172,6 +197,26 @@ function julianCenturiesSinceJ2000() {
     var j2000Cen = j2000d/36525.0;
 
     console.log("JT: "+j2000Cen);
+=======
+    return jd;
+}
+
+function getPosition(position){
+    alert("prova posizione");
+    var declination = sessionStorage.declination;
+    var rightAscention = sessionStorage.rightAsc;
+    var lat = position.coordinates.latitude;
+    var long = position.coordinates.longitude;
+
+    var jd = juliandDay();
+
+    var gmst = (jd - 2451545) / 36525;
+
+    var lha = gmst + long - rightAscention;
+
+    var alt = Math.asin( Math.sin(lat)*Math.sin(declination) + Math.cos(lat)*Math.cos(declination)*Math.cos(lha) );
+    var az = Math.acos( (Math.sin(Dec) - Math.sin(lat)*Math.sin(alt)) / (Math.cos(lat)*Math.cos(alt)) );
+>>>>>>> ac2c727ea929da8861539ff295fa6b1e9749ab96
 
     return j2000Cen;
 }
@@ -195,6 +240,7 @@ function getAltAz(lat, long){
     // RA to degrees
     rightAsc = 15*(rightAsc);
 
+<<<<<<< HEAD
     var jc = julianCenturiesSinceJ2000();
     var lmst = 24110.54841 + 8640184.812866 * jc + 0.093104 * jc*jc - 0.0000062 * jc*jc*jc + long;
 
@@ -222,6 +268,22 @@ function getAltAz(lat, long){
 
     console.log("Az: "+az+"; Alt: "+alt); 
 
+=======
+    /*
+    var lat = position[0];
+    var long = position[1];
+    var jd = juliandDay();
+
+    var gmst = (jd - 2451545) / 36525;
+
+    var lha = gmst + long - rightAscention;
+
+    var alt = Math.asin( Math.sin(lat)*Math.sin(declination) + Math.cos(lat)*Math.cos(declination)*Math.cos(lha) );
+    var az = Math.acos( (Math.sin(Dec) - Math.sin(lat)*Math.sin(alt)) / (Math.cos(lat)*Math.cos(alt)) );
+
+    return [alt, az];
+    */
+>>>>>>> ac2c727ea929da8861539ff295fa6b1e9749ab96
 }
 
 function testVis(){
@@ -234,4 +296,3 @@ function testVis(){
         alert("Geolocation is not supported");
     }    return false;
 }
-

@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Grus
+
+Right ascension: 21 h 53 m 55.72620 s
+
+Declination: –37° 21′ 53.4790″
+
+Apparent magnitude: 3.003
+
+Distance: 211 ± 9 ly
+
+Mass: 3.06 M
+
+Radius: 4.5 R
+
+Luminosity: 373 L
+
+Temperature: 12,520 K
+
+Rotational velocity: 57 km/s
+
+
+
+Gamma Gruis (γ Gruis, abbreviated Gam Gru, γ Gru), also named Aldhanab, is a star in the southern constellation of Grus (it once belonged to the Ptolemaic constellation Piscis Austrinus). With an apparent visual magnitude of 3.0, it is the third-brightest star in Grus. Based upon parallax measurements, this star is located at a distance of roughly 211 light-years (65 parsecs) from the Sun.
+
+
+== Nomenclature ==
+γ Gruis (Latinised to Gamma Gruis) is the system's Bayer designation.
+It bore the traditional Arabic name Al Dhanab, "the Tail (of the constellation of the Southern Fish)". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Aldhanab for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 敗臼 (Bài Jiù), meaning Decayed Mortar, refers to an asterism consisting of Gamma Gruis, Lambda Gruis, Gamma Piscis Austrini and 19 Piscis Austrini. Consequently, Gamma Gruis itself is known as 敗臼一 (Bài Jiù yī, English: the First Star of Decayed Mortar.)
+
+
+== Properties ==
+Analysis of the spectrum shows it to match a stellar classification of B8 III, with the luminosity class of III indicating this is a giant star that has exhausted the supply of hydrogen at its core and evolved away from the main sequence. The luminosity of Gamma Gruis is around 390 times that of the Sun, with a significant portion of the energy emission being in the ultraviolet. Its outer envelope has an effective temperature of 12,520 K, which gives the star a blue-white hue. Gamma Gruis is rotating relatively rapidly with a projected rotational velocity of 57 km s−1. By way of comparison, the Sun has an azimuthal velocity along its equator of just 2 km s−1.
+Based upon analysis of data collected during the Hipparcos mission, this star may have a proper motion companion that is causing gravitational perturbation of Gamma Gruis.
+
+

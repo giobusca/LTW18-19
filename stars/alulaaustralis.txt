@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 11 h 18 m 10.902 s
+
+Declination: +31° 31′ 44.98″
+
+Apparent magnitude: 4.264
+
+Distance: 29 ± 1 ly
+
+Mass: 0.97  M
+
+Radius: 1.02 ± 0.04  R
+
+Temperature: 6005 ± 80  K
+
+Rotational velocity: 1.0 ± 1.0 km/s km/s
+
+
+
+Xi Ursae Majoris (ξ Ursae Majoris, abbreviated Xi UMa, ξ UMa), also named Alula Australis, is a star system in the constellation of Ursa Major. On May 2, 1780, Sir William Herschel discovered that this was a binary star system, making it the first such system ever discovered. It was the first visual double star for which an orbit was calculated, when it was computed by Félix Savary in 1828.  It is also a variable star with a small amplitude.  Xi Ursae Majoris is found in the left hind paw of the Great Bear.
+
+
+== Stellar system ==
+The two components are yellow main sequence stars. The brighter component (designated Xi Ursae Majoris A), has a mean apparent magnitude of +4.41. The companion star (Xi Ursae Majoris B) has an apparent magnitude of +4.87.  The orbital period of the two stars is 59.84 years, and they are currently separated by 1.2 arcseconds, or at least 10 AU.
+
+Each component of this double star is itself a single-lined spectroscopic binary.  The orbit of the A pair has been determined from spectroscopy and speckle interferometry, giving a period of 669 days and an eccentricity of 0.53.  B's binary companion (Xi Ursae Majoris Bb)has not been detected visually or spectroscopically, but the radial velocity variations of the spectral lines show a circular orbit with a period of 3.98 days. The masses of both A and B's companions (Ab and Bb) (deduced by the sum total mass of the system minus the likely masses of Aa and Ba determined by their class) indicate that they are probably red dwarfs, Bb being on the cool end of the M spectrum, not much hotter than a brown dwarf.In 2012 Wright et al. discovered the fifth component and the second brown dwarf (if Bb is also a brown dwarf) of the system using Wide-field Infrared Survey Explorer (WISE) data—a T8.5 brown dwarf WISE J111838.70+312537.9 with angular separation 8.5 arc-min, and the projected physical separation about 4000 AU.
+
+
+== Variable star ==
+ξ Ursae Majoris is classified as an RS Canum Venaticorum variable and its brightness varies by 0.01 magnitudes.  Component B is believed to be the variable star, showing characteristic emission lines in its spectrum  that are not present for component A.
+
+
+== Nomenclature ==
+ξ Ursae Majoris (Latinised to Xi Ursae Majoris) is the star's Bayer designation.
+It also bore the traditional names Alula Australis (and erroneously Alula Australe). Alula (shared with Nu Ursae Majoris) comes from the Arabic phrase  Al Ḳafzah al Ūla 'the First Spring' and Australis is Latin for 'the south side'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alula Australis for this star.
+In Chinese, 三台 (Sān Tái), meaning Three Steps, refers to an asterism consisting of Xi Ursae Majoris, Iota Ursae Majoris, Kappa Ursae Majoris, Lambda Ursae Majoris, Mu Ursae Majoris and Nu Ursae Majoris. Consequently, Xi Ursae Majoris itself is known as 下台二 (Xià Tái èr, English: Star of Second Lower Step).
+
+

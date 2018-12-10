@@ -1,0 +1,54 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 16 h 05 m 26.23198 s
+
+Declination: –19° 48′ 19.6300″
+
+Apparent magnitude: 2.62
+
+Distance: 400 ± 40 ly
+
+Mass: 15.0  M
+
+Radius: 6.3  R
+
+Luminosity: 31,600  L
+
+Temperature: 28,000  K
+
+Rotational velocity: 55 km/s km/s
+
+
+
+Beta Scorpii (β Scorpii, abbreviated Beta Sco, β Sco) is a multiple star system in the southern zodiac constellation of Scorpius. It bore the traditional proper name of Acrab, though the International Astronomical Union now regards that name as applying only to the β Scorpii Aa component.
+
+
+== Components ==
+Observed through a small telescope, Beta Scorpii appears as a binary star with a separation between the two components of 13.5 arcseconds and a combined apparent magnitude of 2.50. This pair, designated β¹ Scorpii and β² Scorpii, form the top branches of a hierarchy of six orbiting components.
+
+β¹ Scorpii, the brighter of the pair, consists of two sub-components, designated β Scorpii A and β Scorpii B, orbiting at an angular separation of 3.9 arcseconds with an orbital period of 610 years. β Scorpii A is itself a spectroscopic binary, with the two components designated β Scorpii Aa (also named Acrab) and β Scorpii Ab. They are separated by 1.42 milliarcseconds and have an orbital period of 6.82 days.β² Scorpii also has two sub-components, designated β Scorpii C and β Scorpii E, orbiting at an angular separation of 0.1328 arcseconds with an orbital period of 39 years. β Scorpii E in turn is a spectroscopic binary with components designated β Scorpii Ea and β Scorpii Eb and having an orbital period of 10.7 days.
+Component β Scorpii D is the unrelated seventh magnitude star HD 144273, 520" away. Some authors have also referred to component Aa as D.A companion to component B, β Scorpii G, has been proposed to account for missing mass in the system, but no further evidence of its existence has been found. β Scorpii F refers to a theorised companion to component E.
+
+
+== Nomenclature ==
+β Scorpii (Latinised to Beta Scorpii) is the star's Bayer designation; β¹ and β² Scorpii, those of its two components. The designations of the sub-components - β Scorpii A, Aa, Ab, B, C, E, Ea and Eb - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Beta Scorpii bore the traditional names Acrab, Akrab or Elacrab, all deriving from the Arabic name (Arabic: العقرب‎) al-'Aqrab 'the Scorpion' for the whole constellation, as well as Graffias, a name it shared with Xi Scorpii.
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Acrab for the component β Scorpii Aa on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 房宿 (Fáng Xiù), meaning Room, refers to an asterism consisting of both of β1 Scorpii and β2 Scorpii, π Scorpii, ρ Scorpii and δ Scorpii, . Consequently, both of β1 Scorpii and β2 Scorpii themself is known as 房宿四 (Fáng Xiù sì), "the Fourth Star of Room".
+
+
+=== Namesake ===
+USS Graffias (AF-29) was once a United States navy ship named after the star.
+
+
+== Properties ==
+
+The β Scorpii system is a kinematic member of the Upper Scorpius subgroup of the Scorpius-Centaurus Association, a group of thousands of young stars with mean age 11 million years at distance 470 light years (145 parsecs). Analysis of β1 Scorpii as a single star derived an evolutionary age between 9 and 12 million years, but analysis of the β Scorpii system as a whole suggest an age closer to 6 million years.The two components of β Scorpii A are the most massive members of the system, 15 M☉ and 10 M☉ respectively. The combined spectral type is B1 V. The individual spectral types cannot be clearly measured, but are estimated to be B0.5 and B1.5. Component Aa is evolving slightly away from the zero age main sequence and its luminosity class is estimated to be intermediate between subgiant (IV) and main sequence (V). Component Ab has a main sequence luminosity class, a temperature of 26,400 K, and a luminosity of 7,900 L☉.
+Component B is over 20 times fainter than the combined component A stars and a clear spectral type has not been measured. Its mass is estimated to be approximately 8 M☉.Component C has a stellar classification of B2 V and a mass of 8 M☉. It has an effective surface temperature of 24,000 K, a radius of 2.9 R☉ and a bolometric luminosity of 3,200 L☉.
+Component E is determined to have a temperature of 13,000 K, radius of 2.4 R☉, and luminosity of 126 L☉. It is chemically peculiar, with high abundances of manganese and strontium. It is possibly a mercury-manganese (HgMn) star, but abundances of other metals are unexpectedly low.Beta Scorpii is 1.01 degree from the ecliptic and can be occulted by the Moon and, very rarely, by planets. On December 9, 1906, it was occulted by Venus. The last occultation by a planet took place on 13 May 1971, by Jupiter.
+
+
+== In culture ==
+Beta Scorpii appears on the flag of Brazil, symbolising the state of Maranhão.
+
+

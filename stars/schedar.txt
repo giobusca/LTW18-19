@@ -1,0 +1,57 @@
+==Datasheet==
+
+Constellation: Cassiopeia
+
+Right ascension: 00 h 40 m 30.4405 s
+
+Declination: +56° 32′ 14.392″
+
+Apparent magnitude: 2.240
+
+Distance: 228 ± 2 ly
+
+Mass: 4–5 M
+
+Radius: 42.1 ± 1.7 R
+
+Luminosity: 676 L
+
+Temperature: 4,530 K
+
+Rotational velocity: 21 km/s
+
+
+
+Alpha Cassiopeiae (α Cassiopeiae, abbreviated Alpha Cas, α Cas), also named Schedar, is a second magnitude star in the constellation of Cassiopeia.  Though listed as the "alpha star" by Johann Bayer, α Cas's visual brightness closely rivals the 'beta' (β) star in the constellation (Beta Cassiopeiae, also named Caph) and it may appear marginally brighter or dimmer, depending on which passband is used.  However, recent calculations from NASA's WISE telescope confirm that α Cas is the brightest in Cassiopeia, with an apparent magnitude of 2.240. Its absolute magnitude is 18 times greater than β Cas, although it is located farther away from the Sun (228 light years versus 54).
+
+
+== Nomenclature ==
+α Cassiopeiae (Latinised to Alpha Cassiopeiae) is the star's Bayer designation.
+It bore the traditional name Schedar, which was first encountered in the Alfonsine tables of the thirteenth century. It derives from the Arabic word صدر şadr, meaning "breast", a word which is derived from its relative position in the heart of the mythological queen Cassiopeia. Johannes Hevelius used the name Schedir in his writings, although there were additional traditional spellings of this Arabic transliteration such as Shedar, Shadar, Sheder, Seder, Shedis, and Shedir. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Schedar for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.Al-Sufi and Ulug Beg named the star Al Dhāt al Kursiyy (Arabic ذات الكرسي, meaning "the lady in the chair"), which Giovanni Battista Riccioli changed to Dath Elkarti.In Chinese, 王良 (Wáng Liáng) refers to the Chinese asterism Wang Liang, a famous charioteer during the Spring and Autumn period. The stellar pattern consists of Alpha, Beta, Kappa, Eta and Lambda Cassiopeiae. Consequently, Alpha Cassiopeiae itself is known as 王良四 (Wáng Liáng sì, English: the Fourth Star of Wang Liang).
+
+
+== Visibility ==
+
+With a declination of 56° 32' North, Schedar is principally visible in the northern hemisphere.  The star is yet discernible to most observers across the globe reaching as far south as Perth, Australia, Santiago, Chile and other settlements north ± 33° South latitude, albeit just above the horizon.  Schedar is located in line-of-sight of the Milky Way galaxy, so there are other notable celestial objects one can view close to this star—the Pacman Nebula, NGC 436 and NGC 457 being a few.
+Alpha Cas reaches its zenith above cities like Edinburgh, Copenhagen and Moscow.  It is circumpolar throughout Europe, Russia, and as far south as Los Angeles, California on the North American continent as well as other locations around the globe having a latitude greater than ± 33° North.  Since Schedar is listed as a second magnitude star (equal to Beta Cas), it is easily observable to the naked eye as long as one's stargazing is not hindered by the light pollution common to most cities.
+The best time for observation is during the late autumn months of the northern hemisphere, when Cassiopeia passes the meridian at midnight, but given its circumpolar nature in many northern localities, it is visible to many of the world's inhabitants throughout the year.
+
+
+=== Photometric variations ===
+Depending on the photometric system used, Schedar's apparent magnitude is marginally brighter or dimmer than Caph, the beta star in the constellation.  The Johnson UBV system throughout the latter half of the twentieth century indicated a visual magnitude that ranged from about 2.20 to 2.23, thus making it slightly brighter than Caph with its variable magnitude ranging from 2.25 to 2.31.  However recent calculations in the optical V band between 500–600 nanometers (nm) by Floor Van Leeuwen in 2007 produced a new measurement for both stars, 2.4107 for Schedar and 2.3579 for Caph, suggesting that Caph ranks as the brightest in the constellation.  The confusion arises because of the use of different passbands.
+
+
+=== Angular analysis ===
+With the advances in optical interferometry in the 1990s, Schedar's angular diameter was measured in 1998 at various wavelengths ranging from 500–850 nm.  The result was a limb darkened angular measurement of 5.62 ± 0.06 milliarcseconds (mas), a diameter which equates to roughly 0.393 AU or 42.3 R☉, assuming a parallax of 14.29 mas. With the planet Mercury orbiting the Sun at approximately 0.4 AU, Schedar's photosphere extends to roughly half the mercurial orbit.
+
+
+== Properties ==
+
+Schedar is a red giant star whose spectral classification in the SIMBAD astronomical database is listed as K0IIIa, a stellar class that is notably cooler than the Sun.  However, because it is nearing the final stages of its evolution, the photosphere has expanded substantially, yielding a bolometric luminosity that is approximately 676 L☉According to Hipparcos, the New Reduction (van Leeuwen, 2007), the estimated distance to the star is about 70 parsecs or 228 light years. Like all giant stars, Schedar rotates slowly with an approximate velocity of 21 km/s—a speed which takes the star approximately 102 days to make one complete revolution on its axis.Schedar has been sometimes classified as a variable star, but no variability has been detected since the 19th century. Also, three companions to the star have been listed in the Washington Double Star Catalog, but it seems that all of them are just line-of-sight optical components.Schedar is thought to be around 100 to 200 million years old, having spent much of its time as a blue-white b-type main-sequence star.
+
+
+== Depiction ==
+
+In 1551, Gerardus Mercator, a Flemish cartographer, produced a celestial globe portraying the 48 traditional Ptolemaic constellations in addition to two others, Coma Berenices and Antinous.  On this globe, he represents Cassiopeia as the Queen of Ethiopia, punished for her boasting by being chained to a chair hanging upside-down. Schedar is found near her left breast, reflecting its Arabic etymological origin. 
+
+

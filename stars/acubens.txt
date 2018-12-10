@@ -1,0 +1,43 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 08 h 58 m 29.2217 s
+
+Declination: +11° 51′ 27.723″
+
+Apparent magnitude: 4.20 to 4.27
+
+Distance: 164 ± 3 ly
+
+Mass: 2.10 M
+
+Luminosity: 50.55 L
+
+Temperature: 7,943 K
+
+Rotational velocity: 75 km/s
+
+
+
+Alpha Cancri (α Cancri, abbreviated Alpha Cnc, α Cnc), also named Acubens, is a star system in the constellation of Cancer.
+
+
+== Nomenclature ==
+α Cancri (Latinised to Alpha Cancri) is the star's Bayer designation.
+The traditional name Acubens (Açubens) is derived from the Arabic الزبانى‎ al zubanāh, "the claws"  The International Astronomical Union Working Group on Star Names (WGSN) has chosen Acubens as the proper name this star.
+
+
+== Properties ==
+Alpha Cancri is a fourth-magnitude star with an apparent magnitude of 4.20, making it barely visible to the naked eye under good lighting conditions. Nevertheless, it is 23 times more luminous than the Sun.  Its stellar classification is A5m.  The distance of Alpha Cancri calculated from the Gaia Data Release 2 parallax is roughly 50 parsecs from Earth, or approximately 164 light years away.
+Since it is near the ecliptic, it can be occulted by the Moon and very rarely by planets.
+
+
+== Star system ==
+The primary component, α Cancri A, is a white A-type main sequence dwarf with an apparent magnitude of +4.26.  Its companion, α Cancri B, is an eleventh magnitude star. In the year 1836, its position angle was observed at 325 degrees with a separation from the main star α Cancri A of 11.3 arcseconds.From studying its light curve during occultation, it is thought that α Cancri A may itself be a close binary, consisting of two stars with similar brightness and a separation of 0.1 arcseconds.
+
+
+== In modern culture ==
+USS Acubens (AKS-5) was a United States navy ship.
+
+

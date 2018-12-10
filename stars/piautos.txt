@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 08 h 20 m 32.13630 s
+
+Declination: +24° 01′ 20.3198″
+
+Apparent magnitude: +5.93
+
+Distance: 550 ± 10 ly
+
+Luminosity: 78 L
+
+Rotational velocity: 188 km/s
+
+
+
+Lambda Cancri (λ Cancri, abbreviated Lambda Cnc, λ Cnc) is a blue-white hued spectroscopic binary star in the zodiac constellation of Cancer. With a combined apparent visual magnitude of +5.93, it is faintly visible to the naked eye. Based upon parallax measurements obtained during the Gaia mission, it is about 550 light-years distant from the Sun.The two components are designated Lambda Cancri A (also named Piautos) and B.
+
+
+== Nomenclature ==
+λ Cancri (Latinised to Lambda Cancri) is the binary's Bayer designation. The designations of the two components as Lambda Cancri A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Piautos, "the Eye", was a Coptic lunar asterism consisting of the stars Xi Cancri and Lambda Leonis (Alterf). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Piautos for Lambda Cancri on 1 June 2018 and it is now so included in the List of IAU-approved Star Names. The WGSN had previously stated that where a component letter (from e.g. Washington Double Star Catalog) is not explicitly listed, that the name should be understood to be attributed to the brightest component by visual brightness  (Lambda Cancri A in this case).
+In Chinese, 爟 (Guàn), meaning Beacon Fire, refers to an asterism consisting of Lambda Cancri and Psi, Phi1 and 15 Cancri. Consequently, Lambda Cancri itself is known as 爟二 (Guàn èr, English: the Second Star of Beacon Fire). From this Chinese name, the name Kwan Wei meaning "the bright fire" was given.
+
+
+== Properties ==
+The primary, Lambda Cancri A, is a B-type main-sequence star with a stellar classification of B9.5 V. It has 2.1 times the mass of the Sun and radiates 78 times the Sun's luminosity from its photosphere at an effective temperature of roughly 9,500 K. Its close companion, Lambda Cancri B, has 80% of the mass of the Sun.
+
+

@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Libra
+
+Right ascension: 15 h 35 m 31.57881 s
+
+Declination: −14° 47′ 22.3278″
+
+Apparent magnitude: +3.91
+
+Distance: 163 ± 2 ly
+
+Mass: 1.15  M
+
+Radius: 11.14  R
+
+Luminosity: 72  L
+
+Temperature: 4,786  K
+
+Rotational velocity: 1.60 km/s km/s
+
+
+
+Gamma Librae (γ Librae, abbreviated Gam Lib, γ Lib) is a suspected binary star system in the constellation of Libra. It is visible to the naked eye, having an apparent visual magnitude of +3.91. Based upon an annual parallax shift of 19.99 mas as seen from Earth, it lies 163 light years from the Sun.
+The primary component (designated Gamma Librae A) is named Zubenelhakrabi.
+
+
+== Nomenclature ==
+γ Librae (Latinised to Gamma Librae) is the system's Bayer designation. The designations of the two components as Gamma Librae A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Gamma Librae bore the traditional name Zuben (el) Hakrabi (also rendered as Zuben-el-Akrab and corrupted as Zuben Hakraki). The name is a modification of the Arabic زبانى العقرب Zuban al-ʿAqrab "the claws of the scorpion", a name that dates to before Libra was a distinct constellation from Scorpius. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Zubenelhakrabi for the component Gamma Librae A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 氐宿 (Dī Xiù), meaning Root, refers to an asterism consisting of Gamma Librae, Alpha² Librae, Iota Librae and Beta Librae. Consequently, Gamma Librae itself is known as 氐宿三 (Dī Xiù sān), "the Third Star of Root".
+
+
+== Properties ==
+Because the star lies near the ecliptic it is subject to occultations by the Moon, allowing the angular size to be measured. As of 1940, the pair had an angular separation of 0.10 arc seconds along a position angle of 191°.The yellow-hued primary, component Aa, is an evolved G-type giant star with a stellar classification of G8.5 III and an estimated age of 4.3 billion years. It has 1.15 times the mass of the Sun and has expanded to 11.14 times the Sun's radius. The star is radiating around 72 times the Sun's luminosity from its enlarged photosphere at an effective temperature of 4,786 K. There is a magnitude 11.2 visual companion, component B, at an angular separation of 42.5 arc seconds along a position angle of 157°, as of 2013.At its distance, the visual magnitude is diminished by an extinction of 0.11 due to interstellar dust. The system is moving closer to the Sun with a radial velocity of −26.71 km/s.
+
+
+== Planetary system ==
+On the 11th of April 2018 the discovery of two gas giant planets orbiting Gamma Librae was announced. 
+
+

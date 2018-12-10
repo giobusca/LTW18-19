@@ -1,0 +1,43 @@
+==Datasheet==
+
+Constellation: Taurus
+
+Right ascension: 04 h 28 m 37.00 s
+
+Declination: +19° 10′ 50″
+
+Apparent magnitude: +3.53
+
+Distance: 147 ± 2 ly
+
+Mass: 2.7 ± 0.1 M
+
+Radius: 12.692 ± 0.545  R
+
+Luminosity: 97 ± 8 L
+
+Temperature: 4901 ± 20 K
+
+Rotational velocity: 3.0 km/s
+
+
+
+Epsilon Tauri (ε Tauri, abbreviated Epsilon Tau, ε Tau), also named Ain, is an orange giant star located approximately 45 parsecs (147 light-years) from the Sun in the constellation of Taurus. An extrasolar planet (designated Epsilon Tauri b, later named Amateru) is believed to be orbiting the star.
+It is a member of the Hyades open cluster. As such its age is well constrained at 625 million years. It is claimed to be the heaviest among planet-harboring stars with reliable initial masses although the star HD 13189 is potentially more massive. Given its large mass, this star, though presently of spectral type K0 III, was formerly of spectral type A that has now evolved off the main sequence into the giant phase. It is regarded as a red clump giant; that is, a core-helium burning star.Since Epsilon Tauri lies near the plane of the ecliptic, it is sometimes occulted by the Moon and (very rarely) by planets.
+It has an 11th magnitude companion 182 arcseconds from the primary.
+
+
+== Nomenclature ==
+ε Tauri (Latinised to Epsilon Tauri) is the star's Bayer designation; it also bears the Flamsteed designation of 74 Tauri. On discovery the planet was designated Epsilon Tauri b (or Ain b).
+The star bore the traditional name Ain (Arabic عين for "eye") and was given the name Oculus Boreus (Latin for "Northern eye") by John Flamsteed. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Ain for this star.
+In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning name was Amateru for this planet.The winning name was based on that submitted by the Kamagari Astronomical Observatory of Kure, Hiroshima Prefecture, Japan: namely 'Amaterasu', the Shinto goddess of the Sun, born from the left eye of the god Izanagi. The IAU substituted 'Amateru' – which is a common Japanese appellation for shrines when they enshrine Amaterasu – because 'Amaterasu' is already used for an asteroid (10385 Amaterasu).In Chinese, 畢宿 (Bì Xiù), meaning Net, refers to an asterism consisting ε Tauri, δ3 Tauri, δ1 Tauri, γ Tauri, Aldebaran, θ2 Tauri, 71 Tauri and λ Tauri. Consequently, ε Tauri itself is known as 畢宿一 (Bì Xiù yī), "the First Star of Net".
+
+
+== Planetary system ==
+In 2007 a massive extrasolar planet was reported orbiting the star with a period of 1.6 years in a somewhat eccentric orbit. Its discoverers claimed it was the first planet ever discovered in an open cluster.
+
+
+== In popular culture ==
+Epislon Tauri is a major feature of the book Starsong Chronicles:Exodus, by American author JJ Clayborn. In the book the star is referenced by the name Ain, but the characters rename the star Coronis.
+
+

@@ -1,0 +1,44 @@
+==Datasheet==
+
+Constellation: Ophiuchus
+
+Right ascension: 17 h 43 m 28.35265 s
+
+Declination: +04° 34′ 02.2955″
+
+Apparent magnitude: 2.749
+
+Distance: 81.8 ± 0.3 ly
+
+Mass: 1.13 M
+
+Radius: 12.42 ± 0.13 R
+
+Luminosity: 63.4 ± 3.2 L
+
+Temperature: 4,467 K
+
+Rotational velocity: 5.4 km/s
+
+
+
+Beta Ophiuchi (β Ophiuchi, abbreviated Beta Oph, β Oph), also named Cebalrai, is a star in the equatorial constellation of Ophiuchus. The apparent visual magnitude of this star is 2.7, which is readily visible to the naked eye even from urban skies. The distance to this star can be estimated using parallax measurements, yielding a value of 81.8 light-years (25.1 parsecs) from the Sun.
+
+
+== Nomenclature ==
+β Ophiuchi (Latinised to Beta Ophiuchi) is the star's Bayer designation.
+It bore the traditional names Cebalrai, Celbalrai, Cheleb and Kelb Alrai (or sometimes just Alrai), all derived from the Arabic كلب الراعي kalb al-rā‘ī "the heart of the shepherd". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Cebalrai for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.
+
+
+=== Namesake ===
+USS Cheleb (AK-138) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+This is a giant star with a stellar classification of K2 III. Although it is only 13% greater in mass than the Sun, it has reached a stage in its evolution where the atmosphere has expanded to about 12 times the Sun's radius and is radiating 63 times the luminosity of the Sun. Its outer envelope is relatively cool with an effective temperature of 4,467 K, giving it the orange hue typical of K-type stars. Like some other K-type giants, β Ophiuchi has been found to vary very slightly (0.02 magnitudes) in brightness.,Cebalrai is a member of the thin disk population. It is following a low eccentricity orbit through the Milky Way galaxy that carries it between a distance of 27.3–30.9 kly (8.4–9.5 kpc) from the Galactic Center and up to 0.62 kly (0.19 kpc) above or below the galactic plane.
+
+
+=== Possible planetary system ===
+Radial velocity variations with a period of 142 days hint about the possible presence of a planetary companion orbiting Beta Ophiuchi. Thus far, no planetary object has been confirmed; while periodic radial pulsations caused by intrinsic stellar variability could explain the  observed variations.
+
+

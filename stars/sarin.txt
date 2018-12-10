@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Hercules
+
+Right ascension: 17 h 15 m 01.9106 s
+
+Declination: 24° 50′ 21.135″
+
+Apparent magnitude: 3.126
+
+Distance: 75.1 ± 0.3 ly
+
+Mass: 2.4 M
+
+Radius: 2.2 R
+
+Luminosity: 38 L
+
+Temperature: 9,620 ± 350 K
+
+Rotational velocity: 270 km/s
+
+
+
+Delta Herculis (δ Herculis, abbreviated Delta Her, δ Her) is a multiple star system in the constellation of Hercules. Though it only shines with an apparent magnitude of 3.12, it is the third-brightest star in its constellation. Based on parallax measurement taken during the Hipparcos mission, it is approximately 23.1 parsecs (75 light-years) from the Sun.
+It consists of a binary pair, designated Delta Herculis A, together with three potential companions, designated Delta Herculis B, C and D, although 'B' is believed to be an optical companion. 'A's' components are themselves designated Delta Herculis Aa (also named Sarin) and Ab.
+
+
+== Nomenclature ==
+δ Herculis (Latinised to Delta Herculis) is the system's Bayer designation. The designations of the four constituents as Delta Herculis A, B, C and D, and those of A's components - Delta Herculis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Sarin. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Sarin for the component Delta Herculis Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Menkib al Jathi al Aisr, which was translated into Latin as Humerus Sinister Ingeniculi, meaning the left shoulder of the kneeling man.In Chinese, 天市左垣 (Tiān Shì Zuǒ Yuán), meaning Left Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven old states in China which is marking the left borderline of the enclosure, consisting of Delta Herculis, Lambda Herculis, Mu Herculis, Omicron Herculis, 112 Herculis, Zeta Aquilae, Theta1 Serpentis, Eta Serpentis, Nu Ophiuchi, Xi Serpentis and Eta Ophiuchi. Consequently, Delta Herculis itself is known as 天市左垣一 (Tiān Shì Zuǒ Yuán yī, English: the First Star of Left Wall of Heavenly Market Enclosure), and represents the state of Wei (魏), together with 33 Capricorni, according to Ian Ridpath version or Phi Capricorni and Chi Capricorni in R.H. Allen's version in Twelve States (asterism).
+
+
+== Properties ==
+Delta Herculis A presents as an A-type main-sequence subgiant with a stellar classification of A3IV. It has both a mass and radius that are roughly two times solar yielding a total luminosity of about 18.5 L☉
+
+

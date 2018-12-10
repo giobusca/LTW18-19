@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Aquarius
+
+Right ascension: 22 h 16 m 50.03635 s
+
+Declination: –07° 46′ 59.8480″
+
+Apparent magnitude: 4.175
+
+Distance: 187 ± 2 ly
+
+Mass: 2.39 M
+
+Radius: 12 R
+
+Luminosity: 72 L
+
+Temperature: 4,864 K
+
+Rotational velocity: 1.6 km/s
+
+
+
+Theta Aquarii (θ Aquarii, abbreviated Theta Aqr, θ Aqr), also named Ancha, is a star in the equatorial constellation of Aquarius. Visible to the naked eye at apparent magnitude 4.175, it is located at a distance of around 187 light-years (57 parsecs) from the Sun. Since it is near the ecliptic it can be occulted by the Moon, or very rarely by planets.
+
+
+== Nomenclature ==
+θ Aquarii (Latinised to Theta Aquarii) is the star's Bayer designation.
+It bore the traditional name Ancha; Medieval Latin for "the haunch". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Ancha for this star on 12 September 2016, and it is now so included in the List of IAU-approved Star Names.In Chinese, 泣 (Qì), meaning Weeping, refers to an asterism consisting of Theta Aquarii and Rho Aquarii. Consequently, Theta Aquarii itself is known as 泣二 (Qì èr, English: the Second Star of Weeping). Possibly, the name Lei, meaning "tears (weeping)" in Chinese, derives from the Chinese name for this star.
+
+
+== Properties ==
+Ancha belongs to the spectral class G8 with a luminosity class of III–IV suggesting that, at an age of 437 million years, this star is part way between the subgiant and giant stages of its evolution. Estimates of the star's mass range from 2.39 to 2.78 times the Sun's mass, with a radius of about 12 times that of the Sun. It is radiating from 72 to 83 times as much luminosity as the Sun from its enlarged outer envelope at an effective temperature of 4,864 K. At this heat, the star glows with the yellow hue of a G-type star.
+
+

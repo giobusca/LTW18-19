@@ -1,0 +1,43 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 15 h 24 m 55.77463 s
+
+Declination: +58° 57′ 57.8344″
+
+Apparent magnitude: 3.290
+
+Distance: 101.2 ± 0.3 ly
+
+Mass: 1.82 ± 0.23 M
+
+Radius: 11.99 ± 0.06 R
+
+Luminosity: 55.3 ± 5.3 L
+
+Temperature: 4,545 ± 110 K
+
+Rotation: 434 days
+
+Rotational velocity: 1.5 km/s
+
+
+
+Iota Draconis (ι Draconis, abbreviated Iota Dra, ι Dra), also named Edasich, is a star in the northern circumpolar constellation of Draco. A visually unremarkable star of apparent magnitude 3.3, in 2002 it was discovered to have a planet orbiting it (designated Iota Draconis b, later named Hypatia). From parallax measurements, this star is located at a distance of about 101.2 light-years (31.0 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ι Draconis (Latinised to Iota Draconis) is the star's Bayer designation. On discovery the planet was designated Iota Draconis b (or Edasich b).
+It bore the traditional name Edasich, derived from the Arabic Al Ḍhiba' of Ulug Beg and the Dresden Globe, or Al dhīlī 'Male hyena' by Kazwini, with Eldsich being recorded in the Century Cyclopedia. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Edasich for this star.
+In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning name was Hypatia for this planet. The winning name was submitted by Hypatia, a student society of the Physics Faculty of the Universidad Complutense de Madrid, Spain. Hypatia was a famous Greek astronomer, mathematician, and philosopher.In Chinese, 紫微左垣 (Zǐ Wēi Zuǒ Yuán), meaning Left Wall of Purple Forbidden Enclosure, refers to an asterism consisting of Iota Draconis, Theta Draconis, Eta Draconis, Zeta Draconis, Upsilon Draconis, 73 Draconis, Gamma Draconis and 23 Cassiopeiae. Consequently, Iota Draconis itself is known as 紫微左垣一 (Zǐ Wēi Zuǒ Yuán yī, English: the First Star of Left Wall of Purple Forbidden Enclosure.), representing 左樞 (Zuǒshū), meaning Left Pivot. 左樞 (Zuǒshū) is westernized into Tsao Choo by R.H. Allen with the same meaning 
+
+
+== Properties ==
+Edasich is larger and more massive than the Sun, with 1.8 times the mass and nearly 12 times the radius. The spectrum matches a stellar classification of K2 III, indicating this is an evolved star that has exhausted the supply of hydrogen at its core and left the main sequence of stars like the Sun. With an expanded outer envelope, this giant star is radiating over 55 times the luminosity of the Sun at an effective temperature of 4,545 K. This temperature gives it an orange hue that is a characteristic of K-type stars. It is rotating at a leisurely rate, with a period of around 434 days. It is about 1.15 billion years old.In the past Iota Draconis has been suspected of variability. However, the star has been found to have a constant luminosity to within about 0.004 magnitudes. Hence, as of 2010, the variability remains unconfirmed. An excess emission of infrared radiation at a wavelength of 70μm suggests the presence of a circumstellar disk of dust; what astronomers term a debris disk.
+
+
+== Planetary system ==
+The planetary companion discovered in 2002 was the first planet known to orbit a giant star. The habitable zone for this star lies in the range of 6.8–13.5 Astronomical Units, placing this planet well inside. The alignment of this planet's orbit may make it directly detectable via the transit method.
+
+

@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Capricornus
+
+Right ascension: 20 h 20 m 39.81562 s
+
+Declination: −12° 45′ 32.6844″
+
+Apparent magnitude: +4.76
+
+Distance: 253 ± 5 ly
+
+Mass: 2.37 M
+
+Luminosity: 87 L
+
+Rotational velocity: 24 km/s
+
+
+
+Nu Capricorni (ν Capricorni, abbreviated Nu Cap, ν Cap) is a binary star in the southern constellation of Capricornus. It is 6.6 degrees north of the ecliptic and so is subject to occultations by the Moon. The system is about 253 light-years from the Sun.
+The two components are designated Nu Capricorni A (also named Alshat) and B.
+
+
+== Nomenclature ==
+ν Capricorni (Latinised to Nu Capricorni) is the system's Bayer designation. The designations of the two components as Nu Capricorni A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Alshat, from the Arabic الشاة aš-šā[t], meaning 'the sheep' that was to be slaughtered by the adjacent Beta¹ Capricorni (Dabih). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alshat for the component Nu Capricorni A on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+The primary member, Nu Capricorni A, is a blue-white hued B-type main sequence or subgiant star with an apparent magnitude of +4.77.  Its companion, Nu Capricorni B, is a magnitude 11.8 star at an angular separation of 54.1 arcseconds from the primary.
+
+

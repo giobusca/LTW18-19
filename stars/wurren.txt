@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Phoenix
+
+Right ascension: 01 h 08 m 23.08 s
+
+Declination: –55° 14′ 44.7″
+
+Apparent magnitude: 3.9 to 4.4
+
+Distance: 300 ± 10 ly
+
+Mass: 3.92  M
+
+Radius: 2.85  R
+
+Luminosity: 316  L
+
+Temperature: 14,400  K
+
+
+
+Zeta Phoenicis (ζ Phoenicis, abbreviated Zet Phe, ζ Phe) is a multiple star system in the constellation of Phoenix. It is visible to the naked eye. Based upon parallax measurements made by the Hipparcos spacecraft, it is located some 300 light years (92 parsecs) away.Zeta Phoenicis A is itself an Algol-type eclipsing binary star. It consists of two B-type main sequence stars that orbit each other. The larger and brighter (Zeta Phoenicis Aa) is also named Wurren. When one passes in front of one another, it blocks some of the other star's light. As a result, its apparent magnitude fluctuates between 3.9 and 4.4 with a period of 1.66977 days (its orbital period).
+The system most likely contains four stars with two other telescopic components of apparent magnitude 7.2 and 8.2 at angular separations of 0.8 and 6.4 arcseconds from the main pair. The closer (Zeta Phoenicis B) is an A-type main-sequence star with an orbital period around the main pair of about 210 years, as well as an eccentricity of about 0.35.. The further (Zeta Phoenicis C) is an F-type main-sequence star with an orbital period of over 5,000 years.
+
+
+== Nomenclature ==
+ζ Phoenicis (Latinised to Zeta Phoenicis) is the system's Bayer designation. The designations of the three constituents as ζ Phoenicis A, B and C, and those of A's components - ζ Phoenicis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Wurren in the culture of the Wardaman people of the Northern territory of Australia, meaning child, but in this context refers to a "Little Fish", a star adjacent to Achernar (Gawalyan = procupine or echidna) to whom little fish provides water.. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Wurren for the component Zeta Phoenicis Aa on 19 November 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese occasioned by adaptation of the European southern hemisphere constellations into the Chinese system, 水委 (Shuǐ Wěi), meaning Crooked Running Water, refers to an asterism consisting of Zeta Phoenicis, Alpha Eridani (Achernar) and Eta Phoenicis. Consequently, Zeta Phoenicis itself is known as 水委二 (Shuǐ Wěi èr, English: the Second Star of Crooked Running Water).

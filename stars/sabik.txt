@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Ophiuchus
+
+Right ascension: 17 h 10 m 22.68689 s
+
+Declination: –15° 43′ 29.6639″
+
+Apparent magnitude: 2.43
+
+Distance: 88 ± 2 ly
+
+Mass: 2.966 M
+
+Rotational velocity: 23 km/s
+
+
+
+Eta Ophiuchi (η Ophiuchi, abbreviated Eta Oph, η Oph) is a binary star in the constellation of Ophiuchus. Based on parallax measurements taken during the Hipparcos mission, it is approximately 88 light-years from the Sun.
+Eta Ophiuchi is part of a multiple star system designated WDS J17104-1544. It itself is designated WDS J17104-1544AB and its two components WDS J17104-1544A (also named Sabik) and WDS J17104-1544B. The 'C' component is UCAC4 372-080717 and 'D' is UCAC2 26022336.
+
+
+== Nomenclature ==
+η Ophiuchi (Latinised to Eta Ophiuchi) is the system's Bayer designation. WDS J17104-1544AB is its designation in the Washington Double Star Catalog. The designations of the two components as WDS J17104-1544 A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Sabik. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sabik for the component WDS J17104-1544 A on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, this star is considered part of 天市左垣 (Tiān Shì Zuǒ Yuán), meaning Left Wall of Heavenly Market Enclosure, which refers to an asterism representing eleven old states in China that mark the left borderline of the enclosure, consisting of Eta Ophiuchi, Delta Herculis, Lambda Herculis, Mu Herculis, Omicron Herculis, 112 Herculis, Zeta Aquilae, Theta¹ Serpentis, Eta Serpentis, Nu Ophiuchi and Xi Serpentis. Consequently, Eta Ophiuchi itself is known as 天市左垣十一 (Tiān Shì Zuǒ Yuán shíyī, English: the Eleventh Star of Left Wall of Heavenly Market Enclosure), representing the state Song (宋).
+
+
+=== Namesake ===
+USS Sabik (AK-121) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+Eta Ophiuchi is a binary system that is difficult to resolve in amateur telescopes but whose true nature was determined through use of more advanced techniques. The primary star (whose observational data make up the table in this article) is actually only slightly larger and hotter than its companion. Individually each star is a fairly unremarkable A class main sequence star, but as a binary pair they are unusual. Each star orbits around a common center in a close and highly elliptical orbit, making planetary formation unlikely in this system and some stellar data imprecise.
+
+

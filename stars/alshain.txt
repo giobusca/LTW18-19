@@ -1,0 +1,46 @@
+==Datasheet==
+
+Constellation: Aquila
+
+Right ascension: 19 h 55 m 18.79256 s
+
+Declination: +06° 24′ 24.3425″
+
+Apparent magnitude: 3.87 + 12.0
+
+Distance: 44.7 ± 0.1 ly
+
+Mass: 1.26 ± 0.18 M
+
+Radius: 3.28 ± 0.15 R
+
+Luminosity: 6.0 ± 0.3 L
+
+Temperature: 5,100  K
+
+Rotational velocity: 0.9 km/s
+
+
+
+Beta Aquilae (β Aquilae, abbreviated Beta Aql, β Aql) is a binary star in the equatorial constellation of Aquila. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 44.7 light-years from the Sun.
+Its two components are designated Beta Aquilae A (also named Alshain) and B.
+
+
+== Nomenclature ==
+
+β Aquilae (Latinised to Beta Aquilae) is the system's Bayer designation. The designations of the two components as Beta Aquilae A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Alshain derived from the Perso-Arabic term الشاهين, aš-šāhīn, meaning "the (peregrine) falcon", perhaps by folk etymology from the Persian šāhīn tarāzū (or possibly šāhīn tara zed; see Gamma Aquilae), the Persian name for the asterism α, β and γ Aquilae. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alshain for the component Beta Aquilae A on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Unuk al Ghyrab (عنق ألغراب - únuq al-ghuraab), which was translated into Latin as Collum Corvi, meaning the crow's neck.In Chinese, 河鼓 (Hé Gŭ), meaning River Drum, refers to an asterism consisting of Beta Aquilae, Altair and Gamma Aquilae. Consequently, Beta Aquilae itself is known as 河鼓一 (Hé Gŭ yī, English: the First Star of River Drum).
+
+
+=== Namesake ===
+USS Alshain (AKA-55) was a United States navy ship.
+
+
+== Properties ==
+The primary (Beta Aquilae A) is of magnitude 3.71 and spectral class G8IV. It has a very low level of surface magnetic activity and may be in a state similar to a Maunder minimum. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. A subgiant with a mass 30% greater than the Sun's, a luminosity six times that of the Sun, and a radius about thrice solar.The secondary (Beta Aquilae B) is a 12th magnitude companion which is 13 arcseconds away in the sky. It is a class M red dwarf with a mass a third that of the Sun and a luminosity 2.5% the Sun's.
+
+
+== In culture ==
+In Chinese mythology, The Princess and the Cowherd, Beta and Gamma Aquilae are children of Niulang (牛郎, The Cowherd, Altair) and Zhinü (織女, The Princess, Vega).
+The Koori people of Victoria knew Beta and Gamma Aquilae as the black swan wives of Bunjil (Altair), the wedge-tailed eagle.
+
+

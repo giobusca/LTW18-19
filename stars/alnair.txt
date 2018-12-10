@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Grus
+
+Right ascension: 22 h 08 m 13.98473 s
+
+Declination: –46° 57′ 39.5078″
+
+Apparent magnitude: +1.74
+
+Distance: 101.0 ± 0.7 ly
+
+Mass: 4.0 M
+
+Radius: 3.4 R
+
+Luminosity: 520 L
+
+Temperature: 13,920 K
+
+Rotational velocity: 215 km/s
+
+
+
+Alpha Gruis, Latinized from α Gruis, also named Alnair, is the brightest star in the southern constellation of Grus.
+
+
+== Nomenclature ==
+α Gruis (Latinised to Alpha Gruis) is the star's Bayer designation. (Its first depiction in a celestial atlas was in Johann Bayer's Uranometria of 1603.)
+It bore the traditional name Alnair or Al Nair (sometimes Al Na'ir in lists of stars used by navigators), from the Arabic al-nayyir [an-nai:r], meaning "the bright one", itself derived from its Arabic name, al-Nayyir min Dhanab al-ḥūt (al-Janūbiyy), "the Bright (star) belongs to the Tail of (the constellation of) the (Southern) Fish". Confusingly, Alnair was also given as the proper name for Zeta Centauri in an astronomical ephemerides in the middle of the 20th century. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Alnair for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.With Beta, Delta, Theta, Iota, and Lambda Gruis, Alnair belonged to Piscis Austrinus in traditional Arabic astronomy.In Chinese, 鶴 (Hè), meaning Crane, refers to an asterism consisting of Alpha Gruis, Beta Gruis, Epsilon Gruis, Eta Gruis, Delta Tucanae, Zeta Gruis, Iota Gruis, Theta Gruis, Delta2 Gruis and Mu1 Gruis. Consequently, Alpha Gruis itself is known as 鶴一 (Hè yī, English: First Star of the Crane). The Chinese name gave rise to another English name, Ke.
+
+
+== Properties ==
+Alpha Gruis has a stellar classification of B6 V, although some sources give it a classification of B7 IV. The first classification indicates that this is a B-type star on the main sequence of stars that are generating energy through the thermonuclear fusion of hydrogen at the core. However, a luminosity class of 'IV' would suggest that this is a subgiant star; meaning the supply of hydrogen at its core is becoming exhausted and the star has started the process of evolving away from the main sequence. It has no known companions.The measured angular diameter of this star, after correcting for limb darkening, is 1.02 ± 0.07 mas. At a parallax-measured distance of 101 light-years (31 parsecs) from Earth, this yields a physical size of 3.4 times the radius of the Sun. It is rotating rapidly, with a projected rotational velocity of about 215 km/s providing a lower bound for the rate of azimuthal rotation along the equator. This star has around four times the Sun's mass and is radiating roughly 520 times the luminosity of the Sun.The effective temperature of Alpha Gruis's outer envelope is 13,920 K, giving it the blue-white hue characteristic of B-type stars. The abundance of elements other than hydrogen and helium, what astronomers term the metallicity, is about 74% of the abundance in the Sun.Based on the estimated age and motion, it may be a member of the AB Doradus moving group that share a common motion through space. This group has an age of about 70 million years, which is consistent with α Gruis's 100-million-year estimated age (allowing for a margin of error). The space velocity components of this star in the Galactic coordinate system are [U, V, W] = [–7.0 ± 1.1, –25.6 ± 0.7, –15.5 ± 1.4] km/s.
+
+

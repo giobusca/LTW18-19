@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 17 h 05 m 20.12403 s
+
+Declination: +54° 28′ 12.0994″
+
+Apparent magnitude: 4.92
+
+Distance: 89 ± 1 ly
+
+Mass: 1.35 M
+
+
+
+Mu Draconis (μ Draconis, abbreviated Mu Dra, μ Dra) is a multiple star system near the head of the constellation of Draco. With a combined magnitude of 4.92, it is visible to the naked eye. Based on parallax estimates by the Hipparcos spacecraft, it is located approximately 89 light-years from the Sun.The system consists of a single primary star (designated Mu Draconis A, also named Alrakis), a secondary binary pair (Mu Draconis B) and a further single star (C). B's two components are designated Mu Draconis Ba and Bb.
+Mu Draconis A and Ba are nearly identical F-type main-sequence stars, with masses of 1.35 M☉ and 1.30 M☉, respectively. Both have the spectral class of F5V, and have similar apparent magnitude, at 5.66 and 5.69, respectively. The secondary, Mu Draconis B, has a drifting radial velocity, and is itself a spectroscopic binary with an orbital period of 2,270 days. The smaller component, Mu Draconis Bb, has a mass of 0.2 M☉. Mu Draconis C is a 14th magnitude common-proper-motion companion 13.2" away from the bright pair, with a mass of 0.29 M☉.
+
+
+== Nomenclature ==
+μ Draconis (Latinised to Mu Draconis) is the star's Bayer designation. The designations of the three constituents as Mu Draconis A, B and C, and those of B's components - Mu Draconis Ba and Bb - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Alrakis (also written as Arrakis and Errakis), which is derived from name given to it in Arabic by Arabian stargazers, al-Rāqiṣ, "the Trotting Camel" or "the Dancer". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alrakis for the component Mu Draconis A on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.This star, along with Beta Draconis (Rastaban), Gamma Draconis (Eltanin), Nu Draconis ('Kuma') and Xi Draconis (Grumium) were Al ʽAwāïd "the Mother Camels", which was later known as the Quinque Dromedarii.
+
+
+== Cultural references ==
+Science fiction writer Frank Herbert chose Arrakis as the name of the primary planet in his famous Dune series of novels, aware that the word "Arrakis" is the transliteration into English of the Arabic words for "the Dancer" (al-Raqis). However, Herbert uses the name not to describe Mu Draconis A, but the fictional planet Arrakis as the third planet of the star Canopus (α Carinae) in the constellation Carina.
+
+

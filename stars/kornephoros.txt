@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Hercules
+
+Right ascension: 16 h 30 m 13.19955 s
+
+Declination: +21° 29′ 22.6008″
+
+Apparent magnitude: 2.81
+
+Distance: 139 ± 3 ly
+
+Mass: 2.9 M
+
+Radius: 17 R
+
+Luminosity: 151 L
+
+Temperature: 4,887 K
+
+Rotational velocity: 3.0 km/s
+
+
+
+Beta Herculis (β Herculis, abbreviated Beta Her, β Her), also named Kornephoros, is a binary star and the brightest star in the northern constellation of Hercules at a base apparent visual magnitude of 2.81. This is a suspected variable star with an apparent magnitude that may rise as high as 2.76. Based upon parallax measurements, it is located at a distance of 139 light-years (43 parsecs) from the Sun.Although Beta Herculis appears to the naked eye to be a single star, in July 1899 the American astronomer W. W. Campbell discovered from spectroscopic measurements that its radial velocity varies, and concluded that it has a companion.
+
+
+== Properties ==
+At Palomar Observatory, Antoine Labeyrie and others used speckle interferometry with the Hale Telescope to resolve the system in 1977. The Hipparcos satellite observed the orbital motion of the primary relative to other stars, and an orbit was computed in 2005 using spectroscopic data together with these measurements. The period of the system is around 410 days. They have a high orbital eccentricity of 0.55 and the orbital plane is inclined 53.8° to the line of sight from the Earth.The primary star has a stellar classification of G7 IIIa, indicating that it is a giant star that has exhausted the hydrogen at its core and evolved away from the main sequence. It has a mass nearly three times the mass of the Sun, and has expanded to 17 times the Sun's radius. The effective temperature of the star's outer envelope is about 4,887 K, which gives it the yellow hue of a G-type star. The secondary star has a mass only 90% that of the Sun.
+
+
+== Nomenclature ==
+β Herculis (Latinised to Beta Herculis) is the star's Bayer designation.
+It bore the traditional names Kornephoros, a Greek word meaning "club bearer", and Rutilicus, a corruption of the Latin word titillicus, meaning "armpit". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Kornephoros for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.It was a member of the indigenous Arabic asterism al-Nasaq al-Shāmī, "the Northern Line" of al-Nasaqān "the Two Lines", along with Gamma Herculis, Gamma Serpentis and Beta Serpentis. Though, according to a 1971 NASA catalog, al-Nasaq al-Sha'āmī or Nasak Shamiya was the title for three other stars: Beta Serpentis as Nasak Shamiya I, Gamma Serpentis as Nasak Shamiya II and Gamma Herculis as Nasak Shamiya III.In Chinese, 天市右垣 (Tiān Shì Yòu Yuán), meaning Right Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven old states in China and which is marking the right borderline of the enclosure, consisting of Beta Herculis, Gamma Herculis, Kappa Herculis, Gamma Serpentis, Beta Serpentis, Delta Serpentis, Alpha Serpentis, Epsilon Serpentis, Delta Ophiuchi, Epsilon Ophiuchi and Zeta Ophiuchi. Consequently, Beta Herculis itself is known as 天市右垣一 (Tiān Shì Zuǒ Yòu yī, English: the First Star of Right Wall of Heavenly Market Enclosure), represent Hézhōng (河中), possibly Hezhong Municipality or Hezhong Circuit (see : Wang Chongrong, formally the Prince of Langye 瑯琊王, was a warlord of the late Chinese Tang Dynasty who controlled Hezhong Circuit, headquartered in modern Yuncheng, Shanxi). Hézhōng (河中) was westernized into Ho Chung by R.H. Allen, which means "in the river".
+
+
+=== Namesake ===
+USS Rutilicus (AK-113) was a United States Navy Crater class cargo ship named after the star.
+
+

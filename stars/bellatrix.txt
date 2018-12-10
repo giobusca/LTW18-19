@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Orion
+
+Right ascension: 05 h 25 m 07.86325 s
+
+Declination: +06° 20′ 58.9318″
+
+Apparent magnitude: (1.59 - 1.64
+
+Distance: 250 ± 10 ly
+
+Mass: 8.6 M
+
+Radius: 5.75 R
+
+Luminosity: 9,211 L
+
+
+
+Bellatrix, also designated Gamma Orionis (γ Orionis, abbreviated Gamma Ori, γ Ori), is the third-brightest star in the constellation of Orion, 5° west of the red giant Alpha Orionis (Betelgeuse). Just between the first and second magnitude and slightly variable, it is about the 25th-brightest star in the night sky.
+
+
+== Properties ==
+
+Bellatrix is a massive star with about 8.6 times the Sun's mass. It has an estimated age of approximately 25 million years—old enough for a star of this mass to consume the hydrogen at its core and begin to evolve away from the main sequence into a giant star. The effective temperature of the outer envelope of this star is 22000 K, which is considerably hotter than the 5,778 K on the Sun. This high temperature gives this star the blue-white hue that occurs with B-type stars. The measured angular diameter of this star, after correction for limb darkening, is 0.72±0.04 mas. At an estimated distance of 250 light-years (77 parsecs), this yields a physical size of about six times the radius of the Sun.Bellatrix was thought to belong to the Orion OB1 Association of stars that share a common motion through space, along with the "Orion's Belt" stars Zeta Orionis (Alnitak), Epsilon Orionis (Alnilam), and Delta Orionis (Mintaka). However, this is no longer believed to be the case, as Bellatrix is now known to be much closer than the rest of the group. It is not known to have a stellar companion, although researchers Maria-Fernanda Nieva and Norbert Przybilla raised the possibility it might be a spectroscopic binary. A 2011 search for nearby companions failed to conclusively find any objects that share a proper motion with Bellatrix. Three nearby candidates were all found to be background stars.
+
+
+== Standard star ==
+Bellatrix has been used as both a photometric and spectral standard star, but both characteristics have been shown to be unreliable.
+In 1963, Bellatrix was included with a set of bright stars used to define the UBV magnitude system. These are used for comparison with other stars to check for variability, and so by definition, the apparent magnitude of Bellatrix was set to 1.64. However, when an all-sky photometry survey was carried out in 1988, this star was itself found to be variable. It ranges in apparent magnitude from 1.59 to 1.64.The spectral types for O and early B stars were defined more rigorously in 1971 and Bellatrix was used as a standard for the B2 III type. The expected brightness of Bellatrix from this spectral type is about one magnitude brighter than calculated from its apparent magnitude and Hipparcos distance. Analysis of the observed characteristics of the star indicate that it should be a B2 main sequence star, not the giant that it appears from its spectral type. Close analysis of high resolution spectra suggest that it is a spectroscopic binary composed of two similar stars less luminous than a B2 giant.
+
+
+== Etymology and cultural significance ==
+
+Gamma Orionis is the star's Bayer designation. The traditional name Bellatrix is Latin for "female warrior"; it first appeared in the works of Abu Ma'shar al-Balkhi and Johannes Hispalensis, where it originally referred to Capella, but was transferred to Gamma Orionis by the Vienna school of astronomers in the 15th century, and appeared in contemporary reprints of the Alfonsine tables. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Bellatrix for this star. It is now so entered in the IAU Catalog of Star Names.Bellatrix was also called the Amazon Star, which Richard Hinckley Allen proposed came from a loose translation of the Arabic name Al Najīd, the Conqueror. A c.1275 Arabic celestial globe records the name as المرزم "the lion". Bellatrix is one of the four navigational stars in Orion that are used for celestial navigation.In Chinese, 參宿 (Shēn Sù), meaning Three Stars (asterism), refers to an asterism consisting of Bellatrix, Alnitak, Alnilam, Mintaka, Betelgeuse, Saiph and Rigel. Consequently, Bellatrix are known as 參宿五 (Shēn Sù wǔ, English: the Fifth Star of Three Stars).In the 17th century catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Menkib al Jauza al Aisr, which was translated into Latin as Humerus Sinister Gigantis.The Wardaman people of northern Australia know Bellatrix as Banjan, the sparkling pigment used in ceremonies conducted by Rigel the Red Kangaroo Leader in a songline when Orion is high in the sky. The other stars of Orion are his ceremonial tools and entourage. Betelgeuse is Ya-jungin "Owl Eyes Flicking", watching the ceremonies.To the Inuit, the appearance of Betelgeuse and Bellatrix high in the southern sky after sunset marked the beginning of spring and lengthening days in late February and early March. The two stars were known as Akuttujuuk "those (two) placed far apart", referring to the distance between them, mainly to people from North Baffin Island and Melville Peninsula.
+
+

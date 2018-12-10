@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Andromeda
+
+Right ascension: 01 h 22 m 20.41924 s
+
+Declination: +45° 31′ 43.6003″
+
+Apparent magnitude: +4.90
+
+Distance: 214 ± 4 ly
+
+Mass: 2.5 M
+
+Radius: 10 R
+
+Luminosity: 45.7 L
+
+Temperature: 4,656 K
+
+Rotational velocity: 0.0 km/s
+
+
+
+Xi Andromedae (ξ Andromedae, abbreviated Xi And, ξ And), also named Adhil, is a solitary star in the northern constellation of Andromeda. It has an apparent magnitude of +4.9. Based on parallax measurements obtained during the Hipparcos mission, it lies at a distance of roughly 214 light-years (66 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ξ Andromedae (Latinised to Xi Andromedae) is the star's Bayer designation. It also bears the Flamsteed designation 46 Andromedae. Johann Bayer labeled this star "ξ" in his Uranometria. The star appeared in John Flamsteed's Atlas Coelestis, but was unlabeled. It was later designated as 46 And by Jérôme Lalande. The label "ξ" was used in Atlas Coelestis, apparently erroneously, for what Bayer had labeled "A" (Bayer's A Andromedae has the Flamsteed designation 49 Andromedae).It bore the traditional name Adhil, which is derived from the Arabic الذيل að-ðayl "the train" (lit. "the tail"). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Adhil for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+This star is a red clump giant star that has begun generating energy through the fusion of helium at its core, having passed through the red giant branch of its evolution. It has a stellar classification of K0 IIIb, with 2.5 times the mass of the Sun and 10 times the Sun's radius. Xi Andromedae is emitting nearly 46 times as much luminosity as the Sun from its outer envelope at an effective temperature of 4,656 K, giving it the orange-hued glow of a K-type star. It has no measurable projected rotational velocity, although this may simply mean that the star's pole of rotation is facing in the general direction of the Earth.
+
+

@@ -1,0 +1,45 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 11 h 01 m 50.47654 s
+
+Declination: +56° 22′ 56.7339″
+
+Apparent magnitude: +2.37
+
+Distance: 79.7 ± 0.3 ly
+
+Mass: 2.7 M
+
+Radius: 3.021 ± 0.038 R
+
+Luminosity: 63.015 ± 1.307 L
+
+Temperature: 9377 ± 75 K
+
+Rotational velocity: 46 km/s
+
+
+
+Beta Ursae Majoris (β Ursae Majoris, abbreviated Beta UMa, β UMa), also named Merak, is a star in the northern circumpolar constellation of Ursa Major.
+The apparent visual magnitude of this star is +2.37, which means it is readily visible to the naked eye. It is more familiar to northern hemisphere observers as one of the "pointer stars" in the Big Dipper or the Plough (UK), which is a prominent asterism of seven stars that forms part of the larger constellation. Extending an imaginary straight line from this star through the nearby Alpha Ursae Majoris (Dubhe) extends to Polaris, the north star.
+
+
+== Properties ==
+Based upon parallax measurements of this star, it is located at a distance of 79.7 light-years (24.4 parsecs) from the Sun. The spectrum shows this to have a stellar classification of A1 V, making it a fairly typical main sequence star that is generating energy through the thermonuclear fusion of hydrogen at its core. The effective temperature of the outer envelope is about 9,225 K, giving it a white-hued glow that is typical for A-type stars. It is larger than the Sun, with about 2.7 times the mass and 2.84 times the Solar radius. If they were viewed from the same distance, Beta Ursae Majoris would appear much brighter than the Sun, as it is radiating 68 times the Sun's luminosity.Observation of the star in the infrared reveal an excess emission that suggests the presence of a circumstellar debris disk of orbiting dust, much like those discovered around Fomalhaut and Vega The mean temperature of this disk is 120 K, indicating that it is centered at a radius of 47 AU from the host star. The dust has an estimated mass of about 0.27% the mass of the Earth.Beta Ursae Majoris is one of five stars in the Big Dipper that form a part of a loose open cluster called the Ursa Major moving group, sharing the same region of space and not just the same patch of sky from Earth's perspective. This group has an estimated age of about (500 ± 100) million years. As the members of this group share a common origin and motion through space, this yields an estimate for the age of Beta Ursae Majoris. Two stars are known to be located in relatively close proximity: 37 Ursae Majoris at 5.2 light-years (1.6 pc) and Gamma Ursae Majoris at 11.0 light-years (3.4 pc); much closer to each other than these stars are to the Earth.
+
+
+== Nomenclature ==
+β Ursae Majoris (Latinised to Beta Ursae Majoris) is the star's Bayer designation.
+It bore the traditional name Merak derived from the Arabic المراق al-maraqq 'the loins' (of the bear).  In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Merak for this star.
+The Hindus called the star Pulaha, one of the Seven Rishis.In Chinese, 北斗 (Běi Dǒu), meaning Northern Dipper, refers to an asterism consisting of Beta Ursae Majoris, Alpha Ursae Majoris, Gamma Ursae Majoris, Delta Ursae Majoris, Epsilon Ursae Majoris, Zeta Ursae Majoris and Eta Ursae Majoris. Consequently, Beta Ursae Majoris itself is known as 北斗二 (Běi Dǒu èr, English: the Second Star of Northern Dipper) and 天璇 (Tiān Xuán, English: Star of Celestial Rotating Jade).
+
+
+== In culture ==
+USS Merak (1918) and USS Merak (AF-21), both of United States navy ship.
+In the original Star Trek series episode The Cloud Minders, the planet "Merak II" is said to be suffering from a botanical plague that can only be treated by the use of the mineral zenite.
+The video game Devil Survivor 2 features Merak, alongside the other stars of the Big Dipper, as the Septentrione, strange beings that appear in Japan on each day of the game. Merak features on the 2nd day in Osaka, Japan.
+In the anime Saint Seiya, also known as Knights of the Zodiac, the God Warriors are the main antagonists during the Asgard arc, each star of the Big Dipper serves as a guardian for each God Warrior. Hagen is the name of the God Warrior representing the star Beta Merak.
+
+

@@ -1,0 +1,46 @@
+==Datasheet==
+
+Constellation: Aquarius
+
+Right ascension: 21 h 31 m 33.53171 s
+
+Declination: –05° 34′ 16.2320″
+
+Apparent magnitude: 2.87
+
+Distance: 540 ± 20 ly
+
+Mass: 6.0–6.5 M
+
+Radius: 50 R
+
+Luminosity: 2,300 L
+
+Temperature: 5,700 K
+
+Rotational velocity: 6.3 ± 1.3 km/s
+
+
+
+Beta Aquarii (β Aquarii, abbreviated Beta Aqr, β Aqr) is a star in the constellation of Aquarius. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 540 light-years (165 parsecs) from the Sun. The primary or 'A' component is also named Sadalsuud.
+
+
+== Nomenclature ==
+β Aquarii (Latinised to Beta Aquarii) is the star's Bayer designation.
+It bore the traditional name Sadalsuud, from an Arabic expression سعد السعود (sa‘d al-su‘ūd), the "luck of lucks". Other spellings that were sometimes encountered were Sad es Saud, Sadalsund, and Saad el Sund. In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Nir Saad al Saaoud, which was translated into Latin as Lucida Fortunæ Fortunarum (rather identic with R.H. Allen), meaning the brightest of luck of lucks. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sadalsuud for the primary or 'A' component on 21 August 2016, and it is now so included in the List of IAU-approved Star Names.In Chinese, 虚宿 (Xū Sù), meaning Emptiness (asterism), refers to an asterism consisting of Beta Aquarii and Alpha Equulei. Consequently, Beta Aquarii itself is known as 虛宿一 (Xū Sù yī, English: the First Star of Emptiness).Sadalsuud is found in Hindu texts as Kalpeny and, in the context of the ancient Indian system of astronomy, Jyotisha Veda, is located in the 23rd Nakshatra Shravishthā, a lunar mansion which is ruled by Eight vasus - the "deities of earthly abundance" . On the Euphrates, Sadalsuud was known as Kakkab Nammax, the Star of Mighty Destiny; that may have given origin to the title of the manzil, as well as to the astrologers' name for it — Fortuna Fortunarum.
+
+
+== Properties ==
+Sadalsuud is the brightest star in Aquarius with an apparent magnitude of 2.87 and a stellar classification of G0 Ib. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The mass of this star is about 6.0 to 6.5 times the mass of the Sun, but it is emitting roughly 2,300 times the Sun's luminosity implying a radius that is 50 times that of the Sun. It has an estimated age of 60 million years; old enough for a star of this mass to evolve into a supergiant. The estimated effective temperature of the star's outer envelope is about 5,700 K, giving it the characteristic yellow hue of G-type stars.X-ray emissions from the corona of this star have been detected using the Chandra X-ray Observatory; among the first such detections of X-rays for a G-type supergiant. A secondary X-ray source discovered near Beta Aquarii probably has an extragalactic origin. This star belongs to a group of three intermediate mass stars with a space velocity that is carrying them perpendicular to the plane of the galaxy. The other members of this grouping are Alpha Aquarii and Eta Pegasi.
+
+
+=== Double star ===
+"Sadalsuud" appears to be a single star to the naked eye, but when viewed with a telescope is seen to have two faint optical companions. The first has an apparent magnitude of 11.0. In 1947, the position angle was observed at 321 degrees with a separation from the Beta Aquarii of 35.4 arcseconds. The second star has a magnitude of 11.6. Its position angle is 186 degrees with a separation from Beta Aquarii of 57.2 arcseconds. As of 2008, there is no definitive evidence that the three stars form a ternary star system.
+
+
+== In Mythology ==
+
+In the context of older worldviews (i.e. Egyptian, Persian and Islamic mythology), Sadalsuud relates to the rising of the Sun when winter has passed (March) and the season of gentle, continuous rain has begun. Hence the myth of "luck" or "good fortune" was seen as closely aligned with the essence of spring itself, the burgeoning of new life, and by extension agriculture, which in all societies is the very foundation of prosperity or "good fortune".  This mythological view of "the luck of the lucks" also belongs to the 22d Manzil (Arabic Lunar Mansion), which included the two stars Xi Aquarii (Bunda) and 46 Capricorni.β and ξ Aquarii also constitute the Persian lunar mansion Bunda and the similar Coptic mansion Upuineuti, the meaning of which is "the Foundation".
+In Chinese mythology, β Aqr alone marks the sieu (Chinese Lunar Mansion) Heu, Hiu, or Hü, "the Void", anciently Ko, the central one of the seven sieu which, taken together, were known as Heung Wu, the Black Warrior, in the northern quarter of the sky. As such, Sadalsuud is an expression of the feminine archetype, the Yin or "Void" (Cosmic Mother), from which, many cultures have believed, creation itself (birth) emanates.
+
+

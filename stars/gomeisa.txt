@@ -1,0 +1,45 @@
+==Datasheet==
+
+Constellation: Canis Minor
+
+Right ascension: 07 h 27 m 09.04174 s
+
+Declination: +08° 17′ 21.5368″
+
+Apparent magnitude: 2.84 - 2.92
+
+Distance: 160 ± 10 ly
+
+Mass: 3.5 M
+
+Radius: 3.5 R
+
+Luminosity: 195 L
+
+Temperature: 11,772 K
+
+Rotational velocity: 210 km/s
+
+
+
+Beta Canis Minoris (β Canis Minoris, abbreviated Beta CMi, β CMi), also named Gomeisa, is a star in the constellation of Canis Minor. In the night sky it is notable for its proximity to the prominent star Procyon.
+
+
+== Nomenclature ==
+β Canis Minoris (Latinised to Beta Canis Minoris) is the star's Bayer designation.
+The traditional name Gomeisa comes from the Arabic al-ghumaisa’ 'the bleary-eyed (woman)', short for مرزم الغميصاء mirzam al-ghumaisa’ 'girdle of the bleary-eyed one'. In Arabic, the short form would be identical with the name of Procyon. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Gomeisa for this star.
+In Chinese, 南河 (Nán Hé), meaning South River, refers to an asterism consisting of β Canis Minoris, Procyon and Epsilon Canis Minoris. Consequently, β Canis Minoris itself is known as 南河二 (Nán Hé èr, English: the Second Star of South River.)
+
+
+== Properties ==
+From parallax measurements, the distance to this star is about 160 ± 10 light-years (49.1 ± 3.1 parsecs).  It has an apparent visual magnitude of 2.89, making it easily visible to the naked eye. Beta Canis Minoris has about 3.5 times the Sun's mass and is rotating rapidly with a projected rotational velocity of 210 km s−1, which gives a lower bound on the azimuthal rotational velocity along the star's equator. The actual rotation rate may be about once per day.The stellar classification of this star is B8 Ve. A luminosity class V star belongs on the main sequence, which means it is generating energy through the thermonuclear fusion of hydrogen at its core. The star is radiating this energy from its outer envelope at an effective temperature of 12,050 K, giving it a blue-white hue typical of B-type stars. An 'e' classification indicates that the spectrum contains emission lines, which means this is a Be star that is surrounded by a thin, circumstellar disk made of gaseous material ejected from the star. This hot, gaseous disk is about three times the radius of the star.
+
+
+== Variability ==
+β Canis Minoris has long been suspected of variability, and in 1977 it was classified as a γ Cassiopeiae variable in the General Catalogue of Variable Stars. A number of studies have found no variation at all. While it shows little variation in brightness, it does display changes in the hydrogen emission coming from the gaseous disk but even those are less pronounced than in many other Be stars.Examination with the Canadian MOST space telescope reveals changes in the brightness of β Canis Minoris at the milli-magnitude level. This variation has a cyclic pattern formed from multiple overlapping frequencies, with the dominant frequencies being 3.257 and 3.282 cycles per day. As such, it belongs to a class called slowly pulsating B-type (SPB) stars. Be stars that show these types of pulsation have been dubbed SPBe stars.
+
+
+== Possible companion ==
+It is likely that Beta Canis Minoris is a close binary with a 170-day, eccentric orbit. The companion would have about 42% of the Sun's Mass. The nature of the companion is unknown, but it is speculated that it could be a subdwarf O star remaining after binary interactions that spun up the Be primary. If confirmed, this would make it a member of the very rare Phi Persei Be+sdO type systems.
+
+

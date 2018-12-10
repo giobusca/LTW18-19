@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Gemini
+
+Right ascension: 06 h 37 m 42.71050 s
+
+Declination: +16° 23′ 57.4095″
+
+Apparent magnitude: 1.915
+
+Distance: 109 ± 8 ly
+
+Mass: 2.81 M
+
+Radius: 3.3 R
+
+Luminosity: 123 L
+
+Temperature: 9,260 K
+
+
+
+Gamma Geminorum (γ Geminorum, abbreviated Gamma Gem, γ Gem), also named Alhena, is the third-brightest star in the constellation of Gemini. It has an apparent visual magnitude of 1.9, making it easily visible to the naked eye even in urban regions. Based upon parallax measurements with the Hipparcos satellite, it is located at a distance of roughly 109 light-years (33 parsecs) from the Sun.
+
+
+== Properties ==
+Alhena is an evolving star that is exhausting the supply of hydrogen at its core and has entered the subgiant stage. The spectrum matches a stellar classification of A0 IV. Compared to the Sun it has 2.8 times the mass and 3.3 times the radius. It is radiating around 123 times the luminosity of the Sun from its outer envelope at an effective temperature of 9,260 K. This gives it a white hue typical of an A-class star.This is a spectroscopic binary system with a period of 12.6 years (4,614.51 days) in a highly eccentric Keplerian orbit.
+
+
+== Etymology ==
+γ Geminorum (Latinised to Gamma Geminorum) is the star's Bayer designation. The traditional name Alhena is derived from the Arabic الهنعة Al Han'ah, 'the brand' (on the neck of the camel), whilst the alternate name Almeisan is from the Arabic المیسان Al Maisan, 'the shining one.' Al Hanʽah was the name of star association consisting of this star, along with Mu Geminorum (Tejat Posterior), Nu Geminorum, Eta Geminorum (Tejat Prior) and Xi Geminorum (Alzirr). They also were associated in Al Nuḥātai, the dual form of Al Nuḥāt, 'a Camel's Hump'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alhena for this star.
+In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Nir al Henat, which was translated into Latin as Prima του al Henat, meaning 'the brightest of Al Henat'.In Chinese, 井宿 (Jǐng Su), meaning Well (asterism), refers to an asterism consisting of γ Geminorum, μ Geminorum, ν Geminorum, ξ Geminorum, ε Geminorum, 36 Geminorum, ζ Geminorum and λ Geminorum. Consequently, γ Geminorum itself is known as 井宿三 (Jǐng Su sān, English: the Third Star of Well.)
+
+
+== In culture ==
+Alhena was the name of a Dutch ship that rescued many people from an Italian cruise liner, the Principessa Mafalda, in October 1927. In addition, the American attack cargo ship USS Alhena (AKA-9) was named after the star.
+
+

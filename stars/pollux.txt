@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Gemini
+
+Right ascension: 07 h 45 m 18.94987 s
+
+Declination: +28° 01′ 34.3160″
+
+Apparent magnitude: 1.14
+
+Distance: 33.78 ± 0.09 ly
+
+Luminosity: 43 L
+
+Rotation: 558 days
+
+Rotational velocity: 2.8 km/s
+
+
+
+Pollux, also designated Beta Geminorum (β Geminorum, abbreviated Beta Gem, β Gem), is an orange-hued evolved giant star approximately 34 light-years from the Sun in the northern constellation of Gemini.  It is the brightest star in the constellation of Gemini and the closest giant star to the Sun.
+Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. In 2006, an extrasolar planet (designated Pollux b or β Geminorum b, later named Thestias) was confirmed to be orbiting it.
+
+
+== Nomenclature ==
+β Geminorum (Latinised to Beta Geminorum) is the star's Bayer designation.
+The traditional name Pollux refers specifically to the twins Castor and Pollux in Greek and Roman mythology. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Pollux for this star.
+Castor and Pollux are the two "heavenly twin" stars giving the constellation Gemini (Latin, 'the twins') its name. The stars, however, are quite different in detail. Castor is a complex sextuple system of hot, bluish-white A-type stars and dim red dwarfs, while Pollux is a single, cooler yellow-orange giant. In Percy Shelley's 1818 poem Homer's Hymn To Castor And Pollux, the star is referred to as "..mild Pollux, void of blame."Following its discovery the planet was designated Pollux b. In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning name was Thestias for this planet. The winning name was based on that originally submitted by theSkyNet of Australia; namely Leda, Pollux's mother. At the request of the IAU, 'Thestias' (the patronym of Leda, a daughter of Thestius) was substituted. This was because 'Leda' was already attributed to an asteroid and to one of Jupiter's satellites.In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Muekher al Dzira, which was translated into Latin as Posterior Brachii, meaning the end in the paw.In Chinese, 北河 (Běi Hé), meaning North River, refers to an asterism consisting of Pollux, ρ Geminorum and Castor. Consequently, Pollux itself is known as 北河三 (Běi Hé sān, English: the Third Star of North River.)
+
+
+== Stellar characteristics ==
+Parallax measurements made with the Hipparcos astrometry satellite place Pollux at a distance of about 33.78 light-years (10.36 parsecs) from the Sun.
+
+At an apparent visual magnitude of 1.14, Pollux is the brightest star in the constellation, brighter even than its neighbor Castor (Alpha Geminorum). The star is larger than the Sun, with about two times its mass and almost nine times its radius. Once an A-type main sequence star, Pollux has exhausted the hydrogen at its core and evolved into a giant star with a stellar classification of K0 III. The effective temperature of this star's outer envelope is about 4666 K, which lies in the range that produces the characteristic orange hue of K-type stars. Pollux has a projected rotational velocity of 2.8 km·s−1. The abundance of elements other than hydrogen and helium, what astronomers term the star's metallicity, is somewhat uncertain, with estimates ranging from 85% to 155% of the Sun's abundance.Evidence for a low level of magnetic activity came from the detection of weak X-ray emission using the ROSAT orbiting telescope. The X-ray emission from this star is about 1027 erg s−1, which is roughly the same as the X-ray emission from the Sun. A magnetic field with a strength below 1 Gauss has since been confirmed on the surface of Pollux; one of the weakest fields ever detected on a star. The presence of this field suggests that Pollux was once an Ap star with a much stronger magnetic field. The star displays small amplitude radial velocity variations, but is not photometrically variable.Pollux is 6.69 degrees north of the ecliptic, so on rare occasions viewers in Earth's southern hemisphere see it occulted by the moon.
+
+
+== Planetary system ==
+Since 1993, scientists have suspected an extrasolar planet orbiting Pollux, from measured radial velocity oscillations. The existence of the planet, Pollux b, was confirmed and announced on June 16, 2006. Pollux b is calculated to have a mass at least 2.3 times that of Jupiter. The planet is orbiting Pollux with a period of about 590 days.
+
+

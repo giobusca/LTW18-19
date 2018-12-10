@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 11 h 14 m 14.40446 s
+
+Declination: +15° 25′ 46.4541″
+
+Apparent magnitude: +3.324
+
+Distance: 165 ± 1 ly
+
+Mass: 2.5 M
+
+Luminosity: 141 L
+
+Temperature: 9,350 K
+
+Rotational velocity: 23 km/s
+
+
+
+Theta Leonis, Latinized from θ Leonis, also named Chertan, is a star in the constellation of Leo. With an apparent visual magnitude of +3.324 it is visible to the naked eye and forms one of the brighter stars in the constellation. The distance from the Sun can be directly determined from parallax measurements, yielding a value of about 165 light-years (51 parsecs).
+
+
+== Description ==
+This is a large star with 2.5 times the mass of the Sun. The spectrum matches a stellar classification of A2 V, making this a seemingly typical A-type main sequence star. However, the spectrum shows enhanced absorption lines of metals, marking this as a chemically peculiar Am star. The abundance of elements other than hydrogen and helium, what astronomers term the star's metallicity, appears around 12% higher than in the Sun. It is radiating 141 times the luminosity of the Sun from its outer atmosphere at an effective temperature of 9,350 K, literally giving it a white-hot glow.Theta Leonis is much younger than the Sun, with an estimated age of around 550 million years. It has a moderately high rate of rotation, with a projected rotational velocity of 23 km s−1. Measurements in the infrared band show an excess of emission from the star and its surroundings, suggesting the presence of a circumstellar disk of dust. The temperature of this emission indicates the disk has an orbital radius of 36 AU.
+
+
+== Nomenclature ==
+θ Leonis (Latinised to Theta Leonis) is the star's Bayer designation.
+It bore the traditional names Chertan, Chort and Coxa. Chertan is derived from the Arabic al-kharātān 'two small ribs', originally referring to Delta Leonis and Theta Leonis; Chort from Arabic al-kharāt or al-khurt 'small rib', and Coxa  is Latin for 'hip'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Chertan for this star.
+In Chinese, 太微右垣 (Tài Wēi Yòu Yuán), meaning Right Wall of Supreme Palace Enclosure, refers to an asterism consisting of Theta Leonis, Beta Virginis, Sigma Leonis, Iota Leonis and Delta Leonis. Consequently, Theta Leonis itself is known as 太微右垣四 (Tài Wēi Zuǒ Yuán sì, English: the Fourth Star of Right Wall of Supreme Palace Enclosure.), representing 西次相 (Xīcìxiāng), meaning The Second Western Minister. 西次相 (Xīcìxiāng), spelled Tsze Seang by R.H. Allen, means "the Second Minister of State" 
+
+

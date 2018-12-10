@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Ursa Minor
+
+Right ascension: 17 h 32 m 12.99671 s
+
+Declination: 86° 35′ 11.2584″
+
+Apparent magnitude: 4.36
+
+Distance: 172 ± 1 ly
+
+Mass: 2.35 M
+
+Radius: 2.8 R
+
+Luminosity: 47.77 L
+
+Rotation: 19 hours
+
+Rotational velocity: 154 km/s
+
+
+
+Delta Ursae Minoris, Latinized from δ Ursae Minoris, also named Yildun, is a white-hued star in the northern circumpolar constellation of Ursa Minor, forming the second star in the bear's tail. It is visible to the naked eye with an apparent visual magnitude of 4.36. Based upon an annual parallax shift of 18.95 mas as seen from Earth, it is located 172 light years from the Sun. The star is moving closer to the Sun with a radial velocity of about −8 km/s.
+
+
+== Description ==
+This is an A-type main-sequence star with a stellar classification of A1 Van, where the 'n' indicates "nebulous" absorption lines in the spectrum due to rapid rotation. It is spinning with a projected rotational velocity of 180 km/s, which is giving the star an oblate shape with an equatorial bulge that is an estimated 7% larger than the polar radius. The star is about 327 million years old with 2.35 times the mass of the Sun It is radiating about 48 times the Sun's luminosity from its photosphere at an effective temperature of 9,911 K.δ Ursae Minoris has a 12th magnitude common proper-motion companion at an angular separation of 4.5 arc seconds along a position angle of 67.3°, which is a projected separation of 237.4 au at the distance of δ Ursae Minoris. The pair were resolved using adaptive optics. The companion is assumed to be gravitationally bound and to have a mass of approximately 0.16 M☉.
+
+
+== Nomenclature ==
+δ Ursae Minoris (Latinised to Delta Ursae Minoris) is the star's Bayer designation.
+It bore the traditional name Yildun (also spelled Vildiur or Gildun) from the Turkish yıldız "star". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Yildun for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.
+
+

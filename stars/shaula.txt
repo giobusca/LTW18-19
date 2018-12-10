@@ -1,0 +1,44 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 17 h 33 m 36.520 s
+
+Declination: −37° 06′ 13.76″
+
+Apparent magnitude: 1.62 / 14.9 / 12.0
+
+Distance: approx. 570 ly
+
+Mass: 14.5±1.1 M
+
+Radius: 8.8±1.2 R
+
+Luminosity: 36,300 L
+
+Temperature: 25,000±1,000 K
+
+Rotational velocity: 150 km/s
+
+
+
+Lambda Scorpii (λ Scorpii, abbreviated Lambda Sco, λ Sco), also named Shaula, is (despite being designated 'Lambda') the second-brightest star system in the constellation of Scorpius, and one of the brightest stars in the nighttime sky.
+
+
+== Nomenclature ==
+λ Scorpii (Latinised to Lambda Scorpii) is the star's Bayer designation.
+It bore the traditional name Shaula, which comes from the Arabic الشولاء  al-šawlā´ meaning 'the raised [tail]', as it is found in the tail of the scorpion (Scorpius). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Shaula for this star.
+In Chinese, 尾宿 (Wěi Xiù), meaning Tail, refers to an asterism consisting λ Scorpii, μ1 Scorpii, ε Scorpii, ζ1 Scorpii and ζ2 Scorpii, η Scorpii, θ Scorpii, ι1 Scorpii and ι2 Scorpii, κ Scorpii and υ Scorpii. Consequently, λ Scorpii itself is known as 尾宿八 (Wěi Xiù bā), "the Eighth Star of Tail".Together with Upsilon Scorpii (Lesath), Shaula is listed in the Babylonian compendium MUL.APIN as dSharur4 u dShargaz, meaning "Sharur and Shargaz".In Coptic, they were called Minamref.The indigenous Boorong people of northwestern Victoria (Australia) named it (together with Upsilon Scorpii) as Karik Karik, "the Falcons".
+
+
+== Properties ==
+Lambda Scorpii is located some 570 light-years away from the Sun.
+Spectroscopic and interferometric observations have shown that it is actually a triple system consisting of two B-type stars and a pre-main-sequence star. The primary star is a beta Cephei variable star with rapid brightness changes of about a hundredth of a magnitude.  The pre-main-sequence star has an orbital period of 6 days and the B companion has a period of 1053 days.  The three stars lie in the same orbital plane, strongly suggesting that they were formed at the same time.  The masses of the primary, pre-main-sequence star and the B companion are 14.5, 2.0 and 10.6 solar masses, respectively. The age of the system is estimated to be in the range 10–13 million years.
+A 15th-magnitude star has a separation of 42 arcseconds, whereas a 12th-magnitude star is 95 arcseconds away. It is not known whether or not these components are physically associated with Lambda Scorpii. If they both were, the first would have a projected linear separation of approximately 7,500 astronomical units (AU) and the second approximately 17,000 AU (0.27 light-years) away.
+
+
+== In culture ==
+Shaula appears on the flag of Brazil, symbolizing the state of Rio Grande do Norte.
+USS Shaula (AK-118) was a U.S. Navy Crater-class cargo ship named after the star.
+
+

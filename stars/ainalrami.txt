@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 18 h 54 m 10.17695 s
+
+Declination: −22° 44′ 41.4247″
+
+Apparent magnitude: +4.86
+
+Distance: approx. 1,100 ly
+
+
+
+Nu¹ Sagittarii (ν¹ Sagittarii, abbreviated Nu¹ Sgr, ν¹ Sgr) is a triple star system lying approximately 1,100 light-years from Earth. Its three components are designated Nu¹ Sagittarii A (also named Ainalrami), B and C. A and B themselves form a spectroscopic binary.
+
+
+== Nomenclature ==
+ν¹ Sagittarii (Latinised to Nu¹ Sagittarii) is the system's Bayer designation.
+Nu¹ and Nu² Sagittarii (together designated Nu Sagittarii) bore the traditional name Ain al Rami, which is from the Arabic عين الرامي  cain ar-rāmī meaning 'eye of the archer'. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Ainalrami for the component Nu¹ Sagittarii A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.Nu¹ and Nu² Sagittarii, together with Tau Sagittarii, Psi Sagittarii, Omega Sagittarii, 60 Sagittarii and Zeta Sagittarii were Al Udḥiyy, the Ostrich's Nest.
+
+
+== Properties ==
+Nu¹ Sagittarii A is a spectral type K1 bright giant which has an apparent magnitude of +4.86. It is a microvariable with a frequency of 0.43398 cycles per day and an amplitude of 0.0078 magnitude. In 1982 it was found to have a hotter companion, Nu¹ Sagittarii B, a rapidly rotating B9 type star. The pair orbit with a period of around 370 days. A magnitude +11.2 companion, component C, is orbiting further out at an angular separation of 2.5 arcseconds from the primary.
+
+

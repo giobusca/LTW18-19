@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 08 h 16 m 30.9206 s
+
+Declination: +09° 11′ 07.961″
+
+Apparent magnitude: 3.50 - 3.58
+
+Distance: 290 ± 30 ly
+
+Radius: 61 R
+
+Luminosity: 871 L
+
+Temperature: 3,990 K
+
+Rotational velocity: 6.9 km/s
+
+
+
+Beta Cancri (β Cancri, abbreviated Beta Cnc, β Cnc), also named Tarf, is the brightest star in the zodiacal constellation of Cancer. It has an apparent visual magnitude of +3.5 and an absolute magnitude of −1.2. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 290 light-years distant from the Sun. An exoplanet, designated Beta Cancri b, is believed to be orbiting the star.Beta Cancri has a companion listed and together they are designated WDS J08165+0911. As the primary, Beta Cancri bears the designation WDS J08165+0911A. The companion is designated WDS J08165+0911B.
+
+
+== Nomenclature ==
+β Cancri (Latinised to Beta Cancri) is the star's Bayer designation. WDS J08165+0911A is its designation in the Washington Double Star Catalog.The star bore the traditional name of Al Tarf (anglicized as Altarf), which can be translated from the Arabic as "end" or "edge". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Tarf for Beta Cancri on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Beta Cancri is an orange K-type giant, about 50 times the radius of the Sun. It is Barium star, a type of cool giant showing enhanced abundances of Barium. It is also suspected to vary slightly in brightness.The companion is a red dwarf of the fourteenth magnitude. From its angular distance of 29 arcseconds, the companion's distance from Beta Cancri is estimated at some 2600 AU, with an orbital period of 76,000 years.
+
+
+=== Planet ===
+In 2014 evidence was presented of a planet orbiting Beta Cancri. Using radial velocity data from repeated observations of the star, the planet is estimated to have a minimum mass of approximately 7.8 times that of Jupiter, and an orbital period of 605 days.
+
+

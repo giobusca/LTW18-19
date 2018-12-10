@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Aries
+
+Right ascension: 01 h 54 m 38.41099 s
+
+Declination: +20° 48′ 28.9133″
+
+Apparent magnitude: 2.655
+
+Distance: 59.6 ± 0.8 ly
+
+Mass: 2.34 ± 0.10 M
+
+Luminosity: 23 L
+
+Temperature: 9,000 K
+
+Rotational velocity: 73 km/s
+
+
+
+Beta Arietis (β Arietis, abbreviated Beta Ari, β Ari), also named Sheratan, is a star system and the second-brightest star in the constellation of Aries, marking the ram's second horn.
+
+
+== Nomenclature ==
+Beta Arietis is the star's Bayer designation. It also bears the Flamsteed designation 6 Arietis.
+The traditional name, Sheratan (or Sharatan, Sheratim), in full Al Sharatan, is from the Arabic الشراطان aš-šarāţān "the two signs", a reference to the star having marked the northern vernal equinox together with Gamma Arietis several thousand years ago. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sheratan for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 婁宿 (Lóu Su), meaning Bond (asterism), refers to an asterism consisting of β Arietis, γ Arietis and α Arietis. Consequently, β Arietis itself is known as 婁宿一 (Lóu Su yī, English: the First Star of Bond).
+
+
+== Properties ==
+Beta Arietis has an apparent visual magnitude of 2.66. Based on parallax measurements, it is located at a distance of 59.6 light-years (18.3 parsecs) from Earth. This is a spectroscopic binary star system consisting of a pair of stars orbiting around each other with a separation that can not currently be resolved with a conventional telescope. However, the pair have been resolved using the Mark III Stellar Interferometer at the Mount Wilson Observatory. This allows the orbital elements to be computed, as well as the individual masses of the two stars. The stars complete their highly elliptical orbit every 107 days.The primary star has a stellar classification of A5 V, which means it is an A-type main-sequence star that is generating energy through the thermonuclear fusion of hydrogen in its core region. The NStars project gives the star a spectral type of kA4 hA5 mA5 Va under the revised MK spectral classification system. The spectrum of the secondary star has not been determined, but, based on the mass, it may have a stellar classification of F5 III–V or G0 V. It is about four magnitudes fainter than the primary; hence the energy output from the system is dominated by the primary star. In a few million years, as the primary evolves toward a red giant, significant amounts of mass transfer to the secondary component is expected.The primary has been classified as a rapid rotator, with a projected rotational velocity of 73 km/s providing a lower bound on the azimuthal rotational velocity along the equator. It may also be a mildly Am star, which is a class of stars that show a peculiar spectrum with strong absorption lines from various elements and deficiencies in others. In β Arietis, these absorption lines are broadened because of the Doppler effect from the rotation, making analysis of the abundance patterns difficult.This system has been examined with the Spitzer Space Telescope for the presence of an excess emission of infrared, which would indicate a disk of dust. However, no significant excess was detected.
+
+

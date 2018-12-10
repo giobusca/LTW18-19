@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Eridanus
+
+Right ascension: 02 h 51 m 02.32186 s
+
+Declination: −21° 00′ 14.4654″
+
+Apparent magnitude: 4.78
+
+Distance: 187 ± 2 ly
+
+Mass: 2.40  M
+
+Radius: 8.12  R
+
+Luminosity: 42.7  L
+
+Temperature: 5,049  K
+
+Rotational velocity: 1.11 km/s km/s
+
+
+
+Tau² Eridani (τ² Eridani, abbreviated Tau² Eri, τ² Eri), also named Angetenar, is a star in the constellation of Eridanus. It is visible to the naked eye with an apparent visual magnitude of 4.78. The distance to this star, as determined via the parallax method, is around 187 light-years.
+
+
+== Nomenclature ==
+τ² Eridani (Latinised to Tau² Eridani) is the system's Bayer designation. It is one of a series of stars that share the Bayer designation Tau Eridani.
+It bore the traditional name Angetenar, derived from the Arabic Al Ḥināyat al Nahr, 'the Bend in the River', near which it lies. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Angetenar for this star on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 天苑 (Tiān Yuàn), meaning Celestial Meadows, refers to an asterism consisting of Tau² Eridani, Gamma Eridani, Pi Eridani, Delta Eridani, Epsilon Eridani, Zeta Eridani, Eta Eridani, Pi Ceti, Tau¹ Eridani, Tau³ Eridani, Tau⁴ Eridani, Tau⁵ Eridani, Tau⁶ Eridani, Tau⁷ Eridani, Tau⁸ Eridani and Tau⁹ Eridani. Consequently, Tau² Eridani itself is known as 天苑九 (Tiān Yuàn jiǔ, English: the Ninth Star of Celestial Meadows.)
+
+
+== Properties ==
+Tau² Eridani is an evolved K-type giant star with a stellar classification of K0 III.  It is a red clump giant on the horizontal branch of the Hertzsprung–Russell diagram, indicating that is it now generating energy through the thermonuclear fusion of helium at its core.Around 660 million years old, Tau² Eridani has 2.4 times the mass of the Sun and has expanded to over 8 times the solar radius. It shines with nearly 43 times the Sun's luminosity from an outer atmosphere that has an effective temperature of 5,049 K.It is a member of the Galactic thin disk population.
+
+

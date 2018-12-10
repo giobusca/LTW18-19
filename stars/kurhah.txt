@@ -1,0 +1,23 @@
+==Datasheet==
+
+Constellation: Cepheus
+
+Right ascension: 22 h 03 m 47.455 s
+
+Declination: +64° 37′ 40.71″
+
+Apparent magnitude: 4.45 + 4.60
+
+Distance: 86 ± 6 ly
+
+
+
+Xi Cephei (ξ Cephei, abbreviated Xi Cep, ξ Cep) is a multiple star system in the constellation of Cepheus. It is approximately 86 light-years from Earth.It consists of two binary stars, designated Xi Cephei A and B, together with a more distant companion, Xi Cephei C. A's two components are themselves designated Xi Cephei Aa (also named Kurhah) and Ab.
+
+
+== Nomenclature ==
+ξ Cephei (Latinised to Xi Cephei) is the system's Bayer designation. The designations of the three constituents as ξ Cephei A, B and C, and those of A's components - ξ Cephei Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Xi Cephei bore the traditional names Kurhah, Alkirdah or Al Kirduh, the name coming from Qazvini who gave Al Ḳurḥaḥ (القرحة al-qurhah), an Arabic word Ideler translated as a white spot, or blaze, in the face of a horse. Allen indicates that Ideler felt this was not a proper name for a star, and suggested the name Al Ḳirdah (ألقردة al qírada "the Ape"). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Kurhah for the component Xi Cephei Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 天鈎 (Tiān Gōu), meaning Celestial Hook, refers to an asterism consisting of Xi Cephei, 4 Cephei, HD 194298, Eta Cephei, Theta Cephei, Alpha Cephei, 26 Cephei, Iota Cephei and Omicron Cephei. Consequently, Xi Cephei itself is known as 天鈎六 (Tiān Gōu liù, English: the Sixth Star of Celestial Hook).
+
+
+== Properties ==
+Xi Cephei A is a double-lined spectroscopic binary system with an orbital period of 810.9 days and an eccentricity of 0.46. The primary, component Aa, is a chemically peculiar Am star, a probable subgiant with an apparent magnitude of +4.29. Eight arcseconds away, Xi Cephei B is another spectroscopic binary. Xi Cephei C is a 13th magnitude star nearly two arcminutes away.

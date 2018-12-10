@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 11 h 50 m 41.71824 s
+
+Declination: +1° 45′ 52.9910″
+
+Apparent magnitude: 3.604
+
+Distance: 35.65 ± 0.09 ly
+
+Mass: 1.25 M
+
+Radius: 1.681 ± 0.008 R
+
+Luminosity: 3.572 ± 0.052 L
+
+Temperature: 6,132 ± 26 K
+
+Rotational velocity: 4.3 km/s
+
+
+
+Beta Virginis (β Virginis, abbreviated Beta Vir, β Vir), also named Zavijava, is (despite its designation 'beta') the fifth-brightest star in the constellation of Virgo. Larger and more massive than the Sun, it is comparatively metal-rich (that is, it has a higher preponderance of elements heavier than helium).It is 0.69 degrees north of the ecliptic, so it can be occulted by the Moon and (rarely) by planets. The next planetary occultation of Zavijava will take place on 11 August 2069, by Venus.
+
+
+== Nomenclature ==
+β Virginis (Latinised to Beta Virginis) is the star's Bayer designation.
+It bore the traditional names Zavijava (also Zavijah, Zavyava and Zawijah) and Alaraph. Zavijava is from the Arabic زاوية العواء zāwiyat al-cawwa’ 'corner of the barking (dog)'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Zavijava for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 太微右垣 (Tài Wēi Yòu Yuán), meaning Right Wall of Supreme Palace Enclosure, refers to an asterism consisting of Beta Virginis, Sigma Leonis, Iota Leonis, Theta Leonis and Delta Leonis. Consequently, Beta Virginis itself is known as 太微右垣一 (Tài Wēi Zuǒ Yuán yī, English: the First Star of Right Wall of Supreme Palace Enclosure.), representing 右執法 (Yòuzhífǎ), meaning The Right Law Administrator. 右執法 (Yòuzhífǎ), spelled Yew Chi Fa by R.H. Allen, means "the Right-hand Maintainer of Law" 
+
+
+== Hunt for substellar objects ==
+According to Nelson & Angel (1998), Beta Virginis could host two or three jovian planets in wide orbits. The authors have set an upper limit of 1.9, 5 and 23 Jupiter masses for the putative planets with orbital periods of 15, 25 and 50 years respectively. Also Campbell et al. 1988 inferred the existence of planetary objects or even brown dwarfs around Beta Virginis.
+However more recent studies have not confirmed the existence of any substellar companion around Beta Virginis yet. McDonald Observatory team has set limits to the presence of one or more planets with masses between 0.16 and 4.2 Jupiter masses and average separations spanning between 0.05 and 5.2 Astronomical Units.
+
+

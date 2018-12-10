@@ -1,0 +1,19 @@
+==Datasheet==
+
+
+
+This is a list of proper names of stars. These are the names of stars that have either been approved by the International Astronomical Union (its Working Group on Star Names has since 2016 been publishing a "List of IAU-approved Star Names", which as of June 2018 included a total of 330 proper names of stars) or which have been in somewhat recent usage. See also the lists of stars by constellation, which give variant names, derivations, and magnitudes.
+Of the roughly 10,000 stars visible to the naked eye, only a few hundred have been given proper names in the history of astronomy. Traditional astronomy tends to group stars into asterisms, and give proper names to those, not to individual stars.
+Many star names are in origin descriptive of the part of the asterism they are found in; thus Phecda, a corruption of the Arabic -فخذ الدب- fakhth al-dubb "thigh of the bear". Only a handful of the brightest stars have individual proper names not depending on their asterism; so Sirius "the scorcher", Antares and Canopus (of unknown origin), Alphard "the solitary one", Regulus "kinglet"; and arguably Aldebaran "the follower" (of the Pleiades), Procyon "preceding the dog [Sirius]". The same holds for Chinese astronomy, where most stars are enumerated within their constellation, with a handful of exceptions such as 織女 "weaving girl" (Vega).
+In addition to the limited number of traditional star names, there are some coined in modern times, e.g. "Avior" for Epsilon Carinae (1930), and a number of stars named after people (mostly in the 20th century).
+
+
+== IAU Catalog ==
+
+In 2016, the International Astronomical Union (IAU) organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin dated July 2016 included a table of 125 stars comprising the first two batches of names approved by the WGSN (on 30 June and 20 July 2016) together with names of stars adopted by the IAU Executive Committee Working Group on Public Naming of Planets and Planetary Satellites during the 2015 NameExoWorlds campaign and recognized by the WGSN. Further batches of names were approved on 21 August, 12 September, 5 October and 6 November 2016. These were listed in a table of 102 stars included in the WGSN's second bulletin dated November 2016. The next additions were done on 1 February 2017 (13 new star names), 30 June 2017 (29), 5 September 2017 (41), 17 November 2017 (3), 1 June 2018 (17), and on 10 August 2018 (6). All 336 are included in the current List of IAU-approved Star Names, last updated on 10 August 2018.
+
+
+== List ==
+In the table below, unless indicated by a '†', the 'Modern proper name' is that approved by the WGSN and entered in the List of IAU-approved Star Names. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. For such names relating to members of multiple star systems, and where a component letter (from e.g. Washington Double Star Catalog) is not explicitly listed, the WGSN says that the name should be understood to be attributed to the brightest component by visual brightness.
+
+

@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Corvus
+
+Right ascension: 12 h 29 m 51.85517 s
+
+Declination: −16° 30′ 55.5525″
+
+Apparent magnitude: +2.962
+
+Distance: 86.9 ± 0.4 ly
+
+Rotational velocity: 236 km/s
+
+
+
+Delta Corvi (δ Corvi, abbreviated Delta Crv, δ Crv), also named Algorab, is a third magnitude star at a distance of 86.9 light-years (26.6 parsecs) from the Sun in the southern constellation of Corvus.
+
+
+== Nomenclature ==
+δ Corvi (Latinised to Delta Corvi) is the star's Bayer designation.
+It bore the traditional name Algorab derived from Arabic الغراب al-ghuraab, meaning 'the crow'). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Algorab for this star.
+In Chinese, 軫宿 (Zhěn Sù), meaning Chariot (asterism), refers to an asterism consisting of Delta Corvi, Gamma Corvi, Epsilon Corvi and Beta Corvi. Consequently, Delta Corvi itself is known as 軫宿三 (Zhěn Sù sān, English: the Third Star of Chariot.).
+
+
+== Stellar properties ==
+Delta Corvi has more than 2.7 times the mass of the Sun, which is causing it to radiate a much higher energy output—roughly 69 times the Sun's luminosity. The effective temperature of the outer atmosphere is 10400 K, giving it the white hue of an A-type star. The spectrum matches a stellar classification of A0 IV(n) kB9. However it is more luminous—65-70 times that of the Sun—than it would be if it were on the main sequence. Hence it is either a subgiant star around 260 million years old that has nearly exhausted the supply of hydrogen at its core and is in the process of evolving away from the main sequence of stars like the Sun, or a pre main sequence star around 3.2 million years old that has not completely condensed and settled on the main sequence.In 1823, Delta Corvi was found to be a wide double star by British astronomers James South and John Herschel. Since that time, the position of the two stars with respect to each other has not changed. The magnitude 9.3 companion, HR 4757 B, with a classification of K2Ve, is at an angular separation of 24.2 arcseconds along a position angle of 214°. Although the two stars share a common proper motion, the significant differences in their estimated ages suggests that they may not be physically connected.A 2006 study found that Delta Corvi displayed no excess infrared emission that would otherwise suggest the presence of circumstellar matter, however warm interstellar dust was detected in a 2014 study.
+
+
+== In culture ==
+USS Algorab (AKA-8) is a United States navy ship named after the star.
+
+

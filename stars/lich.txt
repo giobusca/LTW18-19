@@ -1,0 +1,48 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 13 h 00 m 01 s
+
+Declination: +12° 40′ 57″
+
+Distance: 2,300 ± 100 ly
+
+Rotation: 0.006219
+
+
+
+PSR B1257+12, previously designated PSR 1257+12, alternatively designated PSR J1300+1240, also named Lich, is a pulsar located 2,300 light years from the Sun in the constellation of Virgo.The pulsar has a planetary system with three known extrasolar planets, named "Draugr" (PSR B1257+12 b or PSR B1257+12 A), "Poltergeist" (PSR B1257+12 c or PSR B1257+12 B) and "Phobetor" (PSR B1257+12 d or PSR B1257+12 C), respectively. They were both the first extrasolar planets and the first pulsar planets to be discovered; B and C in 1992 and A in 1994. A is the lowest mass planet yet discovered by any observational technique, with somewhat less than twice the mass of Earth's moon.
+
+
+== Nomenclature ==
+The convention that arose for designating pulsars was that of using the letters PSR (Pulsating Source of Radio) followed by the pulsar's right ascension and degrees of declination. The modern convention prefixes the older numbers with a B meaning the coordinates are for the 1950.0 epoch. All new pulsars have a J indicating 2000.0 coordinates and also have declination including minutes. Pulsars that were discovered before 1993 tend to retain their B names rather than use their J names, but all pulsars have a J name that provides more precise coordinates of its location in the sky.On their discovery, the planets were designated PSR 1257+12 A, B, and C, ordered by increasing distance. They were discovered before the convention that extrasolar planets receive designations consisting of the star's name followed by lower-case Roman letters starting from "b", in order of discovery, was established. However, they are listed under the latter convention on astronomical databases such as SIMBAD and the Extrasolar Planets Encyclopedia, with A becoming b, B becoming c, and C becoming d.
+In July 2014, the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names, submitted by the Planetarium Südtirol Alto Adige in Karneid, Italy, were Lich for the pulsar and Draugr, Poltergeist and Phobetor for planets A, B and C, respectively:
+A lich is a fictional undead creature known for controlling other undead creatures with magic.
+Draugr refers to undead creatures in Norse mythology.
+Poltergeist is a name for supernatural beings that create physical disturbances, from the German for "noisy ghost".
+Phobetor is, in Ovid's Metamorphoses, one of the thousand sons of Somnus (Sleep) who appears in dreams in the form of beasts.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars (including stellar remnants). In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This stellar remnant is now so entered in the IAU Catalog of Star Names.
+
+
+== Pulsar ==
+
+
+=== Discovery ===
+PSR B1257+12 was discovered by the Polish astronomer Aleksander Wolszczan on 9 February 1990 using the Arecibo radio telescope. It is a millisecond pulsar, a kind of neutron star, with a rotation period of 6.22 milliseconds (9,650 rpm), and was found to have anomalies in the pulsation period, which led to investigations as to the cause of the irregular pulses. In 1992 Wolszczan and Dale Frail published a famous paper on the first confirmed discovery of planets outside our solar system. Using refined methods one more planet was found orbiting this pulsar in 1994.
+
+
+=== Characteristics ===
+The pulsar is estimated to have a mass of 1.4 M☉, which is typical for most neutron stars and pulsars. The radius is also estimated to be around 10 kilometres (~0.000015 R☉), also common for pulsars and neutron stars. The pulsar is extremely hot, with a surface temperature of either less than or equal to around 28856 K. The pulsar formed about one to three billion years ago as the result of a white dwarf transforming into a rapidly spinning neutron star during the process of two white dwarfs merging with each other.The discovery stimulated a search for planets orbiting other pulsars, but it turned out such planets are rare; only four other pulsar planets, orbiting PSR B1620-26, PSR B0943+10, and PSR B0329+54, have been confirmed.
+
+
+== Planetary system ==
+
+
+=== Planets ===
+
+In 1992, Wolszczan and Frail discovered that the pulsar had two planets. These were the first discovery of extrasolar planets to be confirmed; as pulsar planets, they surprised many astronomers who expected to find planets only around main-sequence stars. Additional uncertainty surrounded the system, because of a claim of an earlier pulsar planet around PSR 1829-10 that had to be retracted due to errors in calculations. In 1994, an additional planet was discovered. Additionally, this system may have an asteroid belt or a Kuiper belt.
+The planets are believed to be the result of a second round of planetary system formation as a result of two white dwarfs merging with each other into a pulsar and a resulting disk of material in orbit around the star. Other scenarios include unusual supernova remnants or a quark-nova. However, the white dwarf–white dwarf merge model seems to be the most likely cause of the formation of the planets.
+
+
+=== Retracted claim of fourth orbital body ===
+In 1996, a possible Saturn-like (100 Earth mass) gas giant was announced orbiting the pulsar at a distance of about 40 AU.  The original hypothesis was retracted and a reinterpretation of the data led to a new hypothesis of a dwarf planet one-fifth the size of Pluto orbiting PSR B1257+12 at an average orbital distance of 2.4 AU with an orbital period of approximately 4.6 years. The dwarf planet hypothesis was also retracted because further observations showed that the pulsation anomalies previously thought to reveal a fourth orbital body are "not periodic and can be fully explained in terms of slow changes in the pulsar’s dispersion measure."

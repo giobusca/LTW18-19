@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Crux
+
+Right ascension: 12 h 47 m 43.26877 s
+
+Declination: –59° 41′ 19.5792″
+
+Apparent magnitude: 1.23 - 1.31
+
+Distance: 280 ± 20 ly
+
+Mass: 16 M
+
+Radius: 8.4 ± 0.6 R
+
+Luminosity: 34,000 L
+
+Temperature: 27,000 ± 1,000 K
+
+Rotation: 3.6 days
+
+Rotational velocity: 35 km/s
+
+
+
+Beta Crucis (β Crucis, abbreviated Beta Cru, β Cru), also named Mimosa, is a binary star system; the second-brightest star in the constellation of Crux (after Alpha Crucis or Acrux) and the 19th-brightest star in the night sky. It forms part of the prominent asterism called the Southern Cross.
+
+
+== Nomenclature ==
+β Crucis (Latinised to Beta Crucis) is the system's Bayer designation. Although Beta Crucis is at roughly −60° declination, and therefore not visible north of 30° latitude, in the time of the ancient Greeks and Romans it was visible north of 40° due to the precession of equinoxes, and these civilizations regarded it as part of the constellation of Centaurus.It bore the traditional names Mimosa and the historical name Becrux. Mimosa, which is derived from the Latin for 'actor', may come from the flower of the same name. Becrux is a modern contraction of the Bayer designation. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mimosa for this star.
+In Chinese, 十字架 (Shí Zì Jià), meaning Cross, refers to an asterism consisting of Beta Crucis, Gamma Crucis, Alpha Crucis and Delta Crucis. Consequently, Beta Crucis itself is known as 十字架三 (Shí Zì Jià sān, English: the Third Star of Cross.).
+
+
+== Properties ==
+
+Based on parallax measurements, β Crucis is located at a distance of 280 ly (86 pc) from the Earth. In 1957, German astronomer Wulff-Dieter Heintz discovered that it is a spectroscopic binary with components that are too close together to resolve with a telescope. The pair orbit each other every 5 years with an estimated separation that varies from 5.4 to 12.0 Astronomical Units. The system is only 8 to 11 million years old.The primary, Beta Crucis A, is a massive star with about 16 times the Sun's mass. The projected rotational velocity of this star is about 35 km s−1. However, the orbital plane of the pair is only about 10°, which probably means the inclination of the star's pole is also likely to be low. This suggests that the azimuthal rotational velocity is quite high, at about 120 km s−1. With a radius of about 8.4 times the radius of the Sun, this would mean the star has a rotational period of only about 3.6 days.Beta Crucis A is a known Beta Cephei variable, although with an effective temperature of about 27,000 K it is at the hot edge of the instability strip where such stars are found.  It has three different pulsation modes, none of which are radial.  The periods of all three modes are in the range of 4.03–4.59 hours. The star has a stellar classification of B0.5 III, with the luminosity class of 'III' indicating that this is a giant star that has exhausted the supply of hydrogen at its core. The high temperature of the star's outer envelope is what gives the star the blue-white hue that is characteristic of B-type stars. It is generating a strong stellar wind and is losing about 10−8 M☉ per year, or the equivalent of the mass of the Sun every 100 million years. The wind is leaving the system with a velocity of 2,000 km s−1 or more.The secondary may be a main sequence star with a stellar class of B2. In 2007, a third companion was announced, which may be a low mass, pre-main sequence star. The X-ray emission from this star was detected using the Chandra X-ray Observatory. Two other stars, located at angular separations of 44 and 370 arcseconds, are likely optical companions that are not physically associated with the system. The Beta Crucis system may be a member of the Lower Centaurus-Crux sub-group of the Scorpius-Centaurus Association. This is a stellar association of stars that share a common origin.
+
+
+== In culture ==
+Beta Crucis is represented in the flags of Australia, New Zealand, Samoa and Papua New Guinea as one of five stars making up the Southern Cross. It is also featured in the flag of Brazil, along with 26 other stars, each of which represents a state. Mimosa represents the State of Rio de Janeiro.A vessel named MV Becrux is used to export live cattle from Australia to customers in Asia. An episode dedicated to the vessel features in the television documentary series Mighty Ships.

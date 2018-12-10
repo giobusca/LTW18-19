@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Aquila
+
+Right ascension: 19 h 46 m 15.58029 s
+
+Declination: +10° 36′ 47.7408″
+
+Apparent magnitude: 2.712
+
+Distance: 395 ± 8 ly
+
+Radius: 95 R
+
+Rotational velocity: 8 km/s
+
+
+
+Gamma Aquilae (γ Aquilae, abbreviated Gamma Aql, γ Aql), also known as Tarazed, is a star in the constellation of Aquila. It has an apparent visual magnitude of 2.712, making it readily visible to the naked eye at night. Parallax measurements place it at a distance of 395 light-years (121 parsecs) from the Sun.
+
+
+== Properties ==
+
+Gamma Aquilae is a relatively young star with an age of about 100 million years. Nevertheless, it has reached a stage of its evolution where it has consumed the hydrogen at its core and expanded into what is termed a bright giant star, with a stellar classification of K3 II. The star is now burning helium into carbon in its core. After it has finished generating energy through nuclear fusion, Gamma Aquilae will become a white dwarf.The interferometry-measured angular diameter of Gamma Aquilae is 7.271±0.073 mas, which, at its estimated distance, equates to a physical radius of about 95 times the radius of the Sun. With almost six times the Sun's mass, this is an enormous star that is radiating over 2500 times the luminosity of the Sun. An effective temperature of 4210 K in its outer envelope gives it the orange hue typical of K-type stars.A 1991 catalogue of photometry reported that Gamma Aquilae showed some variation in its brightness, but this has not been confirmed.
+
+
+== Nomenclature ==
+γ Aquilae (Latinised to Gamma Aquilae) is the star's Bayer designation.
+It bore the traditional name Tarazed, which may derive from the Persian شاهين ترازو šāhin tarāzu "the beam of the scale", referring to an asterism of the Scale, Alpha, Beta and Gamma Aquillae. (Persian šāhīn means "royal falcon", "beam", and "pointer", and gave its name (as "falcon") to Beta Aquilae.) In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Tarazed for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Menkib al Nesr (منكب ألنسر - mankib al-nasr), which was translated into Latin as Humerus Vulturis, meaning 'the eagle's shoulder'.In Chinese, 河鼓 (Hé Gŭ), meaning River Drum, refers to an asterism consisting of Gamma Aquilae, Beta Aquilae and Altair. Consequently, Gamma Aquilae itself is known as 河鼓三 (Hé Gŭ sān, English: the Third Star of River Drum.) In Chinese mythology, The Princess and the Cowherd, this star and Beta Aquilae, are children of Niulang (牛郎, The Cowherd, Altair) and Zhinü (織女, The Princess, Vega).
+The Koori people of Victoria knew Beta and Gamma Aquilae as the black swan wives of Bunjil (Altair), the wedge-tailed eagle.
+
+

@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Aries
+
+Right ascension: 02 h 07 m 10.40570 s
+
+Declination: +23° 27′ 44.7032″
+
+Apparent magnitude: 2.00
+
+Distance: 65.8 ± 0.3 ly
+
+Mass: 1.5 ± 0.2 M
+
+Radius: 14.9 ± 0.3 R
+
+Temperature: 4,480 K
+
+Rotational velocity: 3.44 km/s
+
+
+
+Hamal, alternatively designated Alpha Arietis (α Arietis, abbreviated Alpha Ari, α Ari), is the brightest star in the northern zodiacal constellation of Aries.With an apparent visual magnitude of 2.0, it is among the brightest stars in the night sky. Based upon parallax measurements made with the Hipparcos astrometry satellite, Hamal is about 65.8 light-years (20.2 parsecs) from Earth. It is a giant star that may host an orbiting planet with a mass greater than Jupiter.
+
+
+== Nomenclature ==
+Alpha Arietis is the star's Bayer designation. It also bears the Flamsteed designation of 13 Arietis.
+The traditional name Hamal (also written Hemal, Hamul, Ras Hammel) derives from the Arabic راس الحمل rās al-ħamal "head of the ram", in turn from the name for the constellation as a whole, Al Ħamal "the ram". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Hamal for this star.In Chinese, 婁宿 (Lóu Su), meaning Bond (asterism), refers to an asterism consisting of Hamal, β Arietis and γ Arietis. Consequently, Hamal itself is known as 婁宿三 (Lóu Su sān, English: the Third Star of Bond.)
+
+
+== Properties ==
+The spectrum of this star matches a stellar classification of K2 III Ca-1, with the luminosity class of III indicating that it is an evolved giant star that has exhausted the supply of hydrogen at its core and is now on the red giant branch. The 'Ca-1' portion of the classification indicates that it shows weaker than normal lines of calcium in its spectrum. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is estimated to have about 50% more mass than the Sun, while interferometric measurements show it to be 15 times larger in diameter. Despite its enlarged girth, this star is still spinning with a slightly faster equatorial azimuthal velocity than the Sun, having a projected rotational velocity of 3.44 km s−1.Hamal is radiating about 91 times the Sun's luminosity from its outer envelope at an effective temperature of 4,480 K. This is cooler than the surface of the Sun, giving it the orange-hued glow of a K-type star. It is suspected to be slightly variable, with an amplitude of 0.06 magnitude. The abundance of elements other than hydrogen and helium, what astronomers term the star's metallicity, is only around half that in the Sun.In 2011, the likely presence of a planet in orbit around this star was reported by Byeong-Cheol Lee et al. It was detected using the radial velocity method, based upon measurements made between 2003 and 2010 at the Bohyunsan Optical Astronomy Observatory in Korea. The object has an orbital period of 381 days and an eccentricity of 0.25. The lower bound on this object's mass is about 1.8 times the mass of Jupiter. The estimated semi-major axis of the planet's orbit is 1.2 astronomical units (AU), which would give it a periapsis distance of 0.9 AU and an apoapsis distance of 1.5 AU. By comparison, the star has a radius of 0.07 AU.
+
+
+== In culture ==
+Hamal's orientation with relation to the Earth's orbit around the Sun gives it a certain importance not apparent from its modest brightness.  Between 2000 and 100 BCE, the apparent path of the Sun through the Earth's sky placed it in Aries at the northern vernal equinox, the point in time marking the start of spring in the Northern Hemisphere. This is why most astrology columns in modern newspapers begin with Aries. While the vernal equinox has moved to Pisces since then due to precession of the equinoxes, Hamal has remained in mind as a bright star near what was apparently an important place when people first studied the night sky. Currently (epoch J2000) its declination is almost exactly equal to the latitude of the Tropic of Cancer, meaning it can be used to find the position of that imaginary line when the Sun is not nearby.
+The other name of Hamal, Hamul, is used for the name of United States navy ship, USS Hamul (AD-20).
+
+

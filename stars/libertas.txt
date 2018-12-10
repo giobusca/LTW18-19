@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Aquila
+
+Right ascension: 19 h 54 m 14.88184 s
+
+Declination: +08° 27′ 41.2299″
+
+Apparent magnitude: 4.722
+
+Distance: 184 ± 3 ly
+
+Mass: 1.16 ± 0.28 M
+
+Radius: 10.45 ± 0.18 R
+
+Luminosity: 49 L
+
+Temperature: 4,783 K
+
+Rotational velocity: 5.2 km/s
+
+
+
+Xi Aquilae (ξ Aquilae, abbreviated Xi Aql, ξ Aql), also named Libertas, is a red clump giant star located at a distance of 184 light-years (56 parsecs) from the Sun in the equatorial constellation of Aquila. As of 2008, an extrasolar planet (designated Xi Aquilae b, later named Fortitudo) has been confirmed in orbit around the star.
+
+
+== Nomenclature ==
+ξ Aquilae (Latinised to Xi Aquilae) is the star's Bayer designation. Following its discovery the planet was designated Xi Aquilae b.
+In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Libertas for this star and Fortitudo for its planet.The winning names were those submitted by Libertyer, a student club at Hosei University of Tokyo, Japan. The names which were originally proposed were in English and were 'Liberty' and 'Fortitude', but to comply with the IAU's rules they were modified to be Latin versions of the same words, and so the final names became 'Libertas' and 'Fortitudo' respectively. 'Aquila' is Latin for 'eagle', a popular symbol of liberty and embodiment of fortitude - emotional and mental strength in the face of adversity.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.
+
+
+== Properties ==
+This star has an apparent visual magnitude of 4.722, which, according to the Bortle Dark-Sky Scale, is bright enough to be viewed with the naked eye from dark suburban skies. The orbital motion of the Earth causes this star to undergo an annual parallax shift of 17.77 milliarcseconds. From this measurement, the distance to this star can be determined, yielding an estimate of approximately 184 light years with a 2% margin of error. The magnitude of the star is diminished by 0.09 from the extinction caused by interstellar gas and dust.The spectrum of this star matches a stellar classification of G9 III, where the G9 means that it belongs to the category of G-type stars while the luminosity class of III indicates that, at an estimated age of nearly five billion years, is an evolved star that has reached the giant stage. It is in the red clump, meaning it is generating energy through the fusion of helium into carbon at its core.
+Xi Aquilae has an estimated 116% of the Sun's mass, while its outer atmosphere has expanded to more than ten times the radius of the Sun. It is radiating 49 times the Sun's luminosity at an effective temperature of 4,783 K, giving it the golden-hued glow of a G-type star. The possibility of a binary stellar companion can be ruled out based upon observations with the CHARA array.
+
+
+== Planetary system ==
+In 2008, the presence of a planetary companion was announced, based upon Doppler spectroscopy results from the Okayama Astrophysical Observatory. This object, designated as Xi Aquilae b, has at least 2.8 Jupiter masses and is orbiting at an estimated 0.68 astronomical units from the star with a period of 136.75 days. Any planets that once orbited to the interior of this object may have been consumed as the star entered the red giant stage and expanded in radius.
+
+

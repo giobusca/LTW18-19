@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Capricornus
+
+Right ascension: 20 h21 m00.7 s
+
+Declination: −14°46′53″
+
+Apparent magnitude: +3.05/+6.09
+
+Distance: 328 ly
+
+
+
+Beta Capricorni (β Capricorni, abbreviated Beta Cap, β Cap) is a multiple star system in the constellation of Capricornus and located 328 light-years from the Sun. Because it is near the ecliptic, Beta Capricorni can be occulted by the Moon, and also (rarely) by planets.
+The system is believed to consist of five stars. With binoculars or a small telescope, Beta Capricorni can be resolved into a binary pair. The brighter of the two is designated Beta¹ Capricorni or Beta Capricorni A; the dimmer, Beta² Capricorni or Beta Capricorni B. Both are themselves made up of multiple stars. Beta¹ Capricorni has three components; a single star designated Beta Capricorni Aa (also named Dabih) and a binary pair, Beta Capricorni Ab (whose two components are designated Beta Capricorni Ab1 and Ab2). Beta² Capricorni is also a binary pair, with components designated Beta Capricorni Ba and Bb.
+Two other nearby stars were discovered by John Herschel. Sometimes referred to as Beta Capricorni D and E, it is unclear whether they are simply optical doubles or part of the Beta Capricorni system.
+
+
+== Nomenclature ==
+β Capricorni (Latinised to Beta Capricorni) is the system's Bayer designation; β¹ and β² Capricorni those of its two constituents. The designations of the two constituents as Beta Capricorni A and B, and those of the sub-components - Beta Capricorni Aa, Ab, Ab1, Ab2, Ba and Bb - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Beta Capricorni bore the traditional name Dabih, deriving from the Arabic الذابح al-dhābiḥ "the butcher", with Beta¹ and Beta² subsequently named Dabih Major and Dabih Minor, respectively. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Dabih for the component Beta Capricorni Aa on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 牛宿 (Niú Su), meaning Ox (asterism), refers to an asterism consisting of Beta Capricorni, Alpha² Capricorni, Xi² Capricorni, Pi Capricorni, Omicron Capricorni and Rho Capricorni. Consequently, Beta Capricorni itself is known as 牛宿一 (Niú Su yī, English: the First Star of Ox).
+
+
+== Properties ==
+Beta¹ Capricorni is the brighter of the two components with an apparent magnitude of +3.05, while the dimmer Beta² Capricorni has an apparent magnitude of +6.09. The two components are separated by 3.5 arcminutes on the sky, putting them at least 21,000 AU (0.34 light-years) apart. They take approximately 700,000 years to complete one orbit.
+
+
+=== Beta¹ Capricorni ===
+Beta¹ Capricorni is the more complex of the pair and has a spectrum that is difficult to interpret. Its dominant pair of stars are the orange K-type bright giant Beta Capricorni Aa, with an apparent magnitude of +3.08, and the blue-white B-Type main sequence dwarf Beta Capricorni Ab1 with an apparent magnitude of +7.20. They are separated by 0.05 arcseconds (5 AU) and have an orbital period of 3.77 years.
+The Aa component has a surface temperature of 4900 kelvins, a radius 35 times that of the Sun, and a luminosity 600 times that of the Sun. The Ab1 component's unseen companion, Beta Capricorni Ab2, orbits Ab1 with an orbital period of 8.7 days.
+Beta¹ Capricorni is 4.6 degrees north of the ecliptic, so it can be occulted by the Moon.
+
+
+=== Beta² Capricorni ===
+Beta² Capricorni is simpler and more studied. Its brighter component, Beta Capricorni Ba, has a magnitude of 6.1 and is an A0-giant with 40 times the luminosity of the Sun.  The companion, Beta Capricorni Bb, is approximately 3 arcseconds from Ba. Ba is unusual for having large amounts of mercury and manganese in its atmosphere.
+
+
+=== Beta Capricorni D and E ===
+These lie 112 arcseconds away from Beta¹ Capricorni.

@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 09 h 31 m 43.22754 s
+
+Declination: +22° 58′ 04.6904″
+
+Apparent magnitude: 4.32
+
+Distance: 329 ± 6 ly
+
+Radius: 45 R
+
+Luminosity: 472 L
+
+Temperature: 3,900 K
+
+Rotational velocity: 8 km/s
+
+
+
+Lambda Leonis (λ Leonis, abbreviated Lam Leo, λ Leo), also named Alterf, is a star in the constellation of Leo. The star is bright enough to be seen with the naked eye, having an apparent visual magnitude of 4.32 Based upon an annual parallax shift of 0.00991 arcseconds, it is located about 329 light-years from the Sun.
+
+
+== Nomenclature ==
+λ Leonis (Latinised to Lambda Leonis) is the star's Bayer designation.
+It bore the traditional name Alterf, from the Arabic الطرف aṭ-ṭarf "the view (of the lion)". In 2016, the International Astronomical Union (IAU) organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Alterf for this star on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.This star, along with Xi Cancri, were the Persian Nahn, "the Nose", and the Coptic Piautos, "the Eye", both lunar asterisms.
+
+
+== Properties ==
+At that distance, the visual magnitude of the star is reduced by an interstellar absorption factor of 0.06 because of extinction.This is a K-type giant star with a stellar classification of K4.5 III. It is a suspected variable star with a reported magnitude range of 4.28−4.34. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 4.12±0.05 mas, which, at its estimated distance, equates to a physical radius of nearly 45 times the radius of the Sun. It shines with around 472 times the luminosity of the Sun, from an outer atmosphere that has an effective temperature of 3,900 K.
+
+

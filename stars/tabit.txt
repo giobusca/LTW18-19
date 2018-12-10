@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Orion
+
+Right ascension: 04 h 49 m 50.41091 s
+
+Declination: +06° 57′ 40.5883″
+
+Apparent magnitude: 3.16
+
+Distance: 26.32 ± 0.04 ly
+
+Mass: 1.236 M
+
+Radius: 1.323 ± 0.004 R
+
+Luminosity: 2.822 ± 0.030 L
+
+Temperature: 6,516 ± 19 K
+
+Rotational velocity: 17 km/s
+
+
+
+Pi³ Orionis (π³ Orionis, abbreviated Pi³ Ori, π³ Ori), also named Tabit, is a star in the equatorial constellation of Orion. At an apparent visual magnitude of 3.16, it is readily visible to the naked eye and is the brightest star in the lion's hide (or shield) that Orion is holding. As measured using the parallax technique, it is 26.32 light-years (8.07 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+π³ Orionis (Latinised to Pi³ Orionis) is the system's Bayer designation.
+It bore the traditional name of Tabit. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Tabit for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 參旗 (Sān Qí), meaning Banner of Three Stars, refers to an asterism consisting of Pi³ Orionis, ο¹ Orionis, ο² Orionis, 6 Orionis, π¹ Orionis, π² Orionis, π⁴ Orionis, π⁵ Orionis and π⁶ Orionis. Consequently, Pi³ Orionis itself is known as 參旗六 (Zhāng Xiù yī), "the Sixth Star of Banner of Three Stars".According to Richard Hinckley Allen: Star Names — Their Lore and Meaning, this star, together with ο¹ Orionis, ο² Orionis, π¹ Orionis, π² Orionis, π⁴ Orionis, π⁵ Orionis, π⁶ Orionis and 6 Orionis (are all of the 4th to the 5th magnitudes and in a vertical line), indicate the lion's skinwere but Al Tizini said that they were the Persians' Al Tāj, "the Crown", or "Tiara", of their kings; and the Arabians' Al Kumm, "the Sleeve" of the garment in which they dressed the Giant, the skin being omitted. Ulug Beg called them Al Dhawāib, "Anything Pendent"; and the Borgian globe had the same, perhaps originated it. Al Sufi's title was Manica, a Latin term for a protecting Gauntlet; and Grotius gave a lengthy dissertation on the Mantile which some anonymous person applied to them, figured as a cloth thrown over the Giant's arm.
+
+
+== Properties ==
+Pi³ Orionis is most likely single; a nearby star is probably an optical companion.It is a main sequence star of spectral type F6 V. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Compared to the Sun, it has about 124% of the mass, 132% of the radius, and nearly 3 times the luminosity. This energy is being radiated from the star's outer atmosphere at an effective temperature of 6,516 K, giving it the yellow-white glow of an F-type star.
+Although a periodicity of 73.26 days has been observed in the star's radial velocity, it seems likely to be bound more to stellar activity than to a planetary object in close orbit. No substellar companion has been detected so far around Pi³ Orionis and the McDonald Observatory team has set limits to the presence of one or more planets with masses between 0.84 and 46.7 Jupiter masses and average separations spanning between 0.05 and 5.2 astronomical units. Thus, so far it appears that planets could easily orbit in the habitable zone without any complications caused by a gravitationally perturbing body.
+
+

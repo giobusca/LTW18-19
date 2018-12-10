@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Cepheus
+
+Right ascension: 23 h 39 m 20.852 s
+
+Declination: +77° 37′ 56.19″
+
+Apparent magnitude: 3.21
+
+Distance: 44.9 ± 0.3 ly
+
+Rotational velocity: 1.63 km/s
+
+
+
+Gamma Cephei (γ Cephei, abbreviated Gamma Cep, γ Cep) is a binary star system approximately 45 light-years away in the constellation of Cepheus. The primary (designated Gamma Cephei A, also named Errai) is a stellar class K1 orange giant or subgiant star; it has a red dwarf companion (Gamma Cephei B). An extrasolar planet (designated Gamma Cephei Ab, later named Tadmor) is believed to be orbiting the primary.
+Gamma Cephei is the naked-eye star that will succeed Polaris as the Earth's northern pole star, due to the precession of the equinoxes. It will be closer to the northern celestial pole than Polaris around 3000 CE and will make its closest approach around 4000 CE. The 'title' will pass to Iota Cephei some time around 5200 CE.
+
+
+== Description ==
+Gamma Cephei has an apparent magnitude of 3.21, nearly all of which is accounted for by Gamma Cephei A. The primary is about 3.25 billion years old and is on its first ascent off the main sequence.The spectrum of this star has served as one of the stable anchor points by which other stars are classified.  It was listed as a standard star for the spectral class K1 IV in 1943, 1953, and 1973.  However, in 1989, it was given as a spectral standard for K1 III-IV.  Its spectrum is notable for the strength of the CN bands.  SED modelling of the spectrum in 2018 gave a best match for a spectral type of K1 III.Gamma Cephei B has a mass approximately 0.409 times that of the Sun. It is probably a red dwarf of class M4, 6.2 magnitudes fainter than the primary. It is assumed to be of similar age to its primary.
+γ Cephei is catalogued as a suspected variable star with a brightness range between magnitudes 3.18 and 3.24, based on its inclusion in an 1884 list of suspected variable stars.
+
+
+== Nomenclature ==
+γ Cephei (Latinised to Gamma Cephei) is the system's Bayer designation. Under the rules for naming objects in multiple star systems the two components are designated A and B. Following its discovery the planet was designated Gamma Cephei Ab.
+The system bore a traditional name variously spelled as  Errai, Er Rai or Alrai, deriving from the Arabic الراعي (ar-rā‘ī), meaning 'the shepherd'. (The star Beta Ophiuchi is sometimes also called Alrai, but it is more commonly known as Cebalrai or Kelb Alrai, meaning 'shepherd's dog'.) In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Errai for Gamma Cephei A.
+In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning name was Tadmor for this planet. It was submitted by the Syrian Astronomical Association and is the ancient Semitic name and modern Arabic name for the city of Palmyra, a (UNESCO) World Heritage Site.In Chinese, the star is named 少衛增八 (Shàowèi Zēng Bā, literally, the 8th added star of the Xingguan Shaowei, Shaowei: the Minor Guard) belonging to the Left Wall of the Purple Forbidden enclosure (紫微左垣, Zǐwēi Zuǒyuán), which refers to an asterism consisting of Gamma Cephei, Iota Draconis, Theta Draconis, Eta Draconis, Zeta Draconis, Upsilon Draconis, 73 Draconis and 23 Cassiopeiae.
+
+
+== Planetary system ==
+A planet orbiting Gamma Cephei A was tentatively identified by a Canadian team consisting of Bruce Campbell, Gordon Walker and Stephenson Yang in 1988. Its existence was also announced by Anthony Lawton and P Wright in 1989. This would have been the first confirmed extrasolar planet and its ostensible discovery was based on the same radial velocity technique later used successfully by others. The claim was retracted in 1992 because the quality of the data was not good enough to establish discovery. In 2002, evidence of the planet was considerably strengthened by new measurements from Artie Hatzes and his collaborators at the McDonald Observatory.The secondary star B orbits A at only 9.8 times the semimajor axis of A's planet.  Despite how compact the system is, the planet's orbit is stable if it is coplanar with that of the binary companion.
+
+

@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 14 h 16 m 00.86951 s
+
+Declination: −06° 00′ 01.9633″
+
+Apparent magnitude: 4.08
+
+Distance: 72.5 ± 0.3 ly
+
+Mass: 1.5 ± 0.05 M
+
+Radius: 2.5 R
+
+Luminosity: 8.7 L
+
+Temperature: 6282 K
+
+Rotational velocity: 16 km/s
+
+
+
+Iota Virginis (ι Virginis, abbreviated Iota Vir, ι Vir) is a binary star in the constellation of Virgo. Its apparent magnitude is 4.08. Based on its parallax, it is assumed to be relatively nearby, at 72.5 light-years (22.24 parsecs).Its two components are designated Iota Virginis A (also named Syrma) and B.
+
+
+== Nomenclature ==
+ι Virginis (Latinised to Iota Virginis) is the system's Bayer designation. The designations of the two components as Iota Virginis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Syrma, derived from the Arabic سرما (تطريز sirmā "train (of a garment)". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Syrma for Iota Virginis on 12 September 2016 and it is now so included in the List of IAU-approved Star Names. For such names relating to members of multiple star systems, and where a component letter (from e.g. Washington Double Star Catalog) is not explicitly listed, the WGSN says that the name should be understood to be attributed to the brightest component by visual brightness.In China, 亢宿 (Kàng Xiù), meaning Neck, refers to an asterism consisting of this star, Kappa Virginis, Phi Virginis and Lambda Virginis. Consequently, Iota Virginis itself is known as 亢宿二 (Kàngxiùèr, English: the Second Star of Neck).
+
+
+== Properties ==
+Iota Virginis is an astrometric binary. The secondary regularly perturbs the primary, causing the latter to wobble around its barycenter. A preliminary orbit with a period of 55 years has been calculated.Iota Virginis A is a yellow-colored star with a spectral class of F7IV-V. This star has 1.5 times the mass of the Sun, with a projected rotational velocity of 16 km s−1. It is radiating 8.7 times the luminosity of the Sun from its outer atmosphere at an effective temperature of 6,282 K. The radius is about 2.5 times that of the Sun.Iota Virginis B has not been directly detected, but based on its mass (0.6 M☉) it may be a main-sequence star or a white dwarf. That star is also responsible for the drifting radial velocity of the primary.In 2011, it was noticed that the faint K-type main-sequence star HD 125354 had a similar proper motion throughout space, and was likely physically associated. Another 2015 paper supported this hypothesis. The star, which is located 1.2 ly (0.37 pc) away from Iota Virginis, also has a similar distance from the Sun, within the margin of error. It itself is a close binary with another star separated 0.33″ from the main star.
+
+

@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 17 h 43 m 59.17049 s
+
+Declination: +54° 48′ 06.1637″
+
+Apparent magnitude: 5.76
+
+Distance: 457 ± 4 ly
+
+Mass: 2.4 M
+
+Temperature: 10,000 K
+
+
+
+HD 161693, also designated HR 6618 and named Alruba, is a star in the northern circumpolar constellation of Draco. Based on parallax measurements obtained during the Gaia mission, it is about 457 light-years (140 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+HD 161693 is the star's entry in the Henry Draper Catalogue and HR 6618 that in the Bright Star Catalogue.
+It bore the traditional name Al Ruba, Arabic for "the Camel's Foal", a member of the Mother Camels asterism in early Arabic astronomy. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Alruba for this star on 1 June 2018 and it is now so entered on the List of IAU-approved Star Names.
+
+
+== Properties ==
+This star is a A-type main sequence star with a stellar classification of A0 V.
+
+

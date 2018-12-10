@@ -1,0 +1,50 @@
+==Datasheet==
+
+Constellation: Vela
+
+Right ascension: 08 h 44 m 42.226 s
+
+Declination: −54° 42′ 31.76″
+
+Apparent magnitude: (1.99 - 2.39
+
+Distance: 80.6 ± 0.8 ly
+
+Mass: 2.43 M
+
+Radius: 2.79 - 2.97 R
+
+Luminosity: 67 L
+
+Temperature: 9,440 K
+
+Rotation: 1.05
+
+Rotational velocity: 143.5 km/s
+
+
+
+Delta Velorum (δ Velorum, abbreviated Del Vel, δ Vel) is a triple star system in the southern constellation of Vela, near the border with Carina, and is part of the False Cross.  Based on parallax measurements, it is approximately 80.6 light-years (24.7 parsecs) from the Sun.  It is one of the stars that at times lies near the south celestial pole due to precession.
+δ Velorum consists of an eclipsing pair, designated Delta Velorum A, and a more distant third companion, Delta Velorum B. δ Velorum A's two components are themselves designated Aa (also named Alsephina) and Ab.
+
+
+== Nomenclature ==
+
+δ Velorum (Latinised to Delta Velorum) is the system's Bayer designation. The designations of the two constituents as Delta Velorum A and B, and those of A's components - Delta Velorum Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Delta Velorum bore the traditional name Alsafinah, which stems from the Arabic name al-safinah meaning “the ship”, referring to the ancient Greek constellation Argo Navis, the ship of the Argonauts. It was first used in a 10th-century Arabic translation of the Almagest, written by the Greek astronomer Ptolemy in the second century AD. Although the name originally referred to an entire constellation, it was assigned to this particular bright star at least as early as 1660, when it appeared in Andreas Cellarius’s Harmonia Macrocosmica, a renowned 17th century Dutch magnificently illustrated book about the cosmos. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alsephina for the component Delta Velorum Aa on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.The False Cross is an asterism formed of Delta and Kappa Velorum along with Iota Carinae and Epsilon Carinae. It is so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.In Chinese, 天社 (Tiān Shè), meaning Celestial Earth God's Temple, refers to an asterism consisting of Delta Velorum, Gamma² Velorum, b Velorum and Kappa Velorum. Consequently, Delta Velorum itself is known as 天社三 (Tiān Shè sān), "the Third Star of Celestial Earth God's Temple". In a different Chinese view, this star appears in an asterism with the given name of Koo She (Chinese: 弧矢, hú shǐ, "Bow and Arrow"), comprising Delta Velorum, Omega Carinae, and stars from Canis Major.
+
+
+== System ==
+Delta Velorum is a triple star system.  The outer components, δ Velorum A and B, have a wide orbit with a 143-year period. The primary component A has an apparent magnitude of 2.00, while the secondary B is magnitude 5.54, with a combined magnitude measured at 1.96.  As of 2013, the two stars were separated by 0.6", but they have an eccentric orbit and their average separation over the whole orbit is nearly 2".In 1978 the primary component was reported to be a spectroscopic binary in the Proceedings of the Australian Astronomical Observatory, and this was confirmed by the Hipparcos satellite.
+
+In 2000 it was announced that the inner components Aa and Ab form an eclipsing binary, having an orbital period of 45.15 days and an eccentricity of 0.230. The semi-major axis as their orbit corresponds to a mean separation of 90.61 AU. Delta Velorum is the brightest known eclipsing binary, although Algol has a deeper minimum and is easier to observe visually. Observations of variability in the Delta Velorum system were made independently by ground-based astronomers and the Galileo spaceprobe at Jupiter.  The inner pair were resolved using interferometry in 2007, and then using NACO adaptive optics with the Very Large Telescope.  Photometry of the components of δ Velorum A gives apparent visual magnitudes of 2.33 and 3.44.  The precise orbits allow a dynamical parallax of 39.8±0.4 mas to be derived, representing a distance of 25.1 parsecs.Another binary system is located at an angular separation of 69 arcseconds from δ Velorum, sometimes referred to as δ Velorum C and D. The pair is composed of an 11th magnitude star and a 13th magnitude star, which are 6 arcseconds apart.  The two stars, with approximate spectral types of G8V and K0V, are expected to be more distant than δ Velorum and not physically associated.HD 76653 is a probable (96% chance) co-moving companion; the two have an estimated physical separation of 2.2 ly (0.6605 pc) with similar proper motions.  Both are likely members of the Ursa Major Moving Group.
+
+
+== Properties ==
+The brightnesses of the three stars have been measured at visual and infrared wavelengths using adaptive optics.  The physical properties implied by their surface brightnesses and colour indices suggests spectral types of A2IV, A4V, and F8V respectively.More precise physical properties for the stars can be calculated using accurate orbital parameters.  Both members of the spectroscopic binary Delta Velorum A are slightly evolved stars that are still on the main sequence. Component Aa has 2.5 times the mass of the Sun, 2.6 times the Sun's radius, and is radiating 56 times the luminosity of the Sun at an effective temperature of 9,470. Component Ab is only slightly smaller, with 2.4 times the Sun's mass and radius, with a luminosity of 47 times the Sun and an effective temperature of 9,370 K.Both stars are rotating rapidly and are significantly oblate, with polar radii smaller than their equatorial radii.  Gravity darkening results in their effective temperatures at the pole being higher.  For component Aa, the polar radius and temperature are 2.79 R☉ and 10,100 K respectively, while the equatorial radius and temperature are 2.97 R☉ and 9,700 K respectively.  For component Ab, the corresponding polar values are 2.37 R☉ and 10,120 K, and the equatorial values are 2.52 R☉ and 9,560 K.  This results in the star being brighter when seen along their axes of rotation and less bright when observed at their equators.  From Earth, the pair is observed nearly equatorially and the absolute visual magnitude is +0.02; from a different direction the absolute magnitue would be −0.138 or less.Delta Velorum B is a smaller main sequence star, with a mass of about 1.4 M☉, a temperature of 6,600 K, a radius of 1.43 R☉, and a bolometric luminosity of 3.5 L☉.
+
+
+== Southern pole star ==
+
+The south celestial pole will pass close to Delta Velorum around 9000 AD because of precession.
+
+

@@ -1,0 +1,53 @@
+==Datasheet==
+
+Constellation: Cepheus
+
+Right ascension: 21 h 18 m 34.7715 s
+
+Declination: +62° 35′ 08.061″
+
+Apparent magnitude: 2.5141
+
+Distance: 49.05 ± 0.08 ly
+
+Mass: 1.74 M
+
+Radius: 2.3 R
+
+Luminosity: 17 L
+
+Temperature: 7,740 ± 170 K
+
+Rotational velocity: 246 km/s
+
+
+
+Alpha Cephei (α Cephei, abbreviated Alpha Cep, α Cep), also named Alderamin, is a second magnitude star in the constellation of Cepheus near the northern pole. The star is relatively close to Earth at 49 light years (ly).
+
+
+== Nomenclature ==
+α Cephei (Latinised to Alpha Cephei) is the star's Bayer designation. It has a Flamsteed designation of 5 Cephei.
+It bore the traditional name Alderamin, a contraction of the Arabic phrase الذراع اليمين al-dhirā‘ al-yamīn, meaning "the right arm". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alderamin for this star.
+
+
+== Visibility ==
+With a declination in excess of 62 degrees north, Alderamin is mostly visible to observers in the northern hemisphere, though the star is still visible to latitudes as far south as −27°, albeit just above the horizon.  The star is circumpolar throughout all of Europe, northern Asia, Canada, and American cities as far south as San Diego. Since Alderamin has an apparent magnitude of about 2.5, the star is easily observable to the naked eye, even in light-polluted cities.
+
+
+=== Pole star ===
+Alderamin is located near the precessional path traced across the celestial sphere by the Earth's North pole. That means that it periodically comes within 3° of being a pole star, a title currently held by Polaris. Aldermain will next be the North Star in about the year 7500 AD.
+
+
+== Properties ==
+Alderamin is a white class A star, evolving off the main sequence into a subgiant, probably on its way to becoming a red giant as its hydrogen supply runs low. In 2007, the star's apparent magnitude was recalibrated at 2.5141 along with an updated parallax of 66.50 ± 0.11 mas yielding a distance of 15 parsecs or approximately 49 light years from Earth.Given a surface temperature of 7,740 Kelvin, stellar models yield a total luminosity for the star of about 17 times the luminosity of the Sun. Alderamin has a radius of 2.3 times the Sun's radius and boasting a mass that is 1.74 that of the Sun. Like other stars in its class, it is slightly variable with a range in brightness of 0.06 magnitude, and is listed as a Delta Scuti variable.
+Alderamin has a very high rotation speed of at least 246 km/s, completing one complete revolution in less than 12 hours, with such a rapid turnover appearing to inhibit the differentiation of chemical elements usually seen in such stars. By comparison, the Sun takes almost a month to turn on its axis. Alpha Cephei is also known to emit an amount of X radiation similar to the Sun, which along with other indicators suggests the existence of considerable magnetic activity—something unexpected (though not at all unusual) for a fast rotator.
+
+
+== Etymology and cultural significance ==
+This star, along with Beta Cephei (Alfirk) and Eta Cephei (Alkidr) were al-Kawākib al-Firq (الكواكب الفرق), meaning "the Stars of the Flock" by Ulug Beg.In Chinese, 天鈎 (Tiān Gōu), meaning Celestial Hook, refers to an asterism consisting of α Cephei, 4 Cephei, HD 194298, Eta Cephei, Theta Cephei, Xi Cephei, 26 Cephei, Iota Cephei and Omicron Cephei. Consequently, Alpha Cephei itself is known as 天鈎五 (Tiān Gōu wu, English: the Fifth Star of the Celestial Hook.).
+
+
+=== Namesakes ===
+USS Alderamin (AK-116) was a United States Navy Crater class cargo ship named after the star.
+
+

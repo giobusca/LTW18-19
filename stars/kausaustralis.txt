@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 18 h 24 m 10.31840 s
+
+Declination: –34° 23′ 04.6193″
+
+Apparent magnitude: +1.85
+
+Distance: 143 ± 2 ly
+
+Mass: 3.515 ± 0.138 M
+
+Radius: 6.8 R
+
+Luminosity: 363 L
+
+Temperature: 9,960 K
+
+Rotational velocity: 236 km/s
+
+
+
+Epsilon Sagittarii (ε Sagittarii, abbreviated Epsilon Sgr, ε Sgr), also named Kaus Australis, is a binary star system in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of +1.85 makes it the brightest star in the constellation. Based upon parallax measurements, this star is around 143 light-years (44 parsecs) from the Sun.
+
+
+== Properties ==
+The primary component of this binary star system has a stellar classification of B9.5 III, with the luminosity class of III suggesting this is an evolved giant star that has exhausted the supply of hydrogen at its core. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 1.44 ± 0.06 mas, which, at its estimated distance, equates to a physical radius of about 6.8 times the radius of the Sun. This is a close match to the empirically-determined value of 6.9 solar radii. It has about 3.5 times the mass of the Sun and is radiating around 363 times the Sun's luminosity from its outer atmosphere at an effective temperature of 9,960 K. At this heat, the star glows with a blue-white hue.This star is spinning rapidly with a projected rotational velocity of 236 km s−1. It has a magnetic field with a strength in the range 10.5–130.5 G and it is an X-ray source with a luminosity of about 1030 erg s−1. The system displays an excess emission of infrared radiation, which suggests the presence of a circumstellar disk of dust. Based upon the temperature of this disk, it is orbiting at a mean separation of 155 AU from the primary.As of 2001, the secondary companion is located at an angular separation of 2.392 arcseconds from the primary along a position angle of 142.3°. At the distance of this system, this angle is equivalent to a physical separation of about 106 AU, which places it inside the debris disk. It is a main sequence star with about 95% of the mass of the Sun. The system has a higher optical linear polarisation than expected for its distance from the Sun; this has been attributed to light scattered off the disk from the secondary. Prior to its 1993 identification using an adaptive optics coronagraph, this companion may have been responsible for the spectral anomalies that were attributed to the primary star. There is a candidate stellar companion at an angular separation of 32.3 arcseconds.
+
+
+== Nomenclature ==
+ε Sagittarii (Latinised to Epsilon Sagittarii) is the star's Bayer designation.
+It bore the traditional name Kaus Australis, which derived from the Arabic قوس qaws 'bow' and Latin austrālis 'southern'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Kaus Australis for this star.
+In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Thalath al Waridah, or Thalith al Waridah, meaning 'third of Warida'.In Chinese, 箕 (Jī), meaning Winnowing Basket, refers to an asterism consisting of Epsilon Sagittarii, Gamma Sagittarii, Delta Sagittarii and Eta Sagittarii. Consequently, Epsilon Sagittarii itself is known as 箕宿三 (Jī Sù sān, English: the Third Star of Winnowing Basket.)This star, together with :
+
+Gamma Sagittarii, Delta Sagittarii, Zeta Sagittarii, Lambda Sagittarii, Sigma Sagittarii, Tau Sagittarii and Phi Sagittarii, comprise the Teapot asterism.
+Gamma Sagittarii, Delta Sagittarii and Eta Sagittarii were Al Naʽām al Wārid (النعم الوارد), the 'Going Ostriches'.
+Gamma Sagittarii and Delta Sagittarii were Akkadian Sin-nun‑tu, or Si-nu-nu‑tum, 'the Swallow'.Kaus Australis is listed in the Babylonian compendium MUL.APIN as MA.GUR8, meaning "the Bark".The Kalapalo people of Mato Grosso state in Brazil called this star and λ Sco, through ι Sco, θ Sco, ν Sco, υ Sco and ρ Sco Taugi kusugu, "Taugi's fishing basket".
+
+

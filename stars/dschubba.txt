@@ -1,0 +1,45 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 16 h 00 m 20.00528 s
+
+Declination: –22° 37′ 18.1431″
+
+Apparent magnitude: 1.6
+
+Distance: 136.0ly
+
+Mass: 13 M
+
+Radius: 6.7 R
+
+Luminosity: 38,000 L
+
+Temperature: 27,400 K
+
+Rotational velocity: 180 km/s
+
+
+
+Delta Scorpii (δ Scorpii, abbreviated Delta Sco, δ Sco) is a binary star (the presence of a third star in the system is being debated) in the constellation of Scorpius. The primary component is named Dschubba.
+
+
+== Location ==
+
+δ Scorpii was once used as a spectroscopic standard for the B0 IV classification, but is now considered too unusual and variable.δ Scorpii is a proper motion member of the Upper Scorpius subgroup of the Scorpius–Centaurus OB association, the nearest such co-moving association of massive stars to the Sun.
+The Upper Scorpius subgroup contains thousands of young stars with mean age 11 million years at average distance of 470 light years (145 parsecs).Delta Scorpii is 2.0 degrees south of the ecliptic. In 1981 it was occulted by Saturn's rings as seen by Voyager 2, with starlight unexpectedly blocked even by the apparently empty gaps, indicating that "there is very little empty space anywhere in the main ring system."
+
+
+== Nomenclature ==
+δ Scorpii (Latinised to Delta Scorpii) is the system's Bayer designation. The two components are designated Delta Scorpii A and B.
+Delta Scorpii bore the traditional name Dschubba. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Dschubba for Delta Scorpii A on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 房宿 (Fáng Xiù), meaning Room, refers to an asterism consisting of δ Scorpii, π Scorpii, ρ Scorpii, β1 Scorpii and β2 Scorpii. Consequently, δ Scorpii itself is known as 房宿三 (Fáng Xiù sān), "the Third Star of Room".
+
+
+== Properties ==
+The primary, Delta Scorpii A, is a B class subgiant surrounded by a disc of material spun off by the rapidly rotating star. The secondary, Delta Scorpii B, orbits every 10.5 years in a highly elongated elliptical orbit; it appears to be normal B class main sequence star. There have been reports that Delta Scorpii A is itself a very close spectroscopic binary, but this does not appear to be the case.
+
+
+=== Variability ===
+Delta Scorpii A is a Gamma Cassiopeiae variable star. This type of star shows irregular slow brightness variations of a few hundredths of a magnitude due to material surrounding the star.
+In June 2000, Delta Scorpii was observed by Sebastian Otero to be 0.1 magnitudes brighter than normal. Its brightness has varied since then and has reached at least as high as magnitude 1.6, altering the familiar appearance of Scorpius. Spectra taken after the outburst began have shown that the star is throwing off luminous gases from its equatorial region. The companion passed close by in 2011, again resulting in the star peaking at 1.65 between 5 and 15 July 2011.

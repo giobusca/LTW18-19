@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Columba
+
+Right ascension: 05 h 50 m 57.5929 s
+
+Declination: −35° 46′ 05.9152″
+
+Apparent magnitude: 3.105
+
+Distance: 87.2 ± 0.3 ly
+
+Mass: 1.10 ± 0.20 M
+
+Radius: 11.5 R
+
+Temperature: 4,545 K
+
+
+
+Beta Columbae (β Columbae, abbreviated Beta Col, β Col), also named Wazn, is the second brightest star in the southern constellation of Columba. It has an apparent visual magnitude of 3.1, which is bright enough to be viewed with the naked eye even from an urban location. Parallax measurements place it at a distance of about 87.2 light-years (26.7 parsecs) from the Sun.Beta Columbae is the star's Bayer designation. It has the traditional name Wazn (or Wezn) from the Arabic وزن "weight". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Wazn for this star.
+In Chinese, 子 (Zǐ), meaning Son, refers to an asterism consisting of Beta Columbae and Lambda Columbae. Consequently, Beta Columbae itself is known as 子二 (Zǐ èr, English: the Second Star of Son.)
+
+
+== Properties ==
+The spectrum of Beta Columbae matches a stellar classification of K1 IIICN+1, where the 'III' luminosity class indicates this is a giant star that has exhausted the supply of hydrogen at its core and evolved away from the main sequence of stars like the Sun. The notation 'CN+1' indicates a higher than normal level of cyanogen (CN) absorption in the atmosphere of the star. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 3.99 ± 0.05 mas, which, at its estimated distance, equates to a physical radius of about 11.5 times the radius of the Sun. Despite having expanded to this radius, Beta Columbae only has about a 10% greater mass than the Sun. The outer envelope of this star is radiating energy at an effective temperature of 4,545 K, resulting an orange hue that is typical of a cool, K-type star.Beta Columbae has a high proper motion across the celestial sphere and is moving at an unusually large speed of 100 km s−1 relative to the Sun. About 107,200 years ago, it made a close approach to the Beta Pictoris system. The estimated separation of the two stars at this time was around 1.9 ly (0.58 pc) and Beta Columbae may have perturbed outlying planetesimals within the debris disk surrounding Beta Pictoris.
+
+

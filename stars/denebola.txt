@@ -1,0 +1,43 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 11 h 49 m 03.57834 s
+
+Declination: +14° 34′ 19.4090″
+
+Apparent magnitude: 2.113
+
+Distance: 35.9 ± 0.2 ly
+
+Mass: 1.78 M
+
+Radius: 1.728 R
+
+Luminosity: 15 L
+
+Temperature: 8,500 K
+
+Rotational velocity: 128 km/s
+
+
+
+Denebola, also designated Beta Leonis (β Leonis, abbreviated Beta Leo, β Leo) is the second-brightest star in the zodiac constellation of Leo, although the two components of the γ Leonis double star, which are unresolved to the naked eye, have a combined magnitude brighter than it. Denebola is an A-type main sequence star with 75% more mass than the Sun and 15 times the Sun's luminosity. Based on parallax measurements from the Hipparcos astrometry satellite, the star is at a distance of about 36 light-years (11 parsecs) from the Sun. Its apparent visual magnitude is 2.14, making it readily visible to the naked eye. Denebola is a suspected Delta Scuti type variable star, meaning its luminosity varies very slightly over a period of a few hours.
+
+
+== Nomenclature ==
+β Leonis (Latinised to Beta Leonis) is the star's Bayer designation. In Johann Bayer's Uranometria (1603), it  was designated β (Beta) as the second-brightest star in the constellation. It also bears the Flamsteed designation of 94 Leonis (assigned on the basis of increasing right ascension rather than luminosity) and additional designations followed as the star was recorded in subsequent star catalogues.
+The traditional name Denebola is shortened from Deneb Alased, from the Arabic phrase ذنب الاسد ðanab al-asad 'tail of the lion', as it represents the lion's tail, the star's position in the Leo constellation. (Deneb in Cygnus has a similar name origin.) In the Alphonsine Tables it was recorded as Denebalezeth. On R. A. Proctor's 1871 star chart of the Northern Hemisphere it was designated Deneb Aleet. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN, which included Denebola for this star. It is now so entered in the IAU Catalog of Star Names.15th century astronomer Ulugh Beg, gives the name Al Ṣarfah, the Changer (i.e. of the weather), as the star's individual title. Al-Biruni, a Muslim scholar and polymath of the 11th century, wrote of it: "The heat turns away when it rises, and the cold turns away when it disappears."Ancient Chinese astronomers designated it the first star of the five-star asterism "Seat of the Five Emperors", hence its Chinese name 五帝座一 (Wǔdìzuò-yī).
+In Hindu astronomy, Denebola corresponds to the Nakshatra (a sector along the ecliptic) named Uttara Phalgunī (second reddish one).
+Denebola, along with Spica and Arcturus, is part of the Spring Triangle asterism, and by extension, also of the Great Diamond together with the star Cor Caroli.
+
+
+== Properties ==
+Denebola is a relatively young star with an age estimated at less than 400 million years. Interferometric observations give a radius that is about 173% that of the Sun. However, the high rate of rotation results in an oblate shape with an equatorial bulge. It has 75% more mass than the Sun, which results in a much higher overall luminosity and a shorter life span on the main sequence.Based upon the star's spectrum, it has a stellar classification of A3 Va, with the luminosity class 'Va' indicating this is a particularly luminous dwarf, a main sequence star that is generating energy through the nuclear fusion of hydrogen at its core. The effective temperature of Denebola's outer envelope is about 8,500 K, which results in the white hue typical of A-type stars. Denebola has a high projected rotational velocity of 128 km/s, which is of the same order of magnitude as for the very rapidly rotating star Achernar. The Sun, in comparison, has an equatorial rotation velocity of 2 km/s. This star is believed to be a Delta Scuti variable star that exhibits fluctuations in luminosity of 0.025 magnitudes roughly ten times per day.Denebola shows a strong infrared excess, showing a circumstellar debris disk of cool dust in orbit around it. The dust surrounding Denebola has a temperature of about 120 K (−153 °C). Observations with the Herschel Space Observatory have provided resolved images, which show the disk to be located at a radius of 39 astronomical units from the star, or 39 times the distance from the Earth to the Sun.  As the solar system is believed to have formed out of such a disk, Denebola and similar stars such as Vega and Beta Pictoris may be candidate locations for extrasolar planets.
+Kinematic studies have shown that Denebola is part of a stellar association dubbed the IC 2391 supercluster. All the stars of this group share a roughly common motion through space, although they are not gravitationally bound. This suggests that they were born in the same location, and perhaps initially formed an open cluster. Other stars in this association include Alpha Pictoris, Beta Canis Minoris and the open cluster IC 2391. In total more than sixty probable members of the group have been identified.
+
+
+== In culture ==
+In astrology, Denebola was believed to portend misfortune and disgrace.
+
+

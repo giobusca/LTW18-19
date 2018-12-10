@@ -1,0 +1,55 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 13 h 23 m 55.54048 s
+
+Declination: +54° 55′ 31.2671″
+
+Apparent magnitude: 2.04
+
+Distance: 82.9 ± 0.6 ly
+
+Radius: 2.4 ± 0.1 R
+
+Luminosity: 33.3 ± 2.1 L
+
+Temperature: 9,000 ± 200 K
+
+Rotational velocity: 61 km/s
+
+
+
+Mizar is a 2nd magnitude star in the handle of the Big Dipper asterism in the constellation of Ursa Major.  It has the Bayer designation ζ Ursae Majoris (Latinised as Zeta Ursae Majoris).  It forms a well-known naked eye double star with the fainter star Alcor, and is itself a quadruple star system. The whole system lies about 83 light-years away from the Sun, as measured by the Hipparcos astrometry satellite, and is part of the Ursa Major Moving Group.
+
+
+== Nomenclature ==
+ζ Ursae Majoris (Latinised to Zeta Ursae Majoris and abbreviated to ζ UMa or Zeta UMa) is Mizar's Bayer designation.  It also has the Flamsteed designation 79 Ursae Majoris.
+The traditional name Mizar derives from the Arabic المئزر miʼzar meaning 'apron; wrapper, covering, cover'.  In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mizar for ζ UMa.  According to IAU rules, the name Mizar strictly only applies to component Aa, although it is traditionally and popularly used for all four stars making up the single naked-eye star.
+
+
+== Stellar system ==
+
+Mizar is a visual double with a separation of 14.4 arcseconds, each of which is a spectroscopic binary.  Its combined apparent magnitude is 2.04.  The two visible stars are referred to as ζ1 and ζ2 Ursae Majoris, or Mizar A and B.  The spectroscopic components are generally referred to as Mizar Aa, Ab, Ba, and Bb.  The stars all share a single Hipparcos designation of HIP 65378, but separate Bright Star Catalogue and Henry Draper Catalogue entries.  Mizar, together with Alcor and many of the other bright stars in Ursa Major, is a member of the Ursa Major Moving Group.An easily split visual target, Mizar was the first telescopic binary discovered, most probably by Benedetto Castelli who in 1617 asked Galileo Galilei to observe it.  Galileo then produced a detailed record of the double star.  Later, around 1650, Riccioli wrote of Mizar appearing as a double.  The secondary star (Mizar B) comes within 380 AU of the primary (Mizar A) and the two take thousands of years to revolve around each other.Mizar A was the first spectroscopic binary to be discovered, as part of Antonia Maury's spectral classification work, and an orbit was published in 1890.  Some spectroscopic binaries cannot be visually resolved and are discovered by studying the spectral lines of the suspect system over a long period of time.  The two components of Mizar A are both about 35 times as bright as the Sun, and revolve around each other in about 20 days 12 hours and 55 minutes.  In 1908, Mizar B was also found to be a spectroscopic binary, its components completing an orbital period every six months.  In 1996, 107 years after their discovery, the components of the Mizar A binary system were imaged in extremely high resolution using the Navy Prototype Optical Interferometer.
+
+
+=== ζ1 Ursae Majoris ===
+
+The two components of ζ1 Ursae Majoris (Mizar Aa and Ab) are observed to be identical, with the exception of slightly different radial velocity variations which indicate very slightly different masses.
+The spectral lines of the two stars can be observed separately and both are given a spectral type of A2Vp.  They are Ap stars, chemically peculiar due to stratification of some heavy elements in the photosphere of slowly-rotating hot stars.  In this case, they show elevated abundances of strontium and silicon.With the assumption of identical physical properties for the two stars, they both have temperatures of 9,000 K, radii of 2.4 R☉, and bolometric luminosities of 33.3 L☉.  They are thought to be around 370 million years old.
+
+
+=== ζ2 Ursae Majoris ===
+ζ2 Ursae Majoris is a single-lined spectroscopic binary, and the visible spectrum is of an Am star, named for their unusually strong lines of some metals.  The spectral type of kA1h(eA)mA7IV-V is in a form used for metallic-lined stars: the type is A1 based on the calcium K lines, early A based on the hydrogen lines, and A7 based on lines of other metals.  The luminosity class is ranked between main sequence and subgiant.
+
+
+== Other names ==
+Mizar is known as Vashistha one of the Saptarishi, in traditional Indian astronomy.
+Chinese Taoism personifies ζ Ursae Majoris as the Lu star.In Chinese, 北斗 (Běi Dǒu), meaning Northern Dipper, refers to an asterism consisting of ζ Ursae Majoris, α Ursae Majoris, β Ursae Majoris, γ Ursae Majoris, δ Ursae Majoris, ε Ursae Majoris and η Ursae Majoris. Consequently, ζ Ursae Majoris itself is known as 北斗六 Běi Dǒu liù, (English: the Sixth Star of Northern Dipper) and 開陽 Kāi Yáng, (English: Star of The Opener of Heat).Mizar is Chickadee and Alcor is his cooking pot in the Mi'kmaq myth of the great bear and the seven hunters.
+
+
+=== Military namesakes ===
+USS Mizar is a cargo and passenger liner converted to a United States Navy ship
+USNS Mizar, a United States Navy ship
+
+

@@ -1,0 +1,54 @@
+==Datasheet==
+
+Constellation: Gemini
+
+Right ascension: 06 h 14 m 52.657 s
+
+Declination: +22° 30′ 24.48″
+
+Apparent magnitude: 3.15 - 3.90
+
+Distance: approx. 380 ly
+
+Mass: 6.30 M
+
+Radius: 153 R
+
+Luminosity: 3,162 L
+
+Temperature: 3,548 K
+
+
+
+Eta Geminorum (η Geminorum, abbreviated Eta Gem, η Gem), also named Propus, is a triple star system in the constellation of Gemini.  It is a naked-eye variable star around 380 light years from the Sun.
+
+
+== Nomenclature ==
+Eta Geminorum is the star's Bayer designation. The traditional names Tejat Prior, Propus (from the Greek, meaning forward foot) and Praepes and Pish Pai (from the Persian Pīshpāy, پیش‌پای, meaning foreleg). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Propus for this star.
+This star, along with γ Gem (Alhena), μ Gem (Tejat Posterior), ν Gem and ξ Gem (Alzirr) were Al Han'ah, "the brand" (on the neck of the camel). They also were associated in Al Nuḥātai, the dual form of Al Nuḥāt, "a Camel's Hump".In Chinese lunar mansion, Tejat Prior is the only member of the lunar mansion 钺 (Pinyin: Yuè, Chinese 'Battle Axe').
+
+
+== Surroundings ==
+
+η Geminorum lies at the foot of the Castor side of Gemini, about two degrees west of μ Geminorum and two degrees southeast of the bright open cluster M35.  Between the two stars are several faint areas of nebulosity.  η Gem just to the west of the supernova remnant  shell IC 443.  Further east around μ Gem is the emission nebula S249.  In between is the small faint emission nebula IC 444 around the 7th magnitude 12 Geminorum.
+η Geminorum is near the ecliptic, so it can be occulted by the Moon and, very rarely, by planets. The last occultation by a planet took place on July 27, 1910, by Venus, and the next to last on July 11, 1837, by Mercury.
+
+
+== Variability ==
+In 1865, Julius Schmidt first reported that η Geminorum was a variable star.  The light variations were described by Schmidt and other observers as having long maxima of constant brightness, minima of greatly varying size and shape, and a period around 231 days.  The star was classified as both a semiregular variable and an eclipsing variable.  The eclipse period has been set at about eight years, corresponding to the orbit of an unseen companion.  The eclipses have been questioned many times, but special observations are still been made at the times of predicted eclipses.The semi-regular variations have been classified as type SRa, indicating relatively predictable periodicity with some variations in amplitude and light curve shape.  These types of variable are considered to be very similar to Mira variables, but with smaller amplitudes.  Many long-period variables show long secondary periods, typically ten times longer than the main period, but these changes have not been detected for η Geminorum.  The main period has been refined to an average of 234 days.
+
+
+== System ==
+
+η Geminorum is a triple system, with the luminous class M star having a close companion known only from radial velocity variations, and a more distant companion resolved visually.
+In 1881, Burnham observed that η Geminorum had a close companion (η Gem B).  At that time the separation was measured to be 1.08".  This has now increased to 1.65" and an orbit has been calculated to be 474 years long and rather eccentric.  Little is known about the companion, although it is 6th magnitude.  It is given a G0 spectral type and is assumed to be a giant on the basis of its brightness.In 1902, William Wallace Campbell reported that η Geminorum A showed radial velocity variations.  The assumption was that the star was a spectroscopic binary, although no period or other orbital parameters were determined.  An orbit calculated in 1944 is essentially unchanged today, with a period of 2,983 days and an eccentricity of 0.53.  Observations were made looking for sign of eclipses corresponding to the derived orbit, but the evidence was regarded as inconclusive.  Due to the appearance of the spectrum, the spectroscopic companion is suspected to be a fainter M-class star.
+
+
+== Evolution ==
+The luminous main component of η Geminorum is an asymptotic giant branch star, a highly evolved cool luminous star that was originally 2-8 M☉ on the main sequence. How the system contains 3 evolved stars with very different masses remains to be seen.
+
+
+== Namesakes ==
+USS Propus (AK-132) was a United States Navy Crater class cargo ship named after the star.
+
+

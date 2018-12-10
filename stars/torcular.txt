@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Pisces
+
+Right ascension: 01 h 45 m 23.63185 s
+
+Declination: +09° 09′ 27.8530″
+
+Apparent magnitude: 4.27
+
+Distance: 280 ± 20 ly
+
+Mass: 3.03  M
+
+Radius: 14.57  R
+
+Luminosity: 132  L
+
+Temperature: 5,004  K
+
+Rotational velocity: 2.88 km/s km/s
+
+
+
+Omicron Piscium (ο Piscium, abbreviated Omi Psc, ο Psc) is a binary star in the constellation of Pisces. It is visible to the naked eye, having an apparent visual magnitude of 4.27. Based upon an annual parallax shift of 11.67 mas as seen from the Earth, the system is located roughly 280 light-years from the Sun. It is positioned near the ecliptic, so is subject to occultation by the Moon. It is a member of the thin disk population of the Milky Way.The two components are designated Omicron Piscium A (also named Torcular) and B.
+
+
+== Nomenclature ==
+ο Piscium (Latinised to Omicron Piscium) is the system's Bayer designation. The designations of the two components as Omicron Piscium A and B derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Torcularis septentrionalis, taken from the 1515 Almagest. The name is translated from the Greek ληνός ('full'), which was "erroneously written for λίνος" ('linen'). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Torcular for the component Omicron Piscium A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 右更 (Yòu Gèng), meaning Official in Charge of the Pasturing, refers to an asterism consisting of Omicron Piscium, Eta Piscium, Rho Piscium, Pi Piscium and 104 Piscium. Consequently, Omicron Piscium itself is known as 右更四 (Yòu Gèng sì, English: the Fourth Star of Official in Charge of the Pasturing.)
+
+
+== Properties ==
+This is a probable astrometric binary system. The visible component, Omicron Piscium A, is an evolved K-type giant star with a stellar classification of K0 III. At the estimated age of 390 million years, it is most likely (76% chance) on the horizontal branch, rather than the red-giant branch. As such, it is a red clump star that is generating energy through helium fusion at its core. The star has three times the mass of the Sun and has expanded to over 14 times the Sun's radius. It is radiating 132 times the Sun's luminosity from its photosphere at an effective temperature of 5,004 K.
+
+

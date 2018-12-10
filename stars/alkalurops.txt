@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Boötes
+
+Right ascension: 15 h 24 m 29.42836 s
+
+Declination: +37° 22′ 37.7577″
+
+Apparent magnitude: 4.31
+
+Distance: 121 ± 3 ly
+
+Radius: 1.9 R
+
+Luminosity: 20 L
+
+Rotational velocity: 96 km/s
+
+
+
+Mu Boötis, Latinized from μ Boötis, consists of a pair of double stars in the northern constellation of Boötes. The primary pair, components Aa, are designated μ1 Boötis and have an angular separation of 0.08″. The secondary, consisting of components BC, is designated μ2 Boötis and they have a separation of 2.2″. The two double star systems are separated by 107″, with matching parallaxes and proper motions, suggesting they form a system. However, compents BC have a different chemical composition compared to Aa, indicating this may instead be a close encounter between two binary systems.Mu Boötis had the traditional name Alkalurops, although the International Astronomical Union now regards that name as only applying to μ1 Boötis.Mu Boötis is approximately 121 light-years from the Sun.
+
+
+== Nomenclature ==
+μ Boötis (Latinised to Mu Boötis) is the star's Bayer designation. It also bears the Flamsteed designation 51 Boötis.
+The system's traditional name Alkalurops is from the Greek καλαύροψ kalaurops "a herdsman's crook or staff", with the Arabic prefix attached. It has also been known as Inkalunis (from the Alfonsine tables), Clava (Latin 'the club') and Venabulum (Latin 'a hunting spear').In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Alkalurops for μ¹ Boötis on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.It is known as 七公六, Qī Gōng liù (the Sixth Star of the Seven Excellencies) in Chinese.
+
+
+== Properties ==
+
+μ1 Boötis is a yellow-white F-type subgiant with an apparent magnitude of +4.31.
+Separated from its brighter companion by 108 arcseconds in the sky is the binary star μ2 Boötis, which has a combined spectral type of G1V and a combined brightness of +6.51 magnitudes. The components of μ2 Boötis have apparent magnitudes of +7.2 and +7.8 and are separated by 2.2 arcseconds.  They complete one orbit about their common centre of mass every 260 years.
+
+

@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Puppis
+
+Right ascension: 07 h 49 m 17.65567 s
+
+Declination: −24° 51′ 35.2305″
+
+Apparent magnitude: 3.35
+
+Distance: 1,200 ± 90 ly
+
+Mass: 9.9 ± 1.0 M
+
+Luminosity: 60,000 L
+
+Temperature: 4,880 ± 150 K
+
+Rotational velocity: 9.2 km/s
+
+
+
+Xi Puppis (ξ Puppis, abbreviated Xi Pup, ξ Pup) is a multiple star system in the southern constellation of Puppis. With an apparent visual magnitude of 3.35, it is one of the brighter members of this constellation. Based on parallax measurements made during the Hipparcos mission, it is located approximately 1,200 light-years (370 parsecs) from the Sun, with a 7.5% margin of error.The system consists of a spectroscopic binary, designated Xi Puppis A, together with a third companion star, Xi Puppis B. A's two components are themselves designated Xi Puppis Aa (also named Azmidi) and Ab.
+
+
+== Nomenclature ==
+ξ Puppis (Latinised to Xi Puppis) is the system's Bayer designation. The designations of the two constituents as Xi Puppis A and B, and those of A's components - Xi Puppis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system was sometimes known as Asmidiske (Azmidiske), a mis-spelling and misplacement of Aspidiske (from the Greek for 'little shield), the traditional name of Iota Carinae. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Azmidi for the component Xi Puppis Aa on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Because of the distance of this system from the Earth, its visual magnitude is reduced by 0.73 as a result of extinction from the intervening gas and dust.Xi Puppis A presents as a yellow supergiant of spectral class G6 with a luminosity 8,300 times that of the Sun.The 13th-magnitude companion, Xi Puppis B, is about 5 arcseconds distant and is a Sun-like star that orbits at least 2000 AU away with an orbital period of at least 26,000 years.
+
+

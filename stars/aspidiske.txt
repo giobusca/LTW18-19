@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Carina
+
+Right ascension: 09 h 17 m 05.40686 s
+
+Declination: −59° 16′ 30.8353″
+
+Apparent magnitude: 2.21
+
+Distance: 690 ± 70 ly
+
+Mass: 7.4 M
+
+Luminosity: 4,900 L
+
+Temperature: 7,500 K
+
+Rotational velocity: 10.0 km/s
+
+
+
+Iota Carinae (ι Carinae, abbreviated Iota Car, ι Car), also named Aspidiske, is a star in the southern circumpolar constellation (circumpolar if viewed at any location from approximately 40° S to the South Pole) of Carina. With an apparent visual magnitude of 2.2, it is one of the brighter stars in the night sky. It can be seen from the latitude of Alexandria or Mobile, Alabama and southward.The False Cross is an asterism formed from Iota Carinae, Delta Velorum, Kappa Velorum and Epsilon Carinae. It is so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.
+
+
+== Nomenclature ==
+ι Carinae (Latinised to Iota Carinae) is the star's Bayer designation.
+It bore the traditional names Aspidiske (not be confused with Asmidiske, the proper name of Xi Puppis), Scutulum and Turais
+(or Tureis, a name shared with Rho Puppis). Turais is from the Arabic تُرَيْس turais "shield" (diminutive), while Aspidiske and Scutulum are the Greek and Latin translations, the diminutives of ασπίδα and scūtum "shield". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Aspidiske for this star.
+In Chinese, 海石 (Hǎi Shí), meaning Sea Rock, refers to an asterism consisting of Iota Carinae, Epsilon Carinae, HD 83183, HD 84810 and Upsilon Carinae. Consequently, Iota Carinae itself is known as 海石二 (Hǎi Shí èr, English: the Second Star of Sea Rock).
+
+
+== Properties ==
+Based on parallax measurements, this star is located at a distance of about 690 light-years (210 parsecs) from the Earth. It has a stellar classification of A9 Ib, with the luminosity class of 'Ib' indicating it has reached the stage of its evolution where it has expanded to become a lower luminosity supergiant star.
+Iota Carinae has more than seven times the Sun's mass and has expanded to roughly 43 times the Sun's radius. It is radiating about 4,900 times the luminosity of the Sun. However, this luminosity appears to vary, causing the star's apparent magnitude to range between 2.23–2.28. This energy is being radiated into space from the star's outer envelope at an effective temperature of 7,500 K, giving Iota Carinae the white hue typical of an A-type star.Due to precession of the Earth's axis of rotation, in the next 7500 years the south Celestial pole will pass close to this star and Upsilon Carinae and Iota Carinae will become the South Stars around 8100 CE.
+
+

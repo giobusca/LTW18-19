@@ -1,0 +1,31 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 19 h 09 m 45.83293 s
+
+Declination: –21° 01′ 25.0103″
+
+Apparent magnitude: +2.89
+
+Distance: 510 ± 30 ly
+
+Mass: 5.9 ± 0.3 M
+
+Temperature: 6,590 ± 50 K
+
+Rotational velocity: 30 km/s
+
+
+
+Pi Sagittarii (π Sagittarii, abbreviated Pi Sgr, π Sgr) is a triple star system in the zodiac constellation of Sagittarius. It has an apparent visual magnitude of +2.89, bright enough to be readily seen with the naked eye. Based upon parallax measurements, it is roughly 510 light-years (160 parsecs) from the Sun.The three components are designated Pi Sagittarii A (also named Albaldah), B and C.
+
+
+== Nomenclature ==
+π Sagittarii (Latinised to Pi Sagittarii) is the system's Bayer designation. The designations of the three constituents as Pi Sagittarii A, B and C, derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Albaldah, which comes from the Arabic بلدة bálda 'the town'. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Albaldah for the component Pi Sagittarii A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Nir al Beldat, which was translated into Latin as Lucida Oppidi, meaning 'the brightest of the town'.This system, together with Zeta Sagittarii and Sigma Sagittarii may have been the Akkadian Gu-shi-rab‑ba, 'the Yoke of the Sea'.In Chinese, 建 (Jiàn), meaning Establishment, refers to an asterism consisting of Pi Sagittarii, Xi² Sagittarii, Omicron Sagittarii, 43 Sagittarii, Ro¹ Sagittarii and Upsilon Sagittarii. Consequently, Pi Sagittarii itself is known as 建三 (Jiàn sān, English: the Third Star of Establishment.)
+
+
+== Properties ==
+The spectrum of the system's primary, Pi Sagitarii A, matches a stellar classification of F2 II. The 'II' luminosity class is for a bright giant star that has exhausted the hydrogen at its core and has followed an evolutionary track away from the main sequence of stars like the Sun. Because it has nearly six times the mass of the Sun, it reached this stage in a mere 67 million years. The outer envelope is radiating energy at an effective temperature of about 6,590 K, giving it the yellow-white hue of an F-type star.Pi Sagittarii A has two nearby companions. The first is located at an angular separation of 0.1 arcseconds or at least 13 AUs.  The second is 0.4 arcseconds away, which is 40 AU or more. Nothing is known about the orbits of these stars.Because it is close to the ecliptic, Pi Sagittarii can sometimes be occulted by the Moon, and, very rarely, planets of the Solar System. The next occultation by a planet takes place on February 17, 2035, when it will be occulted by Venus.
+
+

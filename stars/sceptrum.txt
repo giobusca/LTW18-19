@@ -1,0 +1,50 @@
+==Datasheet==
+
+Constellation: Eridanus
+
+Right ascension: 04 h 15 m 16.31963 s
+
+Declination: −07° 39′ 10.3404″
+
+Apparent magnitude: 4.43
+
+Distance: 16.26 ± 0.02 ly
+
+Mass: 0.84  M
+
+Radius: 0.81 R
+
+Luminosity: 0.46 L
+
+Temperature: 5,300 K
+
+Rotation: ~37–43
+
+Rotational velocity: 1.23 ± 0.28 km/s
+
+
+
+40 Eridani (abbreviated 40 Eri), also designated Omicron² Eridani (ο² Eridani, abbreviated Omicron² Eri, ο² Eri), is a triple star system in the constellation of Eridanus. Based on parallax measurements taken during the Hipparcos mission, it is less than 17 light-years from the Sun.
+The primary star of the system, designated 40 Eridani A, also named Keid, is easily visible to the naked eye. It is orbited by a binary pair whose two components are designated 40 Eridani B and C, and which were discovered on January 31, 1783, by William Herschel. It was again observed by Friedrich Struve in 1825 and by Otto Struve in 1851.In 1910, it was discovered that although component B was a faint star, it was white in color. This meant that it had to be a small star; in fact it was a white dwarf, the first discovered. Although it is neither the closest white dwarf, nor the brightest in the night sky, it is by far the easiest to observe; it is nearly three magnitudes brighter than Van Maanen's Star (the nearest solitary white dwarf), and unlike the companions of Procyon and Sirius it is not swamped in the glare of a much brighter primary.
+
+
+== Nomenclature ==
+
+40 Eridani is the system's Flamsteed designation and ο² Eridani (Latinised to Omicron² Eridani) its Bayer designation. The designations of the sub-components - 40 Eridani A, B and C - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU). 40 Eridani C also bears the variable star designation DY Eridani.
+The system bore the traditional name Keid derived from the Arabic word qayd meaning "(egg) shells". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Keid for the component 40 Eridani A on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+40 Eridani A is a main-sequence dwarf of spectral type K1, 40 Eridani B is a 9th magnitude white dwarf of spectral type DA4, and 40 Eridani C is an 11th magnitude red dwarf flare star of spectral type M4.5e. When component B was a main-sequence star, it is thought to have been the most massive member of the system, but ejected most of its mass before it became a white dwarf. B and C orbit each other approximately 400 AU from the primary star, A. Their orbit has a semimajor axis of 35 AU (which is the approximate average distance between B and C) and is rather elliptical (eccentricity 0.410).As seen from the 40 Eridani system, the Sun is a 3.4-magnitude star in Hercules, near the border with Serpens Caput.
+
+
+=== Potential for life ===
+
+The habitable zone of 40 Eridani A, where a planet could exist with liquid water, is near 0.68 AU from A. At this distance a planet would complete a revolution in 223 Earth days (according to the third Kepler's law) and 40 Eridani A would appear nearly 20% wider than the Sun does on Earth. An observer on a planet in the 40 Eridani A system would see the B/C pair as unusually bright (magnitudes -8 and -6) white and reddish-orange stars in the night sky.
+It is unlikely that habitable planets exist around 40 Eridani B because they would have been sterilized by its evolution into a white dwarf. As for 40 Eridani C, it is prone to flares, which cause large momentary increases in the emission of X-rays as well as visible light. This would be lethal to Earth-type life on planets near the flare star.
+
+
+== Planetary system ==
+In 2018, a planet was discovered orbiting 40 Eridani A with a minimum mass of 8.47±0.47 Earth masses. The planet has an orbit of 42 days, and lies considerably interior to the habitable zone, receiving 9 times more stellar flux than Earth, which is an even greater stellar flux amount than Mercury, the innermost planet in our solar system, on average receives from our Sun. It is one of the closest Super-Earths known, the closest discovered to date (as of  2 October 2018) within a multiple star system.
+
+

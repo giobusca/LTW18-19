@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Canes Venatici
+
+Right ascension: 12 h 45 m 07.83 s
+
+Declination: +45° 26′ 24.92″
+
+Apparent magnitude: +4.86 to +7.32
+
+Distance: 760 ± 40 ly
+
+Mass: 3 (uncertain)  M
+
+Radius: 307 R
+
+Temperature: 2,600-3,200 K
+
+
+
+La Superba (Y CVn, Y Canum Venaticorum) is strikingly red giant star in the constellation Canes Venatici.  It is a carbon star and semiregular variable.
+
+
+== Visibility ==
+
+La Superba is a semiregular variable star, varying by about a magnitude over a roughly 160-day cycle, but with slower variation over a larger range.  Periods of 194 and 186 days have been suggested, with a resonance between the periods.Y CVn is one of the reddest stars known, and it is among the brightest of the giant red carbon stars. It is the brightest of known J-stars, which are a very rare category of carbon stars that contain large amounts of carbon-13 (carbon atoms with 7 neutrons instead of the usual 6). The 19th century astronomer Angelo Secchi, impressed with its beauty, gave the star its common name.
+
+
+== Properties ==
+
+The angular diameter of La Superba has been measured at 13.81 mas.  It is expected to be pulsating but this has not been seen in the measurements.  At 320pc, this corresponds to a radius of 2.2 astronomical units (473 R☉). If it were placed at the position of the Sun, the star's surface would extend beyond the orbit of Mars.
+La Superba's temperature is believed to be about 2,750 K, making it one of the coolest true stars known. It is faintly visible to the naked eye, and the red colour is very obvious in binoculars.  When infrared radiation is included, Y CVn has a luminosity several thousand times that of the Sun.
+
+
+== Evolution ==
+After stars up to a few times the mass of the sun have finished fusing hydrogen to helium in their core, they start to burn hydrogen in a shell outside a degenerate helium core, and expand dramatically into the red giant state.  Once the core reaches a high enough temperature, it ignites violently in the helium flash, which begins helium core burning on the horizontal branch.  Once even the core helium is exhausted, a degenerate carbon-oxygen core remains.  Fusion continues in both hydrogen and helium shells at different depths in the star, and the star increases luminosity on the asymptotic giant branch (AGB).  La Superba is currently an AGB star.
+In the AGB stars, fusion products are moved outwards from the core by strong deep convection known as a dredge-up, thus creating a carbon abundance in the outer atmosphere where carbon monoxide and other compounds are formed. These molecules tend to absorb radiation at shorter wavelengths, resulting in a  spectrum with even less blue and violet compared to ordinary red giants, giving the star its distinguished red color.La Superba is most likely in the final stages of fusing its remaining secondary fuel (helium) into carbon and shedding its mass at the rate of about a million times that of the Sun's solar wind. It is also surrounded by a 2.5 light year-wide shell of previously ejected material, implying that at one point it must have been losing mass as much as 50 times faster than it is now.  La Superba thus appears almost ready to eject its outer layers to form a planetary nebula, leaving behind its core in the form of a  white dwarf.
+
+

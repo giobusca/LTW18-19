@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 09 h 09 m 21.53325 s
+
+Declination: +22° 02′ 43.6053″
+
+Apparent magnitude: (5.70 + 6.20)
+
+Distance: 370 ± 20 ly
+
+Luminosity: 118 L
+
+Temperature: 5,101 K
+
+
+
+Xi Cancri (ξ Cancri, abbreviated Xi Cnc, ξ Cnc) is a spectroscopic binary star system in the zodiac constellation of Cancer. It is visible to the naked eye with an apparent visual magnitude of +5.15. Based upon parallax measurements obtained during the Hipparcos mission, it is roughly 370 light-years distant from the Sun.
+The two components are designated Xi Cancri A (also named Nahn) and B.
+
+
+== Nomenclature ==
+ξ Cancri (Latinised to Xi Cancri) is the system's Bayer designation. The designations of the two components as Xi Cancri A' and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Xi Cancri together with Lambda Leonis (Alterf) were the Persian Nahn, "the Nose", and the Coptic Piautos, "the Eye", both lunar asterisms. Nahn was also the name given to Xi Cancri in a 1971 NASA technical memorandum. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Nahn for the component Xi Cancri A on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+At its present distance, the visual magnitude is diminished by an extinction factor of 0.135 due to interstellar dust.Xi Cancri is a single-lined spectroscopic binary star system with an orbital period of 4.66 years, an eccentricity of 0.06, and a semimajor axis of 0.01 arcseconds. The primary, Xi Cancri A, is a yellow G-type giant with an apparent magnitude of +5.70. Its companion, Xi Cancri B, is of magnitude 6.20.
+
+

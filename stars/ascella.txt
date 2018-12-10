@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 19 h 02 m 36.73024 s
+
+Declination: –29° 52′ 48.2279″
+
+Apparent magnitude: +2.59
+
+Distance: 88 ± 2 ly
+
+Mass: 5.26 ± 0.37 M
+
+Temperature: 8,799 K
+
+Rotational velocity: 77 km/s
+
+
+
+Zeta Sagittarii (ζ Sagittarii, abbreviated Zeta Sgr, ζ Sgr) is a triple star system and the third-brightest star in the constellation of Sagittarius.  Based upon parallax measurements, it is about 88 ly (27 pc) from the Sun.The three components are designated Zeta Sagittarii A (also named Ascella) and B, themselves forming a binary pair, and a smaller companion star, C.
+
+
+== Nomenclature ==
+ζ Sagittarii (Latinised to Zeta Sagittarii) is the system's Bayer designation. The designations of the two components as ζ Sagittarii A, B and C derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Ascella, from a Late Latin word meaning armpit. In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Thalath al Sadirah, which was translated into Latin as Tertia τού al Sadirah, meaning third returning ostrich. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Ascella for the component Zeta Sagittarii A on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.This star, together with Gamma Sagittarii, Delta Sagittarii, Epsilon Sagittarii, Lambda Sagittarii, Sigma Sagittarii, Tau Sagittarii and Phi Sagittarii comprise the Teapot asterism.In Chinese, 斗 (Dǒu), meaning Dipper, refers to an asterism consisting of Zeta Sagittarii, Phi Sagittarii, Lambda Sagittarii, Mu Sagittarii, Sigma Sagittarii and Tau Sagittarii. Consequently, Zeta Sagittarii itself is known as 斗宿一 (Dǒu Sù yī, English: the First Star of Dipper.)
+
+
+=== Namesake ===
+Ascella was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+Zeta Sagittarii has a combined apparent visual magnitude of +2.59. It is moving away from the Solar System with a radial velocity of 22 km s−1, and some 1.0–1.4 million years ago, came within 7.5 ± 1.8 ly (2.30 ± 0.55 pc) of the Sun.The two components Zeta Sagittarii A and B orbit each other over a period of 21 years at an eccentricity of 0.211. The combined mass of the binary pair is 5.26 ± 0.37 times the mass of the Sun and their blended stellar classification is A2.5 Va. A is a spectral class A2 giant with an apparent magnitude of +3.27, and B is an A4 subgiant with apparent magnitude of +3.48. The pair have a mean separation of 13.4 AU.The binary pair have a faint, 10th magnitude companion, C, separated from them by a distance of 75 arcseconds.
+
+

@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Aquarius
+
+Right ascension: 22 h 37 m 45.38049 s
+
+Declination: –04° 13′ 40.9939″
+
+Apparent magnitude: 5.03
+
+Distance: 214 ± 3 ly
+
+Radius: 13 R
+
+Luminosity: 60 L
+
+Temperature: 4,581 K
+
+Rotational velocity: 3.8 km/s
+
+
+
+Kappa Aquarii (κ Aquarii, abbreviated Kappa Aqr, κ Aqr) is a probable binary star in the equatorial constellation of Aquarius. This system is visible to the naked eye, but it is faint at an apparent magnitude of 5.03. Based upon parallax measurements made during the Hipparcos mission, it is around 214 light-years (66 parsecs) from the Sun.The two components are designated Kappa Aquarii A (also named Situla) and B.
+
+
+== Nomenclature ==
+κ Aquarii (Latinised to Kappa Aquarii) is the system's Bayer designation. The designations of the two components as Kappa Aquarii A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Situla, a Latin word meaning "bucket" or "water jar". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Situla for the component Kappa Aquarii A on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 虛梁 (Xū Liáng), meaning Temple, refers to an asterism consisting of Kappa Aquarii, 44 Aquarii, 51 Aquarii and HD 216718. Consequently, Kappa Aquarii itself is known as 虛梁三 (Xū Liáng sān, English: the Third Star of Temple). From this Chinese name, the name Heu Leang has appeared, meaning "the empty bridge".
+
+
+=== Namesake ===
+USS Situla (AK-140) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+Kappa Aquarii is most probably a wide binary star system. The brighter component is a giant star with a stellar classification of K2 III. It has exhausted the supply of hydrogen at its core and has expanded to 13 times the radius of the Sun. It is radiating 60 times the Sun's luminosity from its outer envelope at an effective temperature of 4,581 K, giving it the orange-hued glow of a K-type star.The fainter companion star is located at an angular separation of 98.3 arcseconds and has an apparent magnitude of 8.8.
+
+
+== In culture ==
+Endymion, an 1818 poem by John Keats, describes the star in its form as a water urn thus:
+
+

@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 18 h 25 m 59.13734 s
+
+Declination: +65° 33′ 48.5288″
+
+Apparent magnitude: 4.82
+
+Distance: 315 ± 6 ly
+
+
+
+42 Draconis (abbreviated 42 Dra), also named Fafnir, is a 5th magnitude K-type giant star located approximately 315 light years away in the constellation of Draco.  As of 2009, an extrasolar planet (designated 42 Draconis b, later named Orbitar) is thought to be orbiting the star.
+Of spectral type K1.5III, the star has a mass similar to the Sun but with a radius 22 times greater. It is a metal-poor star with metallicity as low as 35% that of the Sun and its age is 9.49 billion years. It is the northern pole star of Venus.
+
+
+== Nomenclature ==
+42 Draconis is the star's Flamsteed designation. Following its discovery the planet was designated 42 Draconis b. In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Fafnir for this star and Orbitar for its planet.The winning names were submitted by the Brevard Astronomical Society of Brevard County, Florida, United States. Fafnir was a Norse mythological dwarf who turned into a dragon, it is also the name of a fictional planet in Larry Niven's known space universe of similar description, ('Draco' is Latin for 'dragon'); Orbitar is a contrived word paying homage to the space launch and orbital operations of NASA.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.
+
+
+== Planetary system ==
+42 Draconis b was discovered in 2009. It is an example of a super-Jupiter.
+
+

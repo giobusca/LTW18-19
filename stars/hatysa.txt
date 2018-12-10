@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Orion
+
+Right ascension: 05 h 35 m 25.98191 s
+
+Declination: –05° 54′ 35.6435″
+
+Apparent magnitude: 2.77
+
+Distance: approx. 2,300 ly
+
+Mass: 23.1 M
+
+Radius: 8.3 R
+
+Luminosity: 68,000 L
+
+Temperature: 32,500 K
+
+Rotational velocity: 122 km/s
+
+
+
+Iota Orionis (ι Orionis, abbreviated Iota Ori, ι Ori) is a multiple star system in the equatorial constellation of Orion the hunter. It is the eighth-brightest member of Orion with an apparent visual magnitude of 2.77 and also the brightest member of the asterism known as Orion's Sword. It is a member of the NGC 1980 open cluster. From parallax measurements, it is located at a distance of roughly 2,300 light-years (710 parsecs) from the Sun.The system has three components designated Iota Orionis A, B and C. Iota Orionis A is itself a massive spectroscopic binary, with components Iota Orionis Aa (also named Hatysa) and Ab.
+
+
+== Nomenclature ==
+ι Orionis (Latinised to Iota Orionis) is the system's Bayer designation. The designations of the three constituents as Iota Orionis A, B and C, and those of A's components - Iota Orionis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU). The system bore the proper  names Hatysa or Hatsya, and Nair al Saif.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Hatysa for the component Iota Orionis Aa on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Arabic the system was known as Naʾir al Saif, which means "the Bright One of the Sword."
+
+
+== Properties ==
+
+Iota Orionis is dominated by Iota Orionis A whose two components are a stellar class O9 III star (blue giant) and a class B0.8 III/IV star about 2 magnitudes fainter. The collision of the stellar winds from this pair makes the system a strong X-ray source. Oddly, the two objects of this system appear to have different ages, with the secondary being about double the age of the primary. In combination with the high eccentricity (e=0.764) of their 29-day orbit, this suggests that the binary system was created through a capture, rather than by being formed together and undergoing a mass transfer. This capture may have occurred, for example, through an encounter between two binary systems.Iota Orionis B is a B8 giant at 11" (approximately 5,000 AU) which has been shown to be variable, and likely to be a young stellar object.  The fainter Iota Orionis C is an A0 star at 49".NGC 1980 contains few bright stars other than Iota Orionis. Only eighteen other stars are considered members in a survey down to 14th magnitude, most of them around 9th magnitude but including the 5th magnitude stars HR 1886 and 1887.
+
+

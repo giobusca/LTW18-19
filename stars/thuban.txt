@@ -1,0 +1,55 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 14 h 04 m 23.3498 s
+
+Declination: 64° 22′ 33.062″
+
+Apparent magnitude: 3.6452
+
+Distance: 303 ± 5 ly
+
+Mass: 2.8 M
+
+Radius: 3.4 R
+
+Luminosity: 479 L
+
+Temperature: 10,100 K
+
+Rotation: 26.2
+
+
+
+Thuban, also designated Alpha Draconis (α Draconis, abbreviated Alpha Dra, α Dra), is a star (or star system) in the constellation of Draco. A relatively inconspicuous star in the night sky of the Northern Hemisphere, it is historically significant as having been the north pole star from the 4th to 2nd millennium BC.
+Even though Johann Bayer gave Thuban the designation Alpha, its apparent magnitude of 3.65 means it is 3.7 times fainter than the brightest star in the constellation, Gamma Draconis (Eltanin), whose apparent magnitude is 2.24.
+
+
+== Nomenclature ==
+α Draconis (Latinised to Alpha Draconis) is the star's Bayer designation.
+The traditional name Thuban is derived from the Arabic word ثعبان thuʿbān, 'snake'. It is sometimes known as the Dragon's Tail and as Adib. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Thuban for this star. It is now so entered in the IAU Catalog of Star Names.In Chinese, 紫微右垣 (Zǐ Wēi Yòu Yuán), meaning Right Wall of Purple Forbidden Enclosure, refers to an asterism consisting of Alpha Draconis, Kappa Draconis, Lambda Draconis, 24 Ursae Majoris, 43 Camelopardalis, Alpha Camelopardalis and BK Camelopardalis. Consequently, Alpha Draconis itself is known as 紫微右垣一 (Zǐ Wēi Yòu Yuán yī, English: the First Star of Right Wall of Purple Forbidden Enclosure.), representing 右樞 (Yòushū), meaning Right Pivot. 右樞 (Yòushū) is westernized into Yu Choo by R.H. Allen with the same meaning.
+
+
+== Visibility ==
+Given good viewing conditions, Thuban is relatively easy to spot in the night sky, due to its location in relation to the Big Dipper (aka the Plough) asterism of Ursa Major. While it is well known that the two outer stars of the 'dipper' point to the modern-day pole star Polaris, it is less well known that the two inner stars, Phecda and Megrez, point to Thuban, just 15 degrees of arc from Megrez.  Thuban is not bright enough to be viewed from badly light-polluted areas.
+
+
+=== Pole star ===
+
+Due to the precession of Earth's rotational axis, Thuban was the naked-eye star closest to the north pole from 3942 BC, when it superseded Iota Draconis as the Pole Star, until 1793 BC, when it was superseded by Kappa Draconis. It was closest to the pole in 2830 BC, when it was less than ten arc-minutes away from the pole. It remained within one degree of celestial north for nearly 200 years afterwards, and even 900 years after its closest approach, was just five degrees off the pole. Thuban was considered the pole star until about 1800 BC, when the much brighter Beta Ursae Minoris (Kochab) began to approach the pole as well.
+Having gradually drifted away from the pole over the last 4,800 years, Thuban is now seen in the night sky at a declination of 64° 20' 45.6", RA 14h 04m 33.58s. After moving nearly 47 degrees off the pole by 10000 AD, Thuban will gradually move back toward the north celestial pole. In 20346 AD, it will again be the pole star, that year reaching a maximum declination of 88° 43′ 17.3″, at right ascension 19h 08m 54.17s.
+
+
+== Binary system ==
+Thuban is a single-lined spectroscopic binary. Only the primary star can be detected in the spectrum. The radial velocity variations of the primary can be measured and the pair have a somewhat eccentric orbit of 51.4 days. Making some assumptions based on the faintness of the secondary, the stars are likely to be about 0.46 astronomical units apart and the secondary is a little less massive than the primary. The secondary is likely to be a main sequence star slightly cooler than the primary, possibly an A2 spectral class.The secondary star was detected in high spatial resolution observations using the Navy Precision Optical Interferometer. The secondary star is 1.8 magnitudes (at 700 nm) fainter than the primary star and was detected at separations ranging from 6.2 to 2.6 milli-arcseconds.
+
+
+== Properties ==
+Thuban has a spectral class of A0III, indicating its similarity to Vega in temperature and spectrum, but more luminous and more massive. It has been used as an MK spectral standard for the A0III type.Thuban is not a main sequence star; it has now ceased hydrogen fusion in its core. That makes it a white giant star, being 120 times more luminous than the Sun. It is 300 light years away and its brightness is only decreased by 0.003 magnitudes by intervening gas and dust.
+
+
+== Popular culture ==
+The United States Navy ship USS Thuban (AKA-19) was built in 1943 and decommissioned in 1967.
+Thuban has featured in works of fiction.
+According to British conspiracy theorist David Icke, Alpha Draconis is the origin of blood-drinking reptilians who lurk in underground bases and plot against humanity (with the aid of powerful figures such as Queen Elizabeth II).

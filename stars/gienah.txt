@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Corvus
+
+Right ascension: 12 h 15 m 48.37081 s
+
+Declination: –17° 32′ 30.9496″
+
+Apparent magnitude: 2.585
+
+Distance: 154 ± 1 ly
+
+Luminosity: 331 L
+
+Rotational velocity: 30 km/s
+
+
+
+Gamma Corvi (γ Corvi, abbreviated Gamma Crv, γ Crv) is a binary star and the brightest star in the southern constellation of Corvus, having an apparent visual magnitude of 2.59. The system's two components are designated Gamma Corvi A (also named Gienah) and Gamma Corvi B. The distance to this system has been measured directly using the parallax technique, yielding an estimated 154 light-years (47 parsecs) from the Sun.
+
+
+== Nomenclature ==
+γ Corvi (Latinised to Gamma Corvi) is the system's Bayer designation. The designation of the components – Gamma Corvi A and B – derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Gamma Corvi bore the traditional name of Gienah derived from Arabic, from Ulugh Beg's الجناح الغراب  اليمن al-janāħ al-ghirāb al-yaman, meaning "the right wing of the crow", although on modern charts it marks the left wing. The star Epsilon Cygni also bore this traditional name and Gamma Corvi was referred to as Gienah Corvi or Gienah Ghurab to distinguish it from this star in Cygnus.
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Gienah for  the component Gamma Corvi A on 6 November 2016 and Aljanah for Epsilon Cygni Aa on 30 June 2017. They are both now so included in the List of IAU-approved Star Names.Al-janāħ al-ghirāb al-yaman or Djenah al Ghyrab al Eymen appeared in the catalog of stars in the Calendarium of Al Achsasi Al Mouakket, which was translated into Latin as Dextra ala Corvi.In Chinese, 軫宿 (Zhěn Sù), meaning Chariot (asterism), refers to an asterism consisting of Gamma Corvi, Epsilon Corvi, Delta Corvi and Beta Corvi. Consequently, Gamma Corvi itself is known as 軫宿一 (Zhěn Sù yī, English: the First Star of Chariot).
+
+
+== Properties ==
+Gamma Corvi A is a giant star with a stellar classification of B8 III and has approximately 4.2 times the mass of the Sun. It has a blue-white hue. The spectrum of this star displays an anomalously higher than normal abundance of the elements mercury and manganese, making this a Mercury-manganese star. However, there are other elements that show large over or under abundances. This chemical peculiarity in an otherwise stable stellar atmosphere is most likely caused by separation of the elements through diffusion and gravitational settling.It has a confirmed stellar companion with a mass of about 0.8 times the Sun's, which may be orbiting at a separation of around 50 AU over a 158-year period. The photometry for Gamma Corvi B suggests a stellar classification in the range K5–M5 V.
+
+

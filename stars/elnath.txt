@@ -1,0 +1,42 @@
+==Datasheet==
+
+Constellation: Taurus
+
+Right ascension: 05 h 26 m 17.51312 s
+
+Declination: 28° 36′ 26.8262″
+
+Apparent magnitude: 1.65
+
+Distance: 134 ± 2 ly
+
+Mass: 5.0 ± 0.1 M
+
+Radius: 4.2 R
+
+Luminosity: 700 L
+
+Temperature: 13,824 ± 475 K
+
+Rotational velocity: 59 km/s
+
+
+
+Beta Tauri (β Tauri, abbreviated Beta Tau, β Tau), also named Elnath or Alnath, is the second-brightest star in the constellation of Taurus with an apparent magnitude of 1.65.  It is a chemically peculiar B7 giant star, 134 light years away from Earth.  It was previously also known as Gamma Aurigae.
+
+
+== Nomenclature ==
+This star has two Bayer designations: β Tauri (Latinised as beta Tauri) and γ Aurigae (Latinised as gamma Aurigae). Ptolemy considered the star to be shared by Auriga, and Johann Bayer assigned it a designation in both constellations.  When the modern constellation boundaries were fixed in 1930, the designation γ Aurigae largely dropped from use.The traditional name Elnath, variously El Nath or Alnath, comes from the Arabic word النطح an-naţħ, meaning "the butting" (i.e. the bull's horns). As in many other (but not all) Arabic star names, the article ال is transliterated literally as el, despite the fact that in Arabic pronunciation it is assimilated to the following n; it can also be omitted: Nath. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Elnath for this star.
+In Chinese, 五車 (Wǔ Chē), meaning Five Chariots, refers to an asterism consisting of β Tauri, ι Aurigae, Capella, β Aurigae and θ Aurigae. Consequently, β Tauri itself is known as 五車五 (Wǔ Chē Wǔ; English: Fifth of the Five Chariots.)
+
+
+== Properties ==
+β Tauri's absolute magnitude is -1.34, similar to another star in Taurus, Maia in the Pleiades star cluster.  Like Maia, β Tauri is a B-class giant with a luminosity 700 times solar. It has evolved away from the main sequence to become a giant, larger and cooler than when it was on the main sequence.
+However, being approximately 130 light-years distant compared to Maia's estimated 360 light-years, β Tauri ranks as the second-brightest star in the constellation.
+It is a mercury-manganese star, a type of non-magnetic chemically peculiar star with unusually large signatures of some heavy elements in its spectrum.  Relative to the Sun, β Tauri is notable for a high abundance of manganese, but little calcium and magnesium.  However, the lack of strong mercury signatures, together with notably high levels of silicon and chromium, have led some authors to give other classifications, including as a "SrCrEu star" or even an Ap star.Positioned along the plane of the Milky Way Galaxy a few degrees west of the galactic anticenter, β Tauri lies near a rich collection of nebulae and star clusters, including M36, M37, and M38.  It is 5.39 degrees north of the ecliptic, so it can be occulted by the moon. Such occultations occur when the moon's ascending node is near the vernal equinox, as was the case in 2007. Most occultations are visible only in the Southern Hemisphere, because the star is at the northern edge of the lunar occultation zone. Rarely, it may be occulted as far north as southern California.
+
+
+== Companions ==
+There is a faint star that appears close enough to β Tauri for astronomers to consider it a double star. Its visual companion, known as BD+28 795B, has a position angle of 239 degrees and is separated from the main star by 33.4 arcseconds.Six closer and even fainter stars have been detected during a search for brown dwarf and planetary companions, but all are considered to be background objects.
+
+

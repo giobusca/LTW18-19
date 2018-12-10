@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 18 h 05 m 48.48810 s
+
+Declination: –30° 25′ 26.7235″
+
+Apparent magnitude: +2.98
+
+Distance: 96.9 ± 0.5 ly
+
+Radius: 12 R
+
+Luminosity: 68 L
+
+Temperature: 4,760 K
+
+
+
+Gamma² Sagittarii (γ² Sagittarii, abbreviated Gamma² Sgr, γ² Sgr), also named Alnasl, is a 3rd-magnitude star in the zodiac constellation of Sagittarius. The location of this star forms the tip of the arrow in the bow of Sagittarius the Centaur. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 96.9 light-years (29.7 parsecs) from the Sun. It has an apparent visual magnitude of +2.98, making it the seventh-brightest star in the constellation.
+It forms part of a double star along with a fainter optical companion designated Gamma¹ Sagittarii located about 50 arcminutes north of this star. The latter is a magnitude 4.7 Cepheid variable star that also has the variable star designation W Sagittarii.
+
+
+== Nomenclature ==
+γ² Sagittarii (Latinised to Gamma² Sagittarii) is the star's Bayer designation.
+It bore the traditional names Alnasl (alternatively Nasl, El Nasl), Nushaba (Nash) and Awal al Warida. Alnasl is derived from the Arabic النصل al-naşl and Nushaba is derived from the Arabic Zujj al-Nashshaba, both meaning "arrowhead". In the catalogue of stars in the calendarium of Al Achsasi al Mouakket, this star was designated Awal al Waridah, meaning "first [star] of the [ostrich] going down to the water", from the Arabic النعامة الواردة Al Naʽāma al Wārida, the name of the asterism consisting of this star, Delta Sagittarii, Epsilon Sagittarii and Eta Sagittarii. This ostrich was thought of as going down to the river (the Milky Way) to drink, and another ostrich (σ, φ, τ, and ζ, al Sadira) was thought of as coming back up.In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Alnasl for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.Gamma² Sagittarii, together with Delta Sagittarii, Epsilon Sagittarii, Zeta Sagittarii, Lambda Sagittarii, Sigma Sagittarii, Tau Sagittarii and Phi Sagittarii, comprise the Teapot asterism.Together with Delta Sagittarii and Epsilon Sagittarii, Gamma Sagittarii formed the Akkadian Sin-nun‑tu, or Si-nu-nu‑tum 'the Swallow'.In Chinese, 箕 (Jī), meaning Winnowing Basket, refers to an asterism consisting of Gamma Sagittarii, Delta Sagittarii, Epsilon Sagittarii and Eta Sagittarii. Consequently, Gamma Sagittarii itself is known as 箕宿一 (Jī Sù yī, English: the First Star of Winnowing Basket.)
+
+
+== Properties ==
+A stellar classification of K1 III reveals that this is a giant star, having expanded to an estimated 12 times the Sun's radius. This means it has exhausted the hydrogen in its core and evolved away from the main sequence. The abundance of elements other than hydrogen and helium in this star, what astronomers term the star's metallicity, is lower than in the Sun. Gamma² Sagittarii has an effective temperature of 4,760 K, compared to 5,778 K for the Sun. It is this lower temperature that gives Gamma² Sagittarii the orange hue that is a characteristic of K-type stars.
+
+

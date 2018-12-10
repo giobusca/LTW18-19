@@ -1,0 +1,56 @@
+==Datasheet==
+
+Constellation: Orion
+
+Right ascension: 05 h 40 m 45.52666 s
+
+Declination: −01° 56′ 34.2649″
+
+Apparent magnitude: 2.08 + 4.28 + 4.01
+
+Distance: 1,260 ± 180 ly
+
+Mass: 33 ± 10 M
+
+Radius: 20.0 ± 3.2 R
+
+Luminosity: 250,000 L
+
+Temperature: 29,500 ± 1000 K
+
+Rotation: 6.67 days
+
+Rotational velocity: 110 ± 10 km/s
+
+
+
+Alnitak, designated Zeta Orionis (ζ Orionis, abbreviated Zeta Ori, ζ Ori) and 50 Orionis (50 Ori), is a multiple star several hundred parsecs from the Sun in the constellation of Orion. It is one of the three main stars of Orion's Belt along with Alnilam and Mintaka.
+The primary star is a hot blue supergiant with an absolute magnitude of -6.0 and is the brightest class O star in the night sky with a visual magnitude of +2.0.  It has two bluish 4th magnitude companions, one finely resolved and one only detected interferometrically and spectroscopically, producing a combined magnitude for the trio of +1.77. The stars are members of the Orion OB1 association and the Collinder 70 association.
+
+
+== Observation history ==
+
+Alnitak has been known since antiquity and, as a component of Orion's belt, has been of widespread cultural significance.  It was reported to be a double star by amateur German astronomer George K. Kunowsky in 1819.  Much more recently, in 1998, the bright primary was found by a team from the Lowell Observatory to have a close companion; this had been suspected from observations made with the Narrabri Stellar Intensity Interferometer in the 1970s.The stellar parallax derived from observations by the Hipparcos satellite imply a distance around 225 parsecs, but this does not take into account distortions caused by the multiple nature of the system and larger distances have been derived by many authors.
+
+
+== System ==
+
+Alnitak is a triple star system at the eastern end of Orion's belt, the second magnitude primary having a 4th magnitude companion nearly 3 arc-seconds distant, in an orbit taking over 1,500 years.
+The primary (Alnitak A) is itself a close binary, comprising Alnitak Aa (a blue supergiant of spectral type O9.5Iab with an absolute magnitude of -6.0 and an apparent magnitude of 2.0) and Alnitak Ab (a blue sub-giant of spectral type B1IV with an absolute magnitude of -3.9 and an apparent magnitude of 4.3, discovered in 1998.). Aa is estimated as being up to 33 times as massive as the Sun and to have a diameter 20 times greater. It is some 21,000 times brighter than the sun, with a surface brightness (luminance) some 500 times greater. It is the brightest star of class O in the night sky.
+A fourth star, 9th magnitude Alnitak C, has not been confirmed to be part of the Aa-Ab-B group, and may simply lie along the line of sight.
+The Alnitak system is bathed in the nebulosity of IC 434.
+
+
+== Etymology and cultural significance ==
+ζ Orionis (Latinised as Zeta Orionis) is the star's Bayer designation and 50 Orionis its Flamsteed designation.
+The traditional name Alnitak, alternately spelled Al Nitak or Alnitah, is taken from the Arabic النطاق an-niṭāq, "the girdle". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alnitak for this star. It is now so entered in the IAU Catalog of Star Names.
+
+
+=== Orion's belt ===
+
+The three belt stars were collectively known by many names in many cultures. Arabic terms include النجاد Al Nijād 'the Belt', النسك Al Nasak 'the Line', العلقات Al Alkāt 'the Golden Grains or Nuts' and, in modern Arabic, ميزان الحق Al Mīzān al Ḥaqq 'the Accurate Scale Beam'. In Chinese mythology they were known as The Weighing Beam.The belt was also the Three Stars mansion (simplified Chinese: 参宿; traditional Chinese: 參宿; pinyin: Shēn Xiù), one of the Twenty-eight mansions of the Chinese constellations. It is one of the western mansions of the White Tiger.
+In Chinese, 參宿 (Shēn Xiù), meaning Three Stars (asterism), refers to an asterism consisting of Alnitak, Alnilam, Mintaka (Orion's Belt) with Betelgeuse, Bellatrix, Saiph and Rigel Consequently, Alnitak are known as 參宿一 (Shēn Xiù yī, English: the First Star of Three Stars).. It is one of the western mansions of the White Tiger.
+
+
+== Namesakes ==
+The USS Alnitah was a United States Navy Crater-class cargo ship named after the star.

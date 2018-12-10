@@ -1,0 +1,46 @@
+==Datasheet==
+
+Constellation: Andromeda
+
+Right ascension: 02 h 03 m 53.9531 s
+
+Declination: +42° 19′ 47.009″
+
+Apparent magnitude: 2.10
+
+Distance: 350 ± 30 ly
+
+Radius: 80 R
+
+Luminosity: 2,000 L
+
+Temperature: 4,500 K
+
+Rotational velocity: < 17 km/s
+
+
+
+Gamma Andromedae (γ Andromedae, abbreviated Gamma And, γ And) is the third-brightest point of light in the constellation of Andromeda.  It is a multiple star system approximately 350 light-years from the Earth.
+In 1778, Johann Tobias Mayer discovered that γ Andromedae was a double star.  When examined in a small telescope, it appears to be a bright, golden-yellow star (γ1 Andromedae or γ Andromedae A, also named Almach) next to a dimmer, indigo-blue star (γ2 Andromedae or γ Andromedae B), separated by approximately 10 arcseconds.  It is often considered by stargazers to be a beautiful double star with a striking contrast of color.  It was later discovered that γ2 Andromedae is itself a triple star system.  What appears as a single star to the naked eye is thus a quadruple star system.
+
+
+== Nomenclature ==
+γ Andromedae (Latinised to Gamma Andromedae) is the system's Bayer designation; γ1 and γ2 Andromedae those of its two constituents. The designations of those constituents as Gamma Andromedae A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Almach for the component Gamma Andromedae A on 20 July 2016 and it is now so included in the List of IAU-approved Star Names.
+Almach was the traditional name (also spelt as Almaach, Almaack, Almak, Almaak, or Alamak), derived from the Arabic العناق (al-‘anāq), "the caracal" (desert lynx).
+Another term for this star used by medieval astronomers writing in Arabic was  رجل المسلسلة (Rijl al Musalsalah), "Foot of The [Chained] Woman".
+In Chinese, 天大將軍 (Tiān Dà Jiāng Jūn), meaning Heaven's Great General, refers to an asterism consisting of γ Andromedae, φ Persei, 51 Andromedae, 49 Andromedae, χ Andromedae, υ Andromedae, τ Andromedae, 56 Andromedae, β Trianguli, γ Trianguli and δ Trianguli. Consequently, γ Andromedae itself is known as 天大將軍一 (Tiān Dà Jiāng Jūn yī, English: the First Star of Heaven's Great General).
+In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated الخامس النعامة (Al Khamis al Na'amah), which was translated into Latin as Quinta Struthionum, meaning the fifth ostrich.
+In the Babylonian star catalogues, γ Andromedae, together with Triangulum, formed the constellation known as MULAPIN (𒀯𒀳) "The Plough".
+Astrologically, this star was considered "honourable and eminent."
+
+
+== Stellar properties ==
+
+γ1 Andromedae is a  bright giant star with a spectral classification of  K3IIb.  It has an apparent visual magnitude of approximately 2.26.γ2 Andromedae, with an overall apparent visual magnitude of 4.84, is 9.6 arcseconds away from γ1 Andromedae at a position angle of 63 degrees.In October 1842, Wilhelm Struve found that γ2 Andromedae was itself a double star whose components were separated by less than an arcsecond.  The components are an object of apparent visual magnitude 5.5, γ Andromedae B, and a type-A main sequence star with apparent visual magnitude 6.3, γ Andromedae C.  They have an orbital period of about 64 years.  Spectrograms taken from 1957 to 1959 revealed that γ Andromedae B was itself a spectroscopic binary, composed of two type-B main sequence stars orbiting each other with a period of 2.67 days.
+
+
+== Almach as a name ==
+USS Almaack (AKA-10) was the name of United States navy ship.
+
+

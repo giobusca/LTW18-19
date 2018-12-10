@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Canis Major
+
+Right ascension: 07 h 01 m 43.14779 s
+
+Declination: –27° 56′ 05.3898″
+
+Apparent magnitude: 3.43 - 3.51
+
+Distance: 1,120 ± 70 ly
+
+Mass: 12.3 ± 0.1 M
+
+Radius: 420 R
+
+Luminosity: 31,000 L
+
+Temperature: 3,750 K
+
+
+
+Sigma Canis Majoris (σ Canis Majoris, abbreviated Sig CMa, σ CMa), also named Unurgunite, is a variable star in the southern constellation of Canis Major. It is approximately 1,120 light-years (340 parsecs) from the Sun and has an average apparent visual magnitude of +3.41.
+
+
+== Nomenclature ==
+σ Canis Majoris (Latinised to Sigma Canis Majoris) is the system's Bayer designation. The star bore the traditional name of Unurgunite in the culture of the Boorong, a clan of the indigenous Maligundidj people of northwestern Victoria in Australia, who saw it as an ancestral figure who fights the moon, flanked by his wives (the stars Delta and Epsilon Canis Majoris). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Unurgunite for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Sigma Canis Majoris is a supergiant star with a stellar classification of K4 III. This is a type of star that is in the late stages of its evolution, having consumed the hydrogen at its core and ballooned out to 420 times the Sun's radius. At 1.95 Astronomical units, this radius is nearly double the average distance of the Earth from the Sun. It is currently radiating about 32,000 times the luminosity of the Sun from its outer envelope at an effective temperature of around 3,877 K. This gives it the cool orange-red hue of an M-type star.
+
+
+=== Variability ===
+Sigma Canis Majoris was noted as a likely variable star in a list of bright southern stars studied at the Cape Observatory. The variability was confirmed in 1963, and it was formally catalogued as a variable star.It is classified as an irregular variable star and its brightness varies from magnitude +3.43 to +3.51. The magnetic field of this star has a strength below 1 G. It is suspected of being a member of the Collinder 121 stellar association of co-moving stars, but this is disputed.
+
+
+=== Pre-supernova ===
+Sigma Canis Majoris is listed as a possible type II supernova. Instruments are capable of measuring the pre-supernova neutrino flux which would act as an alert that the supernova explosion was starting.
+
+

@@ -1,0 +1,51 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 10 h 08 m 22.311 s
+
+Declination: +11° 58′ 01.95″
+
+Apparent magnitude: 1.40
+
+Distance: 79.3 ± 0.7 ly
+
+Mass: 3.8 M
+
+Radius: 3.092 ± 0.147 R
+
+Luminosity: 288 L
+
+Temperature: 12,460 ± 200 K
+
+Rotational velocity: 347 km/s
+
+
+
+Regulus, also designated Alpha Leonis (α Leonis, abbreviated Alpha Leo, α Leo), is the brightest star in the constellation of Leo and one of the brightest stars in the night sky, lying approximately 79 light years from the Sun. Regulus is a multiple star system composed of four stars that are organized into two pairs. The spectroscopic binary Regulus A consists of a blue-white main-sequence star and its companion, which has not yet been directly observed, but is probably a white dwarf. Located farther away are Regulus B, C, and D, which are dim main-sequence stars.
+
+
+== Nomenclature ==
+α Leonis (Latinized to Alpha Leonis) is the star's Bayer designation. The traditional name Rēgulus is Latin for 'prince' or 'little king'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Regulus for this star. It is now so entered in the IAU Catalog of Star Names.
+
+
+== Observations ==
+Regulus is 0.47 degree from the ecliptic, the closest of the bright stars, and is regularly occulted by the Moon. Occultations by the planets Mercury and Venus are possible but rare, as are occultations by asteroids.
+The last occultation of Regulus by a planet was on July 7, 1959, by Venus. The next will occur on October 1, 2044, also by Venus. Other planets will not occult Regulus over the next few millennia because of their node positions. An occultation of Regulus by the asteroid 166 Rhodope was observed by 12 researchers from Portugal, Spain, Italy, and Greece on October 19, 2005.  Differential bending of light was measured to be consistent with general relativity. Regulus was occulted by the asteroid 163 Erigone in the early morning of March 20, 2014. The center of the shadow path passed through New York and eastern Ontario, 
+but no one is known to have seen it, due to cloud cover. The International Occultation Timing Association recorded no observations at all.Although best seen in the evening in northern hemisphere in late winter and spring, Regulus appears at some time of night throughout the year except for about a month on either side of August 22, when the Sun is too near. Regulus passes through SOHO's LASCO C3 every August. For most Earth observers, the heliacal rising of Regulus occurs in the first week of September. Every 8 years, Venus passes Regulus around the time of the star's heliacal rising, as on 5 September 2014.
+
+
+== System ==
+Regulus is a multiple star system consisting of at least four stars.  Regulus A is the dominant star, with a binary companion 177" distant that is thought to be physically related.  Regulus D is a 12th magnitude companion at 212", but is apparently an unrelated background object.Regulus A is a binary star consisting of a blue-white main sequence star of spectral type B7V, which is orbited by a star of at least 0.3 solar masses, which is probably a white dwarf. The two stars take approximately 40 days to complete an orbit around their common centre of mass. Given the extremely distorted shape of the primary, the relative orbital motion may be notably altered with respect to the two-body purely Keplerian scenario because of non-negligible long-term orbital perturbations affecting, for example, its orbital period. In other words, Kepler's third law, which holds exactly only for two point-like masses, would no longer be valid for the Regulus system. Regulus A was long thought to be fairly young, only 50 – 100 million years old, calculated by comparing its temperature, luminosity, and mass.  The existence of a white dwarf companion would mean that the system is at least a 1,000 million years old, just to account for the formation of the white dwarf.  The discrepancy can be accounted for by a history of mass transfer onto a once-smaller Regulus A.The primary of Regulus A has about 3.5 times the Sun’s mass. It is spinning extremely rapidly, with a rotation period of only 15.9 hours, which causes it to have a highly oblate shape. This results in so-called gravity darkening: the photosphere at Regulus' poles is considerably hotter, and five times brighter per unit surface area, than its equatorial region.  The star's surface at the equator rotates at about 320 kilometres per second (199 miles per second), or 96.5% of its critical angular velocity for break-up. It is emitting polarized light because of this.Regulus BC is 5,000 AU from Regulus A.  They share a common proper motion and are thought to orbit each other.  Designated Regulus B and Regulus C, the pair has Henry Draper Catalogue number HD 87884. The first is a K2V star, while the companion is approximately M4V. The companion pair has an orbital period of about 600 years with a separation of 2.5" in 1942.
+
+
+== Visibility ==
+The Regulus system as a whole is the twenty-first brightest star in the night sky with an  apparent magnitude of +1.35. The light output is dominated by Regulus A. Regulus B, if seen in isolation, would be a binocular object of magnitude +8.1, and its companion, Regulus C, the faintest of the three stars that has been directly observed, would require a substantial telescope to be seen, at magnitude +13.5. Regulus A is itself a spectroscopic binary: the secondary star has not yet been directly observed as it is much fainter than the primary. The BC pair lies at an angular distance of 177 arc-seconds from Regulus A, making them visible in amateur telescopes.
+
+
+== Etymology and cultural associations ==
+Rēgulus is Latin for 'prince' or 'little king'; its Greek equivalent (Latinised) is Basiliscus. It is also known as Qalb al-Asad, from the Arabic قلب الأسد, meaning 'the heart of the lion', a name already attested in the Greek Kardia Leontos whose Latin equivalent is Cor Leōnis. The Arabic phrase is sometimes approximated as Kabelaced. In Chinese it is known  as 轩辕十四, the Fourteenth Star of Xuanyuan, the Yellow Emperor. In Hindu astronomy, Regulus corresponds to the Nakshatra Magha ("the bountiful").
+Babylonians called it Sharru ("the King"), and it marked the 15th ecliptic constellation. In India it was known as Maghā ("the Mighty"), in Sogdiana Magh ("the Great"), in Persia Miyan ("the Centre") and also as Venant, one of the four 'royal stars' of the Persian monarchy. It was one of the fifteen Behenian stars known to medieval astrologers, associated with granite, mugwort, and the kabbalistic symbol .
+In the Babylonian MUL.APIN, Regulus is listed as LUGAL, meaning "the star that stands in the breast of the Lion:the King."
+
+

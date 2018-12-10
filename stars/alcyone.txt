@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Taurus
+
+Right ascension: 03 h 47 m 29.077 s
+
+Declination: 24° 06′ 18.49″
+
+Apparent magnitude: 2.87
+
+Distance: 136ly
+
+Mass: 5.9-6.1 M
+
+Luminosity: 2,030 L
+
+Temperature: 12,258 K
+
+Rotational velocity: 149 km/s
+
+
+
+Alcyone, designated η Tauri (Eta Tauri, abbreviated Eta Tau, η Tau), is a multiple star system in the constellation of Taurus. Approximately 440 light years from the Sun, it is the brightest star in the Pleiades open cluster, which is a young cluster, around 100 million years old. There are a number of fainter stars very close to Alcyone, all most probably members of the same cluster. 
+
+
+== Nomenclature ==
+Eta Tauri is the star's Bayer designation. The name Alcyone originates with Greek mythology; she is one of the seven daughters of Atlas and Pleione known as the Pleiades. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alcyone for this star. It is now so entered in the IAU Catalog of Star Names.In Chinese, 昴宿 (Mǎo Xiù), meaning Hairy Head, refers to an asterism consisting Alcyone, Electra, Taygeta, Asterope, Maia, Merope and Atlas. Consequently, Alcyone itself is known as 昴宿六 (Mǎo Xiù liù), "the Sixth Star of Hairy Head".
+
+
+== Star system ==
+The Catalog of Components of Double and Multiple Stars lists three companions: B is 24 Tau, a magnitude 6.28 A0 main sequence star 117" away; C is V647 Tau, a δ Sct variable star; and D is a magnitude 9.15 F3 main sequence star.  V647 Tau varies from magnitude +8.25 to +8.30 over 1.13 hours.The Washington Double Star Catalog lists a further four companions, all fainter than 11th magnitude, and also describes component D as itself double with two nearly equal components separated by 0.30".The main star, Alcyone A, consists of three components, the brightest being a blue-white B-type giant similar to many of the other B-type stars in the Pleiades cluster. It has an apparent magnitude of +2.87 (absolute magnitude = −2.39), and a radius almost 10 times that of the Sun. Its temperature is approximately 13,000 K giving it a total luminosity that is 2,400 times solar. The spectral type of B7IIIe indicates that emission lines are present in its spectrum. Like many Be stars, Alcyone A has a high rotational velocity of 149 km/s, which has created a gaseous disk flung into orbit around the star from its equator.
+The closest companion has a very low mass and is less than 1 milli-arcsecond away, with a likely orbital period just over four days.  The other star is about half the mass of the giant and they are separated by 0.031 arcseconds, or about the distance from the Sun to Jupiter, orbiting in about 830 days.
+
+
