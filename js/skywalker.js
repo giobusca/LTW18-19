@@ -189,7 +189,6 @@ function julianCenturiesSinceJ2000() {
     var jd = dd + Math.floor((153 * m + 2) / 5) + 365 * y + Math.floor(y / 4) - Math.floor(y / 100) + Math.floor(y / 400) - 32045;
     var jt = jd + (hh-12 + min/60.0 + sec/3600.0)/24.0;
 
-<<<<<<< HEAD
     var j2000d = jt - 2451545;
     console.log("JD: "+jd+" - J2000D: "+j2000d);
     
@@ -197,26 +196,6 @@ function julianCenturiesSinceJ2000() {
     var j2000Cen = j2000d/36525.0;
 
     console.log("JT: "+j2000Cen);
-=======
-    return jd;
-}
-
-function getPosition(position){
-    alert("prova posizione");
-    var declination = sessionStorage.declination;
-    var rightAscention = sessionStorage.rightAsc;
-    var lat = position.coordinates.latitude;
-    var long = position.coordinates.longitude;
-
-    var jd = juliandDay();
-
-    var gmst = (jd - 2451545) / 36525;
-
-    var lha = gmst + long - rightAscention;
-
-    var alt = Math.asin( Math.sin(lat)*Math.sin(declination) + Math.cos(lat)*Math.cos(declination)*Math.cos(lha) );
-    var az = Math.acos( (Math.sin(Dec) - Math.sin(lat)*Math.sin(alt)) / (Math.cos(lat)*Math.cos(alt)) );
->>>>>>> ac2c727ea929da8861539ff295fa6b1e9749ab96
 
     return j2000Cen;
 }
@@ -240,7 +219,6 @@ function getAltAz(lat, long){
     // RA to degrees
     rightAsc = 15*(rightAsc);
 
-<<<<<<< HEAD
     var jc = julianCenturiesSinceJ2000();
     var lmst = 24110.54841 + 8640184.812866 * jc + 0.093104 * jc*jc - 0.0000062 * jc*jc*jc + long;
 
@@ -268,22 +246,6 @@ function getAltAz(lat, long){
 
     console.log("Az: "+az+"; Alt: "+alt); 
 
-=======
-    /*
-    var lat = position[0];
-    var long = position[1];
-    var jd = juliandDay();
-
-    var gmst = (jd - 2451545) / 36525;
-
-    var lha = gmst + long - rightAscention;
-
-    var alt = Math.asin( Math.sin(lat)*Math.sin(declination) + Math.cos(lat)*Math.cos(declination)*Math.cos(lha) );
-    var az = Math.acos( (Math.sin(Dec) - Math.sin(lat)*Math.sin(alt)) / (Math.cos(lat)*Math.cos(alt)) );
-
-    return [alt, az];
-    */
->>>>>>> ac2c727ea929da8861539ff295fa6b1e9749ab96
 }
 
 function testVis(){
