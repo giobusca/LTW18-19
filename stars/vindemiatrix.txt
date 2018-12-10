@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 13 h 02 m 10.59785 s
+
+Declination: +10° 57′ 32.9415″
+
+Apparent magnitude: +2.826
+
+Distance: 109.6 ± 0.5 ly
+
+Mass: 2.64 ± 0.11 M
+
+Radius: 10.6 ± 0.3 R
+
+Luminosity: 77 L
+
+Temperature: 5,086 K
+
+Rotation: 173 days
+
+Rotational velocity: 2.3 km/s
+
+
+
+Epsilon Virginis (ε Virginis, abbreviated Epsilon Vir, ε Vir), also named Vindemiatrix, is a star in the zodiac constellation of Virgo. The apparent visual magnitude of this star is +2.8, making it the third-brightest member of Virgo. Based upon parallax measurements made during the Hipparcos mission, Vindemiatrix lies at a distance of about 109.6 light-years (33.6 parsecs) from the Sun, give or take a half light-year.
+
+
+== Stellar properties ==
+Vindemiatrix is a giant star with a stellar classification of G8 III. With 2.6 times the mass of the Sun, it has reached a stage in its evolution where the hydrogen fuel in its core is exhausted. As a result, it has expanded to over ten times the Sun's girth and is now radiating around 77 times as much luminosity as the Sun. This energy is being emitted from its outer atmosphere at an effective temperature of 5,086 K, which gives it the yellow-hued glow of a G-type star. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.This star is a likely member of the thin disk population and the orbit departs by no more than 60 pc (200 ly) from the galactic plane.
+
+
+== Nomenclature ==
+ε Virginis (Latinised to Epsilon Virginis) is the star's Bayer designation.
+It bore the traditional names Vindemiatrix and Vindemiator, which come from Greek through the Latin vindēmiātrix, vindēmiator meaning 'the grape-harvestress'. Additional medieval names are Almuredin, Alaraph, Provindemiator, Protrigetrix and Protrygetor. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Vindemiatrix for this star.
+This star, along with Beta Virginis (Zavijava), Gamma Virginis (Porrima), Eta Virginis (Zaniah) and Delta Virginis (Auva), were Al ʽAwwāʼ, which is Arabic for 'the Barker'.In Chinese, 太微左垣 (Tài Wēi Zuǒ Yuán), meaning Left Wall of Supreme Palace Enclosure, refers to an asterism consisting of Epsilon Virginis, Eta Virginis, Gamma Virginis, Delta Virginis and Alpha Comae Berenices. Consequently, Epsilon Virginis itself is known as 太微左垣四 (Tài Wēi Zuǒ Yuán sì, English: the Fourth Star of Left Wall of Supreme Palace Enclosure.), representing 東次將 (Dōngcìjiāng), meaning The Second Eastern General. 東次將 (Dōngcìjiāng), westernized into Tsze Tseang by R.H. Allen and the meaning is "the Second General".
+
+

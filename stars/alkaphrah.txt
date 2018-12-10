@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 09 h 03 m 37.52762 s
+
+Declination: +47° 09′ 23.4890″
+
+Apparent magnitude: 3.56 (4.16 + 4.54)
+
+Distance: 360 ± 20 ly
+
+
+
+Kappa Ursae Majoris (κ Ursae Majoris, abbreviated Kap UMa, κ UMa) is a binary star in the constellation of Ursa Major. With a combined apparent magnitude of +3.60, the system is approximately 358 light-years from Earth.
+The two components are designated Kappa Ursae Majoris A (also named Alkaphrah) and B.
+
+
+== Nomenclature ==
+κ Ursae Majoris (Latinised to Kappa Ursae Majoris) is the system's Bayer designation. The designations of the two components as Kappa Ursae Majoris A and B derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alkaphrah for the component Kappa Ursae Majoris A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 三台 (Sān Tái), meaning Three Steps, refers to an asterism consisting of Kappa Ursae Majoris, Iota Ursae Majoris, Lambda Ursae Majoris, Mu Ursae Majoris, Nu Ursae Majoris and Xi Ursae Majoris. Consequently, Kappa Ursae Majoris itself is known as 上台二 (Shàng Tái èr, English: Star of Second Upper Step).
+
+
+== Properties ==
+Both components of the binary star are white A-type main sequence dwarfs. They have apparent magnitudes of +4.2 and +4.5. The orbital period of the binary is 35.6 years (13,007.2 days), and the two stars are separated by 0.18 arcseconds.
+
+

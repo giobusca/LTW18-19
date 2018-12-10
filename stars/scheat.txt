@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Pegasus
+
+Right ascension: 23 h 03 m 46.45746 s
+
+Declination: +28° 04′ 58.0336″
+
+Apparent magnitude: (2.31 - 2.74)
+
+Distance: 196 ± 2 ly
+
+Mass: 2.1 M
+
+Radius: 95  R
+
+Temperature: 3,689 K
+
+Rotational velocity: 9.7 km/s
+
+
+
+Beta Pegasi (β Pegasi, abbreviated Beta Peg, β Peg), also named Scheat, is a red giant star and the second-brightest star (after Epsilon Pegasi) in the constellation of Pegasus. It forms the upper right corner of the Great Square of Pegasus, a prominent rectangular asterism.
+
+
+== Nomenclature ==
+β Pegasi (Latinised to Beta Pegasi) is the star's Bayer designation.
+It bore the traditional name of Scheat, a name that had also been used for Delta Aquarii. The name was derived from the Arabic Al Sā'id "the upper arm", or from Sa'd. In 2016, the International Astronomical Union organised a Working Group on Star Names (WGSN) to catalog and standardise proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Scheat for this star (the name Skat was later approved for Delta Aquarii).
+Arabian astronomers named it Mankib al Faras, meaning the "Horse's shoulder".
+In Chinese, 室宿 (Shì Xiù), meaning Encampment, refers to an asterism consisting β Pegasi and α Pegasi. Consequently, β Pegasi itself is known as 室宿二 (Shì Xiù èr), "the Second Star of Encampment".
+
+
+== Distance and properties ==
+Based upon parallax measurements, Beta Pegasi is located about 196 light-years (60 parsecs) from the Sun. It is unusual among bright stars in having a relatively cool surface temperature compared to stars like the Sun.
+This star has a stellar classification of M2.3 II–III, which indicates the spectrum has characteristics partway between a bright giant and a giant star. It has expanded until it is some 95 times as large, and has a total luminosity of 1,500 times that of the Sun. The effective temperature of the star's outer envelope is about 3,700 K, giving the star the characteristic orange-red hue of an M-type star. The photosphere is sufficiently cool for molecules of titanium oxide to form.Beta Pegasi is a semi-regular variable with a period of 43.3 days and a brightness that varies from magnitude +2.31 to +2.74 (averaging 2.42). It is losing mass at a rate at or below 10−8 times the Sun's mass per year, which is creating an expanding shell of gas and dust with a radius of about 3,500 times the Sun's radius (16 astronomical units).
+
+

@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Perseus
+
+Right ascension: 02 h 50 m 41.80959 s
+
+Declination: +55° 53′ 43.7876″
+
+Apparent magnitude: 3.79
+
+Distance: 880 ± 60 ly
+
+Radius: 44 R
+
+Luminosity: 5,135 L
+
+Temperature: 4,047 K
+
+Rotational velocity: 5.8 km/s
+
+
+
+Eta Persei (η Persei, abbreviated Eta Per, η Per), is a binary star and the 'A' component of a triple star system (the 'B' component is the star HD 237009) in the constellation of Perseus . It is approximately 1331 light-years away from Earth.
+The two components of Eta Persei itself are designated Eta Persei A (also named Miram) and B.
+
+
+== Nomenclature ==
+
+η Persei (Latinised to Eta Persei) is the binary star's Bayer designation. The designations of its two components as Eta Persei A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Eta Persei mysteriously gained the named Miram in the 20th Century, though no source is known. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Miram for the component Eta Persei A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.This star, together with Delta Persei, Psi Persei, Sigma Persei, Alpha Persei and Gamma Persei has been called the Segment of Perseus..
+In Chinese, 天船 (Tiān Chuán), meaning Celestial Boat, refers to an asterism consisting of Eta Persei, Gamma Persei, Alpha Persei, Psi Persei, Delta Persei, 48 Persei, Mu Persei and HD 27084. Consequently, Eta Persei itself is known as 天船一 (Tiān Chuán yī, English: the First Star of Celestial Boat.)
+
+
+== Properties ==
+Eta Persei A belongs to spectral class K3 and has an apparent magnitude of +3.76. It radiates with 35,000 times the luminosity of the Sun.
+
+

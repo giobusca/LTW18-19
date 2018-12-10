@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Corona Borealis
+
+Right ascension: 15 h 27 m 49.7308 s
+
+Declination: +29° 06′ 20.530″
+
+Apparent magnitude: 3.65 to 3.72
+
+Distance: 112 ± 3 ly
+
+Mass: 2.09 ± 0.15  M
+
+Radius: 2.63 ± 0.09  R
+
+Luminosity: 25.3 ± 2.9  L
+
+Temperature: 7,980 ± 180  K
+
+
+
+Beta Coronae Borealis (β Coronae Borealis, abbreviated Beta CrB, β CrB) is a binary star in the constellation of Corona Borealis. It appears to the naked eye to be a single star and is the second-brightest star in its constellation with an apparent visual magnitude varying between 3.65 and 3.72. Based on parallax measurements taken during the Hipparcos mission, it is approximately 112 light-years from the Sun.
+The two components are designated Beta Coronae Borealis A (also named Nusakan) and B
+
+
+== Nomenclature ==
+β Coronae Borealis (Latinised to Beta Coronae Borealis) is the system's Bayer designation. The designations of the two components as Beta Coronae Borealis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Nusakan, from Arabic النسقان, meaning "[The] Two Aligned [Lines]". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Nusakan for the component Beta Coronae Borealis A on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 貫索 (Guàn Suǒ), meaning Coiled Thong, refers to an asterism consisting of Beta Coronae Borealis, Pi Coronae Borealis, Theta Coronae Borealis, Alpha Coronae Borealis, Gamma Coronae Borealis, Delta Coronae Borealis, Epsilon Coronae Borealis, Iota Coronae Borealis and Rho Coronae Borealis. Consequently, Beta Coronae Borealis itself is known as 貫索三 (Guàn Suǒ sān, English: the Third Star of Coiled Thong).
+
+
+== Properties ==
+
+Beta Coronae Borealis was first announced to be a binary star in 1907, based on spectroscopic observations at Lick Observatory; J. B. Cannon published an orbit in 1914, finding a period of 40.9 days. Later spectroscopic investigations by F. J. Neubauer at Lick, published in 1944, found a period of 10.5 years, with no evidence for the 41-day periodicity. Antoine Labeyrie and his coworkers resolved the pair by speckle interferometry in 1973 and found that the two stars were separated by about 0.25 arcseconds; this work was published in 1974.  The pair was also observed visually by Coteau in 1973. A number of orbits were subsequently published using visual and speckle-interferometric observations, both alone and in conjunction with spectroscopic data. In 1999, Söderhjelm published an orbit using speckle-interferometric data together with Hipparcos observations.Neubauer's 1944 work found a small variation in the radial velocity of Beta Coronae Borealis with a periodicity of 320 days, suggesting the presence of a third, lighter, body in the system.  A 1999 study of the system by long-baseline infrared interferometry performed at Palomar Observatory found no evidence for this, and showed that any tertiary companion with this period must have mass 10 Jupiter masses or below.  This study also found very weak evidence for the presence of a companion with a shorter, 21-day, period, but the data was insufficient to draw a positive conclusion.The brighter component, Beta Coronae Borealis A, is a Rapidly oscillating Ap star, with a period of 16.2 minutes. Of spectral type A5V with a surface temperature of around 7980 K, it has around 2.09 times the mass of the Sun, 2.63 times its radius and 25.3 times its luminosity. The smaller star is a main sequence star with spectral type F2, a surface temperature of around 6750 K, around 1.4 times the mass of the Sun, 1.56 times its radius, and between 4 and 5 times its luminosity. The system is around 530 million years old.
+
+

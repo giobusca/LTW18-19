@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 11 h 31 m 24.22075 s
+
+Declination: +69° 19′ 51.8696″
+
+Apparent magnitude: +3.85
+
+Distance: 333 ± 5 ly
+
+Mass: 1.7 M
+
+Radius: 71 R
+
+Luminosity: 834 L
+
+Temperature: 3,958 K
+
+
+
+Lambda Draconis (λ Draconis, abbreviated Lam Dra, λ Dra), also named Giausar, is a solitary, orange-red star in the northern circumpolar constellation of Draco. It is visible to the naked eye with an apparent visual magnitude of +3.85. Based upon an annual parallax shift of 9.79 mas as seen from the Earth, the star is located around 333 light years from the Sun.
+This is an evolved red giant star on the asymptotic giant branch with a stellar classification of M0III-IIIa Ca1. It is a suspected slow irregular variable with a periodicity of roughly 1,100 days. The measured angular diameter, after correction for limb darkening, is 6.43±0.07 mas. At the estimated distance of the star, this yields a physical size of about 53 times the radius of the Sun. It has an estimated 1.7 times the mass of the Sun and is radiating 834 times the solar luminosity from its photosphere at an effective temperature of 3,958 K.
+
+
+== Nomenclature ==
+λ Draconis (Latinised to Lambda Draconis) is the star's Bayer designation.
+It bore the traditional name Giausar (also written as Gianfar, Giansar and Giauzar) and Juza. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Giausar for this star on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 紫微右垣 (Zǐ Wēi Yòu Yuán), meaning Right Wall of Purple Forbidden Enclosure, refers to an asterism consisting of Lambda Draconis, Alpha Draconis, Kappa Draconis, 24 Ursae Majoris, 43 Camelopardalis, Alpha Camelopardalis and BK Camelopardalis. Consequently, Lambda Draconis itself is known as 紫微右垣三 (Zǐ Wēi Yòu Yuán sān, English: the Third Star of Right Wall of Purple Forbidden Enclosure.), representing 上輔 (Shǎngfǔ), meaning First Minister. 上輔 (Shǎngfǔ) was westernized into Sang Poo or Shaou Poo by R.H. Allen.
+
+
+== Namesakes ==
+USS Giansar (AK-111) was a United States Navy Crater class cargo ship named after the star.
+
+

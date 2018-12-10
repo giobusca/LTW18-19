@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Cetus
+
+Right ascension: 02 h 43 m 18.03910 s
+
+Declination: +03° 14′ 08.9390″
+
+Apparent magnitude: 3.47
+
+Distance: 80 ± 1 ly
+
+Mass: 1.88 M
+
+Radius: 1.9 R
+
+Luminosity: 21 L
+
+Temperature: 8,551 K
+
+Rotational velocity: 186 km/s
+
+
+
+Gamma Ceti (γ Ceti, abbreviated Gamma Cet, γ Cet) is a triple star system in the equatorial constellation of Cetus. It has a combined apparent visual magnitude of 3.47. Based upon parallax measurements, this star is located at a distance of about 80 light-years (24.4 parsecs) from the Sun.The three components are designated Gamma Ceti A (also named Kaffaljidhma), B and C.
+
+
+== Nomenclature ==
+γ Ceti (Latinised to Gamma Ceti) is the system's Bayer designation. The designations of the three components as Gamma Ceti A, B and C derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).  The close pair AB is also designated HIP 12706 and HD 16970, and HR 804.  The system of A, B, and C is collectively designated GJ 106.1 in the Gliese Catalogue of Nearby Stars.
+Gamma Ceti bore the traditional names of Al Kaff al Jidhmah, or Kaffaljidhma, derived from the Arabic الكف الجذماء meaning "The cut-short hand". According to a 1971 NASA memorandum, Al Kaff al Jidhmah was originally the title for five stars: Gamma Ceti as Kafaljidma, Xi¹ Cet as Al Kaff al Jidhmah I, Xi² Ceti as Al Kaff al Jidhmah II, Delta Ceti as Al Kaff al Jidhmah III and Mu Ceti as Al Kaff al Jidhmah IV (excluding Alpha Ceti and Lambda Ceti). The IAU Working Group on Star Names (WGSN) approved the name Kaffaljidhma for the component Gamma Ceti A on February 1, 2017.In Chinese, 天囷 (Tiān Qūn), meaning Circular Celestial Granary, refers to an asterism consisting of Gamma Ceti, Alpha Ceti, Kappa¹ Ceti, Lambda Ceti, Mu Ceti, Xi¹ Ceti, Xi² Ceti, Nu Ceti, Delta Ceti, 75 Ceti, 70 Ceti, 63 Ceti and 66 Ceti. Consequently, Gamma Ceti itself is known as 天囷八 (Tiān Qūn bā, English: the Eighth Star of Circular Celestial Granary).
+
+
+== Triple system ==
+Gamma Ceti appears to be a triple star system. The inner pair (A and B) have an angular separation of 2.6 arcseconds. The primary component of this pair (A) is a visual magnitude 3.6, A-type main sequence star with a stellar classification of A3 V. The fainter secondary component (B) is an F-type main sequence star that has a classification of F3 V and a magnitude of 6.6. The contrasting colors of these two stars makes them a popular target of amateur astronomers. The two can be resolved with a small, 4 in (10 cm) aperture telescope under ideal seeing conditions, although at times they can be a challenge to resolve even with a much larger scope.At a wide separation of 840 arcseconds is component C, a dim, magnitude 10.2 K-type star with the designation BD+02 418. It shares a common proper motion with A and is at a very similar distance, but is separated from the close pair by over 20,000 au.  It has a spectral classification of K5V.  There are several other stars brighter and closer to Gamma Ceti than BD+02 418 - BD+02 419, HD 16985, and TYC 50-1274-1 - but they are all more distant background stars.
+
+
+== Properties ==
+The measured angular diameter of the primary star is 0.74 ± 0.08 mas. At the estimated distance of this system, this yields a physical size of about 1.9 times the radius of the Sun. The secondary component of this system is an X-ray source with a luminosity of 2.2 × 1029 erg s−1. Gamma Ceti is about 300 million years old and it appears to be a member of the stream of stars loosely associated with the Ursa Major moving group. The primary has been examined for an excess of infrared emission that would suggest the presence of circumstellar matter, but none was found.
+
+

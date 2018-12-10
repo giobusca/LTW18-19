@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 08 h 43 m 17.14820 s
+
+Declination: +21° 28′ 06.6008″
+
+Apparent magnitude: 4.652
+
+Distance: 181 ± 2 ly
+
+Mass: 2.18 M
+
+Radius: 2.5 R
+
+Luminosity: 36 L
+
+Temperature: 8,800 K
+
+Rotational velocity: 86 ± 6 km/s
+
+
+
+Gamma Cancri (γ Cancri, abbreviated Gamma Cnc, γ Cnc) is a multiple star system in the constellation of Cancer.
+It consists of a spectroscopic binary, designated Gamma Cancri A, and a single companion star, Gamma Cancri B. A's two components are themselves designated Gamma Cancri Aa (also named Asellus Borealis) and Ab.
+Since it is near the ecliptic, it can be occulted by the Moon and, very rarely, by planets.
+
+
+== Nomenclature ==
+γ Cancri (Latinised to Gamma Cancri) is the system's Bayer designation. The designations of the two constituents as Gamma Cancri A and B, and those of A's components - Gamma Cancri Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Asellus Borealis (Latin for "northern donkey colt"). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Asellus Borealis for the component Gamma Cancri Aa on 6 November 2016 and it is now so included in the List of IAU-approved Star Names. Together with Delta Cancri, it formed the Aselli, flanking Praesepe.In Chinese astronomy, Ghost (Chinese: 鬼宿; pinyin: Guǐ Xiù) refers to an asterism consisting of Theta Cancri, Eta Cancri, Gamma Cancri and Delta Cancri. Gamma Cancri itself is known as the third star of Ghost (Chinese: 鬼宿三; pinyin: Guǐ Xiù sān).
+
+
+== Properties ==
+Gamma Cancri A presents as a white A-type subgiant with an apparent magnitude of +4.67. Located around 181 light-years from the Sun, it shines with a luminosity approximately 36 times greater and has a surface temperature of 9108 K.
+
+

@@ -1,0 +1,41 @@
+==Datasheet==
+
+Constellation: Andromeda
+
+Right ascension: 01 h 09 m 43.92388 s
+
+Declination: +35° 37′ 14.0075″
+
+Apparent magnitude: 2.05
+
+Distance: 197 ± 7 ly
+
+Mass: 3–4 M
+
+Radius: 100 R
+
+Luminosity: 1,995 L
+
+Temperature: 3,842 K
+
+Rotational velocity: 7.2 km/s
+
+
+
+Beta Andromedae (β Andromedae, abbreviated Beta And, β And), also named Mirach, is a prominent star in the northern constellation of Andromeda. It is located northeast of the Great Square of Pegasus and is theoretically visible to all observers north of 54° S. It is commonly used by stargazers to find the Andromeda Galaxy. The galaxy NGC 404, also known as Mirach's Ghost, is visible seven arc-minutes away.This star has an average apparent visual magnitude of 2.05, which makes it the brightest star in the constellation. However, the luminosity varies slightly from magnitude +2.01 to +2.10. Based upon parallax measurements, it is located at a distance of roughly 197 light-years (60 parsecs) from the Sun. The apparent magnitude of this star is reduced by 0.06 from extinction caused by the gas and dust along the line of sight.
+
+
+== Properties ==
+Beta Andromedae is a red giant with a stellar classification of M0 III. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is suspected of being a semiregular variable star whose apparent visual magnitude varies from +2.01 to +2.10. At this stage of the star's evolution, the outer envelope has expanded to around 100 times the size of the Sun. It is radiating 1995 times the luminosity of the Sun at an effective temperature of 3842 K.
+
+
+== Nomenclature ==
+Beta Andromedae is the star's Bayer designation.
+It had the traditional name of Mirach, and its variations, such as Mirac, Mirar, Mirath, Mirak, etc. (the name is spelled Merach in Burritt's The Geography of the Heavens), which come from the star's description in the Alfonsine Tables of 1521 as super mizar. Here, mirat is a corruption of the Arabic مئزر mīzar "girdle", which appeared in a Latin translation of the Almagest.  This word refers to Mirach's position at the left hip of the princess Andromeda.
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mirach for this star.
+Medieval astronomers writing in Arabic called β Andromedae Janb al-Musalsalah (English: The Side of the Chained (Lady)); it was part of the 28th manzil (Arabian lunar mansion) Baṭn al-Ḥūt, the Belly of the Fish, or Qalb al-Ḥūt, the Heart of the Fish.  The star has also been called Cingulum and Ventrale. This al-Ḥūt was an indigenous Arabic constellation, not the Western "Northern Fish" part of the constellation Pisces. These names are not from the Arabic marāqq, loins, because it was never called al-Marāqq in Arabian astronomy. Al Rishā', the Cord (of the well-bucket), on al-Sūfī's star map. It is origin of the proper name Alrescha for Alpha Piscium.
+In Chinese, 奎宿 (Kuí Sù), meaning Legs (asterism), refers to an asterism consisting of β Andromedae, η Andromedae, 65 Piscium, ζ Andromedae, ε Andromedae, δ Andromedae, π Andromedae, ν Andromedae, μ Andromedae, σ Piscium, τ Piscium, 91 Piscium, υ Piscium, φ Piscium, χ Piscium and ψ¹ Piscium. Consequently, β Andromedae itself is known as 奎宿九 (Kuí Sù jiǔ, English: the Ninth Star of Legs.)
+The people of Micronesia named this star Kyyw, meaning "The Porpoise", and this was used as one of the names of the months in Micronesia.
+Mirach is listed in MUL.APIN as KA.MUSH.I.KU.E, meaning "the Deleter" (the alternative star is α Cas).
+
+

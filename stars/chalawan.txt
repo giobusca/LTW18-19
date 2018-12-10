@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 10 h 59 m 27.973 s
+
+Declination: +40° 25′ 48.92″
+
+Apparent magnitude: +5.03
+
+Distance: 45.9 ± 0.2 ly
+
+Mass: 1.08 M
+
+Radius: 1.172 ± 0.111  R
+
+Luminosity: 1.48 L
+
+Temperature: 5887 ± 3.8  K
+
+Rotational velocity: 2.80 km/s
+
+
+
+47 Ursae Majoris (abbreviated 47 UMa), also named Chalawan (Thai: ชาละวัน, pronounced [t͡ɕʰāː.lā.wān]), is a yellow dwarf star approximately 46 light-years from Earth in the constellation of Ursa Major. As of  2011, three extrasolar planets (designated 47 Ursae Majoris b, c and d; the first two later named Taphao Thong and Taphao Kaew) are believed to orbit the star.
+The star is located fairly close to the Solar System: according to astrometric measurements made by the Hipparcos astrometry satellite, it exhibits a parallax of 71.11 milliarcseconds, corresponding to a distance of 45.913 light-years. With an apparent magnitude of +5.03, it is visible to the naked eye and its absolute magnitude of +4.29 implies a visual luminosity around 60% greater than the Sun. A solar analog, with a spectral type of G1V, it has a similar mass to that of the Sun but is slightly hotter at around 5,882 K. and slightly more metal-rich with around 110% of the solar abundance of iron.
+Like the Sun, 47 Ursae Majoris is on the main sequence, converting hydrogen to helium in its core by nuclear fusion. Based on its chromospheric activity, the star may be around 6,000 million years old, though evolutionary models suggest an older age of around 8,700 million years. Other studies have yielded estimates of 4,400 and 7,000 million years for the star.
+
+
+== Nomenclature ==
+47 Ursae Majoris is the Flamsteed designation. On their discoveries the planets were successively designated 47 Ursae Majoris b, c and d. In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Chalawan for this star and Taphao Thong and Taphao Kaew for two of the planets (b and c, respectively).The winning names were submitted by the Thai Astronomical Society, Thailand. Chalawan is a mythological crocodile king from the Thai folktale Krai Thong and Taphaothong and Taphaokaeo are two sisters associated with the tale. ('Chalawan' is also the name given to an extinct genus of  crocodylian. It contains a single species, Chalawan thailandicus.)
+In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.
+
+
+== Planetary system ==
+In 1996 an exoplanet (47 UMa b) was announced in orbit around 47 Ursae Majoris by Geoffrey Marcy and R. Paul Butler. The discovery was made by observing the Doppler shift of the star's spectrum corresponding to changes in the star's radial velocity as the planet's gravity pulled it around. The planet was the first long-period extrasolar planet discovered. Unlike the majority of known such planets, it has a low-eccentricity orbit. The planet is at least 2.53 times the mass of Jupiter and takes 1,078 days or 2.95 years to orbit its star. If it were to be located in the Solar System, it would lie between the orbits of Mars and Jupiter.
+
+In 2001, preliminary astrometric measurements made by the Hipparcos probe suggested the orbit of 47 UMa b is inclined at an angle of 63.1° to the plane of the sky, implying the planet's true mass is around 2.9 times that of Jupiter. However, subsequent analysis suggested the Hipparcos measurements were not precise enough to accurately determine the orbits of substellar companions, and the inclination and true mass remain unknown.A second planet (47 UMa c) was announced in 2002 by Debra Fischer, Geoffrey Marcy, and R. Paul Butler. The discovery was made using the same radial velocity method. According to Fischer et al., the planet takes around 2,391 days or 6.55 years to complete an orbit. This configuration is similar to the configuration of Jupiter and Saturn in the Solar System, with the orbital ratio (close to 5:2), and mass ratio roughly similar. Subsequent measurements failed to confirm the existence of the second planet, and it was noted that the dataset used to determine its existence left the planet's parameters "almost unconstrained". Analysis of a longer dataset spanning over 6,900 days suggests that while a second planet in the system is likely, periods near 2,500 days have a high false alarm probability, and the best fit model gives an orbital period of 7,586 days at a distance of 7.73 AU from the star. Nevertheless, the parameters of the second planet are still highly uncertain. On the other hand, the Catalog of Nearby Exoplanets gives a period of 2,190 days, which would put the planets close to a 2:1 ratio of orbital periods, though the reference for these parameters is uncertain: the original Fischer et al. paper is cited as a reference in spite of the fact that it gives different parameters, though this solution has been adopted by the Extrasolar Planets Encyclopaedia.In 2010, the discovery of a third planet (47 UMa d) was made by using the Bayesian Kepler Periodogram. Using this model of this planetary system it was determined that it is 100,000 times more likely to have three planets than two planets. This discovery was announced by Debra Fischer and P.C. Gregory. This 1.64 MJ planet has an orbital period of 14,002 days or 38.33 years and a semi-major axis of 11.6 AU with a moderate eccentricity of 0.16. It would be the longest-period planet discovered by the radial velocity method, although longer-period planets had previously been discovered by direct imaging and pulsar timing.
+Simulations suggest that the inner part of the habitable zone of 47 Ursae Majoris could host a terrestrial planet in a stable orbit, though the outer regions of the habitable zone would be disrupted by the gravitational influence of the planet 47 UMa b. However, the presence of a giant planet within 2.5 AU of the star may have disrupted planet formation in the inner system, and reduced the amount of water delivered to inner planets during accretion. This may mean any terrestrial planets orbiting in the habitable zone of 47 Ursae Majoris are likely to be small and dry. As of  2008, there have been two METI messages sent to 47 Ursae Majoris. Both were transmitted from Eurasia's largest radar — 70-meter (230-foot) Eupatoria Planetary Radar. The first message, the Teen Age Message, was sent on September 3, 2001, and it will arrive at 47 Ursae Majoris in July 2047. The second message, Cosmic Call 2, was sent on July 6, 2003, and it will arrive at 47 Ursae Majoris in May 2049.
+Because of its planetary system, 47 Ursae Majoris was listed as one of the top 100 target stars for NASA's former Terrestrial Planet Finder mission.

@@ -1,0 +1,42 @@
+==Datasheet==
+
+Constellation: Canis Major
+
+Right ascension: 07 h 24 m 05.70228 s
+
+Declination: –29° 18′ 11.1798″
+
+Apparent magnitude: 2.450
+
+Distance: approx. 2,000 ly
+
+Mass: 19.19 ± 1.15 M
+
+Radius: 56.3 R
+
+Luminosity: 105,442 L
+
+Temperature: 15,000 K
+
+Rotational velocity: 50 km/s
+
+
+
+Eta Canis Majoris (η Canis Majoris, abbreviated Eta CMa, η CMa), also named Aludra, is a star in the constellation of Canis Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
+
+
+== Nomenclature ==
+η Canis Majoris (Latinised to Eta Canis Majoris) is the star's Bayer designation.
+The traditional name Aludra originates from the Arabic: العذراء al-adhraa 'the virgin'.  This star, along with Epsilon Canis Majoris (Adhara), Delta Canis Majoris (Wezen) and Omicron2 Canis Majoris (Thanih al Adzari), were Al ʽAdhārā (العذاري), 'the Virgins'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Aludra for this star.
+In Chinese, 弧矢 (Hú Shǐ), meaning Bow and Arrow, refers to an asterism consisting of Eta Canis Majoris, Delta Canis Majoris, HD 63032, HD 65456, Omicron Puppis, k Puppis, Epsilon Canis Majoris, Kappa Canis Majoris and Pi Puppis. Consequently, Eta Canis Majoris itself is known as 弧矢二 (Hú Shǐ èr, English: the Second Star of Bow and Arrow.)
+
+
+== Properties ==
+Aludra shines brightly in the skies in spite of a large distance from Earth due to being intrinsically many times brighter (absolute magnitude) than the Sun.  A blue-white supergiant of spectral type B5Ia, Aludra has a luminosity 176,000 times and a diameter around 80 times that of the Sun. Hohle and colleagues, using the parallax, extinction and analysis of spectrum, came up with a mass 19.19 times that and luminosity 105,442 times that of the Sun. It has only been around a fraction of the time the Sun has, yet is already in the last stages of its life. It is still expanding and may become a red supergiant, or perhaps has already passed that phase, but in either case it will become a supernova within the next few million years.
+Aludra is classified as an Alpha Cygni type variable star and its brightness varies from magnitude +2.38 to +2.48 over a period of 4.7 days.
+
+
+== Namesakes ==
+Both USS Aludra (AF-55) and USS Aludra (AK-72), a Crater class cargo ship, were United States Navy vessels named after the star.
+
+

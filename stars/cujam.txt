@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Hercules
+
+Right ascension: 16 h 25 m 24.95425 s
+
+Declination: +14° 01′ 59.7711″
+
+Apparent magnitude: (4.58 + 11.5)
+
+Distance: 250 ± 10 ly
+
+Mass: 2.14 M
+
+Radius: 3.30 R
+
+Luminosity: 70 L
+
+Rotation: 2.951
+
+Rotational velocity: 55 km/s
+
+
+
+Omega Herculis (ω Herculis, abbreviated Ome Her, ω Her) is a binary star system in the northern constellation of Hercules. Based upon an annual parallax shift of 13.04 mas as seen from Earth, it is located around 250 light-years from the Sun. It is faintly visible to the naked eye, having a combined apparent visual magnitude of 4.58. The system is a candidate for membership in the Ursa Major Moving Group, although this remains uncertain.The two components are designated Omega Herculis A (also named Cujam) and B.
+
+
+== Nomenclature ==
+ω Herculis (Latinised to Omega Herculis) is the system's Bayer designation. It previously bore the Flamsteed designation of 51 Serpentis before being added to Hercules. The designations of the two components as Omega Herculis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Cujam (also written as Cajam and Kajam), meaning ("club"). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Cujam for the component Omega Herculis A on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 斗 (Dǒu), meaning Dipper for Liquid, refers to an asterism consisting of Omega Herculis, 49 Serpentis, 13 Herculis, 29 Herculis and 33 Herculis. Consequently, Omega Herculis itself is known as 斗一 (Dǒu yī, English: the First Star of Dipper for Liquid).
+
+
+== Properties ==
+The primary, Omega Herculis A, is a chemically peculiar Ap star with a stellar classification of A2 Vp CrSr. The spectrum displays abnormally strong absorption lines of chromium and strontium, and weak lines of calcium and magnesium. An A-type star, it has an estimated 2.14 times the mass of the Sun and 3.30 times the Sun's radius. The star is around 149 million years old and is radiating 70 times the solar luminosity from its photosphere at an effective temperature of 10,052 K.This component is an Alpha2 Canum Venaticorum variable with a brightness amplitude of 0.4 magnitude and a 2.951 day phase that presumably matches the rotation period. The pattern of variation shows that there are regions of the star's surface where the concentrations of elements differ. The star also displays short period variations on the order of 2.5 hours. It has a mean effective magnetic field value of 209×10−4 T.The secondary, Omega Herculis B, is a magnitude 11.5 companion star. As of 2010, it was located at an angular separation of 0.80 arc seconds along a position angle of 294°.
+
+

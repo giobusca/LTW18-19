@@ -1,0 +1,29 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 14 h 19 m 06.59235 s
+
+Declination: −13° 22′ 15.9459″
+
+Apparent magnitude: (5.00 + 5.63)
+
+Distance: 173.4 ± 0.9 ly
+
+Mass: 1.897 M
+
+Radius: 2.35 R
+
+
+
+Lambda Virginis (λ Virginis, abbreviated Lam Vir, λ Vir) is a binary star system in the zodiac constellation of Virgo. With an apparent visual magnitude of 4.5, it is bright enough to be seen with the naked eye. Based upon parallax measurements, the system is about 173 light-years away from the Sun. Its two components are designated Lambda Virginis A (also named Khambalia) and B.
+
+
+== Nomenclature ==
+λ Virginis (Latinised to Lambda Virginis) is the system's Bayer designation. The designations of the two components as Lambda Virginis A and B derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Khambalia (meaning crooked-clawed) in the culture of the Copts. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Khambalia for the component Lambda Virginis A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In China, 亢宿 (Kàng Xiù), meaning Neck, refers to an asterism consisting of this system, Kappa Virginis, Iota Virginis and Phi Virginis. Consequently, Lambda Virginis itself is known as 亢宿四 (Kàngsusì, English: the Fourth Star of Neck.)
+
+
+== Properties ==
+Lambda Virginis is a double-lined spectroscopic binary with an orbital period of 206.7 days and an eccentricity of 0.0610. The semi-major axis has an angular size of 0.02 arcseconds, which, at the distance of this system, is equivalent to a physical span of 1.050±0.007 AU. The orbit is inclined by an angle of 110° to the line of sight from the Earth. Tidal theory predicts that eventually the orbit of the stars will circularize and their rotation rates will become synchronized with their orbital motion. However, this will occur over a time scale of more than 1.2 billion years, whereas their estimated age is 935 million years.The combined spectra of the two components has a stellar classification of A1V, which matches an A-type main-sequence star. They have magnitudes of +5.0 and +5.6. Both components are Am stars, indicating they appear chemically peculiar. The primary appears to be rotating around 3.5 times faster than the secondary.
+
+

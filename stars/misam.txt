@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Perseus
+
+Right ascension: 03 h 09 m 29.77156 s
+
+Declination: +44° 51′ 27.1463″
+
+Apparent magnitude: 3.80
+
+Distance: 112.7 ± 0.8 ly
+
+Mass: 1.50 M
+
+Radius: 9 R
+
+Luminosity: 39.8 L
+
+Rotational velocity: 3.0 km/s
+
+
+
+Kappa Persei (κ Persei, abbreviated Kap Per, κ Per) is a triple star system in the northern constellation of Perseus. Based upon an annual parallax shift of 28.93 mas, it is located at a distance of 113 light-years from the Sun.
+The system consists of a spectroscopic binary, designated Kappa Persei A, which can be seen with the naked eye, having an apparent visual magnitude of 3.80. The third star, designated Kappa Persei B, is of magnitude 13.50.Kappa Persei A's two components are designated Kappa Persei Aa (also named Misam) and Ab.
+
+
+== Nomenclature ==
+κ Persei (Latinised to Kappa Persei) is the system's Bayer designation. The designations of the two constituents as Kappa Persei A and B, and those of A's components - Kappa Persei Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Misam for the component Kappa Persei Aa on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 大陵 (Dà Líng), meaning Mausoleum, refers to an asterism consisting of Kappa Persei, 9 Persei, Tau Persei, Iota Persei, Beta Persei (Algol), Rho Persei, 16 Persei and 12 Persei. Consequently, Kappa Persei itself is known as 大陵四 (Dà Líng sì, English: the Fourth Star of Mausoleum.).
+
+
+== Properties ==
+At its distance, the visual magnitude of Kappa Perseii is diminished by an extinction factor of 0.06 due to interstellar dust. It has a relatively high proper motion totaling 0.230 arcseconds per year. There is a 76.3% chance that it is a member of the Hyades-Pleiades stream of stars that share a common motion through space.With an estimated age of 4.58 billion years, Kappa Perseii Aa is an evolved G-type giant star with a stellar classification of G9.5 IIIb. It is a red clump giant, which means that it is generating energy at its core through the nuclear fusion of helium. The star has about 1.5 times the mass of the Sun and 9 times the Sun's radius. It radiates 40 times the solar luminosity from its outer atmosphere at an effective temperature of 4,857 K.Kappa Perseii B is at an angular separation of 44.10 arc seconds along a position angle of 319°, as of 2009.
+
+

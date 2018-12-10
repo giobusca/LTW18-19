@@ -1,0 +1,27 @@
+==Datasheet==
+
+Constellation: Ophiuchus
+
+Right ascension: 16 h 30 m 54.8229 s
+
+Declination: +01° 59′ 02.123″
+
+Apparent magnitude: 3.90
+
+Distance: 170 ± 10 ly
+
+Rotational velocity: 138 km/s
+
+
+
+Lambda Ophiuchi (λ Ophiuchi, abbreviated Lambda Oph, λ Oph) is a triple star system in the constellation of Ophiuchus. It is approximately 170 light-years from the Sun, based on its parallax.The system consists of a binary pair, designated Lambda Ophiuchi AB, together with a third companion, C. AB's two components are themselves designated Lambda Ophiuchi A (also named Marfik) and B.
+
+
+== Nomenclature ==
+λ Ophiuchi (Latinised to Lambda Ophiuchi) is the system's Bayer designation. The designations of the three components as Lambda Ophiuchi A, B and C derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Marfik (or Marsik), meaning "the elbow" in Arabic. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Marfik for the component Lambda Ophiuchi A on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Lambda Ophiuchi has apparent magnitude +3.82. Its to spectral type is A1V+A. The two components orbit each other with an period of 129 years.
+
+

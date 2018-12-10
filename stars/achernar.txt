@@ -1,0 +1,46 @@
+==Datasheet==
+
+Constellation: Eridanus
+
+Right ascension: 01 h 37 m 42.84548 s
+
+Declination: –57° 14′ 12.3101″
+
+Apparent magnitude: 0.40 - 0.46
+
+Distance: 139 ± 3 ly
+
+Mass: 6.7 M
+
+Radius: 7.3 × 11.4 R
+
+Luminosity: 3,150 L
+
+Temperature: ~15,000 K
+
+Rotational velocity: 250 km/s
+
+
+
+Achernar  is the name of the primary (or 'A') component of the binary system designated Alpha Eridani (α Eridani, abbreviated Alpha Eri, α Eri), which is the brightest 'star' or point of light in, and lying at the southern tip of, the constellation of Eridanus, and the tenth-brightest in the night sky. The two components are designated Alpha Eridani A (the primary) and B (the secondary, also known informally as Achernar B). As determined by the Hipparcos astrometry satellite, it is approximately 139 light-years (43 pc) from the Sun.Of the ten apparent brightest stars in the night-time sky, Alpha Eridani is the hottest and bluest in color, due to Achernar being of spectral type B. Achernar has an unusually rapid rotational velocity, causing it to become oblate in shape. The secondary is smaller, of spectral type A, and orbits Achernar at a distance of roughly 12 astronomical units (AU).
+
+
+== Nomenclature ==
+α Eridani (Latinised to Alpha Eridani) is the system's Bayer designation. The designations of the two components - Alpha Eridani A and B - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bears the traditional name of Achernar, derived from the Arabic آخر النهر ākhir an-nahr, meaning "The End of the River". However, it seems that this name originally referred to Theta Eridani instead, which latterly was known by the similar traditional name Acamar, with the same etymology. The IAU Working Group on Star Names (WGSN) approved the name Achernar for the component Alpha Eridani A on 30 June 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese caused by adaptation of the European southern hemisphere constellations into the Chinese system, 水委 (Shuǐ Wěi), meaning Crooked Running Water, refers to an asterism consisting of Achernar, ζ Phoenicis and η Phoenicis. Consequently, Achernar itself is known as 水委一 (Shuǐ Wěi yī, English: the First Star of Crooked Running Water.)The indigenous Boorong people of northwestern Victoria named it as Yerrerdetkurrk.
+
+
+=== Namesake ===
+USS Achernar (AKA-53) was a United States Navy attack cargo ship.
+
+
+== Properties ==
+
+Achernar is in the deep southern sky and never rises above the horizon beyond 33°N, roughly the latitude of Dallas, Texas. It is best seen from the southern hemisphere in November; it is circumpolar above (i.e. south of) 33°S, roughly the latitude of Santiago. On this latitude, e.g. the south coast of South Africa (Cape Town to Port Elizabeth) when in lower culmination it is barely visible to the naked eye as it is only 1 degree above the horizon, but still circumpolar. Further south, it is well visible at all times during night.
+Achernar is a bright, blue star with about seven times the mass of the Sun. It is a main sequence star with a stellar classification of B6 Vep, but is about 3,150 times more luminous than the Sun. Infrared observations of the star using an adaptive optics system on the Very Large Telescope show that it has a companion star in a close orbit. This appears to be an A-type star in the stellar classification range A0V–A3V, which suggests a stellar mass of about double that of the Sun. The separation of the two stars is roughly 12.3 AU and their orbital period is at least 14–15 years.As of 2003, Achernar is the least spherical star in the Milky Way studied to date. It spins so rapidly that it has assumed the shape of an oblate spheroid with an equatorial diameter 56% greater than its polar diameter. The polar axis is inclined about 65° to the line of sight from the Earth. Since it is actually a binary star, its highly distorted shape may cause non-negligible departures of the companion's orbital trajectory with respect to a Keplerian ellipse. A similar situation occurs for the star Regulus.
+Because of the distorted shape of this star, there is a significant temperature variation by latitude. At the pole, the temperature may be above 20,000 K, while the equator is at or below 10,000 K. The average temperature of the star is about 15,000 K. The high polar temperatures are generating a fast polar wind that is ejecting matter from the star, creating a polar envelope of hot gas and plasma. The entire star is surrounded by an extended envelope that can be detected by its excess infrared emission, or by its polarization. The presence of a circumstellar disk of ionized gas is a common feature of Be stars such as this. The disk is not stable and periodically decretes back into the star. The maximum polarization for Achernar's disk was observed in September 2014, and it is now decreasing.
+
+
+== Historical visibility ==
+Due to axial precession, Achernar lay much farther south in ancient times than at present, being 7.5 degrees of the south pole around 3400 BCE (decl 82º40') and still lying at declination −76 by around 1500 BCE. Hence the Ancient Egyptians could not have known it. Even in 100 CE its declination was around −67, meaning Ptolemy could not possibly have seen it from Alexandria – whereas Theta Eridani was visible as far north as Crete. So Ptolemy's "end of the river" was certainly Theta Eridani. Alpha Eridani was not visible from Alexandria until about 1600 CE.Until about March 2000, Achernar and Fomalhaut were the two first-magnitude stars furthest in angular distance from any other first-magnitude star in the celestial sphere. Antares, in the constellation of Scorpius, is now the most isolated first-magnitude star, although Antares is located in a constellation with many bright second-magnitude stars, whereas the stars surrounding Alpha Eridani and Fomalhaut are considerably fainter.The first star catalogue to contain Achernar in the chart of Eridanus is Johann Bayer's Uranometria. Bayer did not observe it himself, and it is attributed to Keyser and the voyages of the Dutch. Thus it was the only first-magnitude star not listed in Ptolemy's Almagest.Alpha Eridani will continue to move north in the next few millennia, rising from Crete about 500 years hence before reaching its maximum northern declination between the 8th and 11th millennia, when it will be visible as far north as Germany and southern England.
+
+

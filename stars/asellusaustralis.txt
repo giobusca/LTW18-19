@@ -1,0 +1,55 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 08 h 44 m 41.09921 s
+
+Declination: +18° 09′ 15.5034″
+
+Apparent magnitude: +3.94
+
+Distance: 131 ± 1 ly
+
+Mass: 1.71 M
+
+Radius: 11 R
+
+Luminosity: 52 L
+
+Rotational velocity: 2.8 km/s
+
+
+
+Delta Cancri (δ Cancri, abbreviated Delta Cnc, δ Cnc) is a double star about 180 light-years from the Sun in the constellation of Cancer.
+Its two constituents are designated Delta Cancri A and B. A is itself a binary star whose two components are Delta Cancri Aa (also named Asellus Australis) and Ab.
+It is 0.08 degree north of the ecliptic, so it can be occulted by the Moon and very rarely by planets.
+
+
+== Nomenclature ==
+δ Cancri (Latinised to Delta Cancri) is the system's Bayer designation. The designations of the two constituents Delta Cancri A and B, and those of A's components - Delta Cancri Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Asellus Australis which is Latin for "southern donkey colt". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Asellus Australis for the component Delta Cancri Aa on 6 November 2016 and it is now so included in the List of IAU-approved Star Names. Together with Gamma Cancri, it formed the Aselli, flanking Praesepe.As Arkū-sha-nangaru-sha-shūtu, which means "the southeast star in the Crab", it marked the 13th ecliptic station of the ancient Babylonians.In Chinese astronomy, Ghost (Chinese: 鬼宿; pinyin: Guǐ Xiù) refers to an asterism consisting of Theta Cancri, Eta Cancri, Gamma Cancri and Delta Cancri. Delta Cancri itself is known as the fourth star of Ghost (Chinese: 鬼宿四; pinyin: Guǐ Xiù sì).
+
+
+== Observations ==
+Delta Cancri was involved in the first recorded occultation by Jupiter:
+
+"The most ancient observation of  Jupiter which we are acquainted with is that reported by Ptolemy in book X, chap. iii (sic), of the Almagest, ...when the planet eclipsed the star known as (Delta) Cancri. This observation was made on September 3, B.C. 240, about 18h on the meridian of Alexandria."
+
+Delta Cancri also marks the famous open star cluster Praesepe (or the Beehive Cluster, also known as Messier 44). In ancient times M44 was used as a weather gauge as the following Greek rhyme from Aratos' Prognostica reveals:
+
+A murky manger with both stars
+Shining unaltered is a sign of rain.
+While if the northern Ass is dimmed
+By vaporous shroud, he of  the south gleam radiant,
+Expect a south wind: the vaporous shroud and radiance
+
+Exchanging stars harbinger Boreas.
+
+The meaning of this verse is that if Asellus Borealis or Gamma Cancris is hidden by clouds, the wind will be from the south and that situation will be reversed if Asellus Australis is obscured. There is some doubt however as to the accuracy of this as Allen notes: "Our modern Weather Bureau would probably tell us that if one of these stars were thus concealed, the other also would be." (Allen, 1898)
+But Delta Cancri also acts as more than just a dubious weather guide: it is a reliable signpost for finding the vividly red star X Cancri as Patrick Moore notes in his guidebook Stars of the Southern Skies:
+
+“In the same binocular field with Delta [Cancri] you will find one of the reddest stars in the sky: X Cancri. It is a semi-regular variable; at maximum it rises to magnitude 5 and it never falls below 7.3 so that it can always be seen with binoculars. It looks rather like a tiny glowing coal.”
+
+Delta Cancri also marks the radiant of the Delta Cancrids meteor shower.
+In 1876, the possibility of Delta Cancri having a companion star was proposed.
+
+

@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 16 h 23 m 59.48594 s
+
+Declination: +61° 30′ 51.1699″
+
+Apparent magnitude: +2.73
+
+Distance: 92.1 ± 0.2 ly
+
+Mass: 2.55 M
+
+Radius: 11 R
+
+Luminosity: 60 L
+
+Temperature: 5,055 K
+
+Rotational velocity: 8 km/s
+
+
+
+Eta Draconis (η Draconis, abbreviated Eta Dra, η Dra) is a binary star in the northern circumpolar constellation of Draco. Despite having an apparent visual magnitude of only +2.73, it is the second-brightest star in this generally faint constellation. Based upon parallax measurements collected during the Hipparcos mission, this star is located at a distance of about 92.1 light-years (28.2 parsecs) from the Sun.The two components are designated Eta Draconis A (also named Athebyne) and B.
+
+
+== Nomenclature ==
+η Draconis (Latinised to Eta Draconis) is the system's Bayer designation. The designations of the two components as Eta Draconis A and B derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Eta Draconis, together with Zeta Draconis, bore the traditional name Al Dhīʼbain, the Duo Lupi in Arabic, the Two Hyaenas or Wolves, lying in wait for the Camel's Foal, the little star Al Rubaʽ, protected by the Mother Camels. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Athebyne for the component Eta Draconis A on 5 September 2017. It also approved the name Aldhibah for Zeta Draconis A on the same date. Both are now so included in the List of IAU-approved Star Names.In Chinese, 紫微左垣 (Zǐ Wēi Zuǒ Yuán), meaning Left Wall of Purple Forbidden Enclosure, refers to an asterism consisting of Eta Draconis, Iota Draconis, Theta Draconis, Zeta Draconis, Upsilon Draconis, 73 Draconis, Gamma Cephei and 23 Cassiopeiae. Consequently, Eta Draconis itself is known as 紫微左垣三 (Zǐ Wēi Zuǒ Yuán sān, English: the Third Star of Left Wall of Purple Forbidden Enclosure), representing 少宰 (Shàozǎi), meaning The Second Premier. Possibly, 少宰 (Shàozǎi) is westernized into Hea Tsae by R.H. Allen with meaning "the Lowest Steward" but it was for Theta Draconis.
+
+
+== Properties ==
+Eta Draconis A is a star with 2.55 times the mass of the Sun. The spectrum matches a stellar classification of G8 III, with the luminosity class III indicating this is an evolved giant star that has exhausted the supply of hydrogen at its core. It reached this stage in only 550 million years because higher mass stars such as this consume the supply of hydrogen more rapidly than the Sun. The measured angular diameter of this star, after correction for limb darkening, is 3.72 ± 0.07 mas. At the estimated distance of Eta Draconis, this yields a physical size of about 11 times the radius of the Sun. From its extended envelope, it is radiating around 60 times the luminosity of the Sun at an effective temperature of 5,055 K, giving it the yellow glow of a G-type star.Eta Draconis B is located at an angular separation of 5.1 arcseconds from the primary. This is an 8.8 magnitude K-type main sequence star with a stellar classification of K2 V. At the estimated distance of this star system, the two stars are separated by a physical distance of at least 140 AU and require at least a millennium to complete an orbit.
+
+

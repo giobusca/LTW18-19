@@ -1,0 +1,49 @@
+==Datasheet==
+
+Constellation: Gemini
+
+Right ascension: 07 h 34 m 35.863 s
+
+Declination: +31° 53′ 17.79″
+
+Apparent magnitude: 1.93
+
+Distance: 51 ± 3 ly
+
+Mass: 2.76 M
+
+Radius: 2.4 R
+
+Luminosity: 0.0733 L
+
+Temperature: 10,286 K
+
+Rotational velocity: 18 km/s
+
+
+
+Castor, also designated Alpha Geminorum (α Geminorum, abbreviated Alpha Gem, α Gem) is the second-brightest point of light in the constellation of Gemini and one of the brightest in the night sky. It appears singular to the naked eye, but it is actually a sextuple star system in three binary pairs made up of the stars Castor Aa, Castor Ab, Castor Ba, Castor Bb, Castor Ca, and Castor Cb. Although it has the Bayer designation alpha, it is fainter than Beta Geminorum, Pollux.
+
+
+== Stellar system ==
+
+Castor was recorded as a double star in 1718 by James Pound.  It may have been resolved in 1678 by Cassini. The separation of the two stars, Castor A and B, has increased from 2" in 1970 to about 6" in 2017.  The two components have magnitudes of 1.9 and 3.0.
+There are three visual components, and all are spectroscopic binaries. Castor is a complex multiple star system made up of six individual stars. 
+Castor A and B both have orbits of a few days with a much fainter companion.
+Castor C, or YY Geminorum, was discovered to vary in brightness with a regular period. It is an eclipsing binary with additional variations due to areas of different brightness on the surface of one or both stars, as well as irregular flares. The Castor C components orbit in less than a day. Castor C is believed to be in orbit around Castor AB, but with an extremely long period of several thousand years. It is 73" distant from the bright components.The combined apparent magnitude of all six stars is +1.58.
+
+
+== Physical properties ==
+
+Castor is 51 light-years away from Earth, determined from its large annual parallax. 
+The two brightest stars are both A-class main-sequence stars, more massive and brighter than the Sun. The properties of their red dwarf companions are difficult to determine, but are both thought to have less than half the mass of the Sun.Castor B is an Am star, with particularly strong spectral lines of certain metals.
+Castor C is a variable star, classified as a BY Dra type. BY Draconis variables are cool dwarf stars which vary as they rotate due to star spots or other variations in their photospheres. The two red dwarfs of Castor C are almost identical, with masses around a half M☉and luminosities less than 10% of the Sun.All the red dwarfs in the Castor system have emissions lines in their spectra, and all are flare stars.
+
+
+== Etymology and culture ==
+α Geminorum (Latinised to Alpha Geminorum) is the star system's Bayer designation.
+Castor and Pollux are the two "heavenly twin" stars that give the constellation Gemini (meaning twins in Latin) its name. The name Castor refers specifically to Castor, one of the twin sons of Zeus and Leda in Greek and Roman mythology. 
+The star was annotated by the Arabic description Al-Ras al-Taum al-Muqadim, which translates as the head of the foremost twin. In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Aoul al Dzira, which was translated into Latin as Prima Brachii, meaning the first in the paw.In Chinese, 北河 (Běi Hé), meaning North River, refers to an asterism consisting of Castor, ρ Geminorum, and Pollux. Consequently, Castor itself is known as 北河二 (Běi Hé èr, English: the Second Star of North River.)In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Castor for the star α Geminorum Aa.
+Castor C also has the variable star designation YY Geminorum.
+
+

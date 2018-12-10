@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Cygnus
+
+Right ascension: 21 h 42 m 05.66458 s
+
+Declination: +51° 11′ 22.6415″
+
+Apparent magnitude: 4.66
+
+Distance: 1,700 ± 100 ly
+
+Radius: 5.6 R
+
+Luminosity: 16,538 L
+
+Rotational velocity: 55 km/s
+
+
+
+Pi¹ Cygni (π¹ Cygni, abbreviated Pi¹ Cyg, π¹ Cyg) is a binary star in the northern constellation of Cygnus. It is visible to the naked eye, having a combined apparent visual magnitude of 4.66. The distance to this system can be roughly gauged by its annual parallax shift of 1.89 mas, which yields a separation of around 1,700 light years from the Sun, give or take a hundred light years.
+The two components are designated Pi¹ Cygni A (also named Azelfafage) and B.
+
+
+== Nomenclature ==
+π¹ Cygni (Latinised to Pi¹ Cygni) is the star's Bayer designation. The designations of the two components as Pi¹ Cygni A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Azelfafage, derived from the Arabic ظلف الفرس Dhilf al-faras meaning "the horse track" or (probably) ذيل الدجاجة Dhail al-dajājah meaning "the tail of hen". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Azelfafage for Pi¹ Cygni on 12 September 2016 and it is now so included in the List of IAU-approved Star Names. For such names relating to members of multiple star systems, and where a component letter is not explicitly listed, the WGSN says that the name should be understood to be attributed to the brightest component by visual brightness - in this case Pi¹ Cygni A.
+In Chinese, 螣蛇 (Téng Shé), meaning Flying Serpent, refers to an asterism consisting of Pi¹ Cygni, Alpha Lacertae, 4 Lacertae, Pi² Cygni, HD 206267, Epsilon Cephei, Beta Lacertae, Sigma Cassiopeiae, Rho Cassiopeiae, Tau Cassiopeiae, AR Cassiopeiae, 9 Lacertae, 3 Andromedae, 7 Andromedae, 8 Andromedae, Lambda Andromedae, Kappa Andromedae, Psi Andromedae and Iota Andromedae. Consequently, Pi¹ Cygni itself is known as 螣蛇四 (Téng Shé sì, English: the Fourth Star of Flying Serpent)
+
+
+== Properties ==
+This is a single-lined spectroscopic binary with a close, circular orbit, having a period of just 26.33 days. The primary, component A, is a slightly evolved B-type subgiant star with a stellar classification of B3 IV. It has an estimated 10 times the mass of the Sun and around 5.6 times the Sun's radius. The star radiates 16,538 times the solar luminosity from its outer atmosphere at an effective temperature of roughly 18,360 K. It is about 25 million years old and is spinning with a projected rotational velocity of 55 km/s.
+
+

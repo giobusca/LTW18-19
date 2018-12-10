@@ -1,0 +1,49 @@
+==Datasheet==
+
+Constellation: Cepheus
+
+Right ascension: 21 h 28 m 39.59685 s
+
+Declination: +70° 33′ 38.5747″
+
+Apparent magnitude: 3.16 – 3.27
+
+Distance: 690 ± 40 ly
+
+Mass: 12.2 – 19.5 M
+
+Radius: 5.6 R
+
+Luminosity: 15,100 L
+
+Temperature: 27,000 K
+
+Rotational velocity: 28 km/s
+
+
+
+Beta Cephei (β Cephei, abbreviated Beta Cep, β Cep) is a triple star system of the third magnitude in the constellation of Cepheus. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 690 light-years distant from the Sun. It is the prototype of the Beta Cephei variable stars.
+It consists of a binary pair (designated Beta Cephei A) together with a third companion (B). The binary's two components are themselves designated Beta Cephei Aa (also named Alfirk) and Ab.
+
+
+== Nomenclature ==
+β Cephei (Latinised to Beta Cephei) is the system's Bayer designation. The designations of the two constituents as Beta Cephei A and B, and those of A's components - Beta Cephei Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Beta Cephei bore the traditional name Alfirk, derived from the Arabic الفرقة al-firqah "the flock" (of sheep). With Alpha Cephei (Alderamin) and Eta Cephei (Alkidr), they were Al Kawākib al Firḳ الكوكب الفرق "the stars of the flock" by Ulug Beg. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alfirk for the component Beta Cephei Aa on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Visibility ==
+Like the star Epsilon Draconis in the constellation of Draco, Beta Cephei is visible primarily in the northern hemisphere, given its extreme northern declination of 70 degrees and 34 minutes. It is nevertheless visible to most observers throughout the world reaching as far south as cities like Harare in Zimbabwe, Santa Cruz de la Sierra in Bolivia or other settlements north ± 19° South latitude. It is circumpolar throughout all of Europe, northern Asia, and North American cities as far south as Guadalajara in west central Mexico.  All other locations around the globe having a latitude greater than ± 20° North will notice that the star is always visible in the night sky. Because Beta Cephei is a faint third magnitude star, it may be difficult to identify in most light polluted cities, though in rural locations the star should be easily observable.
+
+
+=== Pole Star ===
+Beta Cephei is a visible star located within 5° of the precessional path traced across the celestial sphere by the Earth's North pole. During the same period Iota Cephei will also be within 5° of the precessional path, on the other side so that both are in contention as pole stars, a title currently held by unambiguously by Polaris.  
+
+
+== Properties ==
+Beta Cephei is a triple star comprising a spectroscopic binary with a magnitude 8 optical companion. Its magnitude varies between +3.16 and +3.27 with a period of 0.19048 days.Beta Cephei Aa is a blue subgiant star with a stellar classification of B1 IV. It has previously been classified with either a main sequence or giant luminosity class.  This star has a radius that has been estimated at 6 R☉ and a mass of 12 M☉. Like most high-​mass B-​class stars, Beta Cephei Aa is a relatively young star with an estimated age of just a few million years. Like the majority of giant stars, it rotates slowly on its axis with a rotational velocity of 7 deg/day, a speed which takes the star approximately 51 days to make one complete revolution.
+Beta Cephei Ab is a Be star in an 85-year orbit with the giant primary.  It has been resolved using speckle interferometry at a distance of 0.25" in 1972.B Cephei B is a magnitude 7.8 A2 main sequence star  13.6" distant.
+
+
+=== Variability ===
+Beta Cephei pulsates regularly every 4 hours 34 minutes, producing a variation in its visual brightness of 0.11 magnitudes.  It is the prototype of the Beta Cephei class of variables, hot main sequence and giant stars that pulsate analogously to Cepheid variables but with the pulsations driven by iron opacity rather than by helium.
+
+

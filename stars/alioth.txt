@@ -1,0 +1,46 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 12 h 54 m 01.74959 s
+
+Declination: +55° 57′ 35.3627″
+
+Apparent magnitude: 1.77
+
+Distance: 82.6 ± 0.4 ly
+
+Mass: 2.91 M
+
+Radius: 4.2 ± 0.2 R
+
+Luminosity: 108  L
+
+Temperature: 9985 K
+
+Rotational velocity: 33 km/s
+
+
+
+Epsilon Ursae Majoris (ε Ursae Majoris, abbreviated Epsilon UMa, ε UMa), also named Alioth, is (despite being designated 'epsilon') the brightest star in the constellation of Ursa Major, and at magnitude 1.77 is the thirty-second-brightest star in the sky.
+It is the star in the tail of the bear closest to its body, and thus the star in the handle of the Big Dipper (Plough) closest to the bowl. It is also a member of the large and diffuse Ursa Major moving group. Historically, the star was frequently used in celestial navigation in the maritime trade, because it is listed as one of the 57 navigational stars.
+
+
+== Stellar properties ==
+
+According to Hipparcos, Alioth is 81 light-years (25 parsecs) from the Sun. Its spectral type is A1p; the "p" stands for peculiar, as its spectrum is characteristic of an Alpha2 Canum Venaticorum variable. Alioth, as a representative of this type, may harbor two interacting processes. First, the star's strong magnetic field separating different elements in the star's hydrogen 'fuel'. In addition, a rotation axis at an angle to the magnetic axis may be spinning different bands of magnetically sorted elements into the line of sight between Alioth and the Earth. The intervening elements react differently at different frequencies of light as they whip in and out of view, causing Alioth to have very strange spectral lines that fluctuate over a period of 5.1 days.   The kB9 suffix to the spectral type indicates that the calcium K line is present and representative of a B9 spectral type even though the rest of the spectrum indicates A1.
+With Alioth, the rotational and magnetic axes are at almost 90 degrees to one another. Darker (denser) regions of chromium form a band at right angles to the equator.
+A recent study suggests Alioth's 5.1-day variation may be due to a substellar object of about 14.7 Jupiter masses in an eccentric orbit (e=0.5) with an average separation of 0.055 astronomical units.
+Alioth has a relatively weak magnetic field, 15 times weaker than α CVn, but it is still 100 times stronger than that of the Earth.
+
+
+== Name and etymology ==
+ε Ursae Majoris (Latinised to Epsilon Ursae Majoris) is the star's Bayer designation.
+The traditional name Alioth comes from the Arabic alyat (fat tail of a sheep). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alioth for this star.
+This star was known to the Hindus as Añgiras, one of the Seven Rishis.In Chinese, 北斗 (Běi Dǒu), meaning Northern Dipper, refers to an asterism consisting of Epsilon Ursae Majoris, Alpha Ursae Majoris, Beta Ursae Majoris, Gamma Ursae Majoris, Delta Ursae Majoris, Zeta Ursae Majoris and Eta Ursae Majoris. Consequently, Epsilon Ursae Majoris itself is known as 北斗五 (Běi Dǒu wu, English: the Fifth Star of Northern Dipper) and 玉衡 (Yù Héng, English: Star of Jade Sighting-Tube).
+
+
+== Namesakes ==
+USS Allioth (AK-109) was a United States Navy Crater class cargo ship named after the star.
+
+

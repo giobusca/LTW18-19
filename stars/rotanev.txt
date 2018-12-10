@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Delphinus
+
+Right ascension: 20 h 37 m 32.94130 s
+
+Declination: +14° 35′ 42.3195″
+
+Distance: 101 ± 1 ly
+
+Luminosity: 24 L
+
+Rotational velocity: 49.8 km/s
+
+
+
+Beta Delphini (β Delphini, abbreviated Beta Del, β Del) is a binary star in the constellation of Delphinus. It is the brightest star in Delphinus.
+The two components are designated Beta Delphini A (also named Rotanev) and B.
+
+
+== Nomenclature ==
+β Delphini (Latinised to Beta Delphini) is the binary's Bayer designation. The designations of the two components as Beta Delphini A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Beta Delpini bore an historical name, Rotanev, which arose as follows: Niccolò Cacciatore was the assistant to Giuseppe Piazzi, and later his successor as Director of the Palermo Observatory. The name first appeared in Piazzi's Palermo Star Catalogue. When the Catalogue was published in 1814, the unfamiliar names Sualocin and Rotanev were attached to Alpha and Beta Delphini, respectively. Eventually the Reverend Thomas Webb, a British astronomer, puzzled out the explanation. Cacciatore's name, Nicholas Hunter in English translation, would be Latinized to Nicolaus Venator. Reversing the letters of this construction produces the two names. They have endured, the result of Cacciatore's little practical joke of naming the two after himself. How Webb arrived at this explanation 45 years after the publication of the catalogue is still a mystery.In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Rotanev for the component Beta Delphini A on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 瓠瓜 (Hù Guā), meaning Good Gourd, refers to an asterism consisting of Beta Delphini, Alpha Delphini, Gamma2 Delphini, Delta Delphini,  and Zeta Delphini.
+
+
+== Properties ==
+Beta Delphini was found to be a binary star system in 1873 by the American astronomer S. W. Burnham. The system consists of a pair of F-type stars that orbit each other with a period of 26.66 years and an eccentricity of 0.36. The plane of the orbit is inclined by an angle of 61° to the line of sight from the Earth. The two stars have an angular separation of about 0.44 arcseconds, making them a challenge to resolve with a telescope. The larger member of the pair is a giant star with 1.75 times the mass and 24 times the luminosity of the Sun, while the secondary component is a subgiant star that has 1.47 times the Sun's mass and around 8 times the Sun's luminosity. The system is around 1.8 billion years old.

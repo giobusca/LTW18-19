@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Hercules
+
+Right ascension: 16 h 30 m 29.6185 s
+
+Declination: +38° 20′ 50.308″
+
+Apparent magnitude: 8.15
+
+Distance: 250 ± 4 ly
+
+Mass: 1.345 ± 0.020 M
+
+Temperature: 6147 ± 50 K
+
+Rotational velocity: 6.0 ± 0.5 km/s
+
+
+
+HD 149026, also named Ogma, is a yellow subgiant star approximately 250 light-years from the Sun in the constellation of Hercules.  An extrasolar planet (designated HD 149026 b, later named Smertrios) is believed to orbit the star.
+
+
+== Nomenclature ==
+HD 149026 in the star's identifier in the Henry Draper Catalog. Following its discovery in 2005 the planet was designated HD 149026 b.
+In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Ogma for this star and Smertrios for its planet.The winning names based on those submitted by the Club d'Astronomie de Toussaint of France; namely 'Ogmios' and 'Smertrios'. Ogmios was a Gallo-Roman deity and Smertrios was a Gallic deity of war. The IAU substituted the name of Ogma, a deity of eloquence, writing, and great physical strength in the Celtic mythologies of Ireland and Scotland, and who may be related to Ogmios, because 'Ogmios' is the name of an asteroid (189011 Ogmios).In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.
+
+
+== Properties ==
+The star is thought to be much more massive, larger, and brighter than the Sun.  The higher mass means that despite its considerably younger age (2.0 Ga) it is already much more evolved than the Sun. The internal fusion of hydrogen in the core of the star is coming to an end, and it is beginning to evolve towards red gianthood. At a distance of 250 light-years, the star is not visible to the unaided eye. However, it should be easily seen in binoculars or a small telescope.The star is over twice as enriched with chemical elements heavier than hydrogen and helium as the Sun. Because of this and the fact that the star is relatively bright, a group of astronomers in N2K Consortium began to study the star. The star's anomalous composition as measured may be surface pollution only, from the intake of heavy-element planetesimals.
+
+
+== Planetary system ==
+In 2005 an unusual extrasolar planet was discovered to be orbiting the star. Designated HD 149026 b, it was detected transiting the star allowing its diameter to be measured. It was found to be smaller than other known transiting planets, meaning it is unusually dense for a closely orbiting giant planet.  The temperature of the giant planet is calculated to be 3,700 °F (2,040 °C), generating so much infrared heat that it glows.  Scientists believe the planet absorbs nearly all the sunlight and radiates it into space as heat.

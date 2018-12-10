@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 17 h 30 m 25.96170 s
+
+Declination: +52° 18′ 04.9993″
+
+Apparent magnitude: 2.79
+
+Distance: 380 ± 4 ly
+
+Mass: 6.0 ± 0.2 M
+
+Radius: 40 R
+
+Luminosity: 1,000 L
+
+Temperature: 5,160 ± 150 K
+
+Rotational velocity: 13 km/s
+
+
+
+Beta Draconis (β Draconis, abbreviated Beta Dra, β Dra) is a binary star and the third-brightest star in the northern circumpolar constellation of Draco. With an apparent visual magnitude of 2.79, it is bright enough to be easily seen with the naked eye. Based upon parallax measurements from the Hipparcos astrometry satellite, it lies at a distance of about 380 light-years (120 parsecs) from the Sun.The two components are designated Beta Draconis A (also named Rastaban) and B.
+
+
+== Nomenclature ==
+β Draconis (Latinised to Beta Draconis) is the system's Bayer designation. The designations of the two components as Beta Draconis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Rastaban, which has also been used for Gamma Draconis. This name, less commonly written Rastaben, derives from the Arabic phrase ra's ath-thu'ban "head of the serpent/dragon". It was also known as Asuia and Alwaid, the latter meaning "who is to be destroyed," though some trace it to Arabic al'awwad "the lute player". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Rastaban for the component Beta Draconis A on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.Beta Draconis is part of the asterism of the Mother Camels (Arabic al'awa'id), along with Gamma Draconis (Eltanin), Mu Draconis (Erakis), Nu Draconis (Kuma) and Xi Draconis (Grumium), which was later known as the Quinque Dromedarii.In Chinese, 天棓 (Tiān Bàng), meaning Celestial Flail, refers to an asterism consisting of Beta Draconis, Xi Draconis, Nu Draconis, Gamma Draconis and Iota Herculis. Consequently, Beta Draconis itself is known as 天棓三 (Tiān Bàng sān, English: the Third Star of Celestial Flail).
+
+
+== Properties ==
+The binary system consists of a bright giant orbited by a dwarf companion once every four millennia or so.Compared to the Sun, Beta Draconis A is an enormous star with six times the mass and roughly 40 times the radius. At this size, it is emitting about 950 times the luminosity of the Sun from its outer envelope at an effective temperature of 5,160 K, giving it the yellow hue of a G-type star. The spectrum matches a stellar classification of G2 II, with the luminosity class of II indicating it is a bright giant. It is about 67 million years old.
+
+

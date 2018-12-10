@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Aquarius
+
+Right ascension: 22 h 05 m 47.03593 s
+
+Declination: −00° 19′ 11.4568″
+
+Apparent magnitude: 2.942
+
+Distance: 520 ± 20 ly
+
+Mass: 6.5 ± 0.3 M
+
+Radius: 77 ± 15 R
+
+Luminosity: 3,000 L
+
+Temperature: 5,210 ± 100 K
+
+Rotational velocity: 6.7 ± 1.5 km/s
+
+
+
+Alpha Aquarii (α Aquarii, abbreviated Alpha Aqr, α Aqr), also named Sadalmelik, is a single star in the constellation of Aquarius. The apparent visual magnitude of 2.94 makes this the second-brightest star in Aquarius. Based upon parallax measurements made during the Hipparcos mission, it is located at a distance of roughly 520 light-years (160 parsecs) from the Sun.It forms the primary or 'A' component of a double star designated WDS J22058-0019 (the secondary or 'B' component is UCAC2 31789179).
+
+
+== Nomenclature ==
+α Aquarii (Latinised to Alpha Aquarii) is the star's Bayer designation. WDS J22058-0019 A is its designation in the Washington Double Star Catalog.
+It bore the traditional name Sadalmelik, which derived from an Arabic expression سعد الملك (sa‘d al-malik), meaning "Luck of the king". The name Rucbah had also been applied to this star; though it shared that name with Delta Cassiopeiae. It is only one of two stars with ancient proper names to lie within a degree of the celestial equator. The origin of the Arabic name is lost to history. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sadalmelik for Alpha Aquarii (WDS J22058-0019 A) on 21 August 2016, and it is now so included in the List of IAU-approved Star Names (Delta Cassiopeiae was given the name Ruchbah).In Chinese, 危宿 (Wēi Xiù), meaning Rooftop (asterism), refers to an asterism consisting of Alpha Aquarii, Theta Pegasi and Epsilon Pegasi. Consequently, Alpha Aquarii itself is known as 危宿一 (Wēi Xiù yī, English: the First Star of Rooftop).
+
+
+== Properties ==
+With an age of 53 million years, Alpha Aquarii has evolved into a supergiant with a stellar classification of G2 Ib. It has 6.5 times as much mass as the Sun and has expanded to around 77 times the Sun's radius. It is radiating 3,000 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 5,210 K. At this heat, the star glows with the yellow hue of a G-type star. Examination of this star with the Chandra X-ray Observatory shows it to be significantly X-ray deficient compared to G-type main sequence stars. This deficit is a common feature of early G-type giant stars.The visual companion (UCAC2 31789179) has an apparent visual magnitude of approximately 12.2. It is at an angular separation of 110.4 arcseconds from Alpha Aquarii along a position angle of 40°.
+
+

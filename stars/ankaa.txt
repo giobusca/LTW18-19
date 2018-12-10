@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Phoenix
+
+Right ascension: 00 h 26 m 17.05140 s
+
+Declination: –42° 18′ 21.5539″
+
+Apparent magnitude: 2.377
+
+Distance: 85 ± 2 ly
+
+Radius: 15 R
+
+Temperature: 4,436 K
+
+
+
+Alpha Phoenicis (α Phoenicis, abbreviated Alpha Phe or α Phe), also named Ankaa, is the brightest star in the constellation of Phoenix.
+
+
+== Nomenclature ==
+Alpha Phoenicis is the star's Bayer designation. It also bore the traditional name Ankaa sometime after 1800, from the Arabic العنقاء al-ʿanqā’ "the phoenix" for the name of the constellation. Medieval Arab astronomers formed the constellation of the dhow (where Phoenix is), so another popular name for the star is Nair al Zaurak from نائر الزوق na’ir az-zawraq "the bright (star) of the skiff". The Latin translation is Cymbae, from lūcida cumbae. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Ankaa for this star.
+In Chinese caused by adaptation of the European southern hemisphere constellations into the Chinese system, 火鳥 (Huō Diǎo), meaning Firebird, refers to an asterism consisting of α Phoenicis, ι Phoenicis, σ Phoenicis, ε Phoenicis, κ Phoenicis, μ Phoenicis, λ1 Phoenicis, β Phoenicis and γ Phoenicis . Consequently, α Phoenicis itself is known as 火鳥六 (Huō Diǎo liù, English: the Sixth Star of Firebird.)
+
+
+== Description ==
+This is a spectroscopic binary star system with components that orbit each other every 3848.8 days (10.5 years). The combined stellar classification of the system is K0.5 IIIb, which matches the spectrum of a normal luminosity giant star. It has an apparent visual magnitude of 2.4, so it is somewhat outshone by its first magnitude neighbors Achernar (α Eridani) and Fomalhaut (α Piscis Australis). Based upon parallax measurements, this system is at a distance of about 85 light-years (26 parsecs) from the Earth. The interferometry-measured angular diameter of the primary component, after correcting for limb darkening, is 5.25 ± 0.06 mas, which, at its estimated distance, equates to a physical radius of about 15 times the radius of the Sun.Ankaa is similar to many of the visible stars of the night sky, being an orange giant of relatively average stellar size.  It is currently thought to be in the midst of a short but stable helium burning phase of its stellar evolution, although it probably will not be long in astronomical terms before it sheds its outer layers as a planetary nebula and ends its life quietly as a white dwarf. Ankaa has a small stellar companion, about which little is known.
+
+

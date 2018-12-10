@@ -1,0 +1,45 @@
+==Datasheet==
+
+Constellation: Capricornus
+
+Right ascension: 21 h 47 m 02.44424 s
+
+Declination: −16° 07′ 38.2335″
+
+Apparent magnitude: (2.81 (- 2.90) - 3.05)
+
+Distance: 38.70 ± 0.09 ly
+
+Mass: 2.0 M
+
+Radius: 1.91 R
+
+Luminosity: 8.5 L
+
+Temperature: 7,301 K
+
+Rotational velocity: 105 km/s
+
+
+
+Delta Capricorni (δ Capricorni, abbreviated Del Cap, δ Cap) is a multiple star system approximately 39 light-years away in the constellation of Capricornus (the Sea Goat). The primary star in the system is a white giant and the combined light of its members makes it the brightest star within the constellation.
+The system consists of an eclipsing binary, designated Delta Capricorni A, and two companion stars, B and C. A's two components are themselves designated Delta Capricorni Aa (also named Deneb Algedi) and Ab.
+Because it is near the ecliptic, Delta Capricorni can be occulted by the Moon, and also (rarely) by planets.
+
+
+== Nomenclature ==
+δ Capricorni  (Latinised to Delta Capricorni) is the system's Bayer designation. The designations of the three constituents as Delta Capricorni A, B and C, and those of A's components - Delta Capricorni Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional names Deneb Algedi, derived from the Arabic ذنب الجدي (ðanab al-jady), meaning "the tail of the goat", referring to the fishlike tail of the celestial sea-goat Capricorn, and Scheddi. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Deneb Algedi for the component Delta Capricornii Aa on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese astronomy, Delta Capricorni is known as 壘壁陣四 (Lěi Bì Zhèn sì), meaning 'The Fourth Star of the Line of Ramparts'. This refers to its presence among an asterism known as 'The Line of Ramparts', which also includes Kappa Capricorni, Epsilon Capricorni, Gamma Capricorni, Iota Aquarii, Lambda Aquarii, Sigma Aquarii, Phi Aquarii, 27 Piscium, 29 Piscium, 33 Piscium and 30 Piscium.(in Chinese)
+
+
+== Observational history ==
+In 1906 astronomer Vesto Slipher of Lowell Observatory discovered that Delta Capricorni A was a spectroscopic binary. The orbit was determined in 1921 by Clifford Crump using 69 radial velocity measurements obtained at Yerkes Observatory. However the eclipsing binary nature of the system was not discovered until 1956 by Olin J. Eggen at Lick Observatory.Lunar occultations have been observed in 1951, 1962, and 1988.Delta Capricorni was recognised as a metallic-line star in 1957 and included in a 1958 catalog of magnetic stars.  It has also been associated with extreme ultraviolet and radio sources, believed to be from coronal activity in the secondary star.
+
+
+== Stellar system ==
+Delta Capricorni A is an Algol-type eclipsing binary star, with an orbital period of 1.022768 days and an inclination close to the line of sight from the Earth. The peak apparent visual magnitude of the pair is 2.81. During an eclipse of the primary, this magnitude drops by 0.24. When the primary is eclipsing the secondary, the magnitude decreases by 0.09.Delta Capricorni A, has an overall stellar classification of A7m III, indicating that it is a giant star that has exhausted the supply of hydrogen at its core. More specifically, this is a chemically-peculiar Am star with a spectral type of kA5hF0mF2 III under the revised MK system. This notation indicates that the calcium K-line matches the temperature of an A5 star, the hydrogen spectral type matches an F0 star, and the metallic absorption lines match an F2 star.In the past this star was suspected of being a Delta Scuti variable, which is rare for an Am star. This categorization was brought into question during observations in 1994 and it is most likely not inherently variable. The primary has double the Sun's mass and nearly twice its radius. It is rotating rapidly with a projected rotational velocity of 105 km s−1. (This rotation rate is synchronous with the orbital period.) Note that it is unusual for an Am star to have such a high rotational velocity. The outer envelope of the star is radiating energy at an effective temperature of 7,301 K, giving it the white-hued glow of an A-type star. The secondary component is a G-type or K-type star with around 90% of the mass of the Sun.There are two optical companions. A fifteenth magnitude star is one arcminute away, and a thirteenth magnitude star is over two arcminutes away from the primary star and that distance is increasing.
+
+
+== In culture ==
+According to astrology, Delta Capricorni's representation of a flexible tail is reflected in its association with both good and bad fortune alike. It was one of the fifteen Behenian stars of medieval astrology, associated with chalcedony, marjoram and the kabbalistic symbol .
+
+

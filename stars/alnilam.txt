@@ -1,0 +1,44 @@
+==Datasheet==
+
+Constellation: Orion
+
+Right ascension: 05 h 36 m 12.8 s
+
+Declination: −01° 12′ 06.9″
+
+Apparent magnitude: 1.64 - 1.74
+
+Distance: approx. 2,000 ly
+
+Mass: 40 M
+
+Radius: 32.4 R
+
+Luminosity: 537,000 L
+
+Temperature: 27,500±100 K
+
+Rotational velocity: 40-70 km/s
+
+
+
+Alnilam, designated Epsilon Orionis (ε Orionis, abbreviated Epsilon Ori, ε Ori) and 46 Orionis (46 Ori), is a large blue supergiant star some 2,000 light-years distant in the constellation of Orion. It is estimated to be 275,000 to 832,000 times as luminous as the Sun, and 30-64.5 times as massive.
+
+
+== Description ==
+
+It is the 29th-brightest star in the sky (the 4th-brightest in Orion) and is a blue-white supergiant.  Together with Mintaka and Alnitak, the three stars make up the belt of Orion, known by many names across many ancient cultures. Alnilam is the middle star.  It is slightly variable, from magnitude 1.64 to 1.74. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is also one of the 58 stars used in celestial navigation. It is at its highest point in the sky around midnight on December 15. Alnilam's relatively simple spectrum has made it useful for studying the interstellar medium. Within the next million years, this star may turn into a red supergiant and explode as a supernova. It is surrounded by a molecular cloud, NGC 1990, which it illuminates to make a reflection nebula. Its stellar winds may reach up to 2000 km/s, causing it to lose mass about 20 million times more rapidly than the Sun.
+
+
+== Properties ==
+Estimates of Alnilam's properties vary. Crowther and colleagues, using stellar wind and atmospheric modelling in 2006, came up with a luminosity 275,000 times that of the Sun (L☉), and effective temperature of 27,000 K and a radius 24 times that of the Sun (R☉). Searle and colleagues, using CMFGEN code to analyse the spectrum in 2008, calculated a luminosity of 537,000 L☉, an effective temperature of 27,500 ± 100 K and a radius of 32.4 ± 0.75 R☉. Analysis of the spectra and age of the members of the Orion OB1 association yields a mass 34.6 times that of the Sun (40.8 M☉ on the main sequence) and an age of 5.7 million years.A more recent detailed analysis of Alnilam across multiple wavelength bands produced very high luminosity, radius, and mass estimates, assuming the distance of 606 parsecs suggested by the Hipparcos new reduction.  Adopting the larger parallax from the original Hipparcos reduction gives a distance of 412 parsecs and physical  parameters more consistent with earlier publications.  The luminosity of 832,000 L☉ at 606 parsecs is the highest ever derived for this star.
+
+
+== Nomenclature and history ==
+Epsilon Orionis is the star's Bayer designation and 46 Orionis its Flamsteed designation.
+The traditional name Alnilam derives from the Arabic النيلم Al-nilam, related to the word 'nilam' 'sapphire'. Related spellings are Alnihan and Alnitam: all three variants are evidently mistakes in transliteration or copy errors. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alnilam for this star. It is now so entered in the IAU Catalog of Star Names.
+
+
+=== Orion's Belt ===
+
+The three belt stars were collectively known by many names in many cultures. Arabic terms include Al Nijād 'the Belt', Al Nasak 'the Line', Al Alkāt 'the Golden Grains or Nuts' and, in modern Arabic, Al Mīzān al H•akk 'the Accurate Scale Beam'. In Chinese mythology they were also known as The Weighing Beam.In Chinese, 參宿 (Shēn Sù), meaning Three Stars (asterism), refers to an asterism consisting of Alnilam, Alnitak, Mintaka (Orion's Belt) with Betelgeuse, Bellatrix, Saiph and Rigel Consequently, Alnilam are known as 參宿二 (Shēn Sù èr, English: the Second Star of Three Stars).. It is one of the western mansions of the White Tiger.

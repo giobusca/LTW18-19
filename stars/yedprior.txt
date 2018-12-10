@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Ophiuchus
+
+Right ascension: 16 h 14 m 20.73853 s
+
+Declination: –03° 41′ 39.5612″
+
+Apparent magnitude: 2.75
+
+Distance: 171 ± 1 ly
+
+Mass: 1.5 M
+
+Radius: 59 R
+
+Temperature: 3,679 K
+
+Rotational velocity: 7.0 km/s
+
+
+
+Delta Ophiuchi (δ Ophiuchi, abbreviated Delta Oph, δ Oph), also named Yed Prior, is a star in the constellation of Ophiuchus. It forms a naked eye optical double with Epsilon Ophiuchi (named Yed Posterior). The apparent visual magnitude is 2.75, making this a third-magnitude star and the fourth-brightest in the constellation. Parallax measurements from the Hipparcos spacecraft yield a distance estimate of approximately 171 light-years (52 parsecs) from the Sun (Epsilon Ophiuchi is approximately 108 light-years (33 parsecs)).
+
+
+== Nomenclature ==
+δ Ophiuchi (Latinised to Delta Ophiuchi) is the star's Bayer designation.
+It bore the traditional name Yed Prior. Yed derives from the Arabic Yad meaning "the hand". Delta and Epsilon Ophiuchi comprise the left hand of Ophiuchus (the Serpent Bearer) that holds the head of the serpent (Serpens Caput). Delta is Yed Prior as it leads Epsilon across the sky. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Yed Prior for this star on 5 October 2016 and it is now so included in the List of IAU-approved Star Names.Delta Ophiuchi was a member of the indigenous Arabic asterism al-Nasaq al-Yamānī, the "Southern Line" of al-Nasaqān the "Two Lines", along with Alpha Serpentis, Delta Serpentis, Epsilon Serpentis, Epsilon Ophiuchi, Zeta Ophiuchi and Gamma Ophiuchi.In Chinese, 天市右垣 (Tiān Shì Yòu Yuán), meaning Right Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven ancient states in China and which mark the right borderline of the enclosure, consisting of Delta Ophiuchi, Beta Herculis, Gamma Herculis, Kappa Herculis, Gamma Serpentis, Beta Serpentis, Alpha Serpentis, Delta Serpentis, Epsilon Serpentis, Epsilon Ophiuchi and Zeta Ophiuchi. Consequently, Delta Ophiuchi itself is known as 天市右垣九 (Tiān Shì Yòu Yuán jiǔ, English: the Ninth Star of Right Wall of Heavenly Market Enclosure), representing the state of Liang (梁) (or Leang).
+
+
+== Properties ==
+Delta Ophiuchi has a stellar classification of M0.5 III, making this a red giant star that has undergone expansion of its outer envelope after exhausting the supply of hydrogen at its core. The measured angular diameter of this star, after correction for limb darkening, is 10.47 ± 0.12 mas. At the estimated distance of Delta Ophiuchi, this yields a physical size of about 59 times the radius of the Sun. In spite of its enlarged size, this star has only 1.5 times the mass of the Sun and hence a much lower density. The effective temperature of the outer atmosphere of Delta Ophiuchi is a relatively cool 3,679 K, which is what gives it the orange-red hue of an M-type star.It is listed as a suspected variable star that may change by 0.03 in visual magnitude. It has a low projected rotational velocity of 7.0 km s−1, which gives a minimum value for the azimuthal velocity along the star's equator. The abundance of elements other than hydrogen and helium, what astronomers term the star's metallicity, is more than double the abundance in the Sun's photosphere.The star has a high optical linear polarisation that increases from red to blue wavelengths and displays some variability, this has been ascribed to either an asymmetric distribution of dust grains in an envelope expelled from it, or the presence of photometric hot spots.
+
+

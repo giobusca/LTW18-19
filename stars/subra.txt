@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 09 h 41 m 09.03 s
+
+Declination: +09° 53' 32.30"
+
+Apparent magnitude: +3.52
+
+Distance: 135 ly
+
+Mass: 2.12  M
+
+
+
+Omicron Leonis (ο Leonis, abbreviated Omicron Leo, ο Leo) is a multiple star system in the constellation of Leo, west of Regulus, some 130 light-years from the Sun, where it marks one of the lion's forepaws.
+It consists of a binary pair, designated Omicron Leonis A and an optical companion, Omicron Leonis B. 'A's' two components are themselves designated Omicron Leonis Aa (also named Subra) and Ab.
+
+
+== Nomenclature ==
+ο Leonis (Latinised to Omicron Leonis) is the star's Bayer designation. The designations of the two constituents as Omicron Leonis A and B, and those of A's components - Omicron Leonis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Subra. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Subra for the component Omicron Leonis Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+The primary is given the type F8-G0III giant and the secondary is a type A7m dwarf. Their combined apparent magnitude is +3.52.

@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Pisces
+
+Right ascension: 02 h 02 m 02.81972 s
+
+Declination: +02° 45′ 49.5410″
+
+Apparent magnitude: 3.82 (4.33 + 5.23)
+
+Distance: 151 ± 7 ly
+
+Rotational velocity: 81 km/s
+
+
+
+Alpha Piscium (α Piscium) is a binary star system in the equatorial constellation of Pisces. Based upon parallax measurements made by the Hipparcos spacecraft, it is located approximately 311 light-years from the Sun. 
+The two components are designated Alpha Piscium A (also named Alrescha) and B.
+
+
+== Nomenclature ==
+α Piscium (Latinised to Alpha Piscium) is the star's Bayer designation. The designations of the two components as Alpha Piscium A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Alrescha (alternatively Al Rescha, Alrischa, Alrisha) derived from the Arabic الرشآء al-rišā’ "the well rope" and less commonly Kaitain and Okda, the latter from the Arabic عقدة ‘uqdah "knot". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Alrescha for the component Alpha Piscium A on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 外屏 (Wài Píng), meaning Outer Fence, refers to an asterism consisting of Alpha Piscium, Delta Piscium, Epsilon Piscium, Zeta Piscium, Mu Piscium, Nu Piscium and Xi Piscium. Consequently, Alpha Piscium itself is known as 外屏七 (Wài Píng qī, English: the Seventh Star of Outer Fence).
+
+
+== Properties ==
+Alpha Piscium comprises a close binary with angular separation of presently 1.8" between the components. The main star or primary (Alpha Piscium A) is of magnitude +4.33 and spectral type A0p, while the companion or secondary (Alpha Piscium B) is magnitude 5.23 and belongs to spectral class A3m. The two stars take more than 700 years to orbit one another and they will make their closest approach to each other around 2060. One or both of the stars may be a spectroscopic binary as well. The stars have masses of 2.3 and 1.8 solar masses respectively and shine with a total luminosity of 31 and 12 times that of the Sun.
+
+

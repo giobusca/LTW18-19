@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 17 h 30 m 45.83712 s
+
+Declination: –37° 17′ 44.9285″
+
+Apparent magnitude: 2.70
+
+Distance: 580 ± 20 ly
+
+Mass: 11.4 ± 0.5 M
+
+Radius: 6.1 R
+
+Luminosity: 7381 L
+
+Temperature: 22,831 ± 169 K
+
+
+
+Upsilon Scorpii (υ Scorpii, abbreviated Upsilon Sco, υ Sco), also named Lesath, is a star located in the "stinger" of the southern zodiac constellation of Scorpius, the scorpion. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 580 light-years from the Sun. On the night sky it lies near the 1.6 magnitude star Lambda Scorpii, and the two form an optical pair that is sometimes called the "Cat's Eyes".
+
+
+== Nomenclature ==
+υ Scorpii (Latinised to Upsilon Scorpii) is the star's Bayer designation.
+It bore the traditional name Lesath (alternatively spelled Leschath, Lesuth), from the Arabic las'a "pass (or bite) of a poisonous animal"; but this is a miscorrection by Scaliger (a European astronomer who knew Arabic) for earlier "Alascha", which came from Arabic al laţkha "the foggy patch", referring to the nearby open cluster M7. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Lesath for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.Together with Lambda Scorpii (Shaula), Lesath is listed in the Babylonian compendium MUL.APIN as dSharur4 u dShargaz, meaning "Sharur and Shargaz". In Coptic, they were called Minamref The indigenous Boorong people of northwestern Victoria named it as Karik Karik (together with Lambda Scorpii), "the Falcons"In Chinese, 尾宿 (Wěi Xiù), meaning Tail, refers to an asterism consisting of Upsilon, Mu1, 
+Epsilon, Zeta1, Zeta2, Eta, Theta, Iota1, Iota2, Kappa, and Lambda Scorpii. Consequently, Upsilon Scorpii itself is known as 尾宿九 (Wěi Xiù jiǔ), "the Ninth Star of Tail".
+
+
+=== Namesake ===
+USS Lesuth (AK-125) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+This star has apparent magnitude +2.7 and belongs to spectral class B2 IV, with the luminosity class of 'IV' indicating it is a subgiant star. The star's luminosity is 12,300 times that of the Sun, while its surface temperature is 22,831 kelvins. The star has a radius of 6.1 times solar and 11 times the mass of the Sun.
+
+

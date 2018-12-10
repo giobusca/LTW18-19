@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Centaurus
+
+Right ascension: 14 h 06 m 40.94752 s
+
+Declination: –36° 22′ 11.8371″
+
+Apparent magnitude: +2.06
+
+Distance: 58.8 ± 0.2 ly
+
+Radius: 10.6 R
+
+Luminosity: 60 L
+
+Temperature: 4,980 K
+
+
+
+Theta Centauri (θ Centauri, abbreviated Theta Cen, θ Cen), also named Menkent, is a star in the southern constellation of Centaurus, the centaur. With an apparent visual magnitude of +2.06, it is the fourth-brightest member of the constellation. Based on parallax measurements obtained during the Hipparcos mission, it is about 58.8 light-years (18.0 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+θ Centauri (Latinised to Theta Centauri) is the star's Bayer designation.
+It bore the traditional name of Menkent derived from an Arabic word for "shoulder" (of the Centaur) attached to the Latin abbreviation for "kentaurus" (centaur). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Menkent for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 庫樓 (Kù Lóu), meaning arsenal, refers to an asterism consisting of Theta Centauri, Zeta Centauri, Eta Centauri, 2 Centauri, HD 117440, Xi¹ Centauri, Gamma Centauri, Tau Centauri, D Centauri and Sigma Centauri. Consequently, Theta Centauri itself is known as 庫樓三 (Kù Lóu sān, English: the Third Star of Arsenal).
+
+
+== Properties ==
+This is an evolved giant star with a stellar classification of K0 III. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 5.46 ± 0.06 milliarcseconds, which, at its estimated distance, equates to a physical radius of about 10.6 times the radius of the Sun. The outer envelope has an effective temperature of 4,980 K, giving it the orange-hued glow of a cool, K-type star. Soft X-ray emission has been detected from this star, which has an estimated X-ray luminosity of 1.4 × 1027 erg s−1.
+
+

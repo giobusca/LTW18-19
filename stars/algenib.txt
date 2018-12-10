@@ -1,0 +1,37 @@
+==Datasheet==
+
+Constellation: Pegasus
+
+Right ascension: 00 h 13 m 14.15123 s
+
+Declination: +15° 11′ 00.9368″
+
+Apparent magnitude: +2.84
+
+Distance: 390 ± 20 ly
+
+Mass: 8.9 ± 0.1 M
+
+Radius: 4.80 ± 0.39 R
+
+Luminosity: 5,840 L
+
+Temperature: 21,179 ± 237 K
+
+Rotational velocity: 0 km/s
+
+
+
+Gamma Pegasi (γ Pegasi, abbreviated Gamma Peg or γ Peg), also named Algenib, is a star in the constellation of Pegasus, located at the southeast corner of the asterism known as the Great Square. The average apparent visual magnitude of +2.84 puts this at fourth place among the brightest stars in the constellation. The distance to this star has been measured using the parallax technique, yielding a value of roughly 390 light-years (120 parsecs) with a margin of error of 5%.
+
+
+== Nomenclature ==
+Gamma Pegasi is the star's Bayer designation. Although it also had the traditional name Algenib, this name was also used for Alpha Persei. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Algenib for this star (Alpha Persei was given the name Mirfak).
+The asterism of γ Pegasi and α Andromedae, in Hindu astronomy, is called Uttara Bhādrapadā (उत्तरभाद्रपदा) or Uttṛṭṭāti. It is the 26th nakshatra. In Chinese, 壁宿 (Bìxiù), meaning Wall (asterism) refers to an asterism consisting of γ Pegasi and α Andromedae . Consequently, γ Pegasi itself is known as 壁宿一 (Bìxiù yī, English: the First Star of Wall.)
+
+
+== Properties ==
+In 1911, American astronomer Keivin Burns discovered that the radial velocity of Gamma Pegasi varied slightly. This was confirmed in 1953 by American astronomer D. Harold McNamara, who identified it as a Beta Cephei variable. (At the time he actually identified it as a Beta Canis Majoris star, which was subsequently designated a Beta Cephei variable.) It has a radial pulsation period of 0.15175 days (3.642 hours), but also shows the behavior of a slowly pulsating B star (SPB) with three additional pulsational frequencies. Its magnitude varies between +2.78 and +2.89 over the course of each pulsation cycle.
+This is a large star with almost nine times the mass of the Sun and close to five times the Sun's radius. The stellar classification of B2 IV suggests this is a subgiant star that is exhausting the hydrogen at its core and is in the process of evolving away from the main sequence. It is either rotating very slowly with no measurable rotational velocity or else it is being viewed from nearly pole-on. Gamma Pegasi has a total luminosity of 5,840 times that of the Sun, which is being radiated from its outer atmosphere at an effective temperature of more than 21,000 K. At this temperature, the star glows with a blue-white hue.Despite claims that the star has a magnetic field (Butkovskaya & Plachinda [2007]), this didn't hold up under further observation. Neiner et al. (2014) put an upper bound on a dipolar magnetic field strength of about 40 G.
+
+

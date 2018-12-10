@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Draco
+
+Right ascension: 19 h 32 m 21.59026 s
+
+Declination: +69° 39′ 40.2354″
+
+Apparent magnitude: 4.674
+
+Distance: 18.77 ± 0.02 ly
+
+Rotational velocity: 1.4 km/s
+
+
+
+Sigma Draconis (σ Draconis, abbreviated Sig Dra, σ Dra), also named Alsafi, is a 4.7-magnitude star located at a distance of 18.8 light-years from the Sun in the constellation of Draco.
+
+
+== Name ==
+σ Draconis (Latinised to Sigma Draconis) is the star's Bayer designation, established in 1603 as part of the Uranometria, a star catalogue produced by German celestial cartographer Johann Bayer.
+It bore the traditional name Alsafi, derived from the Arabic Athāfi, itself erroneously transcribed from the Arabic plural Athāfiyy, by which the nomads designated the tripods of their open-air kitchens. It was the name of an association of this star, Tau Draconis and Upsilon Draconis. According to a 1971 NASA memorandum, Athāfi or Alsafi were the title for three stars: Sigma Draconis as Alsafi, Tau Draconis as Athāfi I and Upsilon Draconis as Athāfi II. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Alsafi for Sigma Draconis on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 天廚 (Tiān Chú), meaning Celestial Kitchen, refers to an asterism consisting of Sigma Draconis, Delta Draconis, Epsilon Draconis, Rho Draconis, 64 Draconis (see 64 Draconis (Portuguese)) and Pi Draconis. Consequently, Sigma Draconis itself is known as 天廚二 (Tiān Chú èr, English: the Second Star of Celestial Kitchen.)
+
+
+== Properties ==
+Sigma Draconis is a main sequence dwarf which has long served as a K0 V spectral standard star. Its classification as K0 V defines one of the rare anchor points of the Morgan–Keenan system that have remained unchanged since the original 1943 MKK Atlas. However, modern spectroscopy gives it as designation of G9 V.The radius of Sigma Draconis has been directly measured using interferometry with the CHARA array, which yields a result of 77.6% of the Sun's radius. It has 85% of the Sun's mass, but the luminosity of this star is only 41% that of the Sun. The projected rotation rate (v sin i) is relatively low at 1.4 km/s. It is considered a slightly metal-poor star, meaning that it has a lower proportion of elements with masses greater than helium when compared to the Sun.The temperature, luminosity and surface activity appear to vary slightly in a manner very similar to the sunspot cycle, although the full length of the cycle has not yet been determined (as of 1992). The total variability is among the lowest of all stars that have been measured by the Hipparcos spacecraft.Sigma Draconis has a high proper motion, advancing across the celestial sphere at a rate of 1.835 arc seconds per year. The star made its perihelion passage about 46,725 years ago, when it came within 16.55 ly (5.075 pc). The components of Sigma Draconis's space velocity are U=+36, V=+40 and W=-10 km/s. This gives the star an unusually large orbital eccentricity about the Milky Way galaxy of 0.30 (compared to 0.06 for the Sun.) The mean galactocentric distance for the orbit is 10.3 kiloparsecs (about 34,000 light-years).As of 2013, no Jupiter-size or larger companion had been detected about the star and there was no indication of excess infrared radiation that would be evidence of circumstellar matter (such as a debris disk).
+
+
+== Planet search ==
+Between 2004 and 2013, extensive radial velocity measurements were gathered on Sigma Draconis using the High Resolution Echelle Spectrometer on the Keck Observatory. The Keck/HIRES data indicated a possible period of about 300 days and a likely alias period of 2800 days. Adding data taken with the Automated Planet Finder at the Lick Observatory strengthened and narrowed the 300-day period while reducing the significance of the 2800-day period. The combined analysis suggests there may be a Uranus-mass planet on a 308-day orbit, though the authors do not yet consider the discovery to be publishable as they have not yet attempted to rule out other non-planetary explanations for the velocity variations.
+
+

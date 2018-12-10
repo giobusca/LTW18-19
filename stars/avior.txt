@@ -1,0 +1,29 @@
+==Datasheet==
+
+Constellation: Carina
+
+Right ascension: 08 h 22 m 30.83526 s
+
+Declination: −59° 30′ 34.1431″
+
+Apparent magnitude: 1.86
+
+Distance: 610 ± 50 ly
+
+Mass: 9.0 ± 0.9 M
+
+Temperature: 3,523 K
+
+
+
+Epsilon Carinae (ε Carinae, abbreviated Epsilon Car, ε Car), also named Avior, is a binary star in the southern constellation of Carina. At apparent magnitude +1.86 it is one of the brightest stars in the night sky, but is not visible from the northern hemisphere. The False Cross is an asterism formed of Delta Velorum, Kappa Velorum, Iota Carinae and ε Carinae. It is so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.
+
+Epsilon Carinae is located roughly 560–660 light-years (170–200 parsecs) from the Sun. Measurements during the Hipparcos mission give the pair an angular separation of 0.46 arcseconds with a difference in magnitude of 2.0. At their estimated distance, this angle is equivalent to a physical separation of around 4 astronomical units. This pair may form an eclipsing binary system with a period of 785 days (2.15 years), resulting in a magnitude change of 0.12 during each eclipse.The primary component has an apparent visual magnitude of 2.2, which by itself would still make it the third-brightest star in the constellation. It is an evolved giant star with a stellar classification of K0 III. However, examination of the ultraviolet flux from this star suggests it may instead be of spectral type K7. The fainter secondary companion has an apparent visual magnitude of 4.1, which, if it were a solitary star, would be bright enough to be seen with the naked eye. This is a hot, core hydrogen-fusing B-type main sequence star of spectral class B2 Vp. The secondary may itself have an orbiting stellar companion of spectral class F8.
+
+
+== Etymology ==
+ε Carinae (Latinised to Epsilon Carinae) is the star's Bayer designation.
+The name Avior is not classical in origin. It was assigned to the star by HM Nautical Almanac Office in the late 1930s during the creation of The Air Almanac, a navigational almanac for the Royal Air Force. Of the fifty-seven navigation stars included in the new almanac, two had no classical names: Epsilon Carinae and Alpha Pavonis. The RAF insisted that all of the stars must have names, so new names were invented. Alpha Pavonis was named "Peacock", a translation of Pavo, whilst Epsilon Carinae was called "Avior". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Avior for this star.
+In Chinese, 海石 (Hǎi Dàn), meaning Sea Rock, refers to an asterism consisting of ε Carinae, Iota Carinae, HD 83183, HD 84810 and Upsilon Carinae  . Consequently, ε Carinae itself is known as 海石一 (Hǎi Dàn yī, English: the First Star of Sea Rock.)
+
+

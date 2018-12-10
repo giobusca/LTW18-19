@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 14 h 28 m 12.13894 s
+
+Declination: −02° 13′ 40.6579″
+
+Apparent magnitude: +4.81
+
+Distance: 118 ± 4 ly
+
+Mass: 1.80 M
+
+Radius: 4  R
+
+Luminosity: 12.6  L
+
+Temperature: 5,534  K
+
+Rotational velocity: 15.5 km/s km/s
+
+
+
+Phi Virginis (φ Virginis, abbreviated Phi Vir, φ Vir) is a binary star in the zodiac constellation of Virgo. It can be seen with the naked eye, having an apparent visual magnitude of +4.81. Based upon parallax measurements obtained during the Hipparcos mission, it is located roughly 118 light-years (36 parsecs) distant from the Sun.The two components are designated Phi Virginis A (also named Elgafar) and B.
+
+
+== Nomenclature ==
+φ Virginis (Latinised to Phi Virginis) is the binary's Bayer designation. The designations of the two components as Phi Virginis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Ideler described an Arabic lunar mansion "El-gafr" for the stars Phi, Iota and Kappa Virginis. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Elgafar for the component Phi Virginis A on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In Chinese, 亢宿 (Kàng Xiù), meaning Neck, refers to an asterism consisting of Phi Virginis, Kappa Virginis, Iota Virginis,  and Lambda Virginis. Consequently, Phi Virginis itself is known as 亢宿三 (Wěi Xiù sān), "the Third Star of Neck".
+
+
+== Properties ==
+The primary component, Phi Virginis A, has a stellar classification of G2 IV, indicating that it is a G-type subgiant which is evolving away from the main sequence. It is slightly variable with an amplitude of 0m.06. The star has about 1.8 times the mass of the Sun, 4 times the Sun's radius, and shines with 12.6 times the luminosity of the Sun. It is around 1.5 billion years old and is spinning with a projected rotational velocity of 15.5 km/s. The effective temperature of the star's outer atmosphere is 5,534 K.The secondary, Phi Virginis B, is a magnitude 9.10 companion at an angular separation of 5.160 arcseconds. A second visual companion lies at an angular separation of 91.40 arcseconds along a position angle of 202°, as of 2000.The system is a source of X-ray emission with a luminosity of 2.158×1020 erg/s.
+
+

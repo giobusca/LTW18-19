@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 09 h 28 m 39.98840 s
+
+Declination: +45° 36′ 05.3344″
+
+Apparent magnitude: 5.413
+
+Distance: 280 ± 9 ly
+
+Radius: 11 R
+
+Luminosity: 55 L
+
+Rotational velocity: <sup class="reference" id="cite_ref-aj135_1_209_5-2"><a href="#cite_note-aj135_1_209-5">[5]</a></sup> km/s
+
+
+
+41 Lyncis (abbreviated 41 Lyn), also designated HD 81688 and named Intercrus, is a fifth magnitude star located in the northern constellation of Ursa Major. An extrasolar planet (designated 41 Lyncis b or HD 81688 b, later named Arkas) is thought to be orbiting the star.
+
+
+== Properties ==
+It is estimated using parallax measurements to be approximately 280 light-years (86 parsecs) from the Sun. The spectrum of this star matches a stellar classification of K0 III-IV, with the luminosity class of III-IV suggesting it is at an evolutionary stage part way between a subgiant star and a giant star. This star has about double the mass of the Sun, although Kunitomo et al. (2011) give a lower estimate of 1.1+0.3−0.2 solar masses. It has expanded to 11 times the Sun's radius and is radiating 55 times as much as the Sun from its outer atmosphere at an effective temperature of 4,789 K. This temperature gives it the orange-hued glow of a K-type star.This star is following an orbit through the Milky Way with an eccentricity of 0.21. This will take it as close to the Galactic Center as 18.5 kly (5.7 kpc) and as far as 28.2 kly (8.6 kpc). The inclination of this orbit will carry it as much as 1,800 ly (550 pc) away from the galactic plane. For this reason, it is uncertain whether this star is a member of the thin disk population.
+
+
+== Nomenclature ==
+41 Lyncis is the Flamsteed designation. Typically, 'Lyncis' is the genitive for a star found in the constellation of Lynx. However, when the constellation boundaries were officially established by the International Astronomical Union in 1930, this star was located within Ursa Major. HD 81688 is the entry in the Henry Draper Catalogue. Following its discovery the planet was designated 41 Lyncis b or alternatively HD 81688 b. In July 2014 the IAU launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Intercrus for this star and Arkas for its planet.The winning names were those submitted by the Okayama Astro Club of Japan. Intercrus means "between the legs" in Latin style, referring to the star's position in the constellation Ursa Major. Arkas was the son of Callisto (Ursa Major) in Greek mythology.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.
+
+
+== Planetary system ==
+On 19 February 2008 a planet was announced orbiting the star. It has a minimum mass 2.7 times that of Jupiter and completes an orbit every 184 days.
+
+

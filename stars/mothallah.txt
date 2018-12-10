@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Triangulum
+
+Right ascension: 01 h 53 m 04.90710 s
+
+Declination: +29° 34′ 43.7801″
+
+Apparent magnitude: +3.42
+
+Distance: 63.3 ± 0.3 ly
+
+Mass: 1.70 M
+
+Radius: 3.22 R
+
+Temperature: 6,288 K
+
+Rotational velocity: 81.6 km/s
+
+
+
+Alpha Trianguli (α Trianguli, abbreviated Alpha Tri, α Tri) is a spectroscopic binary star in the constellation of Triangulum. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 63.3 light-years (19.4 parsecs) distant from the Sun. The brighter or primary component is named Mothallah.
+
+
+== Nomenclature ==
+α Trianguli (Latinised to Alpha Trianguli) is the system's Bayer designation.
+The system bore the traditional names Ras al Muthallah or Mothallah and Caput Trianguli derived from the Arabic رأس المثلث ra’s al-muθallaθ "the head of the triangle" and its Latin translation. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Mothallah for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names. For such names relating to members of multiple star systems, and where a component letter (from e.g. Washington Double Star Catalog) is not explicitly listed, the WGSN says that the name should be understood to be attributed to the brightest component by visual brightness.In combination with Beta Trianguli, these stars were called Al Mīzān, which is Arabic for "The Scale Beam".In Babylonian astronomy, Alpha Trianguli is listed as UR.BAR.RA "The Wolf", bearing the epithet "the seeder of the plough" in the MUL.APIN, listed after "The Plough", the name for a constellation formed of Triangulum plus Gamma Andromedae.
+
+
+== Properties ==
+Estimates of the combined stellar classification for this system range from F5III to F6IV, with the luminosity class of 'IV' or 'III' indicating the primary component is a subgiant or giant star, respectively. It is a member of a close binary system—a spectroscopic binary—whose components complete an orbit about their center of mass once every 1.736 days. Because the primary star is rotating rapidly, it has assumed the shape of an oblate spheroid. The ellipsoidal profile of the star, as viewed from Earth, varies over the course of an orbit causing the luminosity to vary in magnitude during the same period. Such stars are termed ellipsoidal variables. Within a few million years, as the primary continues to evolve into a red giant star, the system may become a semi-detached binary with the Roche lobe becoming filled to overflowing.The mean apparent magnitude of +3.42 for this pair is bright enough to be readily seen with the naked eye. It forms the second brightest star or star system in this generally faint constellation, following Beta Trianguli. The effective temperature of the primary's outer envelope is 6,288 K, giving it a yellow-white hue typical of F-type stars. It has a mean radius about three times the radius of the Sun. The system is an estimated 1.6 billion years old.
+
+

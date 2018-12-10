@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Crater
+
+Right ascension: 10 h 59 m 46.46486 s
+
+Declination: −18° 17′ 55.6172″
+
+Apparent magnitude: 4.07
+
+Distance: 141 ± 2 ly
+
+Mass: 1.81 M
+
+Radius: 12.32 R
+
+Luminosity: 66.0 L
+
+Temperature: 4.691 K
+
+
+
+Alpha Crateris (α Crateris, abbreviated Alpha Crt, α Crt), also named Alkes, is a star in the constellation of Crater.  It is a cool giant star about 43.2 parsecs (141 ly) away.
+
+
+== Nomenclature ==
+α Crateris (Latinised to Alpha Crateris) is the star's Bayer designation.
+It bore the traditional name Alkes, from the Arabic الكاس alkās or الكأس alka's "the cup". In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Aoul al Batjna (أول ألبجن awwil albajna), which was translated into Latin as Prima  Crateris, meaning "the first cup". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Alkes for this star on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 翼宿 (Yì Sù), meaning Wings (asterism), refers to an asterism consisting of Alpha Crateris, Gamma Crateris, Zeta Crateris, Lambda Crateris, Nu Hydrae, Eta Crateris, Delta Crateris, Iota Crateris, Kappa Crateris, Epsilon Crateris, HD 95808, HD 93833, Theta Crateris, HD 102574, HD 100219, Beta Crateris, HD 99922, HD 100307, HD 96819, Chi1 Hydrae, HD 102620 and HD 103462. Consequently, Alpha Crateris itself is known as 翼宿一 (Yì Sù yī, English: the First Star of Wings).
+
+
+=== Namesake ===
+USS Alkes (AK-110) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+Alpha Crateris is an orange giant of spectral type K1III. It has an apparent magnitude of 4.07, and is 174 light years from Earth. It is thought to be a horizontal branch star, meaning it is fusing helium in its core after a helium flash. Cool horizontal branch stars are often called red clump giants as they form a noticeable grouping near the hot edge of the red giant branch in the H-R diagrams of clusters with near-solar metallicity. On this basis it is calculated to have a mass of 1.81 M☉, a luminosity of 77 L☉, and an age around two billion years. Its surface temperature is 4645 K. Or it might be a red giant branch star, still fusing hydrogen in a shell around an insert helium core, in which case it would be slightly less massive, older, cooler, larger, and more luminous.
+
+

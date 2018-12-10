@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 12 h 19 m 54.35783 s
+
+Declination: –00° 40′ 00.5095″
+
+Apparent magnitude: 3.890
+
+Distance: 265 ± 10 ly
+
+Mass: 2.5039 ± 0.1246 M
+
+Temperature: 9,333 K
+
+Rotational velocity: 18 km/s
+
+
+
+Eta Virginis (η Virginis, abbreviated Eta Vir, η Vir) is a triple star system in the zodiac constellation of Virgo. From parallax measurements taken during the Hipparcos mission it is approximately 265 light-years (81 parsecs) from the Sun. It has a combined apparent visual magnitude of 3.89, which is bright enough for the system to be seen with the naked eye in dark skies.
+The system consists of a binary pair designated Eta Virginis A together with a third companion, Eta Virginis B. A's two components are themselves designated Eta Virginis Aa (also named Zaniah) and Ab.
+
+
+== Nomenclature ==
+η Virginis (Latinised to Eta Virginis) is the system's Bayer designation. The designations of the two constituents as Eta Virginis A and those of A'scomponents - Eta Virginis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Zaniah , derived from the Arabic زاوية zāwiyah "corner", the same source as Zavijava (Beta Virginis). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Zaniah for the component Eta Virginis Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Thanih al Aoua, which was translated into Latin as Secunda Latratoris, meaning "the second barker". This star, along with Beta Virginis (Zavijava), Gamma Virginis (Porrima), Delta Virginis (Minelauva) and Epsilon Virginis (Vindemiatrix), were Al ʽAwwāʼ, "the Barker".In Chinese, 太微左垣 (Tài Wēi Zuǒ Yuán), meaning Left Wall of Supreme Palace Enclosure, refers to an asterism consisting of Eta Virginis, Gamma Virginis, Delta Virginis, Epsilon Virginis and Alpha Comae Berenices. Consequently, Eta Virginis itself is known as 太微左垣一 (Tài Wēi Zuǒ Yuán yī, English: the First Star of Left Wall of Supreme Palace Enclosure.), representing 左執法 (Zuǒzhífǎ), meaning "The Left Law Administrator". 左執法 (Zuǒzhífǎ), spelled Tso Chih Fa by R.H. Allen, means "the Left-hand Maintainer of Law" 
+
+
+== Properties ==
+Although Eta Virginis looks single, lunar occultations have shown this star to be a very close triple star system consisting of two stars only 0.6 AU apart, assuming a distance of 91 parsecs, with a third slightly more distant star. The inner pair is a spectroscopic binary that completes an orbit with a period of 72 days. The inclination of this orbit was determined through interferometer observations to be 45.5°, which allowed the individual masses of the two stars to be estimated. The primary star, Eta Virginis Aa, has a mass of about 2.5 times the Sun's mass, while the secondary, Eta Virginis Ab, has 1.9 solar masses. The faint tertiary star, Eta Virginis B, orbits the inner group in a wider orbit over a period of 13.1 years.Because Eta Virginis is near the ecliptic, it can be occulted by the Moon and (very rarely) by planets. On October 12, 272 BC, the ancient Greek astronomer Timocharis observed a conjunction of the star with Venus. The last occultation by a planet took place on September 27, 1843, also by Venus, which will occult it again on November 19, 2445.
+
+

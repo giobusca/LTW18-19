@@ -1,0 +1,48 @@
+==Datasheet==
+
+Constellation: Cygnus
+
+Right ascension: 19 h 30 m 43.286 s
+
+Declination: +27° 57′ 34.84″
+
+Apparent magnitude: 3.18
+
+Distance: 430 ± 20 ly
+
+Mass: 14.52 M
+
+Radius: 2.59 R
+
+Temperature: 4,270 K
+
+Rotational velocity: 1.4 km/s
+
+
+
+Albireo is the traditional name for the double star also designated Beta Cygni (β Cygni, abbreviated Beta Cyg, β Cyg), although the International Astronomical Union now regards the name as only applying to the brightest component. Although designated 'beta', it is fainter than Gamma Cygni, Delta Cygni, and Epsilon Cygni and is the fifth-brightest point of light in the constellation of Cygnus. Appearing to the naked eye to be a single star of magnitude 3, viewing through even a low-magnification telescope resolves it into its two components. The brighter yellow star (actually itself a very close binary system) makes a striking colour contrast with its fainter blue companion.
+
+
+== Nomenclature ==
+β Cygni (Latinised to Beta Cygni) is the system's Bayer designation. The brighter of the two components is designated β¹ Cygni or Beta Cygni A and the fainter β² Cygni or Beta Cygni B.
+The system's traditional name Albireo is a result of misunderstanding and mistranslation.  It is thought that it originated in the Greek name ornis for the constellation of Cygnus, which became urnis in Arabic. When translated into Latin, this name was thought to refer to the Greek name Erysimon for the plant called Hedge Mustard (Sisymbrium officinale, which in Latin is ireo), and so was described in Latin in the Arabo-Latin Almagest of 1515 as "Eurisim: et est volans; et jam vocatur gallina. et dicitur eurisim quasi redolens ut lilium ab ireo" ("Eurisim: and it is the flyer, and now it is called the hen, and it is called Eurisim, as if redolent like the lily from the 'ireo'"), via a confusion between ireo and the scented flower Iris florentina. This was variously miscopied, until "ab ireo" was treated as a miscopy of an Arabic term and changed into al-bireo.In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Albireo  for β¹ Cygni. It is now so entered in the IAU Catalog of Star Names.Medieval Arabic-speaking astronomers called Beta Cygni minqār al-dajājah (English: the hen's beak). The term minqār al-dajājah (منقار الدجاجة) or Menchir al Dedjadjet appeared in the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, which was translated into Latin as Rostrum Gallinae, meaning the hen's beak.Since Cygnus is the swan, and Beta Cygni is located at the head of the swan, it is sometimes called the "beak star".  With Deneb, Gamma Cygni (Sadr), Delta Cygni, and Epsilon Cygni (Gienah), it forms the asterism called the Northern Cross.
+
+
+== Properties ==
+
+Beta Cygni is about 415 light-years (127 pc) away from the Sun. When viewed with the naked eye, Albireo appears to be a single star. However, in a telescope it resolves into a double star consisting of β Cygni A (amber, apparent magnitude 3.1), and β Cygni B (blue-green, apparent magnitude 5.1). Separated by 35 seconds of arc, the two components provide one of the best contrasting double stars in the sky due to their different colors.
+It is not known whether the two components β Cygni A and B are orbiting around each other in a physical binary system, or if they are merely an optical double. If they are a physical binary, their orbital period is probably at least 100,000 years. Some experts, however, support the optical double argument, based on observations that suggest different proper motions for the components, which implies that they are unrelated. The primary and secondary also have different measured distances from the Hipparcos mission - 434 ± 20 light-years (133 ± 6 pc) for the primary and 401 ± 13 light-years (123 ± 4 pc) for the secondary. More recently the Gaia mission has measured distances of about 330–390 light years (100–120 parsecs) for both components, but noise in the astrometric measurements for the stars means that data from Gaia's second data release is not yet sufficient to determine whether the stars are physically associated.There are a further 10 faint companions listed in the Washington Double Star catalogue, all fainter than magnitude 10. Only one is closer to the primary than Albireo B, with the others up to 142" away.
+
+
+=== Albireo A ===
+The spectrum of Beta Cygni A was found to be composite when it was observed as part of the Henry Draper Memorial project in the late 19th century, leading to the supposition that it was itself double. This was supported by observations from 1898 to 1918 which showed that it had a varying radial velocity. In 1923, the two components were identified in the Henry Draper Catalogue as HD 183912 and HD 183913.In 1978, speckle interferometry observations using the 1.93m telescope at the Haute-Provence Observatory resolved a companion at 0.125". This observation was published in 1980, and the companion is referred to as component Ab in the Washington Double Star Catalog.In 1976 speckle interferometry was used to resolve a companion using the 2.1-meter telescope at the Kitt Peak National Observatory. It was measured at a separation of 0.44", and it is noted that the observation was inconsistent with the Haute-Provence observations and hence not of the same star. Although these observations pre-dated those at Haute-Provence, they were not published until 1982 and this component is designated Ac in the Washington Double Star Catalog. It is designated as component C in the Catalog of Components of Double and Multiple Stars, not to be confused with component C in the Washington Double Star Catalog which is a faint optical companion. An orbit for the pair has since been computed using interferometric measurements, but as only approximately a quarter of the orbit has been observed, the orbital parameters must be regarded as preliminary.  The period of this orbit is 214 years.The status of the two possible companions is still not clarified. One set of observations reports barely resolving two components, but there has not been confirmation of this. Observations of Albireo assuming the spectrum is a composite of two stars derive a late B spectral type for the companion, for example B8. Adaptive optics measurements of the companion are best modelled by a B0V spectrum for the companion with an apparent magnitude of 5.85. Different assumptions about the spectral type of the companion lead to wildly different physical properties, for example an effective temperature of either 12,000 K or 30,000 K.The diameter of the primary K-type giant star has been measured using interferometry. A uniform disk of approximately 4.5 mas was measured at optical and near-infrared wavelengths, and a limb-darkened diameter of 4.834 mas was calculated, equivalent to a radius of 69 R☉ at a distance of 133 pc.
+
+
+=== Albireo B ===
+β Cygni B is a fast-rotating Be star, with an equatorial rotational velocity of at least 250 kilometers per second.  Its surface temperature has been spectroscopically estimated to be about 13,200 K.β Cygni B has been reported to be a very close double, but the observations appear to have been incorrect.
+
+
+== Namesakes ==
+Albireo (AK-90) was a United States Navy Crater class cargo ship named after the star.
+
+

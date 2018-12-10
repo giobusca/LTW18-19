@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Boötes
+
+Right ascension: 14 h 32 m 04.67180 s
+
+Declination: +38° 18′ 29.7043″
+
+Apparent magnitude: +3.03
+
+Distance: 86.8 ± 0.3 ly
+
+Luminosity: 34 L
+
+Temperature: 7,800 K
+
+Rotational velocity: 140 km/s
+
+
+
+Gamma Boötis (γ Boötis, abbreviated Gamma Boo, γ Boo) is a binary star in the constellation of Boötes. It is a Delta Scuti type variable star with a period of 1.13 hours. Its brightness varies from magnitude +3.02 to +3.07. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 85 light-years distant from the Sun.
+Gamma Boötis forms the primary or 'A' component of a double star system designated WDS J14321+3818 ('B' is the star UCAC2 45176266). Gamma Boötis' two components are themselves designated WDS J14321+3818Aa (also named Seginus) and Ab.
+
+
+== Nomenclature ==
+γ Boötis (Latinised to Gamma Boötis) is the binary's Bayer designation. WDS J14321+3818 is the wider system's designation in the Washington Double Star Catalog. The designations of the two constituents as WDS J14321+3818A and B, and those of A's components - WDS J14321+3818Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Gamma Boötis bore the traditional name Seginus (alternatively Segin, Ceginus) of uncertain origin but possibly resulting from Latinisation of an Arabic form of the Greek name of the constellation of Boötes - Theguius. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Seginus for WDS J14321+3818Aa on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.Gamma Boötis was listed as Haris in Bečvář, derived from the Arabic name of the constellation of Boötes, Al Haris Al Sama meaning "the guard".In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Menkib al Aoua al Aisr (منكب العواء الأيسر - mankibu lʿawwaaʾi lʾaysar), which was translated into Latin as Humerus Sinister Latratoris, meaning 'the left shoulder of barker'.In Chinese astronomy, Gamma Boötis is called 招搖, Pinyin: Zhāoyáo, meaning Twinkling Indicator, because this star is marking itself and standing alone in Twinkling Indicator asterism, Root mansion (see : Chinese constellation). 招搖 (Zhāoyáo), westernized into Chaou Yaou, but the name Chaou Yaou was designated for Beta Boötis (Nekkar) by R.H. Allen and the meaning is "to beckon, excite, or move." 
+
+
+=== Namesake ===
+USS Seginus (AK-133) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+Gamma Boötis presents as an A-type giant star belonging to spectral class A7III.
+
+

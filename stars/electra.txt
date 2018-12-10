@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Taurus
+
+Right ascension: 03 h 44 m 52.53688 s
+
+Declination: +24° 06′ 48.0112″
+
+Apparent magnitude: 3.70
+
+Distance: 400 ± 10 ly
+
+Luminosity: 940 L
+
+Temperature: 13,484 ± 293 K
+
+Rotational velocity: 181 km/s
+
+
+
+Electra, also designated 17 Tauri, is a blue-white giant star in the constellation of Taurus. It is the third-brightest star in the Pleiades open star cluster (M45); the most visible stars in this group are named for the Seven Sisters of Greek mythology.
+
+
+== Properties ==
+
+The star has an apparent brightness of 3.72, the third-brightest of the stars in the group. Electra belongs to the spectral class B6 IIIe and is approximately 400 light-years from the Sun. The Pleiades cluster is thought to be 444 light-years away.
+The projected rotational velocity of this star is 181 km/s, making it a fast rotator. This is the velocity component of the star's equatorial rotation along the line of sight to the Earth. The estimated inclination of the star's pole is 46.8° ± 1.6, giving it a true equatorial rotational velocity of 320 ± 18 km/s. The rapid rotation rate of this star flattens the poles and stretch the equator. This makes the surface gravity of the star non-uniform and causes temperature variation. This effect is known as gravity darkening, because it results in a variation of radiation by latitude. The rapid rotation extends the life span of the star by increasing the core density and reducing the radiation output.This is classified as a Be star, which is a B-type star with prominent emission lines of hydrogen in its spectrum. The Be stars have a rotation rate that is 1.5–2 times the rotation of normal B-type stars. This high rate of rotation may allow mass loss during even minor prominences. Changes in the radial velocity measurements indicate that this star may have a companion, which would make Electra a spectroscopic binary.Infrared observations of this star showed an excess level of radiation equal to about 0.5 magnitudes. This emission is probably from a gaseous disk created by radiation-driven mass loss and rapid rotation of the star. These disks are created by an ejection of material roughly every ten years, which then settles into the equatorial plane about the star. However, the bright nebulosity that surrounds this star makes the observation uncertain.
+
+
+== Nomenclature ==
+17 Tauri is the star's Flamsteed designation.
+It bore the traditional name Electra. Electra was one of the Pleiades sisters in Greek mythology. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Electra for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.
+
+
+=== Military namesakes ===
+USS Electra (1843) and USS Electra (AK-21/AKA-4), both of United States Navy.
+
+

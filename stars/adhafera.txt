@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 10 h 16 m 41.41597 s
+
+Declination: +23° 25′ 02.3221″
+
+Apparent magnitude: 3.33
+
+Distance: 274 ± 4 ly
+
+Mass: 3 M
+
+Radius: 6 R
+
+Luminosity: 85 L
+
+Temperature: 6,792 K
+
+Rotational velocity: 72.4 km/s
+
+
+
+Zeta Leonis (ζ Leonis, abbreviated Zeta Leo, ζ Leo), also named Adhafera, is a third-magnitude star in the constellation of Leo, the lion. It forms the second star (after Gamma Leonis) in the blade of 'the Sickle', which is an asterism formed from the head of Leo.
+
+
+== Nomenclature ==
+ζ Leonis (Latinised to Zeta Leonis) is the star's Bayer designation. It has the traditional name Adhafera (Aldhafera, Adhafara), which comes from the Arabic الضفيرة al-ðafīrah 'the braid/curl', a reference to its position in the lion's mane. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Adhafera for this star.
+
+
+== Properties ==
+Adhafera is a giant star with a stellar classification of F0 III. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Its apparent magnitude is +3.44, making it relatively faint for a star that is visible to the naked eye. Nevertheless, it shines with 85 times the luminosity of the Sun. Adhafera has about three times the Sun's mass and six times the radius of the Sun. Parallax measurements from the Hipparcos satellite yield an estimated distance to Adhafera of 274 light-years (84 parsecs) from the Sun.
+Adhafera forms a double star with an optical companion that has an apparent magnitude of 5.90. Known as 35 Leo, this star is separated from Adhafera by 325.9 arcseconds along a position angle of 340°. The two stars do not form a binary star system as 35 Leo is only 100 light years from Earth, thus separating the two stars by approximately 174 light-years (53 parsecs).
+
+

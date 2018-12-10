@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Auriga
+
+Right ascension: 05 h 06 m 30.89337 s
+
+Declination: +41° 14′ 04.1127″
+
+Apparent magnitude: 3.18
+
+Distance: 243 ± 4 ly
+
+Mass: 5.4 ± 0.3 M
+
+Radius: 3.25 ± 0.18 R
+
+Luminosity: 955 L
+
+Temperature: 17,201 ± 173 K
+
+Rotational velocity: 95 km/s
+
+
+
+Eta Aurigae (η Aurigae, abbreviated Eta Aur, η Aur), also named Haedus, is a star in the northern constellation of Auriga. With an apparent visual magnitude of 3.18, it is visible to the naked eye. Based upon parallax measurements made during the Hipparcos mission, this star is approximately 243 light-years (75 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+η Aurigae (Latinised to Eta Aurigae) is the star's Bayer designation.
+Along with Zeta Aurigae it represents one of the Kids of the she-goat Capella, from which it derived its Latin traditional name Haedus II or Hoedus II, from the Latin haedus "kid" (Zeta Aurigae was Haedus I). It also had the less common traditional name Mahasim, from the Arabic المِعْصَم al-micşam "wrist" (of the charioteer), which it shared with Theta Aurigae. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the names Haedus for Eta Aurigae and Saclateni for Zeta Aurigae A on 30 June 2017 and they are both now so included in the List of IAU-approved Star Names.In Chinese, 柱 (Zhù), meaning Pillars, refers to an asterism consisting of Eta Aurigae, Epsilon Aurigae, Zeta Aurigae, Upsilon Aurigae, Nu Aurigae, Tau Aurigae, Chi Aurigae and 26 Aurigae. Consequently, Eta Aurigae itself is known as 柱三 (Zhǔ sān, English: the Third Star of Pillars.)
+
+
+== Properties ==
+Since 1943, the spectrum of Eta Aurigae has served as one of the stable anchor points by which other stars are classified.Eta Aurigae is a larger star than the Sun, with more than five times the Sun's mass and over three times the Sun's radius. The spectrum of this star matches a stellar classification of B3 V, which is a B-type main sequence star that is generating its energy through the nuclear fusion of hydrogen at its core. It is radiating 955 times the Sun's luminosity from its outer atmosphere at an effective temperature of 17,201 K. Based upon its projected rotational velocity of 95, it is spinning with a rotation period of only 1.8 days. Eta Aurigae is around 39 million years old.
+
+

@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Crux
+
+Right ascension: 12 h 26 m 35.89522 s
+
+Declination: −63° 05′ 56.7343″
+
+Apparent magnitude: 0.76
+
+Distance: 320 ± 20 ly
+
+Mass: 17.80 + 6.05 M
+
+Luminosity: 25,000 L
+
+Temperature: 24,000 K
+
+Rotational velocity: 120 km/s
+
+
+
+Alpha Crucis (α Crucis, abbreviated Alpha Cru, α Cru) is a multiple star system 321 light-years from the Sun in the constellation of Crux and part of the asterism known as the Southern Cross. With a combined visual magnitude of 0.76, it is the brightest star in Crux and the 13th brightest star in the night sky. It is the southernmost first-magnitude star, 2.3 degrees more southerly than Alpha Centauri.To the naked eye Alpha Crucis appears as a single star, but it is actually a multiple star system. Two components are visually distinguishable: α1 Crucis and α2 Crucis; alternatively designated α Crucis A and α Crucis B. Both are B-type stars, and are many times more massive and luminous than the Sun. α1 Crucis is itself a spectroscopic binary with components designated α Crucis Aa (also named Acrux) and α Crucis Ab. Its two component stars orbit every 76 days at a separation of about 1 astronomical unit (au).
+
+
+== Nomenclature ==
+
+α Crucis (Latinised to Alpha Crucis) is the system's Bayer designation; α1 and α2 Crucis, those of its two constituents. The designations of these two constituents as α Crucis A and B and those of A's components - α Crucis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The historical name Acrux for α1 Crucis is an 'Americanism' coined in the 19th century, but entering common use only by the mid 20th century. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN states that in the case of multiple stars the name should be understood to be attributed to the brightest component by visual brightness. The WGSN approved the name Acrux for α Crucis Aa on 20 July 2016 and it is now so entered in the IAU Catalog of Star Names.Since α Crucis is at −63° declination, the southernmost first-magnitude star, it is only visible south of latitude 27° North. It barely rises from cities such as Miami, Florida, or Karachi, Pakistan (both around 25°N) and not at all from New Orleans, Louisiana, or Cairo, Egypt (both about 30°N).  Because of Earth's axial precession, the star was visible to ancient Hindu astronomers in India who named it Tri-shanku.  It was also visible to the ancient Romans and Greeks, who regarded it as part of the constellation of Centaurus.In Chinese, 十字架 (Shí Zì Jià, "Cross"), refers to an asterism consisting of Alpha Crucis, Gamma Crucis, Beta Crucis and Delta Crucis. Consequently, α Crucis itself is known as 十字架二 (Shí Zì Jià èr, "the Second Star of Cross".).This star is known as Estrela de Magalhães ("Star of Magellan") in Portuguese.
+
+
+== Stellar properties ==
+
+The two components, α1 and α2 Crucis, are separated by 4 arcseconds. α1 is magnitude 1.40 and α2 is magnitude 2.09, both early class B stars, with surface temperatures of about 28,000 and 26,000 K respectively. Their luminosities are 25,000 and 16,000 times that of the Sun. α1 and α2 orbit over such a long period that motion is only barely seen. From their minimum separation of 430 astronomical units, the period is estimated to be around 1,500 years.α1 is itself a spectroscopic binary star, with its components  thought to be around 14 and 10 times the mass of the Sun and orbiting in only 76 days at a separation of about 1 AU. The masses of α2 and the brighter component α1 suggest that the stars will someday explode as supernovae. The unseen fainter component of α1 may survive to become a massive white dwarf.The cooler less luminous B class star HR 4729 (HD 108250) lies 90 arcseconds away from triple α Crucis and shares its motion through space, suggesting it may be gravitationally bound to it, and it is therefore generally assumed to be physically associated. It is itself a spectroscopic binary system, sometimes catalogued as component C of the α Crucis multiple system, and it has a faint visual companion listed as component D. A further seven faint stars are also listed as companions out to a distance of about two arc-minutes.Rizzuto and colleagues determined in 2011 that the α Crucis system was 66% likely to be a member of the Lower Centaurus-Crux sub-group of the Scorpius-Centaurus Association. It was not previously seen to be a member of the group.On 2008 October 2, the Cassini–Huygens spacecraft resolved three of the components (A, B and C) of the multiple star system as Saturn's disk occulted it.
+
+
+== In culture ==
+α Crucis is represented in the flags of Australia, New Zealand, Samoa, and Papua New Guinea as one of five stars which comprise the Southern Cross. It is also featured in the flag of Brazil, along with 26 other stars, each of which represents a state; α Crucis representing the State of São Paulo.The Brazilian oceanographic research vessel Alpha Crucis is named after the star.
+The Australian wine company Alpha Crucis[1] is named after the star.
+
+

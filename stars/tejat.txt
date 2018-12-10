@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Gemini
+
+Right ascension: 06 h 22 m 57.62686 s
+
+Declination: +22° 30′ 48.8979″
+
+Apparent magnitude: 2.857
+
+Distance: 230 ± 10 ly
+
+Mass: 2.1 M
+
+Radius: 80 R
+
+Luminosity: 1,148 L
+
+Temperature: 3,460 K
+
+Rotational velocity: 8.4 km/s
+
+
+
+Mu Geminorum (μ Geminorum, abbreviated Mu Gem, μ Gem), also named Tejat, is a single star in the northern constellation of Gemini. From parallax measurements obtained during the Hipparcos mission, it is roughly 230 light-years (71 parsecs) distant from the Sun.Mu Geminorum forms the primary or 'A' component of a double star system designated WDS J06230+2231 along with UCAC2 39641417 (also designated WDS J06230+2231BC), itself a binary pair.
+
+
+== Nomenclature ==
+μ Geminorum (Latinised to Mu Geminorum) is the star's Bayer designation. WDS J06230+2231 is the double star's designation in the Washington Double Star Catalog. The designations of the double star's components as WDS J06230+2231A and BC derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Mu Geminorum bore the traditional name of Tejat or Tejat Posterior which means 'back foot', because it is the foot of Castor, one of the Gemini twins. The name Tejat Posterior was formerly applied to an asterism consisting of this star, along with Gamma Geminorum (Alhena), Nu Geminorum, Eta Geminorum (Propus), and Xi Geminorum (Alzirr). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Tejat for the component WDS J06230+2231A (i.e. Mu Geminorum) on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.The names Calx (Latin, meaning 'heel'), Pish Pai (from the Persian پیش‌پای ('pīshpāy', meaning 'foreleg'), and Nuhatai (from Arabic 'Al Nuḥātai', the dual form of 'Al Nuḥāt', 'a Camel's Hump') have also been applied to Mu Geminorum.In Chinese, 井宿 (Jǐng Su), meaning Well (asterism), refers to an asterism consisting of Mu Geminorum, Gamma Geminorum, Nu Geminorum, Xi Geminorum, Epsilon Geminorum, 36 Geminorum, Zeta Geminorum and Lambda Geminorum. Consequently, Mu Geminorum itself is known as 井宿一 (Jǐng Su yī, English: the First Star of Well).
+
+
+== Properties ==
+
+Mu Geminorum has an average apparent visual magnitude of 2.9, which makes it the fourth-brightest member of Gemini. Because the star lies near the ecliptic, it is subject to occultations by the Moon. Seen from Earth, its brightness is reduced by 0.07 magnitudes by extinction from intervening gas and dust.It is a slow irregular variable of type LB. Its brightness varies between magnitude +2.75 and +3.02 over a 72-day period, along with a 2,000-day period of long term variation. It is a red giant at a stellar classification of M3 III, with a surface temperature of 3,773 K, meaning it is brighter, yet cooler, than the Sun. The star is currently on the asymptotic giant branch and is generating energy through the nuclear fusion of hydrogen and helium along concentric shells surrounding an inert core of carbon and oxygen.
+
+

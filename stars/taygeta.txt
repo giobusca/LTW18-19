@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Taurus
+
+Right ascension: 03 h 45 m 12.49578 s
+
+Declination: 24° 28′ 02.2097″
+
+Apparent magnitude: 4.30
+
+Distance: 440 ly
+
+Mass: 4.5 M
+
+Luminosity: 600 L
+
+
+
+19 Tauri is a double star in the constellation of Taurus and a member of the Pleiades open star cluster (M45).
+It consists of a binary pair designated 19 Tauri A together with a single star visual companion, 19 Tauri B. 'A's' two components are themselves designated 19 Tauri Aa (also named Taygeta) and Ab.
+Based on parallax measurements obtained during the Hipparcos mission, 19 Tauri A is approximately 440 light-years from the Sun.
+
+
+== Nomenclature ==
+19 Tauri is the system's Flamsteed designation. It also bears the little-used Bayer designation q Tauri. The designations of the two constituents as 19 Tauri A and B, and those of A's components - 19 Tauri Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Taygeta (or Taygete). Taygete was one of the Pleiades sisters in Greek mythology. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Taygeta for the component 19 Tauri Aa on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+19 Tauri A presents as a blue-white B-type subgiant with an apparent magnitude of +4.30. It is a spectroscopic binary, whose component stars have magnitudes of +4.6 and +6.1. They are separated by 0.012 arcseconds and complete one orbit every 1313 days.
+The 8th magnitude visual companion, 19 Tauri B, is 69 arcseconds away.  It is thought to be a yellow star somewhat more massive and larger than the Sun, and further away than the Pleiades cluster.19 Tauri was once reported to be variable, but has since been measured to be one of the least variable of stars.
+
+

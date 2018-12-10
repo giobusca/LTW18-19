@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 19 h 23 m 13.13745 s
+
+Declination: −44° 47′ 59.2051″
+
+Apparent magnitude: +4.29
+
+Distance: 134 ± 1 ly
+
+Mass: 1.43 M
+
+Luminosity: 20 L
+
+Rotational velocity: 155 km/s
+
+
+
+Beta² Sagittarii (β² Sagittarii, abbreviated Beta² Sgr, β² Sgr) is a star in the zodiac constellation of Sagittarius. It is visible to the naked eye, having an apparent visual magnitude of +4.29. Based upon an annual parallax shift of 24.31 mas as seen from Earth, it is located 134 light-years from the Sun.
+Based upon variations in its proper motion, this is a probable astrometric binary system. As such, its two components would be designated Beta² Sagittarii A (also named Arkab Posterior) and B
+
+
+== Nomenclature ==
+β² Sagittarii (Latinised to Beta² Sagittarii) is the system's Bayer designation. The designations of the two components as Beta² Sagittarii A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Arkab Posterior for Beta² Sagittarii on 5 October 2016 and it is now so included in the List of IAU-approved Star Names.  For such names relating to members of multiple star systems, and where a component letter (from e.g. Washington Double Star Catalog) is not explicitly listed, the WGSN says that the name should be understood to be attributed to the brightest component by visual brightness.In Chinese, 天淵 (Tiān Yuān), meaning Celestial Spring, refers to an asterism consisting of Beta² Sagittarii, Beta¹ Sagittarii and Alpha Sagittarii. Consequently, Beta² Sagittarii itself is known as 天淵一 (Tiān Yuān yī, English: the First Star of Celestial Spring.)
+
+
+== Properties ==
+Houk (1978) categorizes the visible component (Beta² Sagittarii A) as an F-type main-sequence star with a stellar classification of F2/3 V. However, Malaroda (1975) lists it as an F-type giant star. It is spinning rapidly with a projected rotational velocity of 155 km/s. This is giving it an oblate shape with an equatorial bulge that is 22% larger than the polar radius. Beta² Sagittarii has an estimated 1.4 times the mass of the Sun and is around 933 million years old.
+
+

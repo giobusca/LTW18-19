@@ -1,0 +1,43 @@
+==Datasheet==
+
+Constellation: Canes Venatici
+
+Right ascension: 12 h 33 m 44.54482 s
+
+Declination: +41° 21′ 26.9248″
+
+Apparent magnitude: 4.26
+
+Distance: 27.53 ± 0.05 ly
+
+Mass: 1.025 ± 0.050 M
+
+Radius: 1.123 ± 0.028 R
+
+Luminosity: 1.151 ± 0.018 L
+
+Temperature: 5,653 ± 72 K
+
+Rotational velocity: 2.9 ± 0.4 km/s
+
+
+
+Beta Canum Venaticorum (β Canum Venaticorum, abbreviated Beta CVn, β CVn), also named Chara, is a G-type main-sequence star in the northern constellation of Canes Venatici. At an apparent visual magnitude of 4.26, it is the second-brightest star in the constellation. Based upon an annual parallax shift of 118.49 mas, this star is 27.53 light-years (8.44 parsecs) distant from the Sun.
+Along with the brighter star Cor Caroli, the pair form the "southern dog" in this constellation that represents hunting dogs.
+
+
+== Nomenclature ==
+β Canum Venaticorum (Latinised to Beta Canum Venaticorum) is the star's Bayer designation. 
+The traditional name Chara was originally applied to the "southern dog", but it later became used specifically to refer to Beta Canum Venaticorum. Chara (χαρά) means 'joy' in Greek. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Chara for this star.
+In Chinese, 常陳 (Cháng Chén), meaning Imperial Guards, refers to an asterism consisting of Beta Canum Venaticorum, Alpha Canum Venaticorum, 10 Canum Venaticorum, 6 Canum Venaticorum, 2 Canum Venaticorum, and 67 Ursae Majoris. Consequently, Beta Canum Venaticorum itself is known as 常陳四 (Cháng Chén sì, English: the Fourth Star of Imperial Guards.)
+
+
+== Observations ==
+Beta CVn has a stellar classification of G0 V, and so is a G-type main sequence star. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The spectrum of this star shows a very weak emission line of singly ionized calcium (Ca II) from the chromosphere, making it a useful reference star for a reference spectrum to compare with other stars in a similar spectral category. (The Ca-II emission lines are readily accessible and can be used to measure the level of activity in a star's chromosphere.)
+Beta CVn is considered to be slightly metal-poor, which means it has a somewhat lower portion of elements heavier than helium when compared to the Sun. In terms of mass, age and evolutionary status, however, this star is very similar to the Sun. As a result, it has been called a solar analog. It is about 3% more massive than the Sun, with a radius 12% larger than the Sun's and 15% greater luminosity.The components of this star's space velocity are (U, V, W) = (–25, 0, +2) km/s. In the past it was suggested that it may be a spectroscopic binary. However, further analysis of the data does not seem to bear that out. In addition, a 2005 search for a brown dwarf in orbit around this star failed to discover any such companion, at least down to the sensitivity limit of the instrument used.
+
+
+== Habitability ==
+In 2006, astronomer Margaret Turnbull labeled Beta CVn as the top stellar system candidate to search for extraterrestrial life forms. Because of its solar-type properties, astrobiologists have listed it among the most astrobiologically interesting stars within 10 parsecs of the Sun. However, as of 2009, this star is not known to host planets.
+
+

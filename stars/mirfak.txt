@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Perseus
+
+Right ascension: 03 h 24 m 19.37009 s
+
+Declination: +49° 51′ 40.2455″
+
+Apparent magnitude: 1.806
+
+Distance: 510 ± 10 ly
+
+Mass: 8.5 ± 0.3 M
+
+Radius: 68 ± 3 R
+
+Temperature: 6,350 ± 100 K
+
+Rotational velocity: 20 km/s
+
+
+
+Alpha Persei (α Persei, abbreviated Alpha Per, α Per), also named Mirfak, is the brightest star in the northern constellation of Perseus, just outshining the constellation's best known star, Algol. α Persei has an apparent visual magnitude of 1.8, and is a circumpolar star when viewed from mid-northern latitudes.
+Mirfak lies in the midst of a cluster of stars named as the eponymous Alpha Persei Cluster, or Melotte 20, which is easily visible in binoculars and includes many of the fainter stars in the constellation.  Determined distance using the trigonometric parallax, places the star 510 light-years (160 parsecs) from the Sun.
+
+
+== Properties ==
+The spectrum of Alpha Persei matches a stellar classification of F5 Ib, revealing it to be a supergiant star in the latter stages of its evolution. It has a similar spectrum to Procyon, though the latter star is much less luminous. This difference is highlighted in their spectral designation under the Yerkes spectral classification, published in 1943, where stars are ranked on luminosity as well as spectral typing. Procyon is thus F5 IV, a subgiant star. Since 1943, the spectrum of Alpha Persei has served as one of the stable anchor points by which other stars are classified.Mirfak has about 8.5 times the Sun's mass  and has expanded to roughly 60 times the size of the Sun. It is radiating 5,000 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 6,350 K, which creates the yellow-white glow of an F-type star. In the Hertzsprung–Russell Diagram, Mirfak lies inside the region in which Cepheid variables are found. It is thus useful in the study of these stars, which are important standard candles.
+
+
+== Nomenclature ==
+Alpha Persei is the star's Bayer designation.
+The star also bore the traditional names Mirfak and Algenib, which are Arabic in origin. The former, meaning 'Elbow' and also written Mirphak, Marfak  or Mirzac, comes from the Arabic Mirfaq al-Thurayya, while Algenib, also spelt Algeneb, Elgenab, Gęnib, Chenib or Alchemb, is derived from الجنب al-janb, or الجانب al-jānib, 'the flank' or 'side'. and was also the traditional name for Gamma Pegasi. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mirfak for this star (Gamma Pegasi was given the name Algenib).
+Hinali'i is the name of the star in Native Hawaiian astronomy. The name of the star is meant to commemorate a great tsunami and mark the beginning of the migration of Maui. According to some Hawaiian folklore, Hinali'i is the point of separation between the Earth and the sky that happened during the creation of the Milky Way.
+Assemani alluded to a title on the Borgian globe, Mughammid (مغمد), or Muliammir al Thurayya (ملىمرٱلطرى), the Concealer of the Pleiades, which, from its location, may be for this star.
+This star, together with δ Per, ψ Per, σ Per, γ Per and η Per, has been called the Segment of Perseus.
+In Chinese, 天船 (Tiān Chuán), meaning Celestial Boat, refers to an asterism consisting of α Persei, η Persei, γ Persei, ψ Persei, δ Persei, 48 Persei, μ Persei and HD 27084. Consequently, α Persei itself is known as 天船三 (Tiān Chuán sān, English: the Third Star of Celestial Boat.)
+
+

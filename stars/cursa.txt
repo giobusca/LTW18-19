@@ -1,0 +1,40 @@
+==Datasheet==
+
+Constellation: Eridanus
+
+Right ascension: 05 h 07 m 50.98549 s
+
+Declination: −05° 05′ 11.2055″
+
+Apparent magnitude: 2.796
+
+Distance: 89 ± 1 ly
+
+Mass: 2.0 M
+
+Radius: 2.4 R
+
+Luminosity: 25 L
+
+Temperature: 8,360, K
+
+Rotational velocity: 196 km/s
+
+
+
+Beta Eridani (β Eridani, abbreviated Beta Eri, β Eri), also named Cursa, is the second-brightest star in the constellation of Eridanus, located in the northeast end of this constellation near the shared border with Orion. The apparent visual magnitude of this star is 2.796, so it can be viewed with the naked eye in dark skies. Parallax measurements yield an estimated distance of about 89 light-years (27 parsecs) from the Earth.
+
+
+== Nomenclature ==
+
+Beta Eridani is the star's Bayer designation. It has the traditional name Cursa derived from Al Kursiyy al Jauzah, "the Chair (or "Footstool") of the Central One". This is the name of the star association consisting of this star along with Lambda Eridani, Psi Eridani and Tau Orionis.
+According to a NASA catalogue of stars, Al Kursiyy al Jauzah was the title of three stars: β Eri is Cursa, Psi Eridani Al Kursiyy al Jauzah I, and Lambda Eridani Al Kursiyy al Jauzah II (excluding Tau Orionis).
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Cursa for this star.
+In Chinese, 玉井 (Yù Jǐng), "the Jade Well", refers to an asterism consisting of β Eridani, λ Eridani, ψ Eridani and τ Orionis. Consequently, β Eridani itself is known as "the third star of Jade Well" (玉井三 Yù Jǐng sān).
+In older texts, Yu Jing was also spelt Yuh Tsing.
+
+
+== Properties ==
+β Eridani has a spectral type of A3 III, with the luminosity class III indicating that this is a giant star which has consumed the hydrogen at its core and evolved away from the main sequence. The effective temperature of the outer envelope is about 8,104 K, which gives the star a white hue typical of A-type stars. The projected rotational velocity is a rapid 196 km s−1, compared to 2 km s−1 along the Sun's equator. The star is known to vary in apparent visual magnitude, ranging between 2.72 and 2.80. A particularly strong flare up was reported in 1985.The location and trajectory of this star suggest that it is a member of the Ursa Major supergroup, an association of stars that share a common origin and motion though space. However, its photometric properties indicate that it may instead be an interloper. Beta Eridani has an optical companion star with an apparent magnitude 10.90 at an angular separation of 120 arcseconds and a position angle of 148°. It has the catalogue identifier CCDM J05079-0506B.
+
+

@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Ursa Minor
+
+Right ascension: 15 h 20 m 43.71604 s
+
+Declination: +71° 50′ 02.4596″
+
+Apparent magnitude: +3.05
+
+Distance: 487 ± 8 ly
+
+Radius: 15 R
+
+Luminosity: 1,100 L
+
+Temperature: 8,280 K
+
+Rotational velocity: 180 km/s
+
+
+
+Gamma Ursae Minoris (γ Ursae Minoris, abbreviated Gamma UMi, γ UMi), also named Pherkad, is a star in the northern circumpolar constellation of Ursa Minor. Together with Beta Ursae Minoris (Kochab), it forms the end of the dipper pan of the "Little Dipper", which is an asterism forming the tail of the bear. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 487 light-years (149 parsecs) from the Sun.
+
+
+== Nomenclature ==
+γ Ursae Minoris (Latinised to Gamma Ursae Minoris) is the star's Bayer designation. The fainter 11 Ursae Minoris has been called γ¹ Ursae Minoris, in which case Gamma Ursae Minoris would be designated γ². However this usage is rarely seen.Gamma Ursae Minoris bore the traditional name Pherkad, which derived from the Arabic فرقد farqad "calf", short for aḫfa al farkadayn "the dim one of the two calves", that is Pherkad and Kochab (the full name Ahfa al Farkadain is traditionally applied to Zeta Ursae Minoris). Gamma Ursae Minoris was sometimes called Pherkad Major to distinguish it from Pherkad Minor (11 Ursae Minoris). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Pherkad for Gamma Ursae Minoris on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 北極 (Běi Jí), meaning North Pole, refers to an asterism consisting of Gamma Ursae Minoris, Beta Ursae Minoris, 5 Ursae Minoris, 4 Ursae Minoris and Σ 1694. Consequently, Gamma Ursae Minoris itself is known as 北極一 (Běi Jí yī, English: the First Star of North Pole), representing 太子 (Tàizǐ), meaning Crown Prince.
+
+
+== Properties ==
+Gamma Ursae Minoris has apparent magnitude +3.05 and can be readily observed with the naked eye even in a city-lit night sky. It has an absolute magnitude of –2.84. Measurement of the star's spectrum resulted in a stellar classification of A3 Iab, with the luminosity class of 'Iab' indicating this is an intermediate luminosity supergiant star. The effective temperature of the star's outer envelope is 8,280 K, giving it the typical white hue of an A-type star. It is rotating rapidly, with the projected rotational velocity of 180 km s−1 providing a lower limit on the azimuthal velocity along the star's equator.
+This is classified as a shell star that has a circumstellar disk of gas around the star's equator, which may be causing it to vary in magnitude. It is 1100 times more luminous than the Sun, and possesses a radius 15 times that of the Sun.
+
+
+== Pherkad in fiction ==
+Pherkad (spelled as Pherkard) also features in Cthulhu Mythos, in the short story "The Thing in the Library", by Crispin Burnham and E.P. Berglund. It is mentioned as the stellar abode of the flaming Outer God Yomagn'tho.
+
+

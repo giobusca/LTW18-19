@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Leo
+
+Right ascension: 09 h 52 m 45.81654 s
+
+Declination: +26° 00′ 25.0319″
+
+Apparent magnitude: 3.88
+
+Distance: 124.1 ± 0.8 ly
+
+Radius: 14 R
+
+Luminosity: 63 L
+
+Temperature: 4,436 K
+
+Rotational velocity: 4.5 km/s
+
+
+
+Mu Leonis (μ Leonis, abbreviated Mu Leo, μ Leo), also named Rasalas, is a star in the constellation of Leo. The apparent visual magnitude of this star is 3.88, which is bright enough to be seen with the naked eye. Based upon an annual parallax shift of 0.02628 arc seconds as measured by the Hipparcos satellite, this system is 124 light-years (38.1 parsecs) from the Sun. In 2014, an exoplanet was discovered to be orbiting the star.
+
+
+== Nomenclature ==
+μ Leonis (Latinised to Mu Leonis) is the star's Bayer designation.
+It bore the traditional names Rasalas (Ras Elased Borealis) and Alshemali, both abbreviations of Ras al Asad al Shamaliyy, from the Arabic رأس الأسد الشمالي ra’s al-’asad aš-šamālī "the northern (star) of the lion's head". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Rasalas for this star on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Mu Leonis is an evolved K-type giant star with a stellar classification of K2 IIIb CN1 Ca1. The trailing notation indicates that, for a star of its type, it has stronger than normal absorption lines of cyanogen and calcium in its spectrum. It has around 1.5 times the Sun's mass, but has expanded to around 14 times the Sun's radius. Mu Leonis shines with 63 times the luminosity of the Sun from an outer atmosphere that has an effective temperature of 4,436 K. It is around 3.35 billion years old.
+
+
+=== Planetary system ===
+In 2014 it was announced that Mu Leonis has a planetary companion that is at least 2.4 times as massive as Jupiter and orbits with a period of 358 days. This planet was detected by measuring radial velocity variations caused by gravitational displacement from the orbiting body.
+
+

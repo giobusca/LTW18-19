@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Capricornus
+
+Right ascension: 21 h 40 m 05.4563 s
+
+Declination: −16° 39′ 44.308″
+
+Apparent magnitude: +3.67
+
+Distance: 139 ± 7 ly
+
+Temperature: 7,520 K
+
+Rotational velocity: 40 km/s
+
+
+
+Gamma Capricorni (γ Capricorni, abbreviated Gamma Cap, γ Cap), also named Nashira, is a giant star in the constellation of Capricornus. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 139 light-years from the Sun. Because it is near the ecliptic, it can be occulted by the Moon, and (rarely) by planets.
+
+
+== Nomenclature ==
+γ Capricorni (Latinised to Gamma Capricorni) is the star's Bayer designation.
+It bore the traditional name Nashira, derived from the Arabic سعد ناشرة sa'd nashirah "the lucky one" or "bearer of good news". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Nashira for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 壘壁陣 (Lěi Bì Zhèn), meaning Line of Ramparts, refers to an asterism consisting of Gamma Capricorni, Kappa Capricorni, Epsilon Capricorni, Delta Capricorni, Iota Aquarii, Sigma Aquarii, Lambda Aquarii, Phi Aquarii, 27 Piscium, 29 Piscium, 33 Piscium and 30 Piscium. Consequently, Gamma Capricorni itself is known as 壘壁陣三 (Lěi Bì Zhèn sān, English: the Third Star of Line of Ramparts).
+
+
+=== Namesake ===
+Nashira (AK-85) was a United States Navy ship, though it was never commissioned and thus never bore the USS designation and had no significant naval service.
+
+
+== Properties ==
+γ Capricorni is a hot chemically peculiar Am star with a mean apparent magnitude of +3.67. It is classified as an α2 Canum Venaticorum type variable star and its brightness varies by 0.03 magnitudes.
+
+

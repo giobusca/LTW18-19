@@ -1,0 +1,31 @@
+==Datasheet==
+
+Constellation: Aquarius
+
+Right ascension: 22 h 21 m 39.37542 s
+
+Declination: –01° 23′ 14.4031″
+
+Apparent magnitude: 3.849
+
+Distance: 164 ± 9 ly
+
+Temperature: 10,500 K
+
+Rotational velocity: 80 km/s
+
+
+
+Gamma Aquarii (γ Aquarii, abbreviated Gamma Aqr, γ Aqr) is a binary star in the constellation of Aquarius. It has an apparent visual magnitude of 3.849, making it one of the brighter members of the constellation. Based upon parallax measurements taken during the Hipparcos mission, this star is located at a distance of approximately 164 light-years (50 parsecs) from the Sun.Gamma Aquarii is the primary or 'A' component of a double star designated WDS J22217-0123. The secondary or 'B' component is UCAC2 31430071. Gamma Aquarii A's two components are therefore designated WDS J22217-0123 Aa and Ab. Aa is also named Sadachbia.
+
+
+== Nomenclature ==
+γ Aquarii (Latinised to Gamma Aquarii) is the system's Bayer designation. WDS J22217-0123 A is its designation in the Washington Double Star Catalog.
+It bore the traditional name Sadachbia, from an Arabic expression سعد الأخبية (sa‘d al-’axbiyah), meaning "luck of the homes (tents)". In Hindi it is also called Satabhishaj (a hundred physicians); it is called Sadhayam in Tamil. In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Aoul al Achbiya (أول ألأجبية - awwil al ahbiyah), which was translated into Latin as Prima Tabernaculorum, meaning the first of luck of the homes (tents). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sadachbia for the component WDS J22217-0123 Aa on 21 August 2016, and it is now so included in the List of IAU-approved Star Names.This star, along with Pi Aquarii (Seat), Zeta Aquarii (Sadaltager / Achr al Achbiya) and Eta Aquarii (Hydria), were al Aḣbiyah الأخبية "the Tent".In Chinese, 墳墓 (Fén Mù), meaning Tomb, refers to an asterism consisting of Gamma Aquarii, Zeta Aquarii, Eta Aquarii and Pi Aquarii. Consequently, Gamma Aquarii itself is known as 墳墓二 (Fén Mù èr, English: the Second Star of Tomb).
+
+
+== Properties ==
+Gamma Aquarii is a spectroscopic binary with a period of 58.1 days.
+It presents as an A-type main sequence star with a stellar classification of A0 V, around two and a half times more massive than the Sun. It is a candidate Lambda Boötis star, suggesting it may have accreted low-metallicity circumstellar gas some time in the past. It is spinning relatively rapidly with a projected rotational velocity of 80 km s−1. This value gives a lower bound on the actual azimuthal velocity along the star's equator. The outer atmosphere of Gamma Aquarii is radiating energy at an effective temperature of 10,500 K, which is nearly double the temperature at the surface of the Sun. This heat is what gives Gamma Aquarii the white-hot glow of an A-type star.
+
+

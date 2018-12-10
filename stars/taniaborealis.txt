@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 10 h 17 m 05.78287 s
+
+Declination: +42° 54′ 51.6808″
+
+Apparent magnitude: +3.45
+
+Distance: 138 ± 5 ly
+
+Mass: 2.11 M
+
+Radius: 2.3 R
+
+Luminosity: 37 L
+
+Rotational velocity: 50 km/s
+
+
+
+Lambda Ursae Majoris (λ Ursae Majoris, abbreviated Lambda UMa, λ UMa), also named Tania Borealis, is a star in the northern circumpolar constellation of Ursa Major.
+
+
+== Properties ==
+This star has an apparent visual magnitude of +3.45, making it one of the brighter members of the constellation. The distance to this star has been measured directly using the parallax technique, which yields a value of roughly 138 light-years (42 parsecs) with a 4% margin of error. The stellar classification of Lambda Ursae Majoris is A2 IV, with the luminosity class of 'IV' indicating that, after 410 million years on the main sequence, this star is in the process of evolving into a giant star as the supply of hydrogen at its core becomes exhausted. Compared to the Sun it has 240% of the mass and 230% of the Sun's radius, but is radiating 37 times as much luminosity. This energy is being emitted from the star's outer atmosphere at an effective temperature of 9,280 K, giving it the characteristic white-hot glow of an A-type star.
+
+
+== Nomenclature ==
+λ Ursae Majoris (Latinised to Lambda Ursae Majoris) is the star's Bayer designation.
+It bore the traditional names Tania (shared with Mu Ursae Majoris) and Tania Borealis. Tania comes from the Arabic phrase  Al Fiḳrah al Thānia 'the Second Spring (of the Gazelle)'. and Borealis (originally borealis) is Latin for 'the north side'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Tania Borealis for this star.
+In Chinese, 三台 (Sān Tái), meaning Three Steps, refers to an asterism consisting of Lambda Ursae Majoris, Iota Ursae Majoris, Kappa Ursae Majoris, Mu Ursae Majoris, Nu Ursae Majoris and Xi Ursae Majoris. Consequently, Lambda Ursae Majoris itself is known as 中台一 (Zhōng Tái yī, English: Star of First Middle Step).
+
+

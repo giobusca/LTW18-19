@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Equuleus
+
+Right ascension: 21 h 15 m 49.43192 s
+
+Declination: +5° 14′ 52.2430″
+
+Apparent magnitude: +3.919
+
+Distance: 190 ± 2 ly
+
+Mass: 2.3 M
+
+Radius: 9.2 R
+
+Luminosity: 52.5 L
+
+Temperature: 5,100 K
+
+Rotational velocity: 20.0 km/s
+
+
+
+Alpha Equulei (α Equulei, abbreviated Alpha Equ, α Equ), also named Kitalpha, is a star in the constellation of Equuleus.  It is a high proper motion star only 190 light years away.
+
+
+== Nomenclature ==
+α Equulei (Latinised to Alpha Equulei) is the star's Bayer designation.
+It bore the traditional name Kitalpha (rarely Kitel Phard or Kitalphar), a contraction of the Arabic name قطعة الفرس qiṭ‘a(t) al-faras "a piece of the horse". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Kitalpha for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 虚宿 (Xū Sù), meaning Emptiness, is an asterism consisting of Alpha Equulei and Beta Aquarii. Consequently, Alpha Equulei itself is known as 虛宿二 (Xū Sù èr, English: the Second Star of Emptiness.)
+
+
+== Properties ==
+The overall appearance of α Equulei is a G-type giant with an apparent magnitude of +3.92, but it is a spectroscopic binary consisting of two individual stars.
+The primary star is a G7 giant about fifty times more luminous than the sun. It has en effective temperature of 5,100 K and a radius of 9.2 times greater than the sun.
+The secondary is an A-type dwarf about 26 times as luminous as the sun. It has an effective temperature of 8,150 K and a radius 2.6 times greater than the sun.  It is a chemically peculiar Am star.The two stars revolve in a circular orbit every 98.8 days.  Their respective orbital velocities allow their masses to be calculated at 2.3 M☉ and 2.0 M☉ respectively.
+
+

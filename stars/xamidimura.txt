@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 16 h 51 m 52.23111 s
+
+Declination: −38° 02′ 50.5694″
+
+Apparent magnitude: +3.04
+
+Distance: approx. 500 ly
+
+Mass: 8.49 ± 0.05 M
+
+Radius: 4.07 ± 0.05 R
+
+Temperature: 23,725 ± 500 K
+
+
+
+For other star systems with a similar Bayer designation, see Mu Scorpii.Mu¹ Scorpii (μ¹ Scorpii, abbreviated Mu¹ Sco, μ¹ Sco) is a binary star system in the southern zodiac constellation of Scorpius. The combined apparent visual magnitude of the pair is +3.04, making it one of the brighter members of Scorpius. Based upon parallax measurements, the distance of this system from the Sun is roughly 500 light-years (150 parsecs). This system is a member of the Scorpius–Centaurus Association, the nearest OB association of co-moving stars to the Sun.The primary (Mu¹ Scorpii Aa) is also named Xamidimura.
+
+
+== Nomenclature ==
+μ¹ Scorpii (Latinised to Mu¹ Scorpii) is the system's Bayer designation. The designations of the primary as Mu¹ Scorpii Aa derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Xami di mura ('eyes of the lion') in the culture of the Khoikhoi people of South Africa. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Xamidimura for the component Mu¹ Scorpii Aa on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 尾宿 (Wěi Xiù), meaning Tail, refers to an asterism consisting of Mu¹ Scorpii, Epsilon Scorpii, Zeta¹ Scorpii and Zeta² Scorpii, Eta Scorpii, Theta Scorpii, Iota¹ Scorpii and Iota² Scorpii, Kappa Scorpii, Lambda Scorpii and Upsilon Scorpii. Consequently, Mu¹ Scorpii itself is known as 尾宿一 (Wěi Xiù yī), "the First Star of Tail".
+
+
+== Properties ==
+Mu¹ Scorpii is an eclipsing binary of the Beta Lyrae type. Discovered to be a spectroscopic binary by Solon Irving Bailey in 1896, it was only the third such eclipsing pair to be discovered. This is a semidetached binary system where the secondary is close to filling its Roche lobe, or it may even be overflowing. The two stars revolve each other along a circular orbit with the components separated by 12.9 times the Sun's radius. Due to occultation of each component by the other, the apparent magnitude of the system decreased by 0.3 and 0.4 magnitudes over the course of the binary's orbit, which takes 34 hours 42.6 minutes to complete.
+The primary component is a B-type main sequence star with a stellar classification of B1.5 V. It has 8.5 times the mass of the Sun and 4.1 times the Sun's radius. The secondary is a smaller B-type main sequence star with a classification of about B6.5 V, having 5.3 times the Sun's mass and 4.4 times the radius of the Sun. The effective temperature of the outer atmosphere for each star is 23,725 K for the primary and 16,850 K for the secondary. At these temperatures, the two stars glow with a blue-white hue.
+
+

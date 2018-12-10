@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Lyra
+
+Right ascension: 19 h 13 m 45.48832 s
+
+Declination: +39° 08′ 45.4801″
+
+Apparent magnitude: 4.40
+
+Distance: 1,390 ± 80 ly
+
+Luminosity: 6,605 L
+
+Temperature: 17,360 K
+
+Rotational velocity: 10 km/s
+
+
+
+Eta Lyrae (η Lyrae, abbreviated Eta Lyr, η Lyr) is the primary or 'A' component of a triple star system in the constellation of Lyra. It is approximately 1,390 light-years from the Sun.The secondary or 'B' component is the star BD +38 3491. Eta Lyrae is itself a spectroscopic binary with components designated Aa (also named Aladfar) and Ab.
+
+
+== Nomenclature ==
+η Lyrae (Latinised to Eta Lyrae) is the binary star's Bayer designation. Its designation as the A component of a triple star system, and of its two constituents as the Aa and Ab components, derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).'BD +38 3491' is the 'B' component's designation in the Bonner Durchmusterung astrometric star catalogue.
+Eta Lyrae bore the traditional name Aladfar, from the Arabic الأظفر al-’uz̧fur "the talons (of the swooping eagle)", a name it shares with Mu Lyrae (though the latter is typically spelled Alathfar in English). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Aladfar for the Aa component of the triple star system (the primary component of Eta Lyrae) on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Eta Lyrae belongs to spectral class B2.5IV and has apparent magnitude of +4.40.
+
+

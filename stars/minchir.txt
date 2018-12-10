@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Hydra
+
+Right ascension: 08 h 38 m 45.43747 s
+
+Declination: +03° 20′ 29.1701″
+
+Apparent magnitude: 4.48
+
+Distance: 370 ± 10 ly
+
+Mass: 3.07  M
+
+Radius: 27.6 R
+
+Luminosity: 295  L
+
+
+
+Sigma Hydrae (σ Hydrae, abbreviated Sig Hya, σ Hya), also named Minchir, is a solitary star in the equatorial constellation of Hydra. It is visible to the naked eye with an apparent visual magnitude of 4.48. The estimated distance to this star from the Sun, based upon an annual parallax shift of 8.75 mas, is around 370 light-years. At that distance, the visual magnitude of the star is diminished by an interstellar extinction factor of 0.16, due to intervening dust.
+
+
+== Nomenclature ==
+σ Hydrae (Latinised to Sigma Hydrae) is the system's Bayer designation.
+It bore the traditional name Minchir, appearing as Minchir es-schudscha' on Bode's large star atlas, Uranographia, which is derived from the Arabic Minkhir al-Shuja‘, "the Nostril of Hydra", for this star. The name is erroneously spelt as Al Minliar al Shuja in the Yale Bright Star Catalogue.. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Minchir for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.This star, along with Delta Hydrae (Lisan al Shudja), Epsilon Hydrae, Zeta Hydrae, Eta Hydrae and Rho Hydrae, were Ulug Beg's Min al Azʽal, "Belonging to the Uninhabited Spot". (According to a 1971 NASA memorandum, Min al Azʽal or Minazal were the title for five stars : Delta Hydrae as Minazal I, Eta Hydrae as Minazal II, Epsilon Hydrae as Minazal III, Rho Hydrae as Minazal IV and Zeta Hydrae as Minazal V.)
+In Chinese, 柳宿 (Liǔ Sù), meaning Willow (asterism), refers to an asterism consisting of Sigma Hydrae, Delta Hydrae, Eta Hydrae, Rho Hydrae, Epsilon Hydrae, Zeta Hydrae, Omega Hydrae and Theta Hydrae. Consequently, Sigma Hydrae itself is known as 柳宿二 (Liǔ Sù èr, English: the Second Star of Willow).The people of Groote Eylandt, used the name Unwala ("The Crab") for the star cluster including this star, Delta Hydrae (Lisan al Shudja), Epsilon Hydrae, Zeta Hydrae, Eta Hydrae and Rho Hydrae.
+
+
+== Properties ==
+This is an evolved K-type giant star with a stellar classification of K2 III. The measured angular diameter of this star, after correction for limb darkening, is 2.25±0.03 mas. At its estimated distance, this yields a physical size of about 27.6 times the radius of the Sun. It has about three times the mass of the Sun and radiates 295 times the solar luminosity from its outer atmosphere at an effective temperature of 4,491 K. Sigma Hydrae is around 430 million years old.
+
+

@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 13 h 34 m 41.591 s
+
+Declination: –00° 35′ 44.95″
+
+Apparent magnitude: +3.376
+
+Distance: 74.1 ± 0.3 ly
+
+Rotational velocity: 222 km/s
+
+
+
+Zeta Virginis (ζ Virginis, abbreviated Zeta Vir, ζ Vir) is a binary star in the zodiac constellation of Virgo. It is visible to the naked eye with an apparent visual magnitude of +3.376 and is located about a half degree south of the celestial equator. Based on parallax measurements obtained during the Hipparcos mission, it is about 74 light-years (23 parsecs) distant from the Sun.
+The two components are designated Zeta Virginis A (also named Heze) and B.
+
+
+== Nomenclature ==
+ζ Virginis (Latinised to Zeta Virginis) is the system's Bayer designation. The designations of the two components as Zeta Virginis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Zeta Virginis bore the traditional name Heze, which is of unclear origin, though it appeared in a 1951 publication, Atlas Coeli (Skalnate Pleso Atlas of the Heavens) by Czech astronomer Antonín Bečvář. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Heze for the component Zeta Virginis A on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In Chinese, 角宿 (Jiǎo Xiù), meaning Horn (asterism), refers to an asterism consisting of ζ Virginis and Spica. Consequently, ζ Virginis are known as 角宿二 (Jiǎo Xiù èr, English: the Second Star of Horn).
+
+
+== Properties ==
+The primary, Z Virginis A, is a main sequence star with a spectral class A3 V, indicating that it is generating energy through the nuclear fusion of hydrogen at its core. This energy is being radiated from its outer envelope at an effective temperature of 8,247 K, giving it the white hue of an A-type star. It has twice the mass of the Sun and double the Sun's radius and is about a half billion years old.In 2010, a low mass stellar companion was discovered - Zeta Virginis B. Though it has not been under observation for a sufficient length of time to determine accurate orbital elements, it is estimated to be orbiting at an average separation of at least 24.9 AU with an orbital eccentricity of 0.16 or more and orbital period of a minimum of 124 years. This companion may be a red dwarf star, which would explain the observed X-ray flux from this system.
+
+

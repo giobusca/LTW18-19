@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Coma Berenices
+
+Right ascension: 13 h 09 m 59.285 s
+
+Declination: +17° 31′ 46.04″
+
+Apparent magnitude: 4.29 to 4.35
+
+Distance: 58.1 ± 0.9 ly
+
+Mass: 1.237 M
+
+Luminosity: 1.72 L
+
+Temperature: 6,365 K
+
+
+
+Alpha Comae Berenices (α Comae Berenices, abbreviated Alpha Com, α Com) is a binary star in the constellation of Coma Berenices (Berenice's Hair), 17.8 parsecs (58 ly) away.  It consists of two main sequence stars, each a little hotter and more luminous than the Sun.
+Alpha Comae Berenices is said to represent the crown worn by Queen Berenice.  The two components are designated Alpha Comae Berenices A (also named Diadem) and B.
+
+
+== Nomenclature ==
+α Comae Berenices (Latinised to Alpha Comae Berenices) is the system's Bayer designation. The designations of the two components as Alpha Comae Berenices A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional names Diadem and Al Dafirah, the latter derived from the Arabic الضفيرة ađ̧-đ̧afīrah "the braid". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Diadem for the component Alpha Comae Berenices A on 1 February 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 太微左垣 (Tài Wēi Zuǒ Yuán), meaning Left Wall of Supreme Palace Enclosure, refers to an asterism consisting of Alpha Comae Berenices, Eta Virginis, Gamma Virginis, Delta Virginis and Epsilon Virginis. Consequently, Alpha Comae Berenices itself is known as 太微左垣五 (Tài Wēi Zuǒ Yuán wǔ, English: the Fifth Star of Left Wall of Supreme Palace Enclosure.), representing 東上將 (Dōngshǎngjiāng), meaning The First Eastern General. 東上將 (Dōngshǎngjiāng), westernized into Shang Tseang, but that name was designated for "v Comae Berenices" by R.H. Allen and the meaning is "a Higher General".
+
+
+== Properties ==
+Although Alpha Comae Berenices bears the title "alpha", at magnitude 4.32 it is actually fainter than Beta Comae Berenices.
+It is a binary star, with almost equal components of magnitudes 5.05 m and 5.08 m orbiting each other with a period of 25.87 years. The system, estimated to be 58 light-years distant, appears so nearly "edge-on" from the Earth that the two stars appear to move back-and-forth in a straight line with a maximum separation of only 0.7 arcsec. Eclipses are predicted to occur between the two components however they have not been successfully observed due to miscalculations of the time of eclipse.The mean separation between them is approximately 10 AU, about the distance between the Sun and Saturn.
+The binary star has a visual companion, CCDM J13100+1732C, of apparent magnitude 10.2, located 89 arcseconds away along a position angle of 345°.
+
+

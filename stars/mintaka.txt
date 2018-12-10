@@ -1,0 +1,73 @@
+==Datasheet==
+
+Constellation: Orion
+
+Right ascension: 05 h 32 m 00.40009 s
+
+Declination: −00° 17′ 56.7424″
+
+Apparent magnitude: 2.50 + 3.90
+
+Distance: 1,200ly
+
+Mass: 24 M
+
+Radius: 16.5 R
+
+Luminosity: 190,000 L
+
+Temperature: 29,500 ± 500 K
+
+Rotational velocity: 130 ± 10 km/s
+
+
+
+Mintaka, also designated Delta Orionis (δ Orionis, abbreviated Delta Ori, δ Ori) and 34 Orionis (34 Ori) is a multiple star system some 1,200 light-years from the Sun in the constellation of Orion. Together with Alnitak (Zeta Orionis) and Alnilam (Epsilon Orionis), the three stars form Orion's Belt, known by many names among ancient cultures. When Orion is near the meridian, Mintaka is the right-most of the Belt's stars when viewed from the Northern Hemisphere facing south.
+
+
+== Nomenclature ==
+Delta Orionis is the star's Bayer designation, 34 Orionis its Flamsteed designation. The name Mintaka itself is derived from an Arabic term for 'belt': منطقة or manṭaqa. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Mintaka for this star. It is now so entered in the IAU Catalog of Star Names.
+
+
+== Observational history ==
+
+Mintaka is the westernmost of the three stars of Orion's belt.  It is easily visible to the naked eye, one of the brightest stars in the sky, and has been known since antiquity.
+Radial velocity measurements taken by Henri-Alexandre Deslandres in 1900 at Paris Observatory showed that Mintaka had a variable radial velocity and therefore was a spectroscopic binary. His preliminary orbital period estimate of 1.92 days was shown to be incorrect in 1904 when Johannes Franz Hartmann using photographic plates taken at Potsdam Observatory showed that the orbital period was 5.7 days. Hartmann also noticed that the calcium K line at 393.4 nanometres in the stellar spectrum did not share in the periodic displacements of the lines due to orbital motion of the star and theorized that there was a cloud in the line of sight to Mintaka that contained calcium. This was the first detection of the interstellar medium.
+
+
+== System ==
+Mintaka is a multiple star system. It has a distant magnitude 7 star about 52 arcseconds away from the main triple component and a much fainter star in between.
+
+
+=== A (triple system) ===
+The main component itself is triple: a class O9.5 bright giant and a class B main sequence star orbit every 5.73 days and exhibit shallow eclipses when the star dims about 0.2 magnitudes; and a B-class sub-giant is resolved 0.26" away.  At the primary eclipse, the apparent magnitude (of the whole system) drops from 2.23 to 2.35, while it only drops to 2.29 at the secondary eclipse.
+
+
+=== Mintaka C (alias B) HD36485 ===
+A well-noted seventh magnitude companion, HD 36485, is an unusual B-type main sequence star and itself a spectroscopic binary with a faint A-type companion in a 30-day orbit.
+
+
+=== Mintaka B (14th magnitude star) ===
+A 14th magnitude star is thought to be at the same distance, but it is not clear whether it is physically bound to the primary star and little is known about it.
+
+
+=== Position of overall system and nomenclature issues ===
+Mintaka is surrounded by a cluster of faint stars, possibly part of the cluster surrounding σ Ori.The bright central, triple star of the system is δ Ori A.  Its components are generally referred to by researchers as Aa1, Aa2, and Ab.  HD 36485 is referred to as Mintaka (or δ Ori) C, and the closer fourteenth magnitude companion as δ Ori B.  Confusingly, some catalogues list closely orbiting δ Ori Ab as component B or component D, and Simbad names that star as Delta Orionis B.
+
+
+== Distance ==
+The distance derived from the Hipparcos satellite parallax is 212 ± 30 pc, while spectroscopic distances, comparisons to similar stars, and cluster membership all suggest a value more than double that.  This type of unreconcilable discrepancy is not unique to Mintaka and the reasons for it have yet to be clarified.
+
+
+== Etymology and cultural significance ==
+Mintaka was seen by astrologers as a portent of good fortune.
+
+
+=== Orion's belt ===
+
+The three belt stars were collectively known by many names in many cultures. Arabic terms include Al Nijād 'the Belt', Al Nasak 'the Line', Al Alkāt 'the Golden Grains or Nuts' and, in modern Arabic, Al Mīzān al H•akk 'the Accurate Scale Beam'. In Chinese mythology they were also known as The Weighing Beam.
+In Chinese, 參宿 (Shēn Sù), meaning Three Stars (asterism), refers to an asterism consisting of Mintaka, Alnilam, Alnitak, (Orion's Belt) with Betelgeuse, Bellatrix, Saiph and Rigel Consequently, Alnilam are known as 參宿三 (Shēn Sù sān, English: the Third Star of Three Stars).. It is one of the western mansions of the White Tiger.
+
+
+== Namesakes ==
+The USS Mintaka (AK-94) was a United States Navy Crater-class cargo ship named after the star.

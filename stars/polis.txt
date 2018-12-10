@@ -1,0 +1,46 @@
+==Datasheet==
+
+Constellation: Sagittarius
+
+Right ascension: 18 h 13 m 45.8 s
+
+Declination: −21° 03′ 32″
+
+Apparent magnitude: +3.85
+
+Distance: 920ly
+
+Mass: 14.1 - 30 M
+
+Radius: 67.9 R
+
+Luminosity: 603 L
+
+Temperature: 12,000 K
+
+
+
+Mu Sagittarii (μ Sagittarii, abbreviated Mu Sgr, μ Sgr) is a multiple star system in the constellation of Sagittarius. The brightest component, designated Mu Sagittarii Aa, is named Polis. The system is 3,000 light-years from the Sun and is part of the Sgr OB1 stellar association.
+
+
+== System ==
+The components of the Mu Sagittarii system are designated 'A' through 'E', in order of their distance from the brightest, which is Mu Sagittarii A.  'A' is itself a spectroscopic binary with components designated Mu Sagittarii Aa and Ab. Of the five visible stars, component C is considered an optical double, not physically close to the other stars. Component D has also been listed as a purely optical double by some authors, but others consider it to be part of a trapezium system of four gravitationally bound stars (plus an unseen companion).
+
+
+== Nomenclature ==
+μ Sagittarii (Latinised to Mu Sagittarii) is the system's Bayer designation. The designations of the five constituents as Mu Sagittarii A, B, C, D and E, and those of A's components - Mu Sagittarii Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Polis, which is derived from a Coptic word meaning foal. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Polis for the component Mu Sagittarii Aa on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 斗 (Dǒu), meaning Dipper, refers to an asterism consisting of Mu Sagittarii, Phi Sagittarii, Lambda Sagittarii, Sigma Sagittarii, Tau Sagittarii and Zeta Sagittarii. Consequently, Mu Sagittarii itself is known as 斗宿三 (Dǒu Sù sān, English: the Third Star of Dipper.)
+
+
+== Properties ==
+
+
+=== Variability ===
+Mu Sagittarii A varies in brightness and is classified as a variable star. The two spectroscopic components eclipse each other with an orbital period of 181 days, causing a 0.08 magnitude drop in brightness (from +3.84 to +3.96). In addition, it shows more irregular variations typical of an Alpha Cygni variable, irregularly pulsating hot supergiant stars.
+
+
+=== Physical ===
+Mu Sagittarii A appears as a type-B giant star with a total luminosity of 180,000 times that of the Sun and a radius of 115 times the Sun's. Its mass is 23 times the solar mass while it has a surface temperature of 11,100 K. Mu Sagitarii Aa is a type B8 supergiant and the companion (Mu Sagitarii Ab) is a type B2 giant.
+The remaining components are very weakly bound to the Polis system, and although Mu Sagittarii is visible to the naked eye, the properties of the secondary components are highly uncertain.
+The apparent magnitude for component B has been measured at between +8.04 and 10.481, leading to uncertainties about its physical properties, distance, and membership of the system.  The Washington Double Star Catalog gives a magnitude of 10.48 and the Catalog of Components of Double and Multiple Stars a magnitude of 11.5.Component D has an early B spectral type, near B3. The full MK spectral type has been measured as B2 IV, and the assumption of a subgiant luminosity suggests that it is more distant than the other stars of the system. The spectral type has also been estimated photometrically as B2 V, and a main sequence luminosity matches the distance of the other stars.
+
+

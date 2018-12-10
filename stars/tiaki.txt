@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Grus
+
+Right ascension: 22 h 42 m 40.05027 s
+
+Declination: −46° 53′ 04.4752″
+
+Apparent magnitude: 2.0 - 2.3
+
+Distance: 177 ± 4 ly
+
+Mass: 2.4 M
+
+Radius: 180 R
+
+Luminosity: 2,500 L
+
+Temperature: 3,480 K
+
+
+
+Beta Gruis (β Gruis, abbreviated Bet Gru, β Gru), also named Tiaki, is the second brightest star in the southern constellation of Grus. It was once considered the rear star in the tail of the constellation of the (Southern) Fish, Piscis Austrinus: it, with Alpha, Delta, Theta, Iota, and Lambda Gruis, belonged to Piscis Austrinus in medieval Arabic astronomy.
+
+
+== Nomenclature ==
+β Gruis (Latinised to Beta Gruis) is the star's Bayer designation.
+It bore the traditional Tuamotuan name of Tiaki. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Tiaki for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 鶴 (Hè), meaning Crane, refers to an asterism consisting of Beta Gruis, Alpha Gruis, Epsilon Gruis, Eta Gruis, Delta Tucanae, Zeta Gruis, Iota Gruis, Theta Gruis, Delta² Gruis and Mu¹ Gruis. Consequently, Beta Gruis itself is known as 鶴二 (Hè èr, English: Second Star of the Crane). The Chinese name gave rise to another English name, Ke.
+
+
+== Properties ==
+This is a red giant star with an estimated mass of about 2.4 times that of the Sun and a surface temperature of approximately 3,480 K, just over half the surface temperature of the Sun. This low temperature accounts for the dull red color of an M-type star. The total luminosity is about 2,500 times that of the Sun, and it has estimated 180 times the Sun's radius.Beta Gruis is a semiregular variable (SRb) star that varies in magnitude by about 0.4. It varies between intervals when it displays regular changes with a 37-day periodicity and times when it undergoes slow irregular variability.

@@ -1,0 +1,38 @@
+==Datasheet==
+
+Constellation: Hydra
+
+Right ascension: 09 h 51 m 28.69384 s
+
+Declination: −14° 50′ 47.7710″
+
+Apparent magnitude: 4.12
+
+Distance: 264 ± 6 ly
+
+Mass: 3.33  M
+
+Radius: 14.69  R
+
+Luminosity: 162  L
+
+Temperature: 5,185  K
+
+Rotational velocity: 2.11 km/s km/s
+
+
+
+Upsilon¹ Hydrae (υ¹ Hydrae, abbreviated Ups¹ Hya, υ¹ Hya), also named Zhang, is a yellow-hued star in the constellation of Hydra. It is visible to the naked eye, having an apparent visual magnitude of 4.12. Based upon an annual parallax shift of 12.36 mas as seen from Earth, it is located about 264 light-years from the Sun. The star is moving closer to the Sun with a radial velocity of −14.34 km/s. In 2005 it was announced that it had a substellar companion.
+
+
+== Nomenclature ==
+υ¹ Hydrae (Latinised to Upsilon¹ Hydrae) is the star's Bayer designation.
+In Chinese, 張宿 (Zhāng Xiù), meaning Extended Net, refers to an asterism consisting of Upsilon¹ Hydrae, Lambda Hydrae, Mu Hydrae, HD 87344, Kappa Hydrae and Phi¹ Hydrae. Consequently, Upsilon¹ Hydrae itself is known as 張宿一 (Zhāng Xiù yī), "the First Star of Extended Net". In 2016, the International Astronomical Union (IAU) organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Zhang for this star on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+With a stellar classification of G6/8 III, Upsilon¹ Hydrae is an evolved G-type giant star. It has an estimated 3.3 times the mass of the Sun and has expanded to 14.7 times the Sun's radius. The star is about 270 million years old with a projected rotational velocity of just 2.11 km/s. It is radiating 162 times the Sun's luminosity from its photosphere at an effective temperature of 5,185 K.
+
+
+=== Substellar companion ===
+The Okayama Planet Search team published a paper in 2005 reporting investigations on radial velocity variations observed for a set of class G giants and announcing the detection of a brown dwarf companion in orbit around Upsilon¹ Hydrae. The orbital period for this companion is roughly 4.1 years, and it has a high eccentricity of 0.57. Since the inclination of the orbit to the line-of-sight is unknown, only a lower bound on the mass can be determined. It has at least 49 times the mass of Jupiter.

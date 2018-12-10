@@ -1,0 +1,35 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 16 h 50 m 09.8 s
+
+Declination: –34° 17′ 36″
+
+Apparent magnitude: (2.24 - 2.35)
+
+Distance: 63.7 ± 0.3 ly
+
+Mass: 1.24 M
+
+Radius: 12.6 R
+
+Temperature: 4,560 K
+
+Rotational velocity: 2.6 ± 0.5 km/s
+
+
+
+Epsilon Scorpii (ε Scorpii, abbreviated Eps Sco, ε Sco), also named Larawag, is a star in the southern zodiac constellation of Scorpius. It has an apparent visual magnitude of +2.3, making it the fifth-brightest member of the constellation. Parallax measurements made during the Hipparcos mission provide an estimated distance to this star of around 63.7 light-years (19.5 parsecs) from the Sun.Epsilon Scorpii has a stellar classification of K1 III, which indicates it has exhausted the supply of hydrogen at its core and evolved into a giant star. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 5.99 ± 0.06 mas, which, at its estimated distance, equates to a physical radius of nearly 13 times the radius of the Sun. Presently it is generating energy through the nuclear fusion of helium at its core, which, considering the star's composition, places it along an evolutionary branch termed the red clump. The star's outer atmosphere has an effective temperature of 4,560 K, giving it the orange hue of a cool K-type star.
+ε Scorpii is classified as a suspected variable star, although a study of Hipparcos photometry showed a variation of no more than 0.01–0.02 magnitudes. It is an X-ray source with a luminosity of (1.5–1.6) × 1027 erg s−1.
+
+
+== Nomenclature ==
+ε Scorpii (Latinised to Epsilon Scorpii) is the star's Bayer designation.
+The star bore the traditional name Larawag in the culture of the Wardaman people of the Northern territory of Australia, meaning clear sighting. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Larawag for Epsilon Scorpii on 19 November 2017 and it is now so included in the List of IAU-approved Star Names.Patrick Moore introduced the name Wei as Chinese name for this star. However, this seems to be a misreading, as Chinese 尾宿 (Wěi Xiù, English Tail) refers to an asterism (i.e. Chinese constellation) consisting of Epsilon Scorpii, Mu¹ Scorpii, Zeta¹ Scorpii and Zeta² Scorpii, Eta Scorpii, Theta Scorpii, Iota² Scorpii and Iota¹ Scorpii, Kappa Scorpii, Lambda Scorpii and Upsilon Scorpii. Consequently, Epsilon Scorpii itself is known in Chinese as 尾宿二 (Wěi Xiù èr), which means "the Second Star of Tail".
+
+
+== In culture ==
+Epsilon Scorpii appears on the  flag of Brazil, symbolising the state of Ceará.
+
+

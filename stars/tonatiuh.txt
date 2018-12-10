@@ -1,0 +1,24 @@
+==Datasheet==
+
+Constellation: Camelopardalis
+
+Right ascension: 12 h 05 m 15.119 s
+
+Declination: +76° 54′ 20.65″
+
+Apparent magnitude: 5.79
+
+Distance: 317 ± 8 ly
+
+Mass: 1.5  M
+
+Radius: 10.87 ± 0.36  R
+
+Luminosity: 55.5  L
+
+Temperature: 4786  K
+
+
+
+HD 104985, also named Tonatiuh, is a helium-fusing yellow giant star located 97 parsecs (317 lys) from the Sun in the constellation of Camelopardalis. An extrasolar planet (designated HD 104985 b, later named Meztli) is believed to orbit the star.
+HD 104985 is the star's entry in the Henry Draper Catalogue. Following its discovery in 2003 the planet was designated HD 104985 b. In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Tonatiuh for this star and Meztli for its planet.The winning names were those submitted by the Sociedad Astronomica Urania of Morelos, Mexico. 'Tonatiuh' was the Aztec god of the Sun; 'Meztli' was the Aztec goddess of the Moon.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.

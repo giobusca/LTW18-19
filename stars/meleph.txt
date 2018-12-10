@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Cancer
+
+Right ascension: 08 h 40 m 27.01052 s
+
+Declination: 19° 32′ 41.3133″
+
+Apparent magnitude: 6.29
+
+Distance: approx. 590 ly
+
+Luminosity: 83.50 L
+
+Temperature: 7,851 K
+
+Rotational velocity: 82 km/s
+
+
+
+Epsilon Cancri (ε Cancri, abbreviated Eps Cnc, ε Cnc) is a white-hued binary star system in the zodiac constellation of Cancer. It is the brightest member of the Beehive Cluster with an apparent visual magnitude of +6.29, which is near the lower limit of visibility with the naked eye. The annual parallax shift of 21.04 mas as seen from Earth yields a distance estimate of approximately 590 light-years from the Sun.
+The two components are designated Epsilon Cancri A and B. A is itself a spectroscopic binary with components designated Epsilon Cancri Aa (also named Meleph) and Ab. Component B is HD 73711.
+
+
+== Nomenclature ==
+
+ε Cancri (Latinised to Epsilon Cancri) is the system's Bayer designation (which originally referred to the entire cluster). The designations of the two constituents as Epsilon Cancri A and B, and those of A's components - Epsilon Cancri Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU). HD 73711 is B's entry in the Henry Draper Catalogue.
+In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Meleph for the component Epsilon Cancri Aa on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+The system is moving away from the Sun with a radial velocity of +30 km/s.Epsilon Cancri A is a double-lined spectroscopic binary system with an orbital period of 35 days and eccentricity of 0.32. It has a stellar classification of A5 III, which matches an A-type giant star. The spectrum displays the chemically peculiar characteristics of an Am star. Its spectral type has been listed as kA3hA5mF0, indicating the different spectral types shown by spectral lines of calcium, hydrogen, and other metals.  The age of the system is estimated to be around 729 million years.Epsilon Cancri B is an F-type star with a stellar classification of F0 III.
+
+

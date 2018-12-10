@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Lyra
+
+Right ascension: 18 h 58 m 56.62241 s
+
+Declination: +32° 41′ 22.4003″
+
+Apparent magnitude: 3.261
+
+Distance: 620 ± 30 ly
+
+Mass: 5.76 M
+
+Radius: 15.40 R
+
+Luminosity: 2,430 L
+
+Temperature: 10,000 K
+
+Rotational velocity: 71–72 km/s
+
+
+
+Gamma Lyrae (Latinized from γ Lyrae, abbreviated Gamma Lyr, γ Lyr), also named Sulafat, is the second-brightest star in the northern constellation of Lyra. With an apparent visual magnitude of 3.3, it is readily visible to the naked eye. Parallax measurements yield an estimated distance of 620 light-years (190 parsecs) from the Sun. At that distance, the visual magnitude of the star is diminished by an extinction factor of 0.12±0.03 due to interstellar dust.
+
+
+== Nomenclature ==
+γ Lyrae (Latinised to Gamma Lyrae) is the star's Bayer designation.
+It bore the traditional names Sulafat (Sulaphat), from the Arabic السلحفاة al-sulḥafāt "turtle", and Jugum, from the Latin iugum "yoke". The connection with turtles is that fine harps were traditionally made of tortoiseshell. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sulafat for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In China, 漸台 (Jiāntāi), meaning Clepsydra Terrace, refers to an asterism consisting of this star, Delta2 Lyrae, Beta Lyrae and Iota Lyrae. Consequently, Gamma Lyrae itself is known as 漸台三 (Jiāntāisān, English: the Third Star of Clepsydra Terrace.)
+
+
+== Properties ==
+This is a giant star with a stellar classification of B9 III, indicating it has exhausted the supply of hydrogen at its core and evolved away from the main sequence. The effective temperature of the outer envelope of this star is 10,080 K, giving it the blue-white hue typical of a B-type star. The interferometry-measured angular diameter of this star is 0.74 ± 0.10 mas, which, at its estimated distance, equates to a physical radius of roughly 15 times the radius of the Sun.In 1909, Canadian astronomer Samuel A. Mitchell identified this star as a spectroscopic binary, although he was unable to split the absorption lines of the components. He found that a period of 25.6 days matched his measurements. It was reported as a spectroscopic binary as recently as 2001, but is now believed to be a single star with a high rate of rotation for stars of this type.
+
+

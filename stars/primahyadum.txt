@@ -1,0 +1,39 @@
+==Datasheet==
+
+Constellation: Taurus
+
+Right ascension: 04 h 19 m 47.6037 s
+
+Declination: +15° 37′ 39.512″
+
+Apparent magnitude: 3.654
+
+Distance: 154 ± 9 ly
+
+Mass: 2.70 ± 0.13 M
+
+Radius: 13.4 ± 0.2 R
+
+Luminosity: 85 L
+
+Temperature: 4,844 ± 47 K
+
+Rotation: 253 days
+
+Rotational velocity: 4 km/s
+
+
+
+Gamma Tauri (γ Tauri, abbreviated Gamma Tau, γ Tau) is either a solitary, binary or double star (the Washington Double Star Catalog notes it as a "Dubious Double" or "Bogus Binary") that marks the tip of the "V" in the constellation of Taurus. is a member of, and located within about 2.5 parsecs of the center of, the Hyades star cluster, the nearest open cluster to the Sun. Based upon parallax measurements, Gamma Tauri is approximately 154 light-years from the Sun.
+Considered as a pair of stars, the two components are designated Gamma Tauri A (also named Prima Hyadum) and B.
+
+
+== Nomenclature ==
+γ Tauri (Latinised to Gamma Tauri) is the system's Bayer designation. The designations of the two potential components as Gamma Tauri A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Gamma Tauri bore the traditional name Hyadum I, which is Latin for "First Hyad". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Prima Hyadum for the component Gamma Tauri A on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 畢宿 (Bì Xiù), meaning Net, refers to an asterism consisting of Gamma Tauri, Epsilon Tauri, Delta³ Tauri, Delta¹ Tauri, Alpha Tauri (Aldebaran), 71 Tauri and Lambda Tauri. Consequently, γ Tauri itself is known as 畢宿四 (Bì Xiù sì), "the Fourth Star of Net".
+
+
+== Properties ==
+Gamma Tauri presents as a spectral class G8 or K0 giant star with an apparent magnitude of +3.65. This star has passed through the main sequence phase is now a red clump giant, meaning it is using nuclear fusion of helium at its core to provide energy. 
+Age estimates for Gamma Tauri range from 430 million to 530 million years. By comparison, the age of the Hyades cluster is about 625 million years with an error margin of 50 million years.The angular diameter of this star has been measured using the CHARA array to 2% accuracy. After correcting for limb darkening, this gives the stellar radius as 13.4 times the radius of the Sun. The star is radiating about 85 times the luminosity of the Sun and has 2.7 times the Sun's mass. With its large size and low projected rotational velocity of 4 km s−1, it takes about 253 days to complete a rotation.
+
+

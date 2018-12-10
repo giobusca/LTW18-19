@@ -1,0 +1,43 @@
+==Datasheet==
+
+Constellation: Octans
+
+Right ascension: 21 h 08 m 46.83929 s
+
+Declination: −88° 57′ 23.3966″
+
+Apparent magnitude: 5.47
+
+Distance: 281 ± 8 ly
+
+Mass: 1.59 M
+
+Luminosity: 38 L
+
+Rotational velocity: 145 km/s
+
+
+
+Sigma Octantis (σ Octantis, abbreviated Sig Oct, σ Oct), also named Polaris Australis, is the current South Star. Its position near the southern celestial pole makes it the southern hemisphere's pole star. This is a solitary star in the southern circumpolar constellation of Octans. Located approximately 281 light-years from Earth, it is classified as a giant star with a spectral type of F0 III. Sigma Octantis is a Delta Scuti variable, with its average magnitude of 5.47 varying by about 0.03 magnitudes every 2.33 hours.
+
+
+== Nomenclature ==
+σ Octantis (Latinised to Sigma Octantis) is the star's Bayer designation.
+As the southern hemisphere's pole star it bore the name Polaris Australis, first applied in the 1700s. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Polaris Australis for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names. It is the southernmost named star.
+
+
+== Southern pole star ==
+Sigma Octantis is the southern pole star, whose counterpart is Polaris, the current North Star. To an observer in the southern hemisphere, Sigma Octantis appears almost motionless and all the other stars in the Southern sky appear to rotate around it. It is part of a small "half hexagon" shape. It is over a degree away from the true south pole, and the south celestial pole is moving away from it due to precession of the equinoxes.
+
+
+=== Locating Sigma Octantis ===
+
+At magnitude +5.42, Sigma Octantis is barely visible to the naked eye, making it unusable for navigation, especially by comparison with the much brighter and more easily visible Polaris.
+Because of this, the constellation Crux is often preferred for determining the position of the South Celestial Pole.
+Once Sigma Octantis' approximate position has been determined, either by the major stars in Octans or using the Southern Cross method, it can be positively verified using an asterism: Sigma, Chi, Tau, and Upsilon Octantis are all stars of around magnitude 5.6, and form the distinctive shape of a trapezoid.
+
+
+== In culture ==
+Sigma Octantis is the dimmest star to be represented on a national flag. It appears on the flag of Brazil, symbolising the Brazilian Federal District.
+
+

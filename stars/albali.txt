@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Aquarius
+
+Right ascension: 20 h 47 m 40.55260 s
+
+Declination: −09° 29′ 44.7877″
+
+Apparent magnitude: 3.77
+
+Distance: 208 ± 3 ly
+
+Temperature: 9,470 K
+
+Rotational velocity: 70 km/s
+
+
+
+Epsilon Aquarii (ε Aquarii, abbreviated Epsilon Aqr, ε Aqr), also named Albali, is a star in the equatorial zodiac constellation of Aquarius. It is visible to the naked eye with an apparent visual magnitude of 3.77. Based upon parallax measurements taken during the Hipparcos mission, it is approximately 208 light-years (64 pc) from the Sun.
+
+
+== Nomenclature ==
+ε Aquarii (Latinised to Epsilon Aquarii) is the star's Bayer designation.
+It bore the traditional name, Albali, from the Arabic البالع (albāli‘), meaning "the swallower". (See also Albulaan.) Along with Mu Aquarii (Albulaan) and  Nu Aquarii (also Albulaan), they were al Bulaʽ (البلع), meaning "the Swallower". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Albali for this star on 12 September 2016, and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, it was designated Nir Saad Bula (نير سعد ألبلع nayyir sa'd al bulaʽ), which was translated into Latin as Lucida Fortunæ Dissipantis, meaning "the brightest of luck of the swallower".In Chinese, 女宿 (Nǚ Sù), meaning Girl (asterism), refers to an asterism consisting of Epsilon Aquarii, Mu Aquarii, 4 Aquarii, 5 Aquarii and 3 Aquarii. Consequently, Epsilon Aquarii itself is known as 女宿一 (Nǚ Sù yī, English: the First Star of Girl).
+
+
+== Properties ==
+Epsilon Aquarii is an A-type main sequence star with a stellar classification of A1 V.
+
+

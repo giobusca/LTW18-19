@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Corvus
+
+Right ascension: 12 h 34 m 23.23484 s
+
+Declination: −23° 23′ 48.3374″
+
+Apparent magnitude: 2.647
+
+Distance: 146 ± 1 ly
+
+Mass: 3.7 ± 0.1 M
+
+Radius: 16 R
+
+Luminosity: 164 L
+
+Temperature: 5,100 ± 80 K
+
+Rotational velocity: 8 km/s
+
+
+
+Beta Corvi (β Corvi, abbreviated Beta Crv, β Crv), also named Kraz, is the second-brightest star in the southern constellation of Corvus with an apparent visual magnitude of 2.647. Based on parallax measurements obtained during the Hipparcos mission, it is about 146 light-years (45 parsecs) distant from the Sun.
+
+
+== Nomenclature ==
+β Corvi (Latinised to Beta Corvi) is the star's Bayer designation.
+It bore the traditional name of Kraz, whose origin and meaning remains unknown, though it appeared in a 1951 publication, Atlas Coeli (Skalnate Pleso Atlas of the Heavens) by Czech astronomer Antonín Bečvář. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Kraz for this star on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In Chinese, 軫宿 (Zhěn Sù), meaning Chariot (asterism), refers to an asterism consisting of Beta, Gamma, Epsilon and Delta Corvi. Consequently, Beta Corvi itself is known as 軫宿四 (Zhěn Sù sì, English: the Fourth Star of Chariot).
+
+
+== Properties ==
+Beta Corvi has about 3.7 times the Sun's mass and is roughly 206 million years old, which is old enough for a star of this mass to consume the hydrogen at its core and evolve away from the main sequence. The stellar classification is G5 II, with the luminosity class of 'II' indicating this is a bright giant. The effective temperature of the star's outer envelope is about 5,100 K, which produces a yellow hue common to G-type stars.The measured angular diameter of this star is 3.30 ± 0.17 mas. At an estimated distance of 146 light-years (45 parsecs), this yields a physical size of about 16 times the radius of the Sun. Because of the star's mass and radius, it is emitting about 164 times the luminosity of the Sun. The abundance of elements other than hydrogen or helium, what astronomers term metallicity, is similar to the proportions in the Sun.This is a variable star that ranges in apparent visual magnitude from a low of 2.66 to a high of 2.60.
+
+

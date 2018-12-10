@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Ophiuchus
+
+Right ascension: 16 h 18 m 19.28974 s
+
+Declination: –04° 41′ 33.0345″
+
+Apparent magnitude: 3.220
+
+Distance: 106.4 ± 0.7 ly
+
+Mass: 1.85 ± 0.05 M
+
+Radius: 10.39 ± 0.07 R
+
+Luminosity: 54 L
+
+Temperature: 4,918 ± 28 K
+
+Rotational velocity: 5.7 km/s
+
+
+
+Epsilon Ophiuchi (ε Ophiuchi, abbreviated Epsilon Oph, ε Oph), also named Yed Posterior, is a red giant star in the constellation of Ophiuchus. Located less than five degrees south of the celestial equator in the eastern part of the constellation, it forms a naked eye optical double with Delta Ophiuchi (named Yed Prior). With an apparent visual magnitude of 3.220, the star can be seen with the naked eye from most of the Earth under suitably dark skies. Parallax measurements yield an estimated distance of 106.4 light-years (32.6 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ε Ophiuchi (Latinised to Epsilon Ophiuchi) is the star's Bayer designation.
+It bore the traditional name Yed Posterior. Yed derives from the Arabic Yad meaning "the hand". Epsilon  and Delta Ophiuchi comprise the left hand of Ophiuchus (the Serpent Bearer) that holds the head of the serpent (Serpens Caput). Epsilon is Yed Posterior as it follows Delta  across the sky. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Yed Posterior for this star on 5 October 2016 and it is now so included in the List of IAU-approved Star Names.Epsilon Ophiuchi was a member of the indigenous Arabic asterism al-Nasaq al-Yamānī, the "Southern Line" of al-Nasaqān the "Two Lines", along with Alpha Serpentis, Delta Serpentis, Epsilon Serpentis, Delta Ophiuchi, Zeta Ophiuchi and Gamma Ophiuchi.In Chinese, 天市右垣 (Tiān Shì Yòu Yuán), meaning Right Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven ancient states in China and which mark the right borderline of the enclosure, consisting of Delta Ophiuchi, Beta Herculis, Gamma Herculis, Kappa Herculis, Gamma Serpentis, Beta Serpentis, Alpha Serpentis, Delta Serpentis, Epsilon Serpentis, Epsilon Ophiuchi and Zeta Ophiuchi. Consequently, Epsilon Ophiuchi itself is known as 天市右垣十 (Tiān Shì Yòu Yuán shí, English: the Tenth Star of Right Wall of Heavenly Market Enclosure), representing the state Chu (楚) (or Tsoo), together with Phi Capricorni (or 24 Capricorni in R.H.Allen's version) in the Twelve States (asterism).
+
+
+== Properties ==
+Epsilon Ophiuchi has a stellar classification of G9.5 IIIb, with the luminosity class of III indicating that this is a giant star that has exhausted the hydrogen and evolved away from the main sequence. This red giant has nearly double the Sun's mass and has expanded to an estimated radius of over ten times the radius of the Sun, giving it a luminosity of about 54 times the Sun. It is about a billion years old.Unusually for a class G giant, it is cyanogen-deficient and carbon-deficient. The outer envelope of this star displays solar-type oscillations with a period of 0.19 days, allowing the methods of asteroseismology to be applied. However, the models for this star have not been able to distinguish whether this star is generating energy by the thermonuclear fusion of hydrogen along a shell, or the fusion of helium at its core. Either mode produces a good fit to the star's physical properties. The projected rotational velocity of the star is 5.7 km s−1, and the inclination of the rotation axis to the line of sight from the Earth lies in the range of 41–73°.
+
+

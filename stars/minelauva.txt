@@ -1,0 +1,36 @@
+==Datasheet==
+
+Constellation: Virgo
+
+Right ascension: 12 h 55 m 36.20861 s
+
+Declination: +3° 23′ 50.8932″
+
+Apparent magnitude: 3.32 - 3.40
+
+Distance: 198 ± 3 ly
+
+Mass: 1.4 ± 0.3 M
+
+Radius: 48 R
+
+Luminosity: 468 L
+
+Temperature: 3,999 K
+
+Rotational velocity: 6.0 km/s
+
+
+
+Delta Virginis (δ Virginis, abbreviated Del Vir, δ Vir), also named Minelauva, is a star in the zodiac constellation of Virgo. With an apparent visual magnitude of 3.4, this star is bright enough to be seen with the naked eye. Based upon parallax measurements, it is located at a distance of about 198 light-years (61 parsecs) from the Sun.
+
+
+== Nomenclature ==
+δ Virginis (Latinised to Delta Virginis) is the star's Bayer designation.
+It bore the traditional, medieval names Auva and Minelauva from the Arabic عوى cawwa’, meaning "barking (dog)". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Minelauva for this star on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.This star, along with Beta Virginis (Zavijava), Gamma Virginis, Eta Virginis (Zaniah) and Epsilon Virginis (Vindemiatrix), were Al ʽAwwāʼ, 'the Barker'.In Chinese, 太微左垣 (Tài Wēi Zuǒ Yuán), meaning Left Wall of Supreme Palace Enclosure, refers to an asterism consisting of Delta Virginis, Eta Virginis, Gamma Virginis, Epsilon Virginis and Alpha Comae Berenices. Consequently, Delta Virginis itself is known as 太微左垣三 (Tài Wēi Zuǒ Yuán sān, English: the Third Star of Left Wall of Supreme Palace Enclosure), representing 東次相 (Dōngcìxiāng), meaning 'The Second Eastern Minister'. 東次相 (Dōngcìxiāng), westernized into Tsze Seang by R.H. Allen and meaning "the Second Minister of State".
+
+
+== Properties ==
+The spectrum of Delta Virginis matches a stellar classification of M3 III, which places it among the category of evolved stars called red giants. Indeed, the outer atmosphere of this star has expanded to around 48 times the radius of the Sun. Even though it has just 1.4 times the mass of the Sun, this wide envelope gives it a luminosity of roughly 468 times the Sun's. This energy is being radiated from a relatively cool outer atmosphere that has an effective temperature of nearly 4,000 K. It is this cool temperature that gives it the orange-red glow of an M-type star.The outer envelope of this star is undergoing a type of pulsation that occurs in a class of variable stars known as semiregular variables and its brightness varies from magnitude +3.32 to +3.40. Based upon frequency analysis of the observed light curve, the star's variability exhibits multiple periods of pulsation. The detected periods are 13.0, 17.2, 25.6, 110.1 and 125.8 days. This is a high-velocity star with a peculiar velocity of more than 30 km s−1 relative to the mean motion of other stars in the vicinity.Delta Virginis is a possible binary star, as an 11th magnitude star is located at an angular separation of 80 arcseconds. This K-type dwarf may have an orbital period of over 200,000 years, but this has not been confirmed.
+
+

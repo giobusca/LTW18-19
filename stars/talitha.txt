@@ -1,0 +1,33 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 08 h 59 m 12.45362 s
+
+Declination: +48° 02′ 30.5741″
+
+Apparent magnitude: 3.14
+
+Distance: 47.3 ± 0.1 ly
+
+Mass: 1.7 ± 0.1 / 1.0 ± 0.3 M
+
+Luminosity: 9.87 L
+
+Rotational velocity: 154 km/s
+
+
+
+Iota Ursae Majoris (ι Ursae Majoris, abbreviated Iota UMa, ι UMa), also named Talitha, is a star system in the northern circumpolar constellation of Ursa Major. It has an apparent visual magnitude of 3.14, making it visible to the naked eye and placing it among the brighter members of this constellation. Based upon parallax measurements, it is located at a distance of 47.3 light-years (14.5 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ι Ursae Majoris (Latinised to Iota Ursae Majoris) is the star's Bayer designation.
+The star bore the traditional names Talitha, Talitha Borealis and Alphikra Borealis. Talitha, which was shared with Kappa Ursae Majoris) comes from the Arabic phrase  Al Fiḳrah al Thalitha "the third spring, or leap, of the ghazal". The term Borealis meaning "the north side" in Latin. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Talitha for this star.
+In Chinese, 三台 (Sān Tái), meaning Three Steps, refers to an asterism consisting of ι Ursae Majoris, Kappa Ursae Majoris, Lambda Ursae Majoris, Mu Ursae Majoris, Nu Ursae Majoris and Xi Ursae Majoris. Consequently, ι Ursae Majoris itself is known as 上台一 (Shàng Tái yī, English: Star of First Upper Step).The star was also dubbed Dnoces ('Second,' backwards) after Edward H. White II, an Apollo 1 astronaut. The name was invented by his fellow astronaut Gus Grissom as a practical joke.
+
+
+== Stellar system ==
+The Iota Ursae Majoris system is composed of two sets of binary stars. The two binary systems orbit around each other once every 2,084 years. The apparent separation between the two binaries is rapidly decreasing as they follow their orbits. In 1841 when the B component was first discovered, they had a separation of 10.7 arcseconds, or at least 156 AU. By 1971 their separation had decreased to 4.5 arcseconds, or at least 66 AU. This system appears to be dynamically unstable with a high likelihood and may become disrupted on a time scale on the order of 105 years.The brightest component is a white A-type subgiant. It is a member of a spectroscopic binary system whose components have an orbital period of 4,028 days. The companion, which has not been directly observed, is thought to be a white dwarf with a mass of 1.0 ± 0.3 M☉.The companion binary is composed of the 9th magnitude and 10th magnitude stars, both of which are red dwarfs. These two red dwarfs, designated Iota Ursae Majoris B and C respectively, orbit around each other with a period of 39.7 years, and are separated by roughly 0.7 arcseconds, or at least 10 AU. This pair may be the source of the X-ray emission detected from this system.
+
+

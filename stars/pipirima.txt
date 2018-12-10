@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 16 h 52 m 20.14532 s
+
+Declination: −38° 01′ 03.1258″
+
+Apparent magnitude: +3.56
+
+Distance: 474 ± 8 ly
+
+Radius: 7.0 R
+
+Luminosity: 2,385 L
+
+Temperature: 23,113 K
+
+Rotational velocity: 58 km/s
+
+
+
+Mu² Scorpii (μ² Scorpii, abbreviated Mu² Sco, μ² Sco), also named Pipirima, is a star in the zodiac constellation of Scorpius. It has an apparent visual magnitude of +3.56, which is bright enough to be seen with the naked eye. Its distance from the Sun is about 474 light-years, as determined by parallax measurements. It is a member of the Upper Centaurus-Lupus subgroup of the Scorpius–Centaurus Association.
+
+
+== Nomenclature ==
+μ² Scorpii (Latinised to Mu² Scorpii) is the star's Bayer designation.
+It bore the traditional name Pipirima in Polynesian mythology. Especially in Tahitian myths, Pipirima is one of the 'Piri-ere-ua' (meaning 'The Inseparable Ones'), two children, a boy (named Pipirima) and a girl (named Réhua), who were fleeing their wicked parents and then became stars in the sky. According to other sources the boy's name is Pipiri and Pipiri-ma refers to 'Pipiri and his sister'. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Pipirima for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese astronomy, Mu² Scorpii is called 尾宿增二.
+
+
+== Properties ==
+This is a blue-white, B-type subgiant star with a stellar classification of B2 IV. It has an estimated 7 times the radius of the Sun, almost 9 times the Sun's mass, and shines with 2,385 times the Sun's luminosity. The outer atmosphere has an effective temperature of 23,113 K. It is some 18.5 million years old and is spinning with a projected rotational velocity of 58 km/s.
+
+

@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Vulpecula
+
+Right ascension: 19 h 28 m 42.330 s
+
+Declination: +24° 39′ 53.65″
+
+Apparent magnitude: 4.40
+
+Distance: 297 ± 8 ly
+
+Radius: 42 R
+
+Luminosity: 400 L
+
+Temperature: 3,990 K
+
+Rotational velocity: 4.6 km/s
+
+
+
+Alpha Vulpeculae (α Vulpeculae, abbreviated Alf Vul, α Vul), also named Anser, is the brightest star in the constellation of Vulpecula. It is approximately 297 light-years from Earth. It forms a wide optical binary with 8 Vulpeculae.Alpha Vulpeculae is a red giant of spectral class M1 and has apparent magnitude +4.4. It has been analysed as a member of the Arcturus stream,  a group of stars with high proper motion and metal-poor properties thought to be the remnants of a small galaxy consumed by the Milky Way.
+
+
+== Nomenclature ==
+α Vulpeculae (Latinised to Alpha Vulpeculae) is the system's Bayer designation.
+It bore the traditional name Anser, derived from when the constellation had the name Vulpecula cum Ansere 'the little fox with the goose'. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Anser for this star on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+

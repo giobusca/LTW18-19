@@ -1,0 +1,31 @@
+==Datasheet==
+
+Constellation: Ursa Major
+
+Right ascension: 11 h 18 m 28.73664 s
+
+Declination: +33° 05′ 39.5107″
+
+Apparent magnitude: +3.490
+
+Distance: 399 ± 8 ly
+
+Radius: 57.07 ± 4.13 R
+
+Luminosity: 775 ± 122 L
+
+Temperature: 4,070 K
+
+Rotational velocity: 10 km/s
+
+
+
+Nu Ursae Majoris (ν Ursae Majoris, abbreviated Nu UMa, ν UMa), also named Alula Borealis, is a double star in the northern circumpolar constellation of Ursa Major. At an apparent visual magnitude of +3.490, it is bright enough to be seen with the naked eye. Based upon parallax measurements, the distance to ν Ursae Majoris is about 399 light-years (122 parsecs).This is a giant star with a stellar classification of K3 III. It has expanded to about 57 times the radius of the Sun and is radiating 775 times the Sun's luminosity. The effective temperature of the outer envelope is 4,070 K; cool enough to give it an orange hue typical of a K-type star. It has a 10th-magnitude optical companion at an angular separation of 7.1 arcseconds.
+
+
+== Nomenclature ==
+ν Ursae Majoris (Latinised to Nu Ursae Majoris) is the star's Bayer designation.
+It also bore the traditional name of Alula Borealis. Alula (shared with Xi Ursae Majoris) comes from the Arabic phrase Al Ḳafzah al Ūla 'the First Spring'. and Borealis is Latin for 'the north side'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Alula Borealis for this star.
+In Chinese, 三台 (Sān Tái), meaning Three Steps, refers to an asterism consisting of Nu Ursae Majoris, Iota Ursae Majoris, Kappa Ursae Majoris, Lambda Ursae Majoris, Mu Ursae Majoris, and Xi Ursae Majoris. Consequently, Nu Ursae Majoris itself is known as 下台一 (Xià Tái yī, English: Star of First Lower Step).
+
+

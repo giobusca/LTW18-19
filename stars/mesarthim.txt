@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Aries
+
+Right ascension: 01 h 53 m 31.81479 s
+
+Declination: +19° 17′ 37.8790″
+
+Apparent magnitude: 3.86 (4.58/4.64)
+
+Distance: 164 ± 8 ly
+
+Radius: 1.9 R
+
+Temperature: 10,970 K
+
+Rotational velocity: 54 km/s
+
+
+
+Gamma Arietis (γ Arietis, abbreviated Gamma Ari, γ Ari) is a binary star in the northern constellation of Aries. The two components are designated γ¹ Arietis or Gamma Arietis B and γ² Arietis or Gamma Arietis A (also named Mesarthim). The combined apparent visual magnitude of the two stars is 3.86, which is readily visible to the naked eye and makes this the fourth-brightest member of Aries. Based upon parallax measurements obtained during the Hipparcos mission, the distance to Gamma Arietis from the Sun is approximately 164 light-years (50 parsecs).
+
+
+== Properties ==
+The double star nature of this system was discovered by Robert Hooke in 1664. The two components have an angular separation of 7.606 arcseconds, which can be resolved with a small telescope. The orbital period of the pair is greater than 5000 years. The brighter component, γ² Arietis, is a Lambda Boötis (chemically peculiar) star with a stellar classification of A1p Si and a magnitude of 4.64. It is classified as an α² CVn type variable star and its brightness varies by 0.04 magnitudes with a period of 2.61 days. The secondary, γ¹ Arietis, is a magnitude 4.58 B-type main-sequence star with a stellar classification of B9 V.
+
+
+== Nomenclature ==
+γ Arietis (Latinised to Gamma Arietis) is the system's Bayer designation; γ¹ and γ² Arietis those of its two components. The designation of the two components as Gamma Arietis A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Gamma Arietis bore the traditional name Mesarthim, of obscure origin, and has been called "the First Star in Aries" as having been at one time the nearest visible star to the equinoctial point. The name Mesarthim may be from the Hebrew word mᵋshārᵋtīm, meaning "the minister", or the Arabic word ألمثرتم Al Muthartim, meaning "the ram". The meaning "servants" has also been suggested. In Sanskrit, Aries is known as Mesha 'The ram' and the First point of Aries (the location of the vernal equinox) is Meshadi. The name could have very well originated from this and transformed to Mesarthim.
+In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Mesarthim for the component γ² Arietis on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 婁宿 (Lóusù), meaning Bond (asterism), refers to an asterism consisting of Gamma, Beta and Alpha Arietis. Consequently, Gamma Arietis itself is known as 婁宿二 (Lóusù Èr, English: the Second Star of Bond).In Hindu astrology, Gamma Arietis and Beta Arietis (Sheratan) are Ashvins, the twin Rigvedic deities who act as doctors of the divine of the world.(Richard H Allen)
+
+

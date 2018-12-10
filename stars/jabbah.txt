@@ -1,0 +1,45 @@
+==Datasheet==
+
+Constellation: Scorpius
+
+Right ascension: 16 h 11 m 59.740 s
+
+Declination: −19° 27′ 38.33″
+
+Apparent magnitude: 4.349
+
+Distance: approx. 470 ly
+
+
+
+Nu Scorpii (ν Scorpii, abbreviated Nu Sco, ν Sco) is a multiple star system in the constellation of Scorpius. It is most likely a septuple star system, consisting of two close groups (designated Nu Scorpii AB and CD) that are separated by 41 arcseconds. Based on parallax measurements, it is approximately 470 light-years from the Sun.
+The component Nu Scorpii Aa is also named Jabbah.
+
+
+== Location ==
+
+Nu Scorpii is the system that causes the reflection nebula cataloged as IC 4592 and known as the Blue Horsehead nebula.  Reflection nebulae are actually made up of very fine dust that normally appears dark but can look quite blue when reflecting the light of energetic nearby stars.Since it is near the ecliptic, Nu Scorpii can be occulted by the Moon and, very rarely, by planets. Mercury occulted it on 14 December 1821, but will not occult it again until 2 December 2031. The last occultation by Venus took place on 27 December 1852 and the next will take place on 30 December 2095. On 29 July 1808 there was an occultation by Neptune.
+
+
+== Nomenclature ==
+ν Scorpii (Latinised to Nu Scorpii) is the system's Bayer designation. The designations of its two constituent groups as Nu Scorpii AB and CD; of the component Nu Scorpii Aa, and of other components similarly lettered, derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Nu Scorpii bore the traditional name Jabbah, possibly from the Arabic Iklīl al Jabhah ('the crown of the forehead'). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Jabbah for the component Nu Scorpii Aa on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese astronomy, Nu Scorpii is called 鍵閉, Pinyin: Jiànbì, meaning Door Bolt, because it is marking itself and standing alone in the Door Bolt asterism, Room mansion (see : Chinese constellations). 鍵閉 (Jiànbì), westernized into Keen Pi, but that name (meaning "the Two Parts of a Lock") was ascribed to the pair Lambda Scorpii (Shaula) and Upsilon Scorpii (Lesath) by R.H. Allen.
+
+
+== Multiplicity ==
+
+Nu Scorpii is a septuple star system. It is one of only two known systems, the other being AR Cassiopeiae. Higher-multiplicity star systems are uncommon because they are less stable than their simpler counterparts, and often decay into smaller systems.
+Nu Scorpii is split into two groups, Nu Scorpii AB and Nu Scorpii CD. Nu Scorpii CD is located 41 arcseconds away from Nu Scorpii A, and is also known as HR 6026.
+
+
+=== Nu Scorpii A ===
+Nu Scorpii A is the brightest member of the system. It has an apparent magnitude from 4.35, meaning that it can be seen with the naked eye. However, Nu Scorpii AB and CD cannot be resolved using the naked eye, but it can be resolved using a telescope.Nu Scorpii A is itself a triple star system. The main component of Nu Scorpii A is known as Nu Scorpii Aab, and it is a single-lined spectroscopic binary. Its components cannot be resolved but the stars' movements cause periodic Doppler shifts in their spectra. "Single-lined" means that light from only one of the stars can be detected. The pair has an orbital period of 5.5521 days and an eccentricity of 0.11, and an estimated separation of about 1.057 milliarcseconds. The brighter component, Nu Scorpii Aa, has a spectral type of B3V implying a B-type main sequence star. The fainter component, Nu Scorpii Ab, is thought to have an apparent magnitude of 6.90.Nu Scorpii Ac is the third component of the Nu Scorpii A subsystem. 63 milliarcseconds away, it has an apparent magnitude of 6.62.
+
+
+=== Nu Scorpii B ===
+Nu Scorpii B is part of the Nu Scorpii AB sub-system and orbits Nu Scorpii A. It has an apparent magnitude of 5.40, but its spectral type is unknown. Nu Scorpii A and B are separated by 1.305 arcseconds; this translates to an orbital period of over 452 years, so no orbital motion has been detected.
+
+
+=== Nu Scorpii CD ===
+Nu Scorpii CD is also a triple star system. The primary component of the system, Nu Scorpii C, is a late B-type giant with a spectral type of B9III. With an apparent magnitude of 6.90, it outshines its fainter companion, Nu Scorpii D, which only has an apparent magnitude of 7.39. The two are separated by about 2 arcseconds.Nu Scorpii D, with an apparent magnitude of 7.39, is the faintest component of the Nu Scorpii system. It is one of a class of chemically peculiar stars known as Ap/Bp stars; in particular, it has strong silicon emission lines. It too is likely also another spectroscopic binary: Nu Scorpii Da is another B9III-type star, similar to Nu Scorpii C, but very little is known about Nu Scorpii Db.
+
+
