@@ -214,9 +214,6 @@ function getAltAz(lat, long){
     var date = new Date();
     var UT = date.getUTCHours()+date.getUTCMinutes()/60+date.getUTCSeconds()/3600;
 
-    // RA to degrees
-    rightAsc = 15.0*(rightAsc);
-
     var jd = julianDaysSinceJ2000();
     var lmst = 100.46+0.985647*jd+long+(15.0*UT);
 
