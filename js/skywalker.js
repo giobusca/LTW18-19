@@ -1,5 +1,19 @@
 var DEBUG = false;
 
+if(typeof(Storage) !== "undefined") {
+    if(!(localStorage.listConst)) {
+        var rawListConst = readTextFile("./const/list-const.txt");
+        if(rawListConst==null) alert("Could not find "+"const/list-const.txt");
+        localStorage.listConst = JSON.stringify(rawListConst);
+    }
+    if(!(localStorage.listStars)) {
+        var rawListStars = readTextFile("./stars/list-stars.txt");
+        if(rawListConst==null) alert("Could not find "+"stars/list-stars.txt");
+        localStorage.listStars = JSON.stringify(rawListStars);
+    }
+
+}
+
 // ======== takes the argument of the form and passes it to the search function
 function searchForm(){
     var search_arg = document.forms["search-form"].elements["star-search"].value;
@@ -15,8 +29,8 @@ function search(search_arg){
 
     // decides if search is for stars or const, or not found
     // possible improvement -> single, parametrised if instead of 2 similar ifs
-    var listText = readTextFile("./const/list-const.txt");
-    if(listText==null) alert("Could not find "+"const/list-const.txt");
+    var listText = JSON.parse(localStorage.listConst);
+    if(DEBUG) alert(listText);
 
     if(listText.includes(search_arg_low)){
         if(DEBUG) alert("Found "+search_arg+" in constellations' list");
@@ -41,9 +55,7 @@ function search(search_arg){
         displayConst(search_arg, search_desc);
 
     } else {
-        listText = readTextFile("./stars/list-stars.txt");
-        if(listText==null) alert("Could not find "+"stars/list-stars.txt");
-
+        listText = JSON.parse(localStorage.listStars);
 
         if(listText.includes(search_arg_low)){
             if(DEBUG) alert("Found "+search_arg+" in stars' list");
@@ -142,11 +154,9 @@ function getConstName(text) {
 
 // ======== generates a random name from the constellation&stars lists and calls the diplay for that constellation
 function random(){
-    var rawList = readTextFile("./const/list-const.txt");
-    if(rawList==null) alert("Could not find "+"const/list-const.txt");
+    var rawList = JSON.parse(localStorage.listConst);
 
-    var starList = readTextFile("./stars/list-stars.txt");
-    if(starList==null) alert("Could not find "+"stars/list-stars.txt");
+    var starList = JSON.parse(localStorage.listStars);
     rawList += starList;
 
     var arrayList = rawList.split("\n");
