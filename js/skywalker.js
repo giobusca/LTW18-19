@@ -134,7 +134,7 @@ function displayStar(star, rawText) {
     var constName = getConstName(rawText);
     var const_low = constName.toLowerCase().replace(/\s/g,"");
     newHTML += "<img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'>\n";
-    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='testVis()'>Can I see it?</button>\n";
+    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='return testVis();'>Can I see it?</button>\n";
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
         newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
@@ -144,12 +144,56 @@ function displayStar(star, rawText) {
     return true;
 }
 
-// ======== get constellation name from star rawText ====
+// ======== get constellation name from star text ====
 function getConstName(text) {
     var name = text.split("Constellation: ");
     name = name[1].split(/\n/);
     name = name[0];
     return name;
+}
+
+// ======= get right ascension from star text ====
+function getRightAsc(text){
+    var rias = text.split("Right ascension: ");
+    rias = rias[1].split(/\n/);
+    rias = rias[0];
+
+    return rias;
+}
+
+// ======= get declination from star text ====
+function getDecl(text){
+    var decl = text.split("Declination: ");
+    decl = decl[1].split(/\n/);
+    decl = decl[0];
+    return decl;
+}
+// ====== display all stars and constellations
+function index(){
+    var constellations = readTextFile("./const/list-const.txt");
+    if(constellations==null) alert("Could not find const/list-const.txt");
+
+    var stars = readTextFile("./stars/list-stars.txt");
+    if(stars==null) alert("Could not find stars/list-stars.txt");
+
+    var indexHTML = "";
+    constellations = constellations.split(/\n/);
+    stars = stars.split(/\n/);
+    for (var i=0; i < constellations.length; i++) {
+        var singleC = constellations[i].split(";");
+        indexHTML += "\n\n<p class='mt-4'>"+singleC[0].toUpperCase()+"\n</p>\n";
+        for (var j=0; j < stars.length-1; j++) {
+            var singleS = stars[j].split(";");
+            var constellation_code = singleS[1].split(" ");
+            if (constellation_code[1] == singleC[1]) {
+                singleS_capitalized = singleS[0].charAt(0).toUpperCase() + singleS[0].substring(1);
+                indexHTML += "\n<p class='mt-4'>"+singleS_capitalized+"\n</p>\n";
+            }
+        }
+    }
+
+    document.getElementById("display-area").innerHTML = indexHTML;
+    return true;
 }
 
 // ======== generates a random name from the constellation&stars lists and calls the diplay for that constellation
@@ -198,7 +242,7 @@ function julianDaysSinceJ2000() {
     var hh = date.getUTCHours();
     var min = date.getUTCMinutes();
     var sec = date.getUTCSeconds();
-    
+
     if(mm==1 || mm ==2){
         yy  = yy - 1;
         mm = mm + 12;
@@ -228,11 +272,11 @@ function getAltAz(lat, long){
     var lmst = 100.46+0.985647*jd+long+(15.0*UT);
 
     // in degrees modulo 360.0
-    if (lmst > 0.0) 
+    if (lmst > 0.0)
         while (lmst > 360.0) lmst = lmst - 360.0;
     else
         while (lmst < 0.0)   lmst = lmst + 360.0;
-    
+
     var lha = lmst - rightAsc;
     if(lha < 0) lha += 360.0;
     console.log("LMST: "+lmst+" - LHA: "+lha);
@@ -241,16 +285,16 @@ function getAltAz(lat, long){
     lha  = lha*Math.PI/180;
     dec = dec*Math.PI/180;
     lat = lat*Math.PI/180;
-    
+
     var alt = Math.asin( Math.sin(lat)*Math.sin(dec) + Math.cos(lat)*Math.cos(dec)*Math.cos(lha) );
     var az = Math.acos( ( Math.sin(dec) - Math.sin(lat)*Math.sin(alt) ) / (Math.cos(lat)*Math.cos(alt)) );
-    
+
     // ALT and AZ to degrees
     alt = alt/Math.PI * 180;
     az = az/Math.PI * 180;
     if(Math.sin(lha)>0) az = 360 - az;
 
-    console.log("Az: "+az+"; Alt: "+alt); 
+    console.log("Az: "+az+"; Alt: "+alt);
 
 }
 
