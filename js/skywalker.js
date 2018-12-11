@@ -169,8 +169,19 @@ function myXOR(a,b) {
     return ( a || b ) && !( a && b );
 }
 
-function julianCenturiesSinceJ2000() {
-    var date = new Date()
+function getPosition(position){
+    var lat = position.coords.latitude;
+    var long = position.coords.longitude;
+    console.log("Lat: "+lat+"; Long: "+long);
+    getAltAz(lat, long);
+}
+
+function posError(err){
+    alert("Could not retrieve current location");
+}
+
+function julianDaysSinceJ2000() {
+    var date = new Date();
     var yy = date.getUTCFullYear();
     var mm = date.getUTCMonth()+1;
     var dd = date.getUTCDate();
@@ -189,26 +200,10 @@ function julianCenturiesSinceJ2000() {
     var jd = dd + Math.floor((153 * m + 2) / 5) + 365 * y + Math.floor(y / 4) - Math.floor(y / 100) + Math.floor(y / 400) - 32045;
     var jt = jd + (hh-12 + min/60.0 + sec/3600.0)/24.0;
 
-    var j2000d = jt - 2451545;
+    var j2000d = jt - 2451545.0;
     console.log("JD: "+jd+" - J2000D: "+j2000d);
-    
-    // julian centuries since J2000.0
-    var j2000Cen = j2000d/36525.0;
 
-    console.log("JT: "+j2000Cen);
-
-    return j2000Cen;
-}
-
-function getPosition(position){
-    var lat = position.coords.latitude;
-    var long = position.coords.longitude;
-    console.log("Lat: "+lat+"; Long: "+long);
-    getAltAz(lat, long);
-}
-
-function posError(err){
-    alert("Could not retrieve current location");
+    return j2000d;
 }
 
 function getAltAz(lat, long){
@@ -216,11 +211,14 @@ function getAltAz(lat, long){
     var rightAsc = Number(sessionStorage.rightAsc);
     console.log("rightAsc:"+rightAsc+"; Dec: "+dec);
 
-    // RA to degrees
-    rightAsc = 15*(rightAsc);
+    var date = new Date();
+    var UT = date.getUTCHours()+date.getUTCMinutes()/60+date.getUTCSeconds()/3600;
 
-    var jc = julianCenturiesSinceJ2000();
-    var lmst = 24110.54841 + 8640184.812866 * jc + 0.093104 * jc*jc - 0.0000062 * jc*jc*jc + long;
+    // RA to degrees
+    rightAsc = 15.0*(rightAsc);
+
+    var jd = julianDaysSinceJ2000();
+    var lmst = 100.46+0.985647*jd+long+(15.0*UT);
 
     // in degrees modulo 360.0
     if (lmst > 0.0) 
@@ -229,12 +227,13 @@ function getAltAz(lat, long){
         while (lmst < 0.0)   lmst = lmst + 360.0;
     
     var lha = lmst - rightAsc;
+    if(lha < 0) lha += 360.0;
     console.log("LMST: "+lmst+" - LHA: "+lha);
 
     // convert degrees to radians
-    lha  = lha*Math.PI/180
-    dec = dec*Math.PI/180
-    lat = lat*Math.PI/180
+    lha  = lha*Math.PI/180;
+    dec = dec*Math.PI/180;
+    lat = lat*Math.PI/180;
     
     var alt = Math.asin( Math.sin(lat)*Math.sin(dec) + Math.cos(lat)*Math.cos(dec)*Math.cos(lha) );
     var az = Math.acos( ( Math.sin(dec) - Math.sin(lat)*Math.sin(alt) ) / (Math.cos(lat)*Math.cos(alt)) );
