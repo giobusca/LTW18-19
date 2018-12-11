@@ -157,8 +157,14 @@ function getRightAsc(text){
     var rias = text.split("Right ascension: ");
     rias = rias[1].split(/\n/);
     rias = rias[0];
-
-    return rias;
+    var h = rias.split(" h ");
+    var m = h[1].split(" m ");
+    var s = m[1].split(" s");
+    h = parseFloat(h[0]);
+    m = parseFloat(m[0]);
+    s = parseFloat(s[0]);
+    var rias_converted = 15*(h+(m/60)+(s/3600));
+    return rias_converted;
 }
 
 // ======= get declination from star text ====
@@ -166,8 +172,16 @@ function getDecl(text){
     var decl = text.split("Declination: ");
     decl = decl[1].split(/\n/);
     decl = decl[0];
-    return decl;
+    var d = decl.split("\°");
+    var m = d[1].split("\'");
+    var s = m[1].split("\"");
+    d = parseFloat(d[0]);
+    m = parseFloat(m[0]);
+    s = parseFloat(s[0]);
+    var decl_converted = d+(m/60)+(s/3600);
+    return decl_converted;
 }
+
 // ====== display all stars and constellations
 function index(){
     var constellations = readTextFile("./const/list-const.txt");
