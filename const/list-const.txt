@@ -6,7 +6,7 @@ aquila;aql
 ara;ara
 aries;ari
 auriga;aur
-boötes;boo
+bootes;boo
 caelum;cae
 camelopardalis;cam
 cancer;cnc
