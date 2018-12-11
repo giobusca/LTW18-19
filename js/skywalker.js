@@ -134,7 +134,7 @@ function displayStar(star, rawText) {
     var constName = getConstName(rawText);
     var const_low = constName.toLowerCase().replace(/\s/g,"");
     newHTML += "<img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'>\n";
-    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='return testVis();'>Can I see it?</button>\n";
+    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Can I see it?</button>\n";
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
         newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
@@ -307,4 +307,19 @@ function testVis(){
     } else {
         alert("Geolocation is not supported");
     }    return false;
+}
+
+
+function callVis() {
+    var rightAsc = $("p:contains('Right ascention:'):first").text();
+    var decl = $("p:contains('Declination:'):first").text();
+
+    rightAsc = getRightAsc(rightAsc);
+    decl = getDecl(decl);
+
+    localStorage.rightAsc = JSON.stringify(rightAsc);
+    localStorage.declination = JSON.stringify(decl);
+    
+    window.open("./skywalker-vis.htm");
+    return true;
 }
