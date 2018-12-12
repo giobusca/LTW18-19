@@ -26,13 +26,58 @@ function searchForm(){
 // ======== Searches in the lists to see if it's there, calls the function to change the display-area ======== (modulate better?)
 function search(search_arg){
     search_arg_low = search_arg.toLowerCase().replace(/\s/g,"");                  // Makes the whole search argument lowercase, and removes white spaces
-    var search_arg_capitalized = search_arg_low.charAt(0).toUpperCase() + search_arg_low.substring(1,search_arg_low.length);    // then capitalizes the first letter for compatibility with the .txt files
+    //var search_arg_capitalized = search_arg_low.charAt(0).toUpperCase() + search_arg_low.substring(1,search_arg_low.length);
     if(DEBUG) console.log("You searched for: "+search_arg);
 
     // decides if search is for stars or const, or not found
     // possible improvement -> single, parametrised if instead of 2 similar ifs
-    var listText = JSON.parse(localStorage.listConst);
+    var listTextC = JSON.parse(localStorage.listConst).split(/\n/);
+    var minDistance = 100;
+    var betterConst = "";
+    for (let i = 0; i < listTextC.length; i ++){
+        var element = listTextC[i].split(";");
+        var dist = levenshteinDistance(search_arg_low, element[0]);
+        if (dist < minDistance){
+            minDistance = dist;
+            betterConst = element[0];
+        }
+    }
+    if (minDistance == 0) {
+        displayConst(search_arg_low);
+    }
+    else if (minDistance < 3) {
+        alert("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?");
+        return false;
+    }
+    else {
+        var listTextS = JSON.parse(localStorage.listStars).split(/\n/);
+        minDistance = 100;
+        var betterStar = "";
+        for (let i = 0; i < listTextS.length; i ++){
+            var element = listTextS[i].split(";");
+            var dist = levenshteinDistance(search_arg_low, element[0]);
+            if (dist < minDistance){
+                minDistance = dist;
+                betterStar = element[0];
+            }
+        }
+        if (minDistance == 0) {
+            displayStar(search_arg_low);
+        }
+        else if (minDistance < 3) {
+            alert("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?");
+            return false;
+        }
+        else {
+            alert("Could not find "+search_arg);
+            return false;
+        }
+    }
+    return true;
+}
 
+
+/*
     if(listText.includes(search_arg_low)){
         if(DEBUG) console.log("Found "+search_arg+" in constellations' list");
 
@@ -67,6 +112,40 @@ function search(search_arg){
 
     return true;
 }
+*/
+
+function levenshteinDistance(a, b) {
+  // Create empty edit distance matrix for all possible modifications of
+  // substrings of a to substrings of b.
+  const distanceMatrix = Array(b.length + 1).fill(null).map(() => Array(a.length + 1).fill(null));
+
+  // Fill the first row of the matrix.
+  // If this is first row then we're transforming empty string to a.
+  // In this case the number of transformations equals to size of a substring.
+  for (let i = 0; i <= a.length; i += 1) {
+    distanceMatrix[0][i] = i;
+  }
+
+  // Fill the first column of the matrix.
+  // If this is first column then we're transforming empty string to b.
+  // In this case the number of transformations equals to size of b substring.
+  for (let j = 0; j <= b.length; j += 1) {
+    distanceMatrix[j][0] = j;
+  }
+
+  for (let j = 1; j <= b.length; j += 1) {
+    for (let i = 1; i <= a.length; i += 1) {
+      const indicator = a[i - 1] === b[j - 1] ? 0 : 1;
+      distanceMatrix[j][i] = Math.min(
+        distanceMatrix[j][i - 1] + 1, // deletion
+        distanceMatrix[j - 1][i] + 1, // insertion
+        distanceMatrix[j - 1][i - 1] + indicator, // substitution
+      );
+    }
+  }
+
+  return distanceMatrix[b.length][a.length];
+}
 
 // ======== takes the path of the file (in str format) and returns the whole text of the file as a single str ======== DONE
 function readTextFile(file) {
@@ -98,7 +177,7 @@ function readTextFile(file) {
     return ris;
 }
 
-// ======== edits the display area to the description of a constellation ======== 
+// ======== edits the display area to the description of a constellation ========
 function displayConst(constellation) {
     if(DEBUG) console.log("displayConst");
 
@@ -192,18 +271,18 @@ function index(){
     var stars = readTextFile("./stars/list-stars");
     if(stars==null) alert("Could not find stars/list-stars.txt");
 
-    var indexHTML = "";
+    var indexHTML = "<p>Click on star or constellation for description:\n</p>";
     constellations = constellations.split(/\n/);
     stars = stars.split(/\n/);
     for (var i=0; i < constellations.length; i++) {
         var singleC = constellations[i].split(";");
-        indexHTML += "\n\n<p class='mt-4'>"+singleC[0].toUpperCase()+"\n</p>\n";
+        indexHTML += "<p class='mt-4' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"\n</p>\n";
         for (var j=0; j < stars.length-1; j++) {
             var singleS = stars[j].split(";");
             var constellation_code = singleS[1].split(" ");
             if (constellation_code[1] == singleC[1]) {
                 singleS_capitalized = singleS[0].charAt(0).toUpperCase() + singleS[0].substring(1);
-                indexHTML += "\n<p class='mt-4'>"+singleS_capitalized+"\n</p>\n";
+                indexHTML += "<p class='mt-4' onclick='return displayStar(\""+singleS[0]+"\");'>"+singleS_capitalized+"\n</p>\n";
             }
         }
     }
@@ -336,7 +415,7 @@ function callVis() {
     localStorage.azaltRDY = JSON.stringify(false);
     localStorage.rightAsc = JSON.stringify(rightAsc);
     localStorage.declination = JSON.stringify(decl);
-    
+
     window.location.href = "./skywalker-vis.htm";
     return true;
 }
