@@ -12,6 +12,7 @@ if(typeof(Storage) !== "undefined") {
         if(rawListConst==null) alert("Could not find "+"stars/list-stars.txt");
         localStorage.listStars = JSON.stringify(rawListStars);
     }
+    localStorage.azaltRDY = JSON.stringify(false);
 
 }
 
@@ -132,7 +133,7 @@ function displayStar(star) {
     var constName = getConstName(rawText);
     var const_low = constName.toLowerCase().replace(/\s/g,"");
     newHTML += "<img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'>\n";
-    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Can I see it?</button>\n";
+    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Position in the sky</button>\n";
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
         newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
@@ -173,6 +174,9 @@ function getDecl(text){
     var d = decl.split("\°");
     var m = d[1].split("\′");
     var s = m[1].split("\″");
+    if(!(/[0-9]/.test(d[0].charAt(0))) && d[0].charAt(0) != "+"){       // replace the annoying 'special' minus sign with the regular one, if there is one
+        d[0] = "-"+d[0].slice(1);
+    } 
     d = parseFloat(d[0]);
     m = parseFloat(m[0]);
     s = parseFloat(s[0]);
@@ -305,6 +309,7 @@ function getAltAz(lat, long){
     if(DEBUG) console.log("Az: "+az+"; Alt: "+alt);
     sessionStorage.az = az;
     sessionStorage.alt = alt;
+    localStorage.azaltRDY = JSON.stringify(true);
 
 }
 
@@ -328,6 +333,7 @@ function callVis() {
     rightAsc = getRightAsc(rightAsc);
     decl = getDecl(decl);
 
+    localStorage.azaltRDY = JSON.stringify(false);
     localStorage.rightAsc = JSON.stringify(rightAsc);
     localStorage.declination = JSON.stringify(decl);
     
