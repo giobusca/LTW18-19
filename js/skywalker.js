@@ -1,13 +1,14 @@
-var DEBUG = false;
+var DEBUG = true;
 
+// ======== inizialises the constellations' and stars' lists in localStorage if not already present
 if(typeof(Storage) !== "undefined") {
     if(!(localStorage.listConst)) {
-        var rawListConst = readTextFile("./const/list-const.txt");
+        var rawListConst = readTextFile("./const/list-const");
         if(rawListConst==null) alert("Could not find "+"const/list-const.txt");
         localStorage.listConst = JSON.stringify(rawListConst);
     }
     if(!(localStorage.listStars)) {
-        var rawListStars = readTextFile("./stars/list-stars.txt");
+        var rawListStars = readTextFile("./stars/list-stars");
         if(rawListConst==null) alert("Could not find "+"stars/list-stars.txt");
         localStorage.listStars = JSON.stringify(rawListStars);
     }
@@ -25,21 +26,20 @@ function searchForm(){
 function search(search_arg){
     search_arg_low = search_arg.toLowerCase().replace(/\s/g,"");                  // Makes the whole search argument lowercase, and removes white spaces
     var search_arg_capitalized = search_arg_low.charAt(0).toUpperCase() + search_arg_low.substring(1,search_arg_low.length);    // then capitalizes the first letter for compatibility with the .txt files
-    if(DEBUG) alert("You searched for: "+search_arg);
+    if(DEBUG) console.log("You searched for: "+search_arg);
 
     // decides if search is for stars or const, or not found
     // possible improvement -> single, parametrised if instead of 2 similar ifs
     var listText = JSON.parse(localStorage.listConst);
-    if(DEBUG) alert(listText);
 
     if(listText.includes(search_arg_low)){
-        if(DEBUG) alert("Found "+search_arg+" in constellations' list");
+        if(DEBUG) console.log("Found "+search_arg+" in constellations' list");
 
         //checks to see if the search_arg is the full name of the constellation or only part of it
         var startIndex = listText.indexOf(search_arg_low);
         var endIndex = startIndex + search_arg_low.length -1;
         if( myXOR(startIndex != 0, listText.charAt(startIndex - 1).includes("\n") ) ){
-            if(DEBUG) alert("Entered incomplete-name if");
+            if(DEBUG) console.log("Entered incomplete-name if");
             var full_name = listText.substring( ( (startIndex!=0) ? listText.lastIndexOf("\n",startIndex)+1 : 0 ), listText.indexOf(";",endIndex));
             alert("Perhaps you meant: '"+full_name.charAt(0).toUpperCase()+full_name.substring(1)+"'?");
             return false;
@@ -49,27 +49,22 @@ function search(search_arg){
             return false;
         }
 
-        var search_desc = readTextFile("./const/"+search_arg_low+".txt");
-        if(search_desc==null) alert("Could not find "+"const/"+search_arg_low+".txt");
-
-        displayConst(search_arg, search_desc);
+        displayConst(search_arg_low);
 
     } else {
         listText = JSON.parse(localStorage.listStars);
 
         if(listText.includes(search_arg_low)){
-            if(DEBUG) alert("Found "+search_arg+" in stars' list");
+            if(DEBUG) console.log("Found "+search_arg+" in stars' list");
 
-            search_desc = readTextFile("./stars/"+search_arg_low+".txt");
-            if(search_desc==null) alert("Could not find "+"stars/"+search_arg_low+".txt");
-
-            displayStar(search_arg, search_desc);
+            displayStar(search_arg_low);
 
         } else {
             alert("Could not find "+search_arg_capitalized); }
+            return false;
     }
 
-    return false;
+    return true;
 }
 
 // ======== takes the path of the file (in str format) and returns the whole text of the file as a single str ======== DONE
@@ -88,7 +83,6 @@ function readTextFile(file) {
                 break;
             case 4:     // done
                 if(rawFile.status === 200 || rawFile.status === 0) {    // rawFile.status === 0 for compatibility with Safari
-                    if(DEBUG) alert(rawFile.responseText);
                     ris = rawFile.responseText;
                 }
                 break;
@@ -97,17 +91,18 @@ function readTextFile(file) {
         }
     }
 
-    rawFile.open("GET", file, false);
+    rawFile.open("GET", file+".txt", false);
     rawFile.send(null);
 
     return ris;
 }
 
 // ======== edits the display area to the description of a constellation ======== TODO
-function displayConst(constellation, rawText) {
-    if(DEBUG) alert("displayConst");
-    // TODO
-    //document.getElementById("display-area").innerHTML = rawText;
+function displayConst(constellation) {
+    if(DEBUG) console.log("displayConst");
+
+    var rawText = readTextFile("./const/"+constellation);
+    if(rawText == null) alert("Could not find "+constellation);
 
     var newHTML = "";
     newHTML += "<h1>"+constellation.toUpperCase()+"</h1>";
@@ -127,7 +122,10 @@ function displayConst(constellation, rawText) {
 
 // ======== edits the display area to the description of a star =====
 function displayStar(star, rawText) {
-    if(DEBUG) alert("diplayStar");
+    if(DEBUG) console.log("diplayStar");
+
+    var rawText = readTextFile("./stars/"+star);
+    if(rawText==null) alert("Could not find "+"stars/"+star);
 
     var newHTML = "";
     newHTML += "<h1>"+star.toUpperCase()+"</h1>";
@@ -170,10 +168,10 @@ function getDecl(text){
 }
 // ====== display all stars and constellations
 function index(){
-    var constellations = readTextFile("./const/list-const.txt");
+    var constellations = readTextFile("./const/list-const");
     if(constellations==null) alert("Could not find const/list-const.txt");
 
-    var stars = readTextFile("./stars/list-stars.txt");
+    var stars = readTextFile("./stars/list-stars");
     if(stars==null) alert("Could not find stars/list-stars.txt");
 
     var indexHTML = "";
@@ -208,14 +206,10 @@ function random(){
     var randName = arrayList[ randomIndex ];
     var onlyName = randName.slice(0,randName.indexOf(";"));
     if (randomIndex <= 88){                                       //88 is number of constellations
-        var rand_desc = readTextFile("./const/"+onlyName+".txt");
-        if(rand_desc==null) alert("Could not find "+"const/"+onlyName+".txt");
-        displayConst(onlyName, rand_desc);
+        displayConst(onlyName);
     }
     else {
-        var rand_desc = readTextFile("./stars/"+onlyName+".txt");
-        if(rand_desc==null) alert("Could not find "+"stars/"+onlyName+".txt");
-        displayStar(onlyName, rand_desc);
+        displayStar(onlyName);
     }
 }
 
@@ -226,7 +220,7 @@ function myXOR(a,b) {
 function getPosition(position){
     var lat = position.coords.latitude;
     var long = position.coords.longitude;
-    console.log("Lat: "+lat+"; Long: "+long);
+    if(DEBUG) console.log("Lat: "+lat+"; Long: "+long);
     getAltAz(lat, long);
 }
 
@@ -255,15 +249,15 @@ function julianDaysSinceJ2000() {
     var jt = jd + (hh-12 + min/60.0 + sec/3600.0)/24.0;
 
     var j2000d = jt - 2451545.0;
-    console.log("JD: "+jd+" - J2000D: "+j2000d);
+    if(DEBUG) console.log("JD: "+jd+" - J2000D: "+j2000d);
 
     return j2000d;
 }
 
 function getAltAz(lat, long){
-    var dec = Number(sessionStorage.declination);
-    var rightAsc = Number(sessionStorage.rightAsc);
-    console.log("rightAsc:"+rightAsc+"; Dec: "+dec);
+    var dec = Number(localStorage.declination);
+    var rightAsc = Number(localStorage.rightAsc);
+    if(DEBUG) console.log("rightAsc:"+rightAsc+"; Dec: "+dec);
 
     var date = new Date();
     var UT = date.getUTCHours()+date.getUTCMinutes()/60+date.getUTCSeconds()/3600;
@@ -279,7 +273,7 @@ function getAltAz(lat, long){
 
     var lha = lmst - rightAsc;
     if(lha < 0) lha += 360.0;
-    console.log("LMST: "+lmst+" - LHA: "+lha);
+    if(DEBUG) console.log("LMST: "+lmst+" - LHA: "+lha);
 
     // convert degrees to radians
     lha  = lha*Math.PI/180;
@@ -294,7 +288,7 @@ function getAltAz(lat, long){
     az = az/Math.PI * 180;
     if(Math.sin(lha)>0) az = 360 - az;
 
-    console.log("Az: "+az+"; Alt: "+alt);
+    if(DEBUG) console.log("Az: "+az+"; Alt: "+alt);
 
 }
 
@@ -311,7 +305,7 @@ function testVis(){
 
 
 function callVis() {
-    var rightAsc = $("p:contains('Right ascention:'):first").text();
+    var rightAsc = $("p:contains('Right ascension:'):first").text();
     var decl = $("p:contains('Declination:'):first").text();
 
     rightAsc = getRightAsc(rightAsc);
