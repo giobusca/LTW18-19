@@ -97,7 +97,7 @@ function readTextFile(file) {
     return ris;
 }
 
-// ======== edits the display area to the description of a constellation ======== TODO
+// ======== edits the display area to the description of a constellation ======== 
 function displayConst(constellation) {
     if(DEBUG) console.log("displayConst");
 
@@ -121,7 +121,7 @@ function displayConst(constellation) {
 }
 
 // ======== edits the display area to the description of a star =====
-function displayStar(star, rawText) {
+function displayStar(star) {
     if(DEBUG) console.log("diplayStar");
 
     var rawText = readTextFile("./stars/"+star);
@@ -303,6 +303,8 @@ function getAltAz(lat, long){
     if(Math.sin(lha)>0) az = 360 - az;
 
     if(DEBUG) console.log("Az: "+az+"; Alt: "+alt);
+    sessionStorage.az = az;
+    sessionStorage.alt = alt;
 
 }
 
@@ -329,6 +331,6 @@ function callVis() {
     localStorage.rightAsc = JSON.stringify(rightAsc);
     localStorage.declination = JSON.stringify(decl);
     
-    window.open("./skywalker-vis.htm");
+    window.location.href = "./skywalker-vis.htm";
     return true;
 }
