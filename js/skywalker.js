@@ -157,8 +157,8 @@ function getRightAsc(text){
     var rias = text.split("Right ascension: ");
     rias = rias[1].split(/\n/);
     rias = rias[0];
-    var h = rias.split(" h ");
-    var m = h[1].split(" m ");
+    var h = rias.split(" h");
+    var m = h[1].split(" m");
     var s = m[1].split(" s");
     h = parseFloat(h[0]);
     m = parseFloat(m[0]);
@@ -173,8 +173,8 @@ function getDecl(text){
     decl = decl[1].split(/\n/);
     decl = decl[0];
     var d = decl.split("\°");
-    var m = d[1].split("\'");
-    var s = m[1].split("\"");
+    var m = d[1].split("\′");
+    var s = m[1].split("\″");
     d = parseFloat(d[0]);
     m = parseFloat(m[0]);
     s = parseFloat(s[0]);
@@ -275,8 +275,8 @@ function julianDaysSinceJ2000() {
 }
 
 function getAltAz(lat, long){
-    var dec = Number(sessionStorage.declination);
-    var rightAsc = Number(sessionStorage.rightAsc);
+    var dec = Number(localStorage.declination);
+    var rightAsc = Number(localStorage.rightAsc);
     console.log("rightAsc:"+rightAsc+"; Dec: "+dec);
 
     var date = new Date();
@@ -325,9 +325,10 @@ function testVis(){
 
 
 function callVis() {
-    var rightAsc = $("p:contains('Right ascention:'):first").text();
+    var rightAsc = $("p:contains('Right ascension:'):first").text();
     var decl = $("p:contains('Declination:'):first").text();
 
+    console.log(rightAsc);
     rightAsc = getRightAsc(rightAsc);
     decl = getDecl(decl);
 
