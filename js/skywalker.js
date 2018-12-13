@@ -36,16 +36,16 @@ function search(search_arg){
     var betterConst = "";
     for (let i = 0; i < listTextC.length; i ++){
         var element = listTextC[i].split(";");
-        var dist = levenshteinDistance(search_arg_low, element[0]);
+        var dist = levenshteinDistance(search_arg_low, element[0].replace(/\s/g,""));
         if (dist < minDistance){
             minDistance = dist;
             betterConst = element[0];
         }
     }
     if (minDistance == 0) {
-        displayConst(search_arg_low);
+        displayConst(search_arg);
     }
-    else if (minDistance < 3) {
+    else if (minDistance < 4) {
         alert("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?");
         return false;
     }
@@ -55,16 +55,16 @@ function search(search_arg){
         var betterStar = "";
         for (let i = 0; i < listTextS.length; i ++){
             var element = listTextS[i].split(";");
-            var dist = levenshteinDistance(search_arg_low, element[0]);
+            var dist = levenshteinDistance(search_arg_low, element[0].replace(/\s/g,""));
             if (dist < minDistance){
                 minDistance = dist;
                 betterStar = element[0];
             }
         }
         if (minDistance == 0) {
-            displayStar(search_arg_low);
+            displayStar(search_arg);
         }
-        else if (minDistance < 3) {
+        else if (minDistance < 4) {
             alert("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?");
             return false;
         }
@@ -181,7 +181,7 @@ function readTextFile(file) {
 function displayConst(constellation) {
     if(DEBUG) console.log("displayConst");
 
-    var rawText = readTextFile("./const/"+constellation);
+    var rawText = readTextFile("./const/"+constellation.toLowerCase().replace(/\s/g,""));
     if(rawText == null) alert("Could not find "+constellation);
 
     var newHTML = "";
@@ -204,7 +204,7 @@ function displayConst(constellation) {
 function displayStar(star) {
     if(DEBUG) console.log("diplayStar");
 
-    var rawText = readTextFile("./stars/"+star);
+    var rawText = readTextFile("./stars/"+star.toLowerCase().replace(/\s/g,""));
     if(rawText==null) alert("Could not find "+"stars/"+star);
 
     var newHTML = "";
@@ -255,7 +255,7 @@ function getDecl(text){
     var s = m[1].split("\″");
     if(!(/[0-9]/.test(d[0].charAt(0))) && d[0].charAt(0) != "+"){       // replace the annoying 'special' minus sign with the regular one, if there is one
         d[0] = "-"+d[0].slice(1);
-    } 
+    }
     d = parseFloat(d[0]);
     m = parseFloat(m[0]);
     s = parseFloat(s[0]);
@@ -276,15 +276,16 @@ function index(){
     stars = stars.split(/\n/);
     for (var i=0; i < constellations.length; i++) {
         var singleC = constellations[i].split(";");
-        indexHTML += "<p class='mt-4' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"\n</p>\n";
+        indexHTML += "<p class='mt-4' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"</p>\n<ul>\n";
         for (var j=0; j < stars.length-1; j++) {
             var singleS = stars[j].split(";");
             var constellation_code = singleS[1].split(" ");
             if (constellation_code[1] == singleC[1]) {
                 singleS_capitalized = singleS[0].charAt(0).toUpperCase() + singleS[0].substring(1);
-                indexHTML += "<p class='mt-4' onclick='return displayStar(\""+singleS[0]+"\");'>"+singleS_capitalized+"\n</p>\n";
+                indexHTML += "<li class='mt-4' onclick='return displayStar(\""+singleS[0]+"\");'>"+singleS_capitalized+"</li>\n";
             }
         }
+        indexHTML += "</ul>\n";
     }
 
     document.getElementById("display-area").innerHTML = indexHTML;
