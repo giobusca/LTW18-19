@@ -2,16 +2,14 @@ var DEBUG = true;
 
 // ======== inizialises the constellations' and stars' lists in localStorage if not already present
 if(typeof(Storage) !== "undefined") {
-    if(!(localStorage.listConst)) {
-        var rawListConst = readTextFile("./const/list-const");
-        if(rawListConst==null) alert("Could not find "+"const/list-const.txt");
-        localStorage.listConst = JSON.stringify(rawListConst);
-    }
-    if(!(localStorage.listStars)) {
-        var rawListStars = readTextFile("./stars/list-stars");
-        if(rawListConst==null) alert("Could not find "+"stars/list-stars.txt");
-        localStorage.listStars = JSON.stringify(rawListStars);
-    }
+    var rawListConst = readTextFile("./const/list-const");
+    if(rawListConst==null) alert("Could not find "+"const/list-const.txt");
+    localStorage.listConst = JSON.stringify(rawListConst);
+
+    var rawListStars = readTextFile("./stars/list-stars");
+    if(rawListConst==null) alert("Could not find "+"stars/list-stars.txt");
+    localStorage.listStars = JSON.stringify(rawListStars);
+    
     localStorage.azaltRDY = JSON.stringify(false);
 
 }
@@ -219,6 +217,7 @@ function displayStar(star) {
     }
 
     document.getElementById("display-area").innerHTML = newHTML;
+    sessionStorage.starName = star;
     return true;
 }
 

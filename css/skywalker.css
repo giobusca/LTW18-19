@@ -1,0 +1,15 @@
+.opaque100 {
+    opacity: 1 !important;
+  }
+  
+  .opaque80 {
+    opacity: 0.8 !important;
+  }
+  
+  .opaque50 {
+    opacity: 0.5 !important;
+  }
+  
+  .bg-black {
+    background-color: #00000098 !important;
+  }
