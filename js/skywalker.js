@@ -44,8 +44,10 @@ function search(search_arg){
         displayConst(search_arg);
     }
     else if (minDistance < 2) {
-        alert("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?");
-        return false;
+        if (window.confirm("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?")){
+            displayConst(betterConst);
+        }
+        else return false;
     }
     else {
         var listTextS = JSON.parse(localStorage.listStars).split(/\n/);
@@ -63,8 +65,10 @@ function search(search_arg){
             displayStar(search_arg);
         }
         else if (minDistance < 3) {
-            alert("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?");
-            return false;
+          if (window.confirm("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?")){
+              displayStar(betterStar);
+          }
+          else return false;
         }
         else {
             alert("Could not find "+search_arg);
@@ -73,44 +77,6 @@ function search(search_arg){
     }
     return true;
 }
-
-
-/*
-    if(listText.includes(search_arg_low)){
-        if(DEBUG) console.log("Found "+search_arg+" in constellations' list");
-
-        //checks to see if the search_arg is the full name of the constellation or only part of it
-        var startIndex = listText.indexOf(search_arg_low);
-        var endIndex = startIndex + search_arg_low.length -1;
-        if( myXOR(startIndex != 0, listText.charAt(startIndex - 1).includes("\n") ) ){
-            if(DEBUG) console.log("Entered incomplete-name if");
-            var full_name = listText.substring( ( (startIndex!=0) ? listText.lastIndexOf("\n",startIndex)+1 : 0 ), listText.indexOf(";",endIndex));
-            alert("Perhaps you meant: '"+full_name.charAt(0).toUpperCase()+full_name.substring(1)+"'?");
-            return false;
-        } if(listText.charAt(endIndex + 1) != ";") {
-            full_name = listText.substring(startIndex, listText.indexOf(";", endIndex));
-            alert("Perhaps you meant: '"+full_name.charAt(0).toUpperCase()+full_name.substring(1)+"'?");
-            return false;
-        }
-
-        displayConst(search_arg_low);
-
-    } else {
-        listText = JSON.parse(localStorage.listStars);
-
-        if(listText.includes(search_arg_low)){
-            if(DEBUG) console.log("Found "+search_arg+" in stars' list");
-
-            displayStar(search_arg_low);
-
-        } else {
-            alert("Could not find "+search_arg_capitalized); }
-            return false;
-    }
-
-    return true;
-}
-*/
 
 function levenshteinDistance(a, b) {
   // Create empty edit distance matrix for all possible modifications of
