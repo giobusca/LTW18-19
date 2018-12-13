@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 46 m 19.57384 s
-
 Declination: 23° 56′ 54.0812″
-
 Apparent magnitude: 4.18
-
 Distance: 380 ± 20 ly
-
 Radius: 5.1 R
-
 Temperature: 13,360 ± 340 K
-
-
-
+== Brief description ==
 Merope, designated 23 Tauri (abbreviated 23 Tau), is a star in the constellation of Taurus and a member of the Pleiades star cluster. It is approximately 380 light years away.
 
 

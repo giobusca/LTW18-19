@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Cygnus
-
 Right ascension: 21 h 42 m 05.66458 s
-
 Declination: +51° 11′ 22.6415″
-
 Apparent magnitude: 4.66
-
 Distance: 1,700 ± 100 ly
-
 Radius: 5.6 R
-
 Luminosity: 16,538 L
-
 Rotational velocity: 55 km/s
-
-
-
+== Brief description ==
 Pi¹ Cygni (π¹ Cygni, abbreviated Pi¹ Cyg, π¹ Cyg) is a binary star in the northern constellation of Cygnus. It is visible to the naked eye, having a combined apparent visual magnitude of 4.66. The distance to this system can be roughly gauged by its annual parallax shift of 1.89 mas, which yields a separation of around 1,700 light years from the Sun, give or take a hundred light years.
 The two components are designated Pi¹ Cygni A (also named Azelfafage) and B.
 

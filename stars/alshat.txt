@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Capricornus
-
 Right ascension: 20 h 20 m 39.81562 s
-
 Declination: −12° 45′ 32.6844″
-
 Apparent magnitude: +4.76
-
 Distance: 253 ± 5 ly
-
 Mass: 2.37 M
-
 Luminosity: 87 L
-
 Rotational velocity: 24 km/s
-
-
-
+== Brief description ==
 Nu Capricorni (ν Capricorni, abbreviated Nu Cap, ν Cap) is a binary star in the southern constellation of Capricornus. It is 6.6 degrees north of the ecliptic and so is subject to occultations by the Moon. The system is about 253 light-years from the Sun.
 The two components are designated Nu Capricorni A (also named Alshat) and B.
 

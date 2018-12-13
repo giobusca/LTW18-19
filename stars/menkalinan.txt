@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Auriga
-
 Right ascension: 05 h 59 m 31.72293 s
-
 Declination: +44° 56′ 50.7573″
-
 Apparent magnitude: +1.90
-
 Distance: 81.1 ± 0.5 ly
-
 Mass: 2.389 ± 0.013 M
-
 Radius: 2.77 R
-
 Luminosity: 48 L
-
 Temperature: 9,350 K
-
 Rotational velocity: 33 km/s
-
-
-
+== Brief description ==
 Beta Aurigae (β Aurigae, abbreviated Beta Aur, β Aur), also named Menkalinan, is a binary star system in the northern constellation of Auriga. The combined apparent visual magnitude of the system is 1.9, making it the second-brightest member of the constellation after Capella. Using the parallax measurements made during the Hipparcos mission, the distance to this star system can be estimated as 81.1 light-years (24.9 parsecs), give or take a half-light-year margin of error.
 
 

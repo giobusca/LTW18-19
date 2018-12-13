@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Ophiuchus
-
-Right ascension: 17 h 15 m 20.851 s
-
-Declination: −26° 36′ 09.04″
-
+Right ascension: A: 17 h 15 m 20.851 s
+Declination: A: −26° 36′ 09.04″
 Apparent magnitude: 5.08/5.08/6.34
-
 Distance: 19.5 ± 0.1 ly
-
 Mass: 0.85/0.85  M
-
 Radius: 0.817 ± 0.016 R
-
 Temperature: 4,843 ± 134 K
-
-
-
+== Brief description ==
 36 Ophiuchi is a triple star system 19.5 light years from Earth.  It is in the constellation Ophiuchus.
 The primary and secondary stars are nearly identical orange main sequence dwarfs of spectral type K2/K1; the tertiary star is an orange main sequence dwarf of spectral type K5.
 Star C is separated from the A-B pair by 700 arc seconds, compared to a minimum of 4.6 arcsec for A-B, so its effect on the movements of the A-B pair is small. A and B have active chromospheres.
@@ -29,3 +20,5 @@ In the Kamilaroi and Euahlayi Aboriginal peoples in modern-day New South Wales, 
 
 == Hunt for substellar objects ==
 The McDonald Observatory team has set limits to the presence of one or more planets around 36 Ophiuchi A with masses between 0.13 and 5.4 Jupiter masses and average separations spanning between 0.05 and 5.2 astronomical units, although beyond 1.5 AU orbits are inherently unstable around either 36 Ophiuchi A or 36 Ophiuchi B.
+
+

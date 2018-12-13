@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Perseus
-
 Right ascension: 03 h 24 m 19.37009 s
-
 Declination: +49° 51′ 40.2455″
-
 Apparent magnitude: 1.806
-
 Distance: 510 ± 10 ly
-
 Mass: 8.5 ± 0.3 M
-
 Radius: 68 ± 3 R
-
 Temperature: 6,350 ± 100 K
-
 Rotational velocity: 20 km/s
-
-
-
+== Brief description ==
 Alpha Persei (α Persei, abbreviated Alpha Per, α Per), also named Mirfak, is the brightest star in the northern constellation of Perseus, just outshining the constellation's best known star, Algol. α Persei has an apparent visual magnitude of 1.8, and is a circumpolar star when viewed from mid-northern latitudes.
 Mirfak lies in the midst of a cluster of stars named as the eponymous Alpha Persei Cluster, or Melotte 20, which is easily visible in binoculars and includes many of the fainter stars in the constellation.  Determined distance using the trigonometric parallax, places the star 510 light-years (160 parsecs) from the Sun.
 

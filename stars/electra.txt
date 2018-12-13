@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 44 m 52.53688 s
-
 Declination: +24° 06′ 48.0112″
-
 Apparent magnitude: 3.70
-
 Distance: 400 ± 10 ly
-
 Luminosity: 940 L
-
 Temperature: 13,484 ± 293 K
-
 Rotational velocity: 181 km/s
-
-
-
+== Brief description ==
 Electra, also designated 17 Tauri, is a blue-white giant star in the constellation of Taurus. It is the third-brightest star in the Pleiades open star cluster (M45); the most visible stars in this group are named for the Seven Sisters of Greek mythology.
 
 

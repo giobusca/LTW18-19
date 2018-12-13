@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Pisces
-
 Right ascension: 02 h 02 m 02.81972 s
-
 Declination: +02° 45′ 49.5410″
-
 Apparent magnitude: 3.82 (4.33 + 5.23)
-
 Distance: 151 ± 7 ly
-
 Rotational velocity: 81 km/s
-
-
-
+== Brief description ==
 Alpha Piscium (α Piscium) is a binary star system in the equatorial constellation of Pisces. Based upon parallax measurements made by the Hipparcos spacecraft, it is located approximately 311 light-years from the Sun. 
 The two components are designated Alpha Piscium A (also named Alrescha) and B.
 

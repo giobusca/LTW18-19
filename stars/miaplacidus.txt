@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Carina
-
 Right ascension: 09 h 13 m 11.97746 s
-
 Declination: −69° 43′ 01.9473″
-
 Apparent magnitude: 1.69
-
 Distance: 113.2 ± 0.4 ly
-
 Mass: 3.5 M
-
 Radius: 6.8 R
-
 Luminosity: 288 L
-
 Temperature: 8,866 K
-
 Rotational velocity: 145.7 ± 2.2 km/s
-
-
-
+== Brief description ==
 Beta Carinae (β Carinae, abbreviated Beta Car, β Car), also named Miaplacidus, is the second brightest star in the constellation of Carina and one of the brightest stars in the night sky, with apparent magnitude 1.68. It is the brightest star in the south polar asterism known as the Diamond Cross, marking the southwestern end of the asterism. It lies near the planetary nebula IC 2448. Parallax measurements place it at a distance of 113.2 light-years (34.7 parsecs) from the Sun.
 
 

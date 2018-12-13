@@ -1,17 +1,11 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 13 h 25 m 11.579 s
-
 Declination: −11° 09′ 40.75″
-
 Apparent magnitude: (0.97 - 1.04
-
 Distance: 250 ± 10 ly
-
-
-
+== Brief description ==
 Spica,  also designated Alpha Virginis (α Virginis, abbreviated Alpha Vir, α Vir), is the brightest star in the constellation of Virgo and one of the 20 brightest stars in the night sky. Analysis of its parallax shows that it is located 250 ± 10 light years from the Sun. It is a spectroscopic binary and rotating ellipsoidal variable; a system whose two main stars are so close together they are egg-shaped rather than spherical, and can only be separated by their spectra. The primary is a blue giant and a variable star of the Beta Cephei type.
 Spica, along with Denebola or Regulus depending on the source and Arcturus, is part of the Spring Triangle asterism, and by extension, also of the Great Diamond together with the star Cor Caroli.
 

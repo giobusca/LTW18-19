@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Libra
-
 Right ascension: 14 h 50 m 41.18097 s
-
 Declination: –15° 59′ 50.0482″
-
 Apparent magnitude: +5.153
-
 Distance: 74.9 ± 0.7 ly
-
 Mass: 1.97 + 1.60 M
-
 Temperature: 6,653 K
-
 Rotational velocity: 5.95 km/s
-
-
-
+== Brief description ==
 Alpha Librae (α Librae, abbreviated Alpha Lib, α Lib), is a double star and despite its 'alpha' designation the second-brightest star in the constellation of Libra. The two components are designated α¹ Librae and α² Librae. The system bore the traditional name of Zubenelgenubi, though the International Astronomical Union now regards that name as only applying to α² Librae.Alpha² Librae is 0.33 degrees north of the ecliptic so it can be occulted by the Moon and (very rarely) by planets. It was occulted by Venus on October 25, 1947; the next occultation by a planet will be by Mercury on 10 November 2052.
 
 

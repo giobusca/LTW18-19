@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Hercules
-
 Right ascension: 17 h 30 m 44.3099 s
-
 Declination: +26° 06′ 38.323″
-
 Apparent magnitude: 4.402
-
 Distance: 370 ± 30 ly
-
 Luminosity: 465 L
-
 Temperature: 4,070 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Lambda Herculis (λ Herculis. abbreviated Lambda Her, λ Her), also named Maasym, is a star in the constellation of Hercules. From parallax measurements taken during the Hipparcos mission, it is approximately 370 light-years from the Sun.
 
 

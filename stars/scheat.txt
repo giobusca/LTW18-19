@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Pegasus
-
 Right ascension: 23 h 03 m 46.45746 s
-
 Declination: +28° 04′ 58.0336″
-
 Apparent magnitude: (2.31 - 2.74)
-
 Distance: 196 ± 2 ly
-
 Mass: 2.1 M
-
 Radius: 95  R
-
 Temperature: 3,689 K
-
 Rotational velocity: 9.7 km/s
-
-
-
+== Brief description ==
 Beta Pegasi (β Pegasi, abbreviated Beta Peg, β Peg), also named Scheat, is a red giant star and the second-brightest star (after Epsilon Pegasi) in the constellation of Pegasus. It forms the upper right corner of the Great Square of Pegasus, a prominent rectangular asterism.
 
 

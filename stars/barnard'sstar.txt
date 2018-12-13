@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ophiuchus
-
 Right ascension: 17 h 57 m 48.49803 s
-
 Declination: +04° 41′ 36.2072″
-
 Apparent magnitude: 9.511
-
 Distance: 5.958 ± 0.003 ly
-
 Mass: 0.144 M
-
 Radius: 0.196 ± 0.008 R
-
 Temperature: 3,134 ± 102 K
-
 Rotation: 130.4 
-
-
-
+== Brief description ==
 Barnard's Star  is a very-low-mass red dwarf about 6 light-years away from Earth in the constellation of Ophiuchus. It is the fourth nearest known individual star to the Sun (after the three components of the Alpha Centauri system) and the closest star in the Northern Celestial Hemisphere. Despite its proximity, the star has a dim apparent magnitude of +9.5 and is invisible to the unaided eye; it is much brighter in the infrared than in visible light.
 The star is named after the American astronomer E. E. Barnard. He was not the first to observe the star (it appeared on Harvard University plates in 1888 and 1890), but in 1916 he measured its proper motion as 10.3 arcseconds per year relative to the Sun, the highest known for any star.Barnard's Star is among the most studied red dwarfs because of its proximity and favorable location for observation near the celestial equator. Historically, research on Barnard's Star has focused on measuring its stellar characteristics, its astrometry, and also refining the limits of possible extrasolar planets. Although Barnard's Star is an ancient star, it still experiences star flare events, one being observed in 1998.
 From the early 1960s to the early 1970s, Peter van de Kamp argued that there were one or more gas giants in orbit around it. His specific claims of large gas giants were refuted in the mid-1970s after much debate. 

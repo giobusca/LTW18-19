@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 12 h 55 m 36.20861 s
-
 Declination: +3° 23′ 50.8932″
-
 Apparent magnitude: 3.32 - 3.40
-
 Distance: 198 ± 3 ly
-
 Mass: 1.4 ± 0.3 M
-
 Radius: 48 R
-
 Luminosity: 468 L
-
 Temperature: 3,999 K
-
 Rotational velocity: 6.0 km/s
-
-
-
+== Brief description ==
 Delta Virginis (δ Virginis, abbreviated Del Vir, δ Vir), also named Minelauva, is a star in the zodiac constellation of Virgo. With an apparent visual magnitude of 3.4, this star is bright enough to be seen with the naked eye. Based upon parallax measurements, it is located at a distance of about 198 light-years (61 parsecs) from the Sun.
 
 

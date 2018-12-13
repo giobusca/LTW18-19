@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 04 h 24 m 02.21725 s
-
 Declination: −34° 01′ 00.6542″
-
 Apparent magnitude: 3.96
-
 Distance: 296 ± 10 ly
-
 Radius: 54 R
-
 Luminosity: 426 L
-
 Temperature: 3,990 K
-
-
-
+== Brief description ==
 Upsilon³ Eridani (υ³ Eridani, abbreviated Upsilon³ Eri, υ³ Eri), also named Beemim, is a star in the constellation of Eridanus. It is visible to the naked eye with an apparent visual magnitude of 3.96 The distance to this star, based upon an annual parallax shift of 11.01 mas, is around 296 light-years.
 This is an evolved K-type giant star with a stellar classification of K4 III. It has about 54 times the radius of the Sun and radiates 426 times the solar luminosity from its outer atmosphere at an effective temperature of 3,990 K.
 

@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 45 m 54.47676 s
-
 Declination: +24° 33′ 16.2418″
-
 Apparent magnitude: 5.76
-
 Distance: 431 ± 8 ly
-
 Rotational velocity: 159 km/s
-
-
-
+== Brief description ==
 21 Tauri is a component of the Asterope double star in the Pleiades open cluster. 21 Tauri is the stars' Flamsteed designation. This star is potentially faintly visible to the naked eye with an apparent visual magnitude of 5.76 in ideal conditions, although anybody viewing the object is likely to instead see the pair as a single elongated form of magnitude 5.6. The distance to 21 Tauri can be estimated from its annual parallax shift of 7.6 mas, yielding a range of around 431 light years. It is moving further from the Earth with a heliocentric radial velocity of +6 km/s.Asterope was one of the Pleiades sisters in Greek mythology. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Asterope for 21 Tauri on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.21 Tauri is a blue-white hued B-type main sequence star with an stellar classification of B8 V. It is a single star with around three times the mass of the Sun and is 100 million years old. The star is radiating 100 times the Sun's luminosity from its photosphere at an effective temperature of 11,041 K. It displays an infrared excess, but this is due to reflection nebula rather than a circumstellar disk.
 
 

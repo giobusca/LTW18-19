@@ -1,17 +1,12 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 13 h 00 m 01 s
-
 Declination: +12° 40′ 57″
 
 Distance: 2,300 ± 100 ly
-
-Rotation: 0.006219
-
-
-
+Rotation: 0.006219 
+== Brief description ==
 PSR B1257+12, previously designated PSR 1257+12, alternatively designated PSR J1300+1240, also named Lich, is a pulsar located 2,300 light years from the Sun in the constellation of Virgo.The pulsar has a planetary system with three known extrasolar planets, named "Draugr" (PSR B1257+12 b or PSR B1257+12 A), "Poltergeist" (PSR B1257+12 c or PSR B1257+12 B) and "Phobetor" (PSR B1257+12 d or PSR B1257+12 C), respectively. They were both the first extrasolar planets and the first pulsar planets to be discovered; B and C in 1992 and A in 1994. A is the lowest mass planet yet discovered by any observational technique, with somewhat less than twice the mass of Earth's moon.
 
 
@@ -46,3 +41,5 @@ The planets are believed to be the result of a second round of planetary system 
 
 === Retracted claim of fourth orbital body ===
 In 1996, a possible Saturn-like (100 Earth mass) gas giant was announced orbiting the pulsar at a distance of about 40 AU.  The original hypothesis was retracted and a reinterpretation of the data led to a new hypothesis of a dwarf planet one-fifth the size of Pluto orbiting PSR B1257+12 at an average orbital distance of 2.4 AU with an orbital period of approximately 4.6 years. The dwarf planet hypothesis was also retracted because further observations showed that the pulsation anomalies previously thought to reveal a fourth orbital body are "not periodic and can be fully explained in terms of slow changes in the pulsar’s dispersion measure."
+
+

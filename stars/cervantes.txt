@@ -1,29 +1,18 @@
 ==Datasheet==
 
 Constellation: Ara
-
 Right ascension: 17 h 44 m 08.70114 s
-
 Declination: −51° 50′ 02.5853″
-
 Apparent magnitude: +5.12
 
 Distance: 50.6 ± 0.2 ly
-
 Mass: 1.10 ± 0.01 M
-
 Radius: 1.36 ± 0.01 R
-
 Luminosity: 1.90 ± 0.10 L
-
 Temperature: 5820 ± 40 K
-
 Rotation: 31 days
-
 Rotational velocity: 1.4 km/s
-
-
-
+== Brief description ==
 Mu Arae (μ Arae, abbreviated Mu Ara, μ Ara), often designated HD 160691, also named Cervantes, is a main sequence G-type star approximately 50 light-years away from the Sun in the constellation of Ara. The star has a planetary system with four known extrasolar planets (designated Mu Arae b, c, d and e; later named Quijote, Dulcinea, Rocinante and Sancho, respectively), three of them with masses comparable to that of Jupiter. The system's innermost planet was the first 'hot Neptune' or 'super-Earth' to be discovered.
 
 
@@ -46,3 +35,5 @@ In 2001, an extrasolar planet was announced by the Anglo-Australian Planet Searc
 
 === System architecture and habitability ===
 The Mu Arae system consists of an inner Uranus-mass planet in a tight 9-day orbit and three massive planets, probably gas giants, on wide, near-circular orbits, which contrasts with the high-eccentricity orbits typically observed for long-period extrasolar planets. The Uranus-mass planet may be a chthonian planet, the core of a gas giant which has had its outer layers stripped away by stellar radiation. Alternatively it may have formed in the inner regions of the Mu Arae system as a rocky "super-Earth". The inner gas giants "d" and "b" are located close to the 2:1 orbital resonance which causes them to undergo strong interactions. The best-fit solution to the system is actually unstable: simulations suggest the system is destroyed after 78 million years, which is significantly shorter than the estimated age of the star system. More stable solutions, including ones in which the two planets are actually in the resonance (similar to the situation in the Gliese 876 system) can be found which give only a slightly worse fit to the data. Searches for circumstellar discs show no evidence for a debris disc similar to the Kuiper belt around Mu Arae. If Mu Arae does have a Kuiper belt, it is too faint to be detected with current instruments.The gas giant planet "b" is located in the liquid water habitable zone of Mu Arae. This would prevent an Earth-like planet from forming in the habitable zone, however large moons of the gas giant could potentially support liquid water. On the other hand, it is unclear whether such massive moons could actually form around a gas giant planet, thanks to an apparent scaling law between the mass of the planet and its satellite system. In addition, measurements of the star's ultraviolet flux suggest that any potentially habitable planets or moons may not receive enough ultraviolet to trigger the formation of biomolecules.  Planet "d" would receive a similar amount of ultraviolet to the Earth and thus lies in the ultraviolet habitable zone, however, it would be too hot for any moons to support surface liquid water.
+
+

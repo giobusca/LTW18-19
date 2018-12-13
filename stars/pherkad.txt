@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ursa Minor
-
 Right ascension: 15 h 20 m 43.71604 s
-
 Declination: +71° 50′ 02.4596″
-
 Apparent magnitude: +3.05
-
 Distance: 487 ± 8 ly
-
 Radius: 15 R
-
 Luminosity: 1,100 L
-
 Temperature: 8,280 K
-
 Rotational velocity: 180 km/s
-
-
-
+== Brief description ==
 Gamma Ursae Minoris (γ Ursae Minoris, abbreviated Gamma UMi, γ UMi), also named Pherkad, is a star in the northern circumpolar constellation of Ursa Minor. Together with Beta Ursae Minoris (Kochab), it forms the end of the dipper pan of the "Little Dipper", which is an asterism forming the tail of the bear. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 487 light-years (149 parsecs) from the Sun.
 
 

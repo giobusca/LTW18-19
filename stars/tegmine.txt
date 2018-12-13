@@ -1,17 +1,13 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 12 m 12.7 s
-
 Declination: +17° 38′ 52″
 
 Apparent magnitude: +5.58/+5.99/+6.12
 
 Distance: 83.4 ± 2.9 ly
-
-
-
+== Brief description ==
 Zeta Cancri (ζ Cancri, abbreviated Zeta Cnc, ζ Cnc) is a multiple star system in the constellation of Cancer. It is approximately 83.4 light-years from Earth, and has a combined apparent magnitude of +4.67. Since it is near the ecliptic, it can be occulted by the Moon and, very rarely, by planets.
 The system is constituted as follows:
 A binary pair designated Zeta¹ Cancri or alternatively Zeta Cancri AB, the two components of which are themselves designated Zeta¹ Cancri A or simply Zeta Cancri A (and also named Tegmine) and Zeta¹/Zeta Cancri B.
@@ -33,3 +29,5 @@ The two components are both yellow-white main sequence dwarfs of spectral class 
 
 === Zeta² Cancri ===
 Zeta Cancri Ca is the brightest of the three components, having an apparent magnitude of +6.12. It appears to be a yellow G-type star, often reported as G5V, but now thought to be earlier, probably G0V. This star has around 1.15 solar masses. The tenth magnitude Zeta Cancri Cb is a close pair of red dwarfs. The separation between Ca and Cb is approximately 0.3 arcseconds, and their orbital period is 17 years.
+
+

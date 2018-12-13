@@ -1,23 +1,15 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 19 h 23 m 53.17483 s
-
 Declination: −40° 36′ 57.3705″
-
 Apparent magnitude: +3.97
-
 Distance: 182 ± 2 ly
-
 Mass: 2.95 M
-
+Radius: citation needed R
 Luminosity: 117 L
-
 Rotational velocity: 71 km/s
-
-
-
+== Brief description ==
 Alpha Sagittarii (α Sagittarii, abbreviated Alpha Sgr, α Sgr), also named Rukbat, is a star in the constellation of Sagittarius.
 
 
@@ -29,3 +21,5 @@ Alpha Sagittarii is a blue, class B dwarf star. It does not appear particularly 
 α Sagittarii (Latinised to Alpha Sagittarii) is the star's Bayer designation. It is unclear why Bayer designated this star as the alpha, rather than Epsilon Sagittarii or Sigma Sagittarii. This led some old star charts to occasionally depict Alpha and Beta Sagittarii as much brighter than they are in reality, as they are invisible from northern Europe, being too far south to see there.
 The star bore the traditional names Rukbat and Alrami, derived from the Arabic rukbat al-rāmī 'the knee of the archer'. The star Delta Cassiopeiae also bore the traditional names Ruchbah or Rukbat, from the Arabic word ركبة rukbah meaning "knee". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Rukbat for this star (Delta Cassiopeiae was later given the name Ruchbah).
 In Chinese, 天淵 (Tiān Yuān), meaning Celestial Spring, refers to an asterism consisting of Alpha Sagittarii, Beta¹ Sagittarii and Beta² Sagittarii. Consequently, Alpha Sagittarii itself is known as 天淵三 (Tiān Yuān sān, English: the Third Star of Celestial Spring.)This star, together with  Beta¹ Sagittarii and Beta² Sagittarii, were Al Ṣuradain (ألسردين), the two Surad, desert birds.
+
+

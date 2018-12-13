@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 02 h 51 m 02.32186 s
-
 Declination: −21° 00′ 14.4654″
-
 Apparent magnitude: 4.78
-
 Distance: 187 ± 2 ly
-
 Mass: 2.40  M
-
 Radius: 8.12  R
-
 Luminosity: 42.7  L
-
 Temperature: 5,049  K
-
 Rotational velocity: 1.11 km/s km/s
-
-
-
+== Brief description ==
 Tau² Eridani (τ² Eridani, abbreviated Tau² Eri, τ² Eri), also named Angetenar, is a star in the constellation of Eridanus. It is visible to the naked eye with an apparent visual magnitude of 4.78. The distance to this star, as determined via the parallax method, is around 187 light-years.
 
 

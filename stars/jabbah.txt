@@ -1,17 +1,11 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 16 h 11 m 59.740 s
-
 Declination: −19° 27′ 38.33″
-
 Apparent magnitude: 4.349
-
 Distance: approx. 470 ly
-
-
-
+== Brief description ==
 Nu Scorpii (ν Scorpii, abbreviated Nu Sco, ν Sco) is a multiple star system in the constellation of Scorpius. It is most likely a septuple star system, consisting of two close groups (designated Nu Scorpii AB and CD) that are separated by 41 arcseconds. Based on parallax measurements, it is approximately 470 light-years from the Sun.
 The component Nu Scorpii Aa is also named Jabbah.
 

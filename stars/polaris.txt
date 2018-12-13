@@ -1,27 +1,17 @@
 ==Datasheet==
 
 Constellation: Ursa Minor
-
 Right ascension: 02 h 31 m 49.09 s
-
 Declination: +89° 15′ 50.8″
 
 Apparent magnitude: 1.98
-
 Distance: 323–433ly
-
 Mass: 5.4 M
-
 Radius: 37.5 R
-
 Temperature: 6015 K
-
 Rotation: 119 days
-
 Rotational velocity: 14 km/s
-
-
-
+== Brief description ==
 Polaris, designated Alpha Ursae Minoris (α Ursae Minoris, abbreviated Alpha UMi, α UMi), commonly the North Star or Pole Star, is the brightest star in the constellation of Ursa Minor. It is very close to the north celestial pole, making it the current northern pole star.  The revised Hipparcos parallax gives a distance to Polaris of about 433 light-years (133 parsecs), while calculations by other methods derive distances around 30% closer.
 Polaris is a multiple star, comprising the main star (Polaris Aa, a yellow supergiant) in orbit with a smaller companion (Polaris Ab); the pair in orbit with Polaris B (discovered in August 1779 by William Herschel). There were once thought to be two more distant components—Polaris C and Polaris D—but these have been shown not to be physically associated with the Polaris system.
 
@@ -39,8 +29,8 @@ Polaris A, the supergiant primary component, is a low-amplitude Population I cla
 
 == Names ==
 
-The modern name Polaris is shortened from New Latin stella polaris "polar star", coined in the Renaissance era, when the star had approached the celestial pole to within a few degrees.
-Gemma Frisius, writing in 1547, referred to it as stella illa quae polaris dicitur ("that star which is called 'polar'"), placing it  3° 7' from the celestial pole.In antiquity, Polaris was not yet the closest naked-eye star to the celestial pole, and the entire constellation of Ursa Minor was used for navigation rather than any single star. Polaris moved close enough to the pole to be the closest naked-eye star, even though still at a distance of several degrees, in the early medieval period, and numerous names referring to this characteristic as polar star have been in use since the medieval period. In Old English, it was known as scip-steorra ("ship-star");
+The modern name Polaris is shortened from New Latin stella polaris "polar star", coined in the Renaissance era, when the star had approached the celestial pole to within a few degrees. 
+Gemma Frisius, writing in 1547, referred to it as stella illa quae polaris dicitur ("that star which is called 'polar'"), placing it  3° 7' from the celestial pole.In antiquity, Polaris was not yet the closest naked-eye star to the celestial pole, and the entire constellation of Ursa Minor was used for navigation rather than any single star. Polaris moved close enough to the pole to be the closest naked-eye star, even though still at a distance of several degrees, in the early medieval period, and numerous names referring to this characteristic as polar star have been in use since the medieval period. In Old English, it was known as scip-steorra ("ship-star"); 
 In the Old English rune poem, the T-rune is apparently associated with "a circumpolar constellation", compared to the quality of steadfastness or honour.In the Hindu Puranas, it became personified under the name  Dhruva ("immovable, fixed"). In the later medieval period, it became associated with the Marian title of Stella Maris "Star of the Sea" (so in Bartholomeus Anglicus, c. 1270s)
 An older English name, attested since the 14th century, is lodestar "guiding star", cognate with the Old Norse leiðarstjarna, Middle High German leitsterne.The ancient name of the constellation Ursa Minor, Cynosura (from the Greek κυνόσουρα "the dog’s tail" ) became associated with the pole star in particular by the early modern period.  An explicit identification of Mary as stella maris with the polar star (Stella Polaris), as well as the use of Cyonsura as a name of the star, is evident in the title Cynosura seu Mariana Stella Polaris (i.e. "Cynosure, or the Marian Polar Star"), a collection of Marian poetry published by Nicolaus Lucensis (Niccolo Barsotti de Lucca) in 1655.In the Tuareg Berber language in North Africa the North Star is known as "Tatrit tan Tamasna" which means: "star of the plains" or "star of the desert" and that indicates its central role in navigating the vast deserts.Its name in traditional pre-Islamic Arab astronomy was Al-Judeyy الجدي, and that name was used in medieval Islamic astronomy as well. In those times, it was not yet as close to the north celestial pole as it is now, and used to rotate around the pole.
 It was invoked as a symbol of steadfastness in poetry, as  "steadfast star" by Spenser.
@@ -57,7 +47,7 @@ Polaris was referenced in Nathaniel Bowditch's 1802 book, American Practical Nav
 
 == Distance ==
 
-Many recent papers calculate the distance to Polaris at about 433 light-years (133 parsecs), in agreement with parallax measurements from the Hipparcos astrometry satellite.  Older distance estimates were often slightly less, and recent research based on high resolution spectral analysis suggests it may be up to 100 light years closer (323 ly/99 pc). Polaris is the closest Cepheid variable to Earth so its physical parameters are of critical importance to the whole astronomical distance scale. It is also the only one with a dynamically measured mass.
+Many recent papers calculate the distance to Polaris at about 433 light-years (133 parsecs), in agreement with parallax measurements from the Hipparcos astrometry satellite.  Older distance estimates were often slightly less, and recent research based on high resolution spectral analysis suggests it may be up to 110 light years closer (323 ly/99 pc). Polaris is the closest Cepheid variable to Earth so its physical parameters are of critical importance to the whole astronomical distance scale. It is also the only one with a dynamically measured mass.
 
 The Hipparcos spacecraft used stellar parallax to take measurements from 1989 and 1993 with the accuracy of 0.97 milliarcseconds  (970 microarcseconds), and it obtained accurate measurements for stellar distances up to 1,000 pc away.  The Hipparcos data was examined again with more advanced error correction and statistical techniques.  Despite the advantages of Hipparcos astrometry, the uncertainty in its Polaris data has been pointed out and some researchers have questioned the accuracy of Hipparcos when measuring binary Cepheids like Polaris.  The Hipparcos reduction specifically for Polaris has been re-examined and reaffirmed but there is still not widespread agreement about the distance.The next major step in high precision parallax measurements comes from Gaia, a space astrometry mission launched in 2013 and intended to measure stellar parallax to within 25 microarcseconds (μas).  Although it was originally planned to limit Gaia's observations to stars fainter than magnitude 5.7, tests carried out during the commissioning phase indicated that Gaia could autonomously identify stars as bright as magnitude 3.  When Gaia entered regular scientific operations in July 2014, it was configured to routinely process stars in the magnitude range 3 – 20. Beyond that limit, special procedures are used to download raw scanning data for the remaining 230 stars brighter than magnitude 3; methods to reduce and analyse these data are being developed; and it is expected that there will be "complete sky coverage at the bright end" with standard errors of "a few dozen µas". Gaia Data Release 2 does not include a parallax for Polaris, but a distance inferred from it is 136.6±0.5 pc for Polaris B, somewhat further than most previous estimates and several times more accurate.
 Polaris has long been important for the cosmic distance ladder because, prior to Gaia, it was the only Cepheid variable for which direct distance data existed, which had a ripple effect on distance measurements that use this "ruler".
@@ -65,3 +55,5 @@ Polaris has long been important for the cosmic distance ladder because, prior to
 
 == History of observations ==
 Polaris in stellar catalogues and atlases
+
+

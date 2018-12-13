@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 11 h 14 m 14.40446 s
-
 Declination: +15° 25′ 46.4541″
-
 Apparent magnitude: +3.324
-
 Distance: 165 ± 1 ly
-
 Mass: 2.5 M
-
 Luminosity: 141 L
-
 Temperature: 9,350 K
-
 Rotational velocity: 23 km/s
-
-
-
+== Brief description ==
 Theta Leonis, Latinized from θ Leonis, also named Chertan, is a star in the constellation of Leo. With an apparent visual magnitude of +3.324 it is visible to the naked eye and forms one of the brighter stars in the constellation. The distance from the Sun can be directly determined from parallax measurements, yielding a value of about 165 light-years (51 parsecs).
 
 

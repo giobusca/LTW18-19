@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 11 h 03 m 43.67152 s
-
 Declination: +61° 45′ 03.7249″
-
 Apparent magnitude: 1.79
-
 Distance: 123 ± 2 ly
-
 Mass: 4.25 M
-
 Luminosity: 316 L
-
 Temperature: 4,660 K
-
 Rotational velocity: 2.6 ± 1.0 km/s
-
-
-
+== Brief description ==
 Alpha Ursae Majoris (α Ursae Majoris, abbreviated Alpha UMa, α UMa), also named Dubhe, is (despite being designated 'alpha') the second-brightest star in the constellation of Ursa Major.
 
 

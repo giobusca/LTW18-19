@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Hydra
-
 Right ascension: 08 h 38 m 45.43747 s
-
 Declination: +03° 20′ 29.1701″
-
 Apparent magnitude: 4.48
-
 Distance: 370 ± 10 ly
-
 Mass: 3.07  M
-
 Radius: 27.6 R
-
 Luminosity: 295  L
-
-
-
+== Brief description ==
 Sigma Hydrae (σ Hydrae, abbreviated Sig Hya, σ Hya), also named Minchir, is a solitary star in the equatorial constellation of Hydra. It is visible to the naked eye with an apparent visual magnitude of 4.48. The estimated distance to this star from the Sun, based upon an annual parallax shift of 8.75 mas, is around 370 light-years. At that distance, the visual magnitude of the star is diminished by an interstellar extinction factor of 0.16, due to intervening dust.
 
 

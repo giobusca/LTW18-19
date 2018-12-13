@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 19 h 23 m 13.13745 s
-
 Declination: −44° 47′ 59.2051″
-
 Apparent magnitude: +4.29
-
 Distance: 134 ± 1 ly
-
 Mass: 1.43 M
-
 Luminosity: 20 L
-
 Rotational velocity: 155 km/s
-
-
-
+== Brief description ==
 Beta² Sagittarii (β² Sagittarii, abbreviated Beta² Sgr, β² Sgr) is a star in the zodiac constellation of Sagittarius. It is visible to the naked eye, having an apparent visual magnitude of +4.29. Based upon an annual parallax shift of 24.31 mas as seen from Earth, it is located 134 light-years from the Sun.
 Based upon variations in its proper motion, this is a probable astrometric binary system. As such, its two components would be designated Beta² Sagittarii A (also named Arkab Posterior) and B
 

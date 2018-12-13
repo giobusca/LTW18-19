@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 13 h 23 m 55.54048 s
-
 Declination: +54° 55′ 31.2671″
-
 Apparent magnitude: 2.04
-
 Distance: 82.9 ± 0.6 ly
-
 Radius: 2.4 ± 0.1 R
-
 Luminosity: 33.3 ± 2.1 L
-
 Temperature: 9,000 ± 200 K
-
 Rotational velocity: 61 km/s
-
-
-
+== Brief description ==
 Mizar is a 2nd magnitude star in the handle of the Big Dipper asterism in the constellation of Ursa Major.  It has the Bayer designation ζ Ursae Majoris (Latinised as Zeta Ursae Majoris).  It forms a well-known naked eye double star with the fainter star Alcor, and is itself a quadruple star system. The whole system lies about 83 light-years away from the Sun, as measured by the Hipparcos astrometry satellite, and is part of the Ursa Major Moving Group.
 
 

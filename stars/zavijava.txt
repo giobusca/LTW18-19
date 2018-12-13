@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 11 h 50 m 41.71824 s
-
 Declination: +1° 45′ 52.9910″
-
 Apparent magnitude: 3.604
-
 Distance: 35.65 ± 0.09 ly
-
 Mass: 1.25 M
-
 Radius: 1.681 ± 0.008 R
-
 Luminosity: 3.572 ± 0.052 L
-
 Temperature: 6,132 ± 26 K
-
 Rotational velocity: 4.3 km/s
-
-
-
+== Brief description ==
 Beta Virginis (β Virginis, abbreviated Beta Vir, β Vir), also named Zavijava, is (despite its designation 'beta') the fifth-brightest star in the constellation of Virgo. Larger and more massive than the Sun, it is comparatively metal-rich (that is, it has a higher preponderance of elements heavier than helium).It is 0.69 degrees north of the ecliptic, so it can be occulted by the Moon and (rarely) by planets. The next planetary occultation of Zavijava will take place on 11 August 2069, by Venus.
 
 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 17 h 56 m 36.36988 s
-
 Declination: +51° 29′ 20.0242″
-
 Apparent magnitude: 2.23
-
 Distance: 154.3 ± 0.7 ly
-
 Mass: 1.72 M
-
 Radius: 48.15 ± 1.09 R
-
 Luminosity: 471 ± 30 L
-
 Temperature: 3,930 K
-
 Rotational velocity: 6.0 km/s
-
-
-
+== Brief description ==
 Gamma Draconis (γ Draconis, abbreviated Gamma Dra, γ Dra), also named Eltanin, is a star in the northern constellation of Draco. Contrary to its gamma-designation (historically third-ranked), it is the brightest star in Draco at magnitude 2.4, outshining Rastaban (Beta Draconis) by nearly half a magnitude. In 1.5 million years, Eltanin will pass within 28 light years of Earth. For a period, if its current absolute magnitude does not change, it will be the brightest star in the night sky, nearly as bright as Sirius is at present.It is by far the brightest star having a zenith above a point near London (and thus Leipzig, Düsseldorf, Astana and Calgary) which occurs near midnight (24:00h) at London which led to its vaunting in these places as the "zenith star" or "London zenith star". From other locations it has a nearby bright, well-known star in Lyra in night sky; finding Vega, Eltanin is the red star just north-northwest of it.
 Eltanin is at a distance of 154.3 light-years (47.3 parsecs) from the Sun, as determined by parallax measurements from the Hipparcos astrometry satellite. In 1728, while unsuccessfully attempting to measure the parallax of this star, James Bradley discovered the aberration of light resulting from the movement of the Earth. Bradley's discovery confirmed Copernicus' theory that the Earth revolved around the Sun.
 

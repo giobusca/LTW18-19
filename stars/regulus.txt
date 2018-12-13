@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 10 h 08 m 22.311 s
-
 Declination: +11° 58′ 01.95″
-
 Apparent magnitude: 1.40
-
 Distance: 79.3 ± 0.7 ly
-
 Mass: 3.8 M
-
 Radius: 3.092 ± 0.147 R
-
 Luminosity: 288 L
-
 Temperature: 12,460 ± 200 K
-
 Rotational velocity: 347 km/s
-
-
-
+== Brief description ==
 Regulus, also designated Alpha Leonis (α Leonis, abbreviated Alpha Leo, α Leo), is the brightest star in the constellation of Leo and one of the brightest stars in the night sky, lying approximately 79 light years from the Sun. Regulus is a multiple star system composed of four stars that are organized into two pairs. The spectroscopic binary Regulus A consists of a blue-white main-sequence star and its companion, which has not yet been directly observed, but is probably a white dwarf. Located farther away are Regulus B, C, and D, which are dim main-sequence stars.
 
 

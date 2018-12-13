@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Boötes
-
 Right ascension: 13 h 54 m 41.07892 s
-
 Declination: +18° 23′ 51.7946″
-
 Apparent magnitude: 2.680
-
 Distance: 37.2 ± 0.5 ly
-
 Mass: 1.71 ± 0.05 M
-
 Radius: 2.672 ± 0.028 R
-
 Luminosity: 8.89 ± 0.16 L
-
 Temperature: 6,100 ± 28 K
-
 Rotational velocity: 11.8 km/s
-
-
-
+== Brief description ==
 Eta Boötis (η Boötis, abbreviated Eta Boo, η Boo) is a binary star in the constellation of Boötes. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 37 light-years (11 parsecs) distant from the Sun. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It forms a double star with the star BD+19 2726.As a constituent of a double pair, Eta Boötis is also designated WDS J13547+1824A, with its two components being designated Aa (also named Muphrid) and Ab. (As part of a binary pair, they are also designated Eta Boötis A and B, respectively.) BD +19 2726 is also designated WDS J13547+1824B.
 
 

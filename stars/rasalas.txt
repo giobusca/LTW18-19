@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 09 h 52 m 45.81654 s
-
 Declination: +26° 00′ 25.0319″
-
 Apparent magnitude: 3.88
-
 Distance: 124.1 ± 0.8 ly
-
 Radius: 14 R
-
 Luminosity: 63 L
-
 Temperature: 4,436 K
-
 Rotational velocity: 4.5 km/s
-
-
-
+== Brief description ==
 Mu Leonis (μ Leonis, abbreviated Mu Leo, μ Leo), also named Rasalas, is a star in the constellation of Leo. The apparent visual magnitude of this star is 3.88, which is bright enough to be seen with the naked eye. Based upon an annual parallax shift of 0.02628 arc seconds as measured by the Hipparcos satellite, this system is 124 light-years (38.1 parsecs) from the Sun. In 2014, an exoplanet was discovered to be orbiting the star.
 
 

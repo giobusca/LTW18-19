@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Crux
-
 Right ascension: 12 h 47 m 43.26877 s
-
 Declination: –59° 41′ 19.5792″
-
-Apparent magnitude: 1.23 - 1.31
-
+Apparent magnitude: (1.23 - 1.31
 Distance: 280 ± 20 ly
-
 Mass: 16 M
-
 Radius: 8.4 ± 0.6 R
-
 Luminosity: 34,000 L
-
 Temperature: 27,000 ± 1,000 K
-
 Rotation: 3.6 days
-
 Rotational velocity: 35 km/s
-
-
-
+== Brief description ==
 Beta Crucis (β Crucis, abbreviated Beta Cru, β Cru), also named Mimosa, is a binary star system; the second-brightest star in the constellation of Crux (after Alpha Crucis or Acrux) and the 19th-brightest star in the night sky. It forms part of the prominent asterism called the Southern Cross.
 
 
@@ -39,3 +27,5 @@ Based on parallax measurements, β Crucis is located at a distance of 280 ly (86
 
 == In culture ==
 Beta Crucis is represented in the flags of Australia, New Zealand, Samoa and Papua New Guinea as one of five stars making up the Southern Cross. It is also featured in the flag of Brazil, along with 26 other stars, each of which represents a state. Mimosa represents the State of Rio de Janeiro.A vessel named MV Becrux is used to export live cattle from Australia to customers in Asia. An episode dedicated to the vessel features in the television documentary series Mighty Ships.
+
+

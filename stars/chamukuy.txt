@@ -1,27 +1,17 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 04 h 28 m 34.49603 s
-
 Declination: +15° 57′ 43.8494″
-
 Apparent magnitude: +3.84
 
 Distance: 152 ± 3 ly
-
 Mass: 2.67 M
-
 Radius: 10.55 R
-
 Luminosity: 71 L
-
 Temperature: 5,080 K
-
 Rotational velocity: 1.40 km/s
-
-
-
+== Brief description ==
 Theta Tauri (θ Tauri, abbreviated Tet Tau, θ Tau) is a wide double star in the constellation of Taurus and a member of the Hyades open cluster.
 θ Tauri is composed of two 3rd magnitude stars, designated Theta¹ Tauri and Theta² Tauri, or alternatively Theta Tauri A and B, respectively. They are separated by 5.62 arcminutes (0.094°) on the sky. Based upon parallax measurements, Theta¹ Tauri is located at a distance of 152 ly (47 pc), while Theta² Tauri is at a distance of 157 light-years (48 parsecs).  θ Tauri A and B are both spectroscopic binaries; the four components are designated Theta Tauri Aa (also named Chamukuy), Ab, Ba and Bb.
 
@@ -33,3 +23,5 @@ Theta Tauri (θ Tauri, abbreviated Tet Tau, θ Tau) is a wide double star in the
 
 == Properties ==
 Theta Tauri A is the dimmer constituent. Its primary component, Theta Tauri Aa, is an orange K-type giant with an apparent magnitude of +3.84. The secondary, Theta Tauri Ab, is of the 7th-magnitude. It has a mass of 1.31 M☉ and orbits the primary every 16.26 years on a fairly eccentric (at 0.570) orbit.Theta Tauri B has a mean apparent magnitude of +3.40. It is classified as a Delta Scuti type variable star and its brightness varies from magnitude +3.35 to +3.42 with a period of 1.82 hours. Its primary component, Theta Tauri Ba, is a white A-type giant. The secondary, Theta Tauri Bb, is of the 6th magnitude and is 0.005 arcseconds, or at least 2 AU, distant. It completes an orbit once every 141 days.
+
+

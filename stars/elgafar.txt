@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 14 h 28 m 12.13894 s
-
 Declination: −02° 13′ 40.6579″
-
 Apparent magnitude: +4.81
-
 Distance: 118 ± 4 ly
-
 Mass: 1.80 M
-
 Radius: 4  R
-
 Luminosity: 12.6  L
-
 Temperature: 5,534  K
-
 Rotational velocity: 15.5 km/s km/s
-
-
-
+== Brief description ==
 Phi Virginis (φ Virginis, abbreviated Phi Vir, φ Vir) is a binary star in the zodiac constellation of Virgo. It can be seen with the naked eye, having an apparent visual magnitude of +4.81. Based upon parallax measurements obtained during the Hipparcos mission, it is located roughly 118 light-years (36 parsecs) distant from the Sun.The two components are designated Phi Virginis A (also named Elgafar) and B.
 
 

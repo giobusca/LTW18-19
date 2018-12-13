@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Canis Major
-
 Right ascension: 07 h 08 m 23.48608 s
-
 Declination: −26° 23′ 35.5474″
-
 Apparent magnitude: 1.824
-
 Distance: approx. 1,600 ly
-
 Mass: 16.9 ± 1.6 M
-
 Radius: 215 ± 66 R
-
 Luminosity: 82,000 L
-
 Temperature: 6,390 ± 150 K
-
 Rotational velocity: 25 km/s
-
-
-
+== Brief description ==
 Delta Canis Majoris (δ Canis Majoris, abbreviated Delta CMa, δ CMa), also named Wezen, is a star in the constellation of Canis Major. It is a yellow-white F-type supergiant with an apparent magnitude of +1.83. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
 
 

@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 19 h 09 m 45.83293 s
-
 Declination: –21° 01′ 25.0103″
-
 Apparent magnitude: +2.89
-
 Distance: 510 ± 30 ly
-
 Mass: 5.9 ± 0.3 M
-
 Temperature: 6,590 ± 50 K
-
 Rotational velocity: 30 km/s
-
-
-
+== Brief description ==
 Pi Sagittarii (π Sagittarii, abbreviated Pi Sgr, π Sgr) is a triple star system in the zodiac constellation of Sagittarius. It has an apparent visual magnitude of +2.89, bright enough to be readily seen with the naked eye. Based upon parallax measurements, it is roughly 510 light-years (160 parsecs) from the Sun.The three components are designated Pi Sagittarii A (also named Albaldah), B and C.
 
 

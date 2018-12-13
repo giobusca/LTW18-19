@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Triangulum
-
 Right ascension: 01 h 53 m 04.90710 s
-
 Declination: +29° 34′ 43.7801″
-
 Apparent magnitude: +3.42
-
 Distance: 63.3 ± 0.3 ly
-
 Mass: 1.70 M
-
 Radius: 3.22 R
-
 Temperature: 6,288 K
-
 Rotational velocity: 81.6 km/s
-
-
-
+== Brief description ==
 Alpha Trianguli (α Trianguli, abbreviated Alpha Tri, α Tri) is a spectroscopic binary star in the constellation of Triangulum. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 63.3 light-years (19.4 parsecs) distant from the Sun. The brighter or primary component is named Mothallah.
 
 

@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Cetus
-
 Right ascension: 02 h 19 m 20.79210 s
-
 Declination: –02° 58′ 39.4956″
-
 Apparent magnitude: 6.57
-
 Distance: approx. 300 ly
-
 Mass: 1.18 M
-
 Radius: 541 R
-
 Temperature: (2,918 ± 183)–(3,192 ± 200) K
-
-
-
+== Brief description ==
 Mira , alternatively designated Omicron Ceti (ο Ceti, abbreviated Omicron Cet, ο Cet) is a red giant star estimated to be 200–400 light years from the Sun in the constellation of Cetus.
 ο Ceti is a binary stellar system, consisting of a variable red giant (Mira A) along with a white dwarf companion (Mira B). Mira A is a pulsating variable star and was the first non-supernova variable star discovered, with the possible exception of Algol.
 

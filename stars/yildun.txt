@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ursa Minor
-
 Right ascension: 17 h 32 m 12.99671 s
-
 Declination: 86° 35′ 11.2584″
-
 Apparent magnitude: 4.36
-
 Distance: 172 ± 1 ly
-
 Mass: 2.35 M
-
 Radius: 2.8 R
-
 Luminosity: 47.77 L
-
 Rotation: 19 hours
-
 Rotational velocity: 154 km/s
-
-
-
+== Brief description ==
 Delta Ursae Minoris, Latinized from δ Ursae Minoris, also named Yildun, is a white-hued star in the northern circumpolar constellation of Ursa Minor, forming the second star in the bear's tail. It is visible to the naked eye with an apparent visual magnitude of 4.36. Based upon an annual parallax shift of 18.95 mas as seen from Earth, it is located 172 light years from the Sun. The star is moving closer to the Sun with a radial velocity of about −8 km/s.
 
 

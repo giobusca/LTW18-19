@@ -1,17 +1,13 @@
 ==Datasheet==
 
 Constellation: Capricornus
-
 Right ascension: 20 h21 m00.7 s
-
 Declination: −14°46′53″
 
 Apparent magnitude: +3.05/+6.09
 
 Distance: 328 ly
-
-
-
+== Brief description ==
 Beta Capricorni (β Capricorni, abbreviated Beta Cap, β Cap) is a multiple star system in the constellation of Capricornus and located 328 light-years from the Sun. Because it is near the ecliptic, Beta Capricorni can be occulted by the Moon, and also (rarely) by planets.
 The system is believed to consist of five stars. With binoculars or a small telescope, Beta Capricorni can be resolved into a binary pair. The brighter of the two is designated Beta¹ Capricorni or Beta Capricorni A; the dimmer, Beta² Capricorni or Beta Capricorni B. Both are themselves made up of multiple stars. Beta¹ Capricorni has three components; a single star designated Beta Capricorni Aa (also named Dabih) and a binary pair, Beta Capricorni Ab (whose two components are designated Beta Capricorni Ab1 and Ab2). Beta² Capricorni is also a binary pair, with components designated Beta Capricorni Ba and Bb.
 Two other nearby stars were discovered by John Herschel. Sometimes referred to as Beta Capricorni D and E, it is unclear whether they are simply optical doubles or part of the Beta Capricorni system.
@@ -37,3 +33,5 @@ Beta² Capricorni is simpler and more studied. Its brighter component, Beta Capr
 
 === Beta Capricorni D and E ===
 These lie 112 arcseconds away from Beta¹ Capricorni.
+
+

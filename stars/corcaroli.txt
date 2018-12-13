@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Canes Venatici
-
 Right ascension: 12 h 56 m 01.66622 s
-
 Declination: +38° 19′ 06.1541″
-
 Apparent magnitude: 2.84 to 2.98
-
 Distance: 115 ± 4 ly
-
 Mass: 2.97 ± 0.07 M
-
 Radius: 2.49 ± 0.26 R
-
 Luminosity: 101 ± 12 L
-
 Temperature: 11600 ± 500 K
-
 Rotation: 5.46939 d
-
 Rotational velocity: 18.4 ± 0.5 km/s
-
-
-
+== Brief description ==
 Cor Caroli is the traditional name for the binary star also designated Alpha Canum Venaticorum (α Canum Venaticorum, abbreviated Alpha CVn, α CVn), although the International Astronomical Union now regards the name as only applying to the brightest component. Alpha Canum Venaticorum is the brightest point of light in the northern constellation of Canes Venatici.
 
 

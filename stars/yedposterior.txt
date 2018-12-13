@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ophiuchus
-
 Right ascension: 16 h 18 m 19.28974 s
-
 Declination: –04° 41′ 33.0345″
-
 Apparent magnitude: 3.220
-
 Distance: 106.4 ± 0.7 ly
-
 Mass: 1.85 ± 0.05 M
-
 Radius: 10.39 ± 0.07 R
-
 Luminosity: 54 L
-
 Temperature: 4,918 ± 28 K
-
 Rotational velocity: 5.7 km/s
-
-
-
+== Brief description ==
 Epsilon Ophiuchi (ε Ophiuchi, abbreviated Epsilon Oph, ε Oph), also named Yed Posterior, is a red giant star in the constellation of Ophiuchus. Located less than five degrees south of the celestial equator in the eastern part of the constellation, it forms a naked eye optical double with Delta Ophiuchi (named Yed Prior). With an apparent visual magnitude of 3.220, the star can be seen with the naked eye from most of the Earth under suitably dark skies. Parallax measurements yield an estimated distance of 106.4 light-years (32.6 parsecs) from the Sun.
 
 

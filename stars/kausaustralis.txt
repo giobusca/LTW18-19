@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 18 h 24 m 10.31840 s
-
 Declination: –34° 23′ 04.6193″
-
 Apparent magnitude: +1.85
-
 Distance: 143 ± 2 ly
-
 Mass: 3.515 ± 0.138 M
-
 Radius: 6.8 R
-
 Luminosity: 363 L
-
 Temperature: 9,960 K
-
 Rotational velocity: 236 km/s
-
-
-
+== Brief description ==
 Epsilon Sagittarii (ε Sagittarii, abbreviated Epsilon Sgr, ε Sgr), also named Kaus Australis, is a binary star system in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of +1.85 makes it the brightest star in the constellation. Based upon parallax measurements, this star is around 143 light-years (44 parsecs) from the Sun.
 
 

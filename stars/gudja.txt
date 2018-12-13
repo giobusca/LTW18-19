@@ -1,17 +1,11 @@
 ==Datasheet==
 
 Constellation: Serpens
-
 Right ascension: 15 h 48 m 44.37676 s
-
 Declination: 18° 08′ 29.6342″ 
-
 Apparent magnitude: 4.09 
-
 Distance: 380 ± 10 ly
-
-
-
+== Brief description ==
 Kappa Serpentis, Latinized from κ Serpentis, is a star in the constellation Serpens, in its head (Serpens Caput). It is a red M-type giant with an apparent magnitude of +4.09.  It is approximately 382 light years from Earth. It has proper name Gudja since 10 August 2018
 
 

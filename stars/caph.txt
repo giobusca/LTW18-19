@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cassiopeia
-
 Right ascension: 00 h 09 m 10.68518 s
-
 Declination: +59° 08′ 59.2120″
-
 Apparent magnitude: +2.28 (2.25–2.31)
-
 Distance: 54.7 ± 0.3 ly
-
 Mass: 1.91 ± 0.02 M
-
 Radius: 3.43–3.69 R
-
 Luminosity: 27.3 L
-
 Temperature: 7,079 K
-
 Rotational velocity: 71.0 km/s
-
-
-
+== Brief description ==
 Beta Cassiopeiae (β Cassiopeiae, abbreviated Beta Cas or β Cas), also named Caph, is a Delta Scuti variable star in the constellation of Cassiopeia. It is a giant star belonging to the spectral class F2. The white star of second magnitude (+2.27 mag) has an absolute magnitude of +1.16 mag.
 
 

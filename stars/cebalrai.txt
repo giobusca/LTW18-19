@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ophiuchus
-
 Right ascension: 17 h 43 m 28.35265 s
-
 Declination: +04° 34′ 02.2955″
-
 Apparent magnitude: 2.749
-
 Distance: 81.8 ± 0.3 ly
-
 Mass: 1.13 M
-
 Radius: 12.42 ± 0.13 R
-
 Luminosity: 63.4 ± 3.2 L
-
 Temperature: 4,467 K
-
 Rotational velocity: 5.4 km/s
-
-
-
+== Brief description ==
 Beta Ophiuchi (β Ophiuchi, abbreviated Beta Oph, β Oph), also named Cebalrai, is a star in the equatorial constellation of Ophiuchus. The apparent visual magnitude of this star is 2.7, which is readily visible to the naked eye even from urban skies. The distance to this star can be estimated using parallax measurements, yielding a value of 81.8 light-years (25.1 parsecs) from the Sun.
 
 

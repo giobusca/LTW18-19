@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Pegasus
-
 Right ascension: 00 h 13 m 14.15123 s
-
 Declination: +15° 11′ 00.9368″
-
 Apparent magnitude: +2.84
-
 Distance: 390 ± 20 ly
-
 Mass: 8.9 ± 0.1 M
-
 Radius: 4.80 ± 0.39 R
-
 Luminosity: 5,840 L
-
 Temperature: 21,179 ± 237 K
-
 Rotational velocity: 0 km/s
-
-
-
+== Brief description ==
 Gamma Pegasi (γ Pegasi, abbreviated Gamma Peg or γ Peg), also named Algenib, is a star in the constellation of Pegasus, located at the southeast corner of the asterism known as the Great Square. The average apparent visual magnitude of +2.84 puts this at fourth place among the brightest stars in the constellation. The distance to this star has been measured using the parallax technique, yielding a value of roughly 390 light-years (120 parsecs) with a margin of error of 5%.
 
 

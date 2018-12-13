@@ -1,28 +1,12 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
-Right ascension: 19 h 55 m 50.3577 s
-
-Declination: −26° 17′ 58.223″
-
-Apparent magnitude: 4.70
-
-Distance: 78 ± 2 ly
-
-Radius: 1.1 R
-
-Temperature: 5400 K
-
-Rotational velocity: 2 km/s
-
-
-
-Omega Sagittarii (ω Sagittarii, abbreviated Ome Sgr, ω Sgr), also named Terebellum, is a G-type subgiant star in the constellation of Sagittarius.  It has an apparent visual magnitude of approximately 4.70.
-
-
-== Nomenclature ==
-ω Sagittarii (Latinised to Omega Sagittarii) is the star's Bayer designation.
-This star, together with 60, 62 and 59 Sagittarii, formed the asterism called Terebellum. According to a 1971 NASA memorandum, Terebellum was originally the title for four stars: Omega Sagittarii as Terebellum I, 59 Sagittarii as Terebellum II, 60 Sagittarii as Terebellum III and 62 Sagittarii as Terebellum IV . In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Terebellum for Omega Sagittarii on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 狗國 (Gǒu Guó), meaning Dog Territory, refers to an asterism consisting of Omega Sagittarii, 60 Sagittarii, 62 Sagittarii and 59 Sagittarii. Consequently, Omega Sagittarii itself is known as 狗國一 (Gǒu Guó yī, English: the First Star of Dog Territory.)
+Right ascension: 20 h 02 m 39.4805 s
+Declination: −27° 42′ 35.441″
+Apparent magnitude: 4.45 to 4.64
+Distance: approx. 450 ly
+Radius: 70 R
+== Brief description ==
+62 Sagittarii (62 Sgr) or c Sagittarii (c Sgr) is an M-type giant star in the constellation of Sagittarius.  It is the southwest corner of the asterism called the Terebellum.  It is an irregular variable whose apparent visual magnitude varies between 4.45 and 4.64, and, at its brightest, it is the brightest of the four stars in the Terebellum.  It is approximately 450 light-years from Earth.  62 Sagittarii is the star in the Terebellum which is most distant from its centre; it is 1.72° from its northwest corner, 60 Sagittarii, and 1.37° from its southeast corner, 59 Sagittarii.
 
 

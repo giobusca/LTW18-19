@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Boötes
-
 Right ascension: 15 h 24 m 29.42836 s
-
 Declination: +37° 22′ 37.7577″
-
 Apparent magnitude: 4.31
-
 Distance: 121 ± 3 ly
-
 Radius: 1.9 R
-
 Luminosity: 20 L
-
 Rotational velocity: 96 km/s
-
-
-
+== Brief description ==
 Mu Boötis, Latinized from μ Boötis, consists of a pair of double stars in the northern constellation of Boötes. The primary pair, components Aa, are designated μ1 Boötis and have an angular separation of 0.08″. The secondary, consisting of components BC, is designated μ2 Boötis and they have a separation of 2.2″. The two double star systems are separated by 107″, with matching parallaxes and proper motions, suggesting they form a system. However, compents BC have a different chemical composition compared to Aa, indicating this may instead be a close encounter between two binary systems.Mu Boötis had the traditional name Alkalurops, although the International Astronomical Union now regards that name as only applying to μ1 Boötis.Mu Boötis is approximately 121 light-years from the Sun.
 
 

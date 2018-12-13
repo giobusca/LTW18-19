@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Aquarius
-
 Right ascension: 22 h 16 m 50.03635 s
-
 Declination: –07° 46′ 59.8480″
-
 Apparent magnitude: 4.175
-
 Distance: 187 ± 2 ly
-
 Mass: 2.39 M
-
 Radius: 12 R
-
 Luminosity: 72 L
-
 Temperature: 4,864 K
-
 Rotational velocity: 1.6 km/s
-
-
-
+== Brief description ==
 Theta Aquarii (θ Aquarii, abbreviated Theta Aqr, θ Aqr), also named Ancha, is a star in the equatorial constellation of Aquarius. Visible to the naked eye at apparent magnitude 4.175, it is located at a distance of around 187 light-years (57 parsecs) from the Sun. Since it is near the ecliptic it can be occulted by the Moon, or very rarely by planets.
 
 

@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Gemini
-
 Right ascension: 06 h 37 m 42.71050 s
-
 Declination: +16° 23′ 57.4095″
-
 Apparent magnitude: 1.915
-
 Distance: 109 ± 8 ly
-
 Mass: 2.81 M
-
 Radius: 3.3 R
-
 Luminosity: 123 L
-
 Temperature: 9,260 K
-
-
-
+== Brief description ==
 Gamma Geminorum (γ Geminorum, abbreviated Gamma Gem, γ Gem), also named Alhena, is the third-brightest star in the constellation of Gemini. It has an apparent visual magnitude of 1.9, making it easily visible to the naked eye even in urban regions. Based upon parallax measurements with the Hipparcos satellite, it is located at a distance of roughly 109 light-years (33 parsecs) from the Sun.
 
 

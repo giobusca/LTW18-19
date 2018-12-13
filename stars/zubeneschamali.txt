@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Libra
-
 Right ascension: 15 h 17 m 00.41382 s
-
 Declination: −09° 22′ 58.4919″
-
 Apparent magnitude: 2.61
-
 Distance: 185 ± 2 ly
-
 Radius: 4.9 R
-
 Luminosity: 130  L
-
 Rotational velocity: 250 km/s
-
-
-
+== Brief description ==
 Beta Librae (β Librae, abbreviated Beta Lib, β Lib), also named Zubeneschamali, is (despite its 'beta' designation) the brightest star in the zodiac constellation of Libra. From parallax measurements, its distance can be estimated as 185 light-years (57 parsecs) from the Sun.The apparent visual magnitude of this star is 2.6. According to Eratosthenes Beta Librae was observed to be brighter than Antares. Ptolemy, 350 years later, said it was as bright as Antares. The discrepancy may be due to Antares becoming brighter, but this is not known for certain. It could simply be caused by Beta Librae being a variable star, showing a present-day variability of 0.03 of a magnitude.
 
 

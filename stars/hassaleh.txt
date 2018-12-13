@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Auriga
-
 Right ascension: 04 h 56 m 59.62109 s
-
 Declination: +33° 09′ 57.9585″
-
 Apparent magnitude: 2.69
-
 Distance: 490 ± 30 ly
-
 Mass: 7.1 ± 0.7 M
-
 Radius: 127 R
-
 Luminosity: 4,581 L
-
 Temperature: 4,160 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Iota Aurigae (ι Aurigae, abbreviated Iota Aur, ι Aur), also named Hassaleh, is a star in the northern constellation of Auriga. It has an apparent visual magnitude of 2.7, which is bright enough to be readily visible to the naked eye. Parallax measurements give a distance estimate of roughly 490 light-years (150 parsecs) from the Sun.
 
 

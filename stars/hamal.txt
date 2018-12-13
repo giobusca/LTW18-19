@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Aries
-
 Right ascension: 02 h 07 m 10.40570 s
-
 Declination: +23° 27′ 44.7032″
-
 Apparent magnitude: 2.00
-
 Distance: 65.8 ± 0.3 ly
-
 Mass: 1.5 ± 0.2 M
-
 Radius: 14.9 ± 0.3 R
-
 Temperature: 4,480 K
-
 Rotational velocity: 3.44 km/s
-
-
-
+== Brief description ==
 Hamal, alternatively designated Alpha Arietis (α Arietis, abbreviated Alpha Ari, α Ari), is the brightest star in the northern zodiacal constellation of Aries.With an apparent visual magnitude of 2.0, it is among the brightest stars in the night sky. Based upon parallax measurements made with the Hipparcos astrometry satellite, Hamal is about 65.8 light-years (20.2 parsecs) from Earth. It is a giant star that may host an orbiting planet with a mass greater than Jupiter.
 
 

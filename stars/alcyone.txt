@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 47 m 29.077 s
-
 Declination: 24° 06′ 18.49″
-
 Apparent magnitude: 2.87
-
 Distance: 136ly
-
 Mass: 5.9-6.1 M
-
 Luminosity: 2,030 L
-
 Temperature: 12,258 K
-
 Rotational velocity: 149 km/s
-
-
-
+== Brief description ==
 Alcyone, designated η Tauri (Eta Tauri, abbreviated Eta Tau, η Tau), is a multiple star system in the constellation of Taurus. Approximately 440 light years from the Sun, it is the brightest star in the Pleiades open cluster, which is a young cluster, around 100 million years old. There are a number of fainter stars very close to Alcyone, all most probably members of the same cluster. 
 
 

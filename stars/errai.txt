@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Cepheus
-
 Right ascension: 23 h 39 m 20.852 s
-
 Declination: +77° 37′ 56.19″
-
 Apparent magnitude: 3.21
-
 Distance: 44.9 ± 0.3 ly
-
 Rotational velocity: 1.63 km/s
-
-
-
+== Brief description ==
 Gamma Cephei (γ Cephei, abbreviated Gamma Cep, γ Cep) is a binary star system approximately 45 light-years away in the constellation of Cepheus. The primary (designated Gamma Cephei A, also named Errai) is a stellar class K1 orange giant or subgiant star; it has a red dwarf companion (Gamma Cephei B). An extrasolar planet (designated Gamma Cephei Ab, later named Tadmor) is believed to be orbiting the primary.
 Gamma Cephei is the naked-eye star that will succeed Polaris as the Earth's northern pole star, due to the precession of the equinoxes. It will be closer to the northern celestial pole than Polaris around 3000 CE and will make its closest approach around 4000 CE. The 'title' will pass to Iota Cephei some time around 5200 CE.
 

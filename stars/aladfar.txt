@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Lyra
-
 Right ascension: 19 h 13 m 45.48832 s
-
 Declination: +39° 08′ 45.4801″
-
 Apparent magnitude: 4.40
-
 Distance: 1,390 ± 80 ly
-
 Luminosity: 6,605 L
-
 Temperature: 17,360 K
-
 Rotational velocity: 10 km/s
-
-
-
+== Brief description ==
 Eta Lyrae (η Lyrae, abbreviated Eta Lyr, η Lyr) is the primary or 'A' component of a triple star system in the constellation of Lyra. It is approximately 1,390 light-years from the Sun.The secondary or 'B' component is the star BD +38 3491. Eta Lyrae is itself a spectroscopic binary with components designated Aa (also named Aladfar) and Ab.
 
 

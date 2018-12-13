@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Leo Minor
-
 Right ascension: 10 h 53 m 18.70487 s
-
 Declination: +34° 12′ 53.5375″
-
 Apparent magnitude: (3.79 - 3.84
-
 Distance: 94.9 ± 0.6 ly
-
 Mass: 1.69 M
-
 Radius: 8.22 ± 0.22 R
-
 Luminosity: 34 ± 2 L
-
 Temperature: 4,670 K
-
 Rotational velocity: 1.81 km/s
-
-
-
+== Brief description ==
 46 Leonis Minoris (abbreviated 46 LMi), also named Praecipua, is the brightest star in the constellation of Leo Minor. It is of spectral class K0+III-IV and of magnitude 3.83. It is a red clump giant. Based upon parallax measurements, its distance from the Sun is approximately 95 light-years. It is a suspected variable with an amplitude of about 0.05 magnitudes.
 
 

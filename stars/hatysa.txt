@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 05 h 35 m 25.98191 s
-
 Declination: –05° 54′ 35.6435″
-
 Apparent magnitude: 2.77
-
 Distance: approx. 2,300 ly
-
 Mass: 23.1 M
-
 Radius: 8.3 R
-
 Luminosity: 68,000 L
-
 Temperature: 32,500 K
-
 Rotational velocity: 122 km/s
-
-
-
+== Brief description ==
 Iota Orionis (ι Orionis, abbreviated Iota Ori, ι Ori) is a multiple star system in the equatorial constellation of Orion the hunter. It is the eighth-brightest member of Orion with an apparent visual magnitude of 2.77 and also the brightest member of the asterism known as Orion's Sword. It is a member of the NGC 1980 open cluster. From parallax measurements, it is located at a distance of roughly 2,300 light-years (710 parsecs) from the Sun.The system has three components designated Iota Orionis A, B and C. Iota Orionis A is itself a massive spectroscopic binary, with components Iota Orionis Aa (also named Hatysa) and Ab.
 
 

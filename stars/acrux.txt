@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Crux
-
 Right ascension: 12 h 26 m 35.89522 s
-
 Declination: −63° 05′ 56.7343″
-
 Apparent magnitude: 0.76
-
 Distance: 320 ± 20 ly
-
 Mass: 17.80 + 6.05 M
-
 Luminosity: 25,000 L
-
 Temperature: 24,000 K
-
 Rotational velocity: 120 km/s
-
-
-
+== Brief description ==
 Alpha Crucis (α Crucis, abbreviated Alpha Cru, α Cru) is a multiple star system 321 light-years from the Sun in the constellation of Crux and part of the asterism known as the Southern Cross. With a combined visual magnitude of 0.76, it is the brightest star in Crux and the 13th brightest star in the night sky. It is the southernmost first-magnitude star, 2.3 degrees more southerly than Alpha Centauri.To the naked eye Alpha Crucis appears as a single star, but it is actually a multiple star system. Two components are visually distinguishable: α1 Crucis and α2 Crucis; alternatively designated α Crucis A and α Crucis B. Both are B-type stars, and are many times more massive and luminous than the Sun. α1 Crucis is itself a spectroscopic binary with components designated α Crucis Aa (also named Acrux) and α Crucis Ab. Its two component stars orbit every 76 days at a separation of about 1 astronomical unit (au).
 
 

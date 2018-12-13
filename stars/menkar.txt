@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cetus
-
 Right ascension: 03 h 02 m 16.77307 s
-
 Declination: +04° 05′ 23.0596″
-
 Apparent magnitude: 2.53
-
 Distance: 249 ± 8 ly
-
 Mass: 2.3 ± 0.2 M
-
 Radius: 89 ± 5 R
-
 Luminosity: 1455 ± 328 L
-
 Temperature: 3,795 ± 70 K
-
 Rotational velocity: 6.9 km/s
-
-
-
+== Brief description ==
 Alpha Ceti (α Ceti, abbreviated Alpha Cet, α Cet), also named Menkar, is the second-brightest star in the constellation of Cetus.  It is a cool luminous red giant about 250 light years away.
 
 

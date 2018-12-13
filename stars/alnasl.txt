@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 18 h 05 m 48.48810 s
-
 Declination: –30° 25′ 26.7235″
-
 Apparent magnitude: +2.98
-
 Distance: 96.9 ± 0.5 ly
-
 Radius: 12 R
-
 Luminosity: 68 L
-
 Temperature: 4,760 K
-
-
-
+== Brief description ==
 Gamma² Sagittarii (γ² Sagittarii, abbreviated Gamma² Sgr, γ² Sgr), also named Alnasl, is a 3rd-magnitude star in the zodiac constellation of Sagittarius. The location of this star forms the tip of the arrow in the bow of Sagittarius the Centaur. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 96.9 light-years (29.7 parsecs) from the Sun. It has an apparent visual magnitude of +2.98, making it the seventh-brightest star in the constellation.
 It forms part of a double star along with a fainter optical companion designated Gamma¹ Sagittarii located about 50 arcminutes north of this star. The latter is a magnitude 4.7 Cepheid variable star that also has the variable star designation W Sagittarii.
 

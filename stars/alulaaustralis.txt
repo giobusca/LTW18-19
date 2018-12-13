@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 11 h 18 m 10.902 s
-
 Declination: +31° 31′ 44.98″
-
 Apparent magnitude: 4.264
-
 Distance: 29 ± 1 ly
-
 Mass: 0.97  M
-
 Radius: 1.02 ± 0.04  R
-
 Temperature: 6005 ± 80  K
-
 Rotational velocity: 1.0 ± 1.0 km/s km/s
-
-
-
+== Brief description ==
 Xi Ursae Majoris (ξ Ursae Majoris, abbreviated Xi UMa, ξ UMa), also named Alula Australis, is a star system in the constellation of Ursa Major. On May 2, 1780, Sir William Herschel discovered that this was a binary star system, making it the first such system ever discovered. It was the first visual double star for which an orbit was calculated, when it was computed by Félix Savary in 1828.  It is also a variable star with a small amplitude.  Xi Ursae Majoris is found in the left hind paw of the Great Bear.
 
 

@@ -1,33 +1,22 @@
 ==Datasheet==
 
 Constellation: Aries
-
 Right ascension: 03 h 11 m 37.76465 s
-
 Declination: +19° 43′ 36.0397″
-
 Apparent magnitude: 4.349
-
 Distance: 170 ± 2 ly
-
 Mass: 1.91 M
-
 Radius: 10.42 ± 0.97 R
-
 Luminosity: 45 ± 6 L
-
 Temperature: 4,810 K
-
 Rotational velocity: 4.3 km/s
-
-
-
+== Brief description ==
 Delta Arietis (δ Arietis, abbreviated Delta Ari, δ Ari), also named Botein, is a star in the northern constellation of Aries, 1.8 degrees north of the ecliptic. The apparent visual magnitude is 4.35, so it is visible to the naked eye. It has an annual parallax shift of 19.22 mas; corresponding to a distance of about 170 light-years (52 parsecs) from the Sun.
 
 
 == Nomenclature ==
 δ Arietis (Latinised to Delta Arietis) is the star's Bayer designation.
-It bore the traditional name Botein which is derived from Al Bīrūnī's Al Buṭayn (Arabic ألبطين), the dual of Al Baṭn, "the Belly". This is the name of a star association consisting of this star, Epsilon Arietis, Zeta Arietis, Pi Arietis, and Rho3 Arietis According to a 1971 NASA catalogue of stars, Al Buṭain was the title for five stars :Delta Arietis (listed as Botein), Pi Arietis (as Al Buṭain I), Rho3 Arietis (Al Buṭain II), Epsilon Arietis (Al Buṭain III) and Zeta Arietis (Al Buṭain IV). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Botein for this star on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Nir al Botain, which was translated into Latin as Lucida Ventris, meaning "the brightest of the belly".In Chinese, 天陰 (Tiān Yīn), meaning Yin Force, refers to an asterism consisting of Delta Arietis, 63 Arietis, Zeta Arietis, Tau Arietis and 65 Arietis. Consequently, Delta Arietis itself is known as 天陰四 (Lóu Su sì, English: the Fourth Star of Yin Force.)
+It bore the traditional name Botein which is derived from Al Bīrūnī's Al Buṭayn (Arabic البُطَين), the diminutive of Al Baṭn, "the Belly". This is the name of a star association consisting of this star, Epsilon Arietis, Zeta Arietis, Pi Arietis, and Rho3 Arietis According to a 1971 NASA catalogue of stars, Al Buṭain was the title for five stars :Delta Arietis (listed as Botein), Pi Arietis (as Al Buṭain I), Rho3 Arietis (Al Buṭain II), Epsilon Arietis (Al Buṭain III) and Zeta Arietis (Al Buṭain IV). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Botein for this star on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, this star was designated Nir al Botain, which was translated into Latin as Lucida Ventris, meaning "the brightest of the belly".In Chinese, 天陰 (Tiān Yīn), meaning Yin Force, refers to an asterism consisting of Delta Arietis, 63 Arietis, Zeta Arietis, Tau Arietis and 65 Arietis. Consequently, Delta Arietis itself is known as 天陰四 (Lóu Su sì, English: the Fourth Star of Yin Force.)
 
 
 == Properties ==

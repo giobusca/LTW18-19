@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 49 m 11.2161 s
-
 Declination: 24° 08′ 12.163″ 
-
 Apparent magnitude: 5.048 
-
 Distance: 392 ± 6 ly
-
 Mass: 3.4  M
-
 Radius: 3.2  R
-
 Luminosity: 190  L
-
 Temperature: 12,000  K
-
 Rotation: 329 km/s 
-
-
-
+== Brief description ==
 Pleione, designated 28 Tauri and BU Tauri (abbreviated 28 Tau or BU Tau), is a binary star and the seventh-brightest star in the Pleiades star cluster (Messier 45). It is located approximately 120 parsecs (390 light-years) from the Sun, appearing in the constellation of Taurus. Pleione is located close on the sky to the brighter star Atlas, so is difficult for stargazers to distinguish with the naked eye despite being a fifth magnitude star.
 The brighter star of the Pleione binary pair, component A, is a hot type B star 190 times more luminous than the Sun. It is classified as Be star with certain distinguishing traits: periodic phase changes and a complex circumstellar environment composed of two gaseous disks at different angles to each other. The primary star rotates rapidly, close to its breakup velocity, even faster than Achernar. Although some research on the companion star has been performed, stellar characteristics of the orbiting B component are not well known.
 

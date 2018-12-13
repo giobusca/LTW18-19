@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Cassiopeia
-
 Right ascension: 00 h 56 m 39.905 s
-
 Declination: +59° 10′ 51.80″
-
 Apparent magnitude: +4.62
-
 Distance: 200 ± 3 ly
-
 Luminosity: 67.6  L
-
-
-
+== Brief description ==
 Upsilon² Cassiopeiae (υ² Cassiopeiae, abbreviated Ups² Cas, υ² Cas), also named Castula, is a solitary star in the constellation of Cassiopeia. It is a yellow G-type giant with an apparent magnitude of +4.62 and is approximately 200 light-years from the Sun.
 
 

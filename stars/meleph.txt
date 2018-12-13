@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 40 m 27.01052 s
-
 Declination: 19° 32′ 41.3133″
-
 Apparent magnitude: 6.29
-
 Distance: approx. 590 ly
-
 Luminosity: 83.50 L
-
 Temperature: 7,851 K
-
 Rotational velocity: 82 km/s
-
-
-
+== Brief description ==
 Epsilon Cancri (ε Cancri, abbreviated Eps Cnc, ε Cnc) is a white-hued binary star system in the zodiac constellation of Cancer. It is the brightest member of the Beehive Cluster with an apparent visual magnitude of +6.29, which is near the lower limit of visibility with the naked eye. The annual parallax shift of 21.04 mas as seen from Earth yields a distance estimate of approximately 590 light-years from the Sun.
 The two components are designated Epsilon Cancri A and B. A is itself a spectroscopic binary with components designated Epsilon Cancri Aa (also named Meleph) and Ab. Component B is HD 73711.
 

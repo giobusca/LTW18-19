@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Pegasus
-
 Right ascension: 22 h 50 m 00.19315 s
-
 Declination: +24° 36′ 05.6984″
-
 Apparent magnitude: 3.514
-
 Distance: 106.1 ± 0.9 ly
-
 Mass: 2.7 M
-
 Radius: 9.6 ± 0.4 R
-
 Temperature: 4,950 K
-
 Rotational velocity: 4.0 km/s
-
-
-
+== Brief description ==
 Mu Pegasi (μ Pegasi, abbreviated Mu Peg, μ Peg), also named Sadalbari, is a star in the northern constellation of Pegasus. The apparent visual magnitude of this star is 3.5, which is bright enough to be seen with the naked eye even on a moonlit night. Based upon parallax measurements taken during the Hipparcos mission, it is approximately 106 light-years (32 parsecs) from the Sun.
 
 

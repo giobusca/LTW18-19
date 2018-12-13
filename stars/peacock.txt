@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Pavo
-
 Right ascension: 20 h 25 m 38.85705 s
-
 Declination: −56° 44′ 06.3230″
-
 Apparent magnitude: 1.94
-
 Distance: 179 ± 5 ly
-
 Mass: 5.91 M
-
 Radius: 4.83 R
-
 Luminosity: 2,200 L
-
 Temperature: 17,711 K
-
 Rotational velocity: 16 km/s
-
-
-
+== Brief description ==
 Alpha Pavonis (α Pavonis, abbreviated Alpha Pav, α Pav), also named Peacock, is a binary star in the southern constellation of Pavo, near the border with the constellation Telescopium.
 
 

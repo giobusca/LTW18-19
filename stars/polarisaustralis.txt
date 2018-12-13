@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Octans
-
 Right ascension: 21 h 08 m 46.83929 s
-
 Declination: −88° 57′ 23.3966″
-
 Apparent magnitude: 5.47
-
 Distance: 281 ± 8 ly
-
 Mass: 1.59 M
-
 Luminosity: 38 L
-
 Rotational velocity: 145 km/s
-
-
-
+== Brief description ==
 Sigma Octantis (σ Octantis, abbreviated Sig Oct, σ Oct), also named Polaris Australis, is the current South Star. Its position near the southern celestial pole makes it the southern hemisphere's pole star. This is a solitary star in the southern circumpolar constellation of Octans. Located approximately 281 light-years from Earth, it is classified as a giant star with a spectral type of F0 III. Sigma Octantis is a Delta Scuti variable, with its average magnitude of 5.47 varying by about 0.03 magnitudes every 2.33 hours.
 
 

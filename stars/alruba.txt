@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 17 h 43 m 59.17049 s
-
 Declination: +54° 48′ 06.1637″
-
 Apparent magnitude: 5.76
-
 Distance: 457 ± 4 ly
-
 Mass: 2.4 M
-
 Temperature: 10,000 K
-
-
-
+== Brief description ==
 HD 161693, also designated HR 6618 and named Alruba, is a star in the northern circumpolar constellation of Draco. Based on parallax measurements obtained during the Gaia mission, it is about 457 light-years (140 parsecs) distant from the Sun.
 
 

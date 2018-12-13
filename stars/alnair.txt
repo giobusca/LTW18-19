@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Grus
-
 Right ascension: 22 h 08 m 13.98473 s
-
 Declination: –46° 57′ 39.5078″
-
 Apparent magnitude: +1.74
-
 Distance: 101.0 ± 0.7 ly
-
 Mass: 4.0 M
-
 Radius: 3.4 R
-
 Luminosity: 520 L
-
 Temperature: 13,920 K
-
 Rotational velocity: 215 km/s
-
-
-
+== Brief description ==
 Alpha Gruis, Latinized from α Gruis, also named Alnair, is the brightest star in the southern constellation of Grus.
 
 

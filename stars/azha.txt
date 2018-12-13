@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 02 h 56 m 25.64948 s
-
 Declination: −08° 53′ 53.3221″
-
 Apparent magnitude: +3.87
-
 Distance: 137 ± 1 ly
-
 Mass: 1.43 M
-
 Radius: 10.48 R
-
 Luminosity: 57.5 L
-
 Temperature: 4,742 K
-
 Rotational velocity: 2.34 km/s
-
-
-
+== Brief description ==
 Eta Eridani (η Eridani, abbreviated Eta Eri, η Eri), also named Azha, is a giant star in the constellation of Eridanus. Based on parallax measurements taken during the Hipparcos mission, it is approximately 137 light-years from the Sun.
 
 

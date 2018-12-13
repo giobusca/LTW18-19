@@ -1,32 +1,21 @@
 ==Datasheet==
 
 Constellation: Auriga
-
 Right ascension: 05 h 16 m 41.35871 s
-
 Declination: +45° 59′ 52.7693″
-
-Apparent magnitude: +0.03 – +0.16
-
+Apparent magnitude: (+0.03 – +0.16
 Distance: 42.919 ± 0.049 ly
-
 Mass: 2.5687 ± 0.0074  M
-
 Radius: 11.98 ± 0.57  R
-
 Temperature: 4,970 ± 50  K
-
 Rotation: 104 ± 3 days
-
 Rotational velocity: 4.1 ± 0.4 km/s km/s
-
-
-
+== Brief description ==
 Capella, also designated Alpha Aurigae (α Aurigae, abbreviated Alpha Aur, α Aur), is the brightest point of light in the constellation of Auriga, the sixth-brightest in the night sky, and the third-brightest in the northern celestial hemisphere after Arcturus and Vega. A prominent object in the winter sky of the northern hemisphere, it is circumpolar to observers north of 44°N. Its name meaning "little goat" in Latin, Capella depicted the goat Amalthea that suckled Zeus in classical mythology. The Capella system is relatively close, at only 42.9 light-years (13.2 pc) from the Sun.
-Although it appears to be a single star to the naked eye, Capella is actually a quadruple star system in two binary pairs made up of the stars Capella Aa, Capella Ab, Capella H, and Capella L.
-The first pair, Capella Aa and Capella Ab, are two bright yellow giant stars, both of which are around 2.5 times as massive as the Sun. The second pair, Capella H and Capella L, are around 10,000 astronomical units (AU) from the first and are two faint, small and relatively cool red dwarfs.
-Capella Aa and Capella Ab have exhausted their core hydrogen, and cooled and expanded, moving off the main sequence. They are in a very tight circular orbit about 0.74 AU apart, and orbit each other every 104 days. Capella Aa is the cooler and more luminous of the two with spectral class K0III; it is 78.7 ± 4.2 times the Sun's luminosity and 11.98 ± 0.57 times its radius. An ageing red clump star, Capella Aa is fusing helium to carbon and oxygen in its core. Ab is slightly smaller and hotter and of spectral class G1III; it is 72.7 ± 3.6 times as luminous as the Sun and 8.83 ± 0.33 times its radius. It is in the Hertzsprung gap, corresponding to a brief subgiant evolutionary phase as it expands and cools to become a red giant.
-The Capella system is one of the brightest sources of X-rays in the sky, thought to come primarily from the corona of Capella Aa.
+Although it appears to be a single star to the naked eye, Capella is actually a quadruple star system in two binary pairs made up of the stars Capella Aa, Capella Ab, Capella H, and Capella L.   
+The first pair, Capella Aa and Capella Ab, are two bright yellow giant stars, both of which are around 2.5 times as massive as the Sun. The second pair, Capella H and Capella L, are around 10,000 astronomical units (AU) from the first and are two faint, small and relatively cool red dwarfs.  
+Capella Aa and Capella Ab have exhausted their core hydrogen, and cooled and expanded, moving off the main sequence. They are in a very tight circular orbit about 0.74 AU apart, and orbit each other every 104 days. Capella Aa is the cooler and more luminous of the two with spectral class K0III; it is 78.7 ± 4.2 times the Sun's luminosity and 11.98 ± 0.57 times its radius. An ageing red clump star, Capella Aa is fusing helium to carbon and oxygen in its core. Ab is slightly smaller and hotter and of spectral class G1III; it is 72.7 ± 3.6 times as luminous as the Sun and 8.83 ± 0.33 times its radius. It is in the Hertzsprung gap, corresponding to a brief subgiant evolutionary phase as it expands and cools to become a red giant.  
+The Capella system is one of the brightest sources of X-rays in the sky, thought to come primarily from the corona of Capella Aa.   
 Several other stars in the same visual field have been catalogued as companions but are physically unrelated.
 
 
@@ -93,3 +82,5 @@ Mazda Capella, a model of automobile manufactured by Mazda
 
 
 == Notes ==
+
+

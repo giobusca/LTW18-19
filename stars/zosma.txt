@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 11 h 14 m 06.50142 s
-
 Declination: 20° 31′ 25.3853″
-
 Apparent magnitude: 2.56
-
 Distance: 58.4 ± 0.3 ly
-
 Mass: 2.2 M
-
 Radius: 2.14 ± 0.040 R
-
 Luminosity: 15.5 ± 1.8 L
-
 Temperature: 8,296 K
-
 Rotational velocity: 180 km/s
-
-
-
+== Brief description ==
 Delta Leonis (δ Leonis, abbreviated Delta Leo, δ Leo), also named Zosma, is a star in the zodiac constellation of Leo. Based upon parallax measurements, it lies at a distance of about 58.4 light-years (17.9 parsecs) from the Sun.
 
 

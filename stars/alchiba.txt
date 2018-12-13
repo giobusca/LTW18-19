@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Corvus
-
 Right ascension: 12 h 08 m 24.81652 s
-
 Declination: −24° 43′ 43.9504″
-
 Apparent magnitude: 4.03
-
 Distance: 48.7 ± 0.1 ly
-
 Mass: 1.39 M
-
 Luminosity: 4.91 L
-
 Temperature: 7,041 ± 53 K
-
 Rotational velocity: 16.9 ± 1.5 km/s
-
-
-
+== Brief description ==
 Alpha Corvi (α Corvi, abbreviated Alpha Crv, α Crv), also named Alchiba, is an F-type main-sequence star and the fifth-brightest star in the constellation of Corvus. Based on parallax measurements made during the Hipparcos mission, it is approximately 49 light-years from the Sun.
 
 

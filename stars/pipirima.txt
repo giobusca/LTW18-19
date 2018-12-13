@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 16 h 52 m 20.14532 s
-
 Declination: −38° 01′ 03.1258″
-
 Apparent magnitude: +3.56
-
 Distance: 474 ± 8 ly
-
 Radius: 7.0 R
-
 Luminosity: 2,385 L
-
 Temperature: 23,113 K
-
 Rotational velocity: 58 km/s
-
-
-
+== Brief description ==
 Mu² Scorpii (μ² Scorpii, abbreviated Mu² Sco, μ² Sco), also named Pipirima, is a star in the zodiac constellation of Scorpius. It has an apparent visual magnitude of +3.56, which is bright enough to be seen with the naked eye. Its distance from the Sun is about 474 light-years, as determined by parallax measurements. It is a member of the Upper Centaurus-Lupus subgroup of the Scorpius–Centaurus Association.
 
 

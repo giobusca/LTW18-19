@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 04 h 15 m 16.31963 s
-
 Declination: −07° 39′ 10.3404″
-
 Apparent magnitude: 4.43
-
 Distance: 16.26 ± 0.02 ly
-
 Mass: 0.84  M
-
 Radius: 0.81 R
-
 Luminosity: 0.46 L
-
 Temperature: 5,300 K
-
 Rotation: ~37–43
-
 Rotational velocity: 1.23 ± 0.28 km/s
-
-
-
+== Brief description ==
 40 Eridani (abbreviated 40 Eri), also designated Omicron² Eridani (ο² Eridani, abbreviated Omicron² Eri, ο² Eri), is a triple star system in the constellation of Eridanus. Based on parallax measurements taken during the Hipparcos mission, it is less than 17 light-years from the Sun.
 The primary star of the system, designated 40 Eridani A, also named Keid, is easily visible to the naked eye. It is orbited by a binary pair whose two components are designated 40 Eridani B and C, and which were discovered on January 31, 1783, by William Herschel. It was again observed by Friedrich Struve in 1825 and by Otto Struve in 1851.In 1910, it was discovered that although component B was a faint star, it was white in color. This meant that it had to be a small star; in fact it was a white dwarf, the first discovered. Although it is neither the closest white dwarf, nor the brightest in the night sky, it is by far the easiest to observe; it is nearly three magnitudes brighter than Van Maanen's Star (the nearest solitary white dwarf), and unlike the companions of Procyon and Sirius it is not swamped in the glare of a much brighter primary.
 

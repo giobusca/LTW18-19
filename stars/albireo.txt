@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Cygnus
-
 Right ascension: 19 h 30 m 43.286 s
-
 Declination: +27° 57′ 34.84″
-
 Apparent magnitude: 3.18
-
 Distance: 430 ± 20 ly
-
 Mass: 14.52 M
-
 Radius: 2.59 R
-
 Temperature: 4,270 K
-
 Rotational velocity: 1.4 km/s
-
-
-
+== Brief description ==
 Albireo is the traditional name for the double star also designated Beta Cygni (β Cygni, abbreviated Beta Cyg, β Cyg), although the International Astronomical Union now regards the name as only applying to the brightest component. Although designated 'beta', it is fainter than Gamma Cygni, Delta Cygni, and Epsilon Cygni and is the fifth-brightest point of light in the constellation of Cygnus. Appearing to the naked eye to be a single star of magnitude 3, viewing through even a low-magnification telescope resolves it into its two components. The brighter yellow star (actually itself a very close binary system) makes a striking colour contrast with its fainter blue companion.
 
 

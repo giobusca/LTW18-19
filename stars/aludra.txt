@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Canis Major
-
 Right ascension: 07 h 24 m 05.70228 s
-
 Declination: –29° 18′ 11.1798″
-
 Apparent magnitude: 2.450
-
 Distance: approx. 2,000 ly
-
 Mass: 19.19 ± 1.15 M
-
 Radius: 56.3 R
-
 Luminosity: 105,442 L
-
 Temperature: 15,000 K
-
 Rotational velocity: 50 km/s
-
-
-
+== Brief description ==
 Eta Canis Majoris (η Canis Majoris, abbreviated Eta CMa, η CMa), also named Aludra, is a star in the constellation of Canis Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.
 
 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 19 h 12 m 33.30197 s
-
 Declination: +67° 39′ 41.5456″
-
 Apparent magnitude: 3.07
-
 Distance: 97.4 ± 0.3 ly
-
 Mass: 2.32 M
-
 Radius: 11 R
-
 Luminosity: 59 L
-
 Temperature: 4,820 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Delta Draconis (δ Draconis, abbreviated Delta Dra, δ Dra), also named Altais, is a yellow star in the constellation of Draco. It has an apparent visual magnitude of 3.0, making it easily visible to the naked eye. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 97.4 light-years (29.9 parsecs) from the Sun.
 
 

@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 09 h 28 m 39.98840 s
-
 Declination: +45° 36′ 05.3344″
-
 Apparent magnitude: 5.413
-
 Distance: 280 ± 9 ly
-
 Radius: 11 R
-
 Luminosity: 55 L
-
 Rotational velocity: <sup class="reference" id="cite_ref-aj135_1_209_5-2"><a href="#cite_note-aj135_1_209-5">[5]</a></sup> km/s
-
-
-
+== Brief description ==
 41 Lyncis (abbreviated 41 Lyn), also designated HD 81688 and named Intercrus, is a fifth magnitude star located in the northern constellation of Ursa Major. An extrasolar planet (designated 41 Lyncis b or HD 81688 b, later named Arkas) is thought to be orbiting the star.
 
 

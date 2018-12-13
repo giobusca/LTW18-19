@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Lynx
-
 Right ascension: 08 h 22 m 50.13 s
-
 Declination: +43° 11′ 18.1″
-
 Apparent magnitude: +4.25
-
 Distance: 380 ± 10 ly
-
 Temperature: 3921  ± 19 K
-
-
-
+== Brief description ==
 31 Lyncis, also named Alsciaukat, is the fourth-brightest star in the constellation of Lynx. It is an orange giant star located about 390 light-years from the Sun. Its apparent magnitude is +4.25 and it belongs to the spectral class K4.5III-IIIb. 
 A 1993 study found that it varied in brightness by 0.05 magnitude over 25 to 30 days.Analysis of HIPPARCOS data showed that it was slightly variable by 0.0055 magnitude.
 

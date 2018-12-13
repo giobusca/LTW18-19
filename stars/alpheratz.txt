@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Andromeda
-
 Right ascension: 00 h 08 m 23.25988 s
-
 Declination: +29° 05′ 25.5520″
-
 Apparent magnitude: 2.06 (2.22 + 4.21)
-
 Distance: 97 ± 1 ly
-
 Mass: 3.8 ± 0.2 M
-
 Radius: 2.7 ± 0.4 R
-
 Temperature: 13,800 K
-
 Rotation: 2.38195 
-
 Rotational velocity: 52 km/s km/s
-
-
-
+== Brief description ==
 Alpha Andromedae (α Andromedae, abbreviated Alpha And or α And), also named Alpheratz, is located 97 light-years from the Sun and is the brightest star in the constellation of Andromeda. Located immediately northeast of the constellation of Pegasus, it is the upper left star of the Great Square of Pegasus.
 Although it appears to the naked eye as a single star, with overall apparent visual magnitude +2.06, it is actually a binary system composed of two stars in close orbit. The chemical composition of the brighter of the two stars is unusual as it is a mercury-manganese star whose atmosphere contains abnormally high levels of mercury, manganese, and other elements, including gallium and xenon. It is the brightest mercury-manganese star known.
 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Lepus
-
 Right ascension: 05 h 32 m 43.81612 s
-
 Declination: −17° 49′ 20.2414″
-
 Apparent magnitude: 2.589
-
 Distance: 2,200 ± 200 ly
-
 Mass: 13.9 ± 0.8 M
-
 Radius: 129 R
-
 Luminosity: 32,000 L
-
 Temperature: 6,850 ± 80 K
-
 Rotational velocity: 21 km/s
-
-
-
+== Brief description ==
 Alpha Leporis (α Leporis, abbreviated Alpha Lep, α Lep), also named Arneb, is the brightest star in the constellation of Lepus.
 Alpha Leporis is the star's Bayer designation. The traditional name Arneb comes from the Arabic أرنب  ’arnab 'hare' ('Lepus' is Latin for hare). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Arneb for this star.
 In Chinese, 廁 (Cè), meaning Toilet, refers to an asterism consisting of α Leporis, β Leporis, γ Leporis and δ Leporis. Consequently, α Leporis itself is known as 廁一 (Cè yī), "the First Star of Toilet".This is a massive star with about 14 times the mass of the Sun. The interferometer-measured angular diameter of this star, after correction for limb darkening, is 1.77 ± 0.09 mas. At an estimated distance of 2,218 light-years (680 parsecs), this yields a physical size of about 129 times the radius of the Sun. Alpha Leporis has a stellar classification of F0 Ib, with the Ib luminosity class indicating that it is a lower luminosity supergiant star. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. The effective temperature of the outer envelope is about 6,850 K, which gives the star a yellow-white hue that is typical of F-type stars. It is an estimated 13 million years old.Alpha Leporis is an older, dying star that may have already passed through a supergiant phase and is now contracting and heating up in the latter phases of stellar evolution, or perhaps is still expanding into the supergiant phase. Based upon its estimated mass, it is expected to end its life in a spectacular stellar explosion known as a supernova. However, this is not expected to happen for another million years. 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Pegasus
-
 Right ascension: 21 h 44 m 11.15614 s
-
 Declination: +09° 52′ 30.0311″
-
 Apparent magnitude: 2.399
-
 Distance: 690 ± 20 ly
-
 Mass: 11.7 ± 0.8 M
-
 Radius: 185 R
-
 Luminosity: 3895 L
-
 Temperature: 4,379 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Epsilon Pegasi (ε Pegasi, abbreviated Epsilon Peg, ε Peg), also named Enif (EE-nif), is the brightest star in the northern constellation of Pegasus. With an apparent visual magnitude of 2.4, this is a second-magnitude star that is readily visible to the naked eye. The distance to this star can be estimated using parallax measurements from the Hipparcos astrometry satellite, yielding a value of around 690 light-years (210 parsecs).
 
 

@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Capricornus
-
 Right ascension: 21 h 40 m 05.4563 s
-
 Declination: −16° 39′ 44.308″
-
 Apparent magnitude: +3.67
-
 Distance: 139 ± 7 ly
-
 Temperature: 7,520 K
-
 Rotational velocity: 40 km/s
-
-
-
+== Brief description ==
 Gamma Capricorni (γ Capricorni, abbreviated Gamma Cap, γ Cap), also named Nashira, is a giant star in the constellation of Capricornus. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 139 light-years from the Sun. Because it is near the ecliptic, it can be occulted by the Moon, and (rarely) by planets.
 
 

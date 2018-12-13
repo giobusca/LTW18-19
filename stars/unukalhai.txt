@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Serpens
-
 Right ascension: 15 h 44 m 16.07431 s
-
 Declination: +06° 25′ 32.2633″
-
 Apparent magnitude: 2.623
-
 Distance: 74.0 ± 0.3 ly
-
 Radius: 12 R
-
 Luminosity: 70 L
-
 Temperature: 4,498 K
-
 Rotational velocity: 4.3 km/s
-
-
-
+== Brief description ==
 Alpha Serpentis (α Serpentis, abbreviated Alpha Ser, α Ser), also named Unukalhai, is a double star in the head (Serpens Caput) of the equatorial constellation of Serpens. With an apparent visual magnitude of 2.6, this star is the brightest in the constellation and it can be viewed with the naked eye from most of the Earth. Parallax measurements yield an estimated distance of about 74 light-years (23 parsecs) from the Sun.
 
 

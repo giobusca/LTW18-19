@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 10 h 16 m 41.41597 s
-
 Declination: +23° 25′ 02.3221″
-
 Apparent magnitude: 3.33
-
 Distance: 274 ± 4 ly
-
 Mass: 3 M
-
 Radius: 6 R
-
 Luminosity: 85 L
-
 Temperature: 6,792 K
-
 Rotational velocity: 72.4 km/s
-
-
-
+== Brief description ==
 Zeta Leonis (ζ Leonis, abbreviated Zeta Leo, ζ Leo), also named Adhafera, is a third-magnitude star in the constellation of Leo, the lion. It forms the second star (after Gamma Leonis) in the blade of 'the Sickle', which is an asterism formed from the head of Leo.
 
 

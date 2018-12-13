@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 19 h 32 m 21.59026 s
-
 Declination: +69° 39′ 40.2354″
-
 Apparent magnitude: 4.674
-
 Distance: 18.77 ± 0.02 ly
-
 Rotational velocity: 1.4 km/s
-
-
-
+== Brief description ==
 Sigma Draconis (σ Draconis, abbreviated Sig Dra, σ Dra), also named Alsafi, is a 4.7-magnitude star located at a distance of 18.8 light-years from the Sun in the constellation of Draco.
 
 

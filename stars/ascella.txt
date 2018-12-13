@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 19 h 02 m 36.73024 s
-
 Declination: –29° 52′ 48.2279″
-
 Apparent magnitude: +2.59
-
 Distance: 88 ± 2 ly
-
 Mass: 5.26 ± 0.37 M
-
 Temperature: 8,799 K
-
 Rotational velocity: 77 km/s
-
-
-
+== Brief description ==
 Zeta Sagittarii (ζ Sagittarii, abbreviated Zeta Sgr, ζ Sgr) is a triple star system and the third-brightest star in the constellation of Sagittarius.  Based upon parallax measurements, it is about 88 ly (27 pc) from the Sun.The three components are designated Zeta Sagittarii A (also named Ascella) and B, themselves forming a binary pair, and a smaller companion star, C.
 
 

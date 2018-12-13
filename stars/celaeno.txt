@@ -1,27 +1,17 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 44 m 48.2154 s
-
 Declination: +24° 17′ 22.093″
-
 Apparent magnitude: +5.448
 
 Distance: approx. 430 ly
-
 Mass: 4.0 M
-
 Radius: 4.4 R
-
 Luminosity: 344 L
-
 Temperature: 12,800 K
-
 Rotational velocity: 185 km/s
-
-
-
+== Brief description ==
 Celaeno, also designated 16 Tauri, is a star in the constellation of Taurus and a member of the Pleiades open star cluster (M45) of stars.
 
 
@@ -36,3 +26,5 @@ It bore the traditional named Celaeno (or Celeno) and was called the "Lost Pleia
 
 === Namesake ===
 USS Celeno (AK-76) was a United States Navy Crater class cargo ship named after the star.
+
+

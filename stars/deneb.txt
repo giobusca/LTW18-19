@@ -1,32 +1,21 @@
 ==Datasheet==
 
 Constellation: Cygnus
-
 Right ascension: 20 h 41 m 25.9 s
-
 Declination: +45° 16′ 49″
-
-Apparent magnitude: 1.21 - 1.29
-
+Apparent magnitude: (1.21 - 1.29
 Distance: 2615 ± 215 ly
-
 Mass: 19 ± 4 M
-
 Radius: 203 ± 17 R
-
 Luminosity: 196,000 ± 32,000 L
-
 Temperature: 8,525 ± 75 K
-
 Rotational velocity: 20 ± 2 km/s
-
-
-
+== Brief description ==
 Deneb (), also designated α Cygni (Latinised alpha Cygni, abbreviated Alpha Cyg, α Cyg), is the brightest star in the constellation of Cygnus, the swan. It is one of the vertices of the asterism known as the Summer Triangle and forms the 'head' of the Northern Cross. It is the 19th brightest star in the night sky, with an apparent magnitude of 1.25. A blue-white supergiant, Deneb is also one of the most luminous stars. However, its exact distance (and hence luminosity) has been difficult to calculate; it is estimated to be somewhere between 55,000 and 196,000 times as luminous as the Sun, rivalling Rigel as the most inherently luminous star of first magnitude.
 
 
 == Nomenclature ==
-α Cygni (Latinised to Alpha Cygni) is the star's Bayer designation. The traditional name Deneb is derived from dhaneb, Arabic for "tail", from the phrase ذنب الدجاجة Dhanab ad-Dajājah, or "tail of the hen". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Deneb for this star. It is now so entered in the IAU Catalog of Star Names.
+α Cygni (Latinised to Alpha Cygni) is the star's Bayer designation. The traditional name Deneb is derived from the Arabic word for "tail", from the phrase ذنب الدجاجة Dhanab al-Dajājah, or "tail of the hen". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Deneb for this star. It is now so entered in the IAU Catalog of Star Names.
 
 
 == Visibility ==
@@ -67,3 +56,5 @@ USS Arided was a United States Navy Crater-class cargo ship named after the star
 === In fiction ===
 
 The star Deneb, and hypothetical planets orbiting it, have been used many times in literature, film, electronic games, and music.  Examples include several episodes of the Star Trek TV series, the Silver Surfer comic book, the Rush albums A Farewell to Kings and Hemispheres, the Descent: FreeSpace – The Great War computer game, Stellaris, science fiction novel Hyperion, and Andy Weir, in his novel The Martian.
+
+

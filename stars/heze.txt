@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 13 h 34 m 41.591 s
-
 Declination: –00° 35′ 44.95″
-
 Apparent magnitude: +3.376
-
 Distance: 74.1 ± 0.3 ly
-
 Rotational velocity: 222 km/s
-
-
-
+== Brief description ==
 Zeta Virginis (ζ Virginis, abbreviated Zeta Vir, ζ Vir) is a binary star in the zodiac constellation of Virgo. It is visible to the naked eye with an apparent visual magnitude of +3.376 and is located about a half degree south of the celestial equator. Based on parallax measurements obtained during the Hipparcos mission, it is about 74 light-years (23 parsecs) distant from the Sun.
 The two components are designated Zeta Virginis A (also named Heze) and B.
 

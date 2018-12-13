@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Hercules
-
 Right ascension: 17 h 15 m 01.9106 s
-
 Declination: 24° 50′ 21.135″
-
 Apparent magnitude: 3.126
-
 Distance: 75.1 ± 0.3 ly
-
 Mass: 2.4 M
-
 Radius: 2.2 R
-
 Luminosity: 38 L
-
 Temperature: 9,620 ± 350 K
-
 Rotational velocity: 270 km/s
-
-
-
+== Brief description ==
 Delta Herculis (δ Herculis, abbreviated Delta Her, δ Her) is a multiple star system in the constellation of Hercules. Though it only shines with an apparent magnitude of 3.12, it is the third-brightest star in its constellation. Based on parallax measurement taken during the Hipparcos mission, it is approximately 23.1 parsecs (75 light-years) from the Sun.
 It consists of a binary pair, designated Delta Herculis A, together with three potential companions, designated Delta Herculis B, C and D, although 'B' is believed to be an optical companion. 'A's' components are themselves designated Delta Herculis Aa (also named Sarin) and Ab.
 

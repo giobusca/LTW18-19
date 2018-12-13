@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 58 m 29.2217 s
-
 Declination: +11° 51′ 27.723″
-
 Apparent magnitude: 4.20 to 4.27
-
 Distance: 164 ± 3 ly
-
 Mass: 2.10 M
-
 Luminosity: 50.55 L
-
 Temperature: 7,943 K
-
 Rotational velocity: 75 km/s
-
-
-
+== Brief description ==
 Alpha Cancri (α Cancri, abbreviated Alpha Cnc, α Cnc), also named Acubens, is a star system in the constellation of Cancer.
 
 

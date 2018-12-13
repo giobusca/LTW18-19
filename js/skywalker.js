@@ -9,7 +9,7 @@ if(typeof(Storage) !== "undefined") {
     var rawListStars = readTextFile("./stars/list-stars");
     if(rawListConst==null) alert("Could not find "+"stars/list-stars.txt");
     localStorage.listStars = JSON.stringify(rawListStars);
-    
+
     localStorage.azaltRDY = JSON.stringify(false);
 
 }
@@ -271,22 +271,23 @@ function index(){
     var stars = readTextFile("./stars/list-stars");
     if(stars==null) alert("Could not find stars/list-stars.txt");
 
-    var indexHTML = "<p>Click on star or constellation for description:\n</p>";
+    var indexHTML = "<h5>Click on star or constellation for description:</h5><div class='container mt-4'>";
     constellations = constellations.split(/\n/);
     stars = stars.split(/\n/);
     for (var i=0; i < constellations.length; i++) {
         var singleC = constellations[i].split(";");
-        indexHTML += "<p class='mt-4' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"</p>\n<ul>\n";
+        indexHTML += "<div class='row'><div class='col text-right align-text-top'><p class='mt-4' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"</p></div><div class='col text-left'><ul>";
         for (var j=0; j < stars.length-1; j++) {
             var singleS = stars[j].split(";");
             var constellation_code = singleS[1].split(" ");
             if (constellation_code[1] == singleC[1]) {
                 singleS_capitalized = singleS[0].charAt(0).toUpperCase() + singleS[0].substring(1);
-                indexHTML += "<li class='mt-4' onclick='return displayStar(\""+singleS[0]+"\");'>"+singleS_capitalized+"</li>\n";
+                indexHTML += "<li onclick='return displayStar(\""+singleS[0]+"\");'>"+singleS_capitalized+"</li>";
             }
         }
-        indexHTML += "</ul>\n";
+        indexHTML += "</ul></div></div>";
     }
+    indexHTML += "</div>";
 
     document.getElementById("display-area").innerHTML = indexHTML;
     return true;

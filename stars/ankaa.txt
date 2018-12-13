@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Phoenix
-
 Right ascension: 00 h 26 m 17.05140 s
-
 Declination: –42° 18′ 21.5539″
-
 Apparent magnitude: 2.377
-
 Distance: 85 ± 2 ly
-
 Radius: 15 R
-
 Temperature: 4,436 K
-
-
-
+== Brief description ==
 Alpha Phoenicis (α Phoenicis, abbreviated Alpha Phe or α Phe), also named Ankaa, is the brightest star in the constellation of Phoenix.
 
 

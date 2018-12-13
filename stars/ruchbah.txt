@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cassiopeia
-
 Right ascension: 01 h 25 m 48.95147 s
-
 Declination: +60° 14′ 07.0225″
-
 Apparent magnitude: 2.68
-
 Distance: 99.4 ± 0.4 ly
-
 Mass: 2.49 M
-
 Radius: 3.90 R
-
 Luminosity: 72.88 L
-
 Temperature: 7,980 K
-
 Rotational velocity: 123 km/s
-
-
-
+== Brief description ==
 Delta Cassiopeiae (δ Cassiopeiae, abbreviated Delta Cas, δ Cas) is an eclipsing binary star system in the northern circumpolar constellation of Cassiopeia. Based on parallax measurements taken during the Hipparcos mission, it is approximately 99.4 light-years (30.5 parsecs) from the Earth.Delta Cassiopeiae is the primary or 'A' component of a multiple star system designated WDS J01258+6014 (the secondary or 'B' component is TYC 4031-1418-1). Delta Cassiopeiae's two components are therefore designated WDS J01258+6014 Aa and Ab. Aa is also named Ruchbah.
 
 

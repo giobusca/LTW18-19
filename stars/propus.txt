@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Gemini
-
 Right ascension: 06 h 14 m 52.657 s
-
 Declination: +22° 30′ 24.48″
-
 Apparent magnitude: 3.15 - 3.90
-
 Distance: approx. 380 ly
-
 Mass: 6.30 M
-
 Radius: 153 R
-
 Luminosity: 3,162 L
-
 Temperature: 3,548 K
-
-
-
+== Brief description ==
 Eta Geminorum (η Geminorum, abbreviated Eta Gem, η Gem), also named Propus, is a triple star system in the constellation of Gemini.  It is a naked-eye variable star around 380 light years from the Sun.
 
 

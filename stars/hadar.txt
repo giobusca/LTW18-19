@@ -1,24 +1,15 @@
 ==Datasheet==
 
 Constellation: Centaurus
-
 Right ascension: 14 h 03 m 49.40535 s
-
 Declination: –60° 22′ 22.9266″
-
 Apparent magnitude: 0.61
-
 Distance: 390 ± 20 ly
-
 Mass: 10.7 ± 0.1 M
-
 Luminosity: 41,700 L
-
 Temperature: 25,000 ± 2,000 K
-
-
-
-Beta Centauri (β Centauri, abbreviated Beta Cen, β Cen), also named Hadar, is a triple star system in the southern constellation of Centaurus. The system's combined apparent visual magnitude of 0.61 makes it the second-brightest star in Centaurus and one of the brightest stars in the night sky. According to parallax measurements from the astrometric Hipparcos satellite, the distance to this system is about 390 ± 20 light-years (120 ± 6 parsecs).Beta Centauri is well known in the Southern Hemisphere as the inner of the two "Pointers" to the asterism known as the Southern Cross. A line made from the other pointer, Alpha Centauri, through Beta Centauri leads to within a few degrees of Gacrux, the star at the top of the cross. Using Gacrux, a navigator can draw a line with Acrux at the bottom to effectively determine South.
+== Brief description ==
+Beta Centauri (β Centauri, abbreviated Beta Cen, β Cen), also named Hadar, is a triple star system in the southern constellation of Centaurus. The system's combined apparent visual magnitude of 0.61 makes it the second-brightest point of light in Centaurus and one of the brightest in the night sky. According to parallax measurements from the astrometric Hipparcos satellite, the distance to this system is about 390 ± 20 light-years (120 ± 6 parsecs).Beta Centauri is well known in the Southern Hemisphere as the inner of the two "Pointers" to the asterism known as the Southern Cross. A line made from the other pointer, Alpha Centauri, through Beta Centauri leads to within a few degrees of Gacrux, the star at the top of the cross. Using Gacrux, a navigator can draw a line with Acrux at the bottom to effectively determine South.
 
 
 == Nomenclature ==
@@ -26,10 +17,10 @@ Beta Centauri (β Centauri, abbreviated Beta Cen, β Cen), also named Hadar, is 
 It bore the traditional names Hadar and Agena. Hadar comes from the Arabic حضار (the root's meaning is "to be present" or "on the ground" or "settled, civilized area"), while the name Agena may ultimately be derived from the Latin genua, meaning "knees". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Hadar for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.The Chinese name for the star is 马腹一 (Mandarin: mǎ fù yī, "the First Star of the Horse's Abdomen").The indigenous Boorong people of what is now northwestern Victoria, Australia named it as Bermbermgle (together with Alpha Centauri), two brothers who were noted for their courage and destructiveness, and who spear and kill Tchingal, "The Emu" (Coalsack Nebula). The two brothers in Wotjobaluk people is Bram-bram-bult.
 
 
-== Properties ==
+== Stellar system ==
 
-The Beta Centauri system has three components: Beta Centauri Aa, Ab, and B.  All the spectral lines detected are consistent with a B1 type star, with only the line profiles varying, so it is thought that all three stars have the same spectral type.
-In 1935, Joan Voûte identified Beta Centauri B, giving it the identifier VOU 31. The companion is separated from the primary by 1.3 seconds of arc, and has remained so since the discovery, although the position angle has changed six degrees since.  Beta Centauri B is a B1 dwarf with an apparent magnitude of 4.
+The Beta Centauri system is made up of three stars: Beta Centauri Aa, Beta Centauri Ab, and Beta Centauri B. All the spectral lines detected are consistent with a B1 type star, with only the line profiles varying, so it is thought that all three stars have the same spectral type.
+In 1935, Joan Voûte identified Beta Centauri B, giving it the identifier VOU 31. The companion is separated from the primary by 1.3 seconds of arc, and has remained so since the discovery, although the position angle has changed six degrees since. Beta Centauri B is a B1 dwarf with an apparent magnitude of 4.
 In 1967, Beta Centauri's observed periodic variation in radial velocity suggested that Beta Centauri A is a double-lined spectroscopic binary. This was confirmed in 1999. The primary consists of a pair of stars, (Aa and Ab) of similar mass that orbit each other over a period of 357 days with a large eccentricity of about 0.8245.The pair were calculated to be separated by a mean distance of roughly 4 astronomical units (based on a distance to the system of 161 parsecs) in 2005.Both Aa and Ab apparently have a stellar classification of B1 III, with the luminosity class of III indicating giant stars that are evolving away from the main sequence. They are both Beta Cephei variable stars with multiple pulsation periods of just a few hours.  The full range of variability has not been identified, but is no more than a few hundredths of a magnitude.Aa is 12.02 ± 0.13 times as massive as the Sun, while Ab is 10.58 ± 0.18 times as massive. The radius of β Centauri as a single star was calculated to be 8.6 R☉ and its luminosity 41,700 L☉.
 
 

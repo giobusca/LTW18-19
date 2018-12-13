@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Equuleus
-
 Right ascension: 21 h 15 m 49.43192 s
-
 Declination: +5° 14′ 52.2430″
-
 Apparent magnitude: +3.919
-
 Distance: 190 ± 2 ly
-
 Mass: 2.3 M
-
 Radius: 9.2 R
-
 Luminosity: 52.5 L
-
 Temperature: 5,100 K
-
 Rotational velocity: 20.0 km/s
-
-
-
+== Brief description ==
 Alpha Equulei (α Equulei, abbreviated Alpha Equ, α Equ), also named Kitalpha, is a star in the constellation of Equuleus.  It is a high proper motion star only 190 light years away.
 
 

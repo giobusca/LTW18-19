@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 18 h 20 m 59.64354 s
-
 Declination: −29° 49′ 41.1659″
-
 Apparent magnitude: +2.70
-
 Distance: 348 ± 7 ly
-
 Mass: 3.21 M
-
 Radius: 16 R
-
-
-
+== Brief description ==
 Delta Sagittarii (δ Sagittarii, abbreviated Delta Sgr, δ Sgr), also named Kaus Media, is a double star in the southern zodiac constellation of Sagittarius. The apparent visual magnitude of this star is +2.70, making it easily visible to the naked eye. Parallax measurements place the distance at roughly 348 light-years (107 parsecs) from the Sun.
 
 

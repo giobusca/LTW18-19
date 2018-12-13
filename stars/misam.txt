@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Perseus
-
 Right ascension: 03 h 09 m 29.77156 s
-
 Declination: +44° 51′ 27.1463″
-
 Apparent magnitude: 3.80
-
 Distance: 112.7 ± 0.8 ly
-
 Mass: 1.50 M
-
 Radius: 9 R
-
 Luminosity: 39.8 L
-
 Rotational velocity: 3.0 km/s
-
-
-
+== Brief description ==
 Kappa Persei (κ Persei, abbreviated Kap Per, κ Per) is a triple star system in the northern constellation of Perseus. Based upon an annual parallax shift of 28.93 mas, it is located at a distance of 113 light-years from the Sun.
 The system consists of a spectroscopic binary, designated Kappa Persei A, which can be seen with the naked eye, having an apparent visual magnitude of 3.80. The third star, designated Kappa Persei B, is of magnitude 13.50.Kappa Persei A's two components are designated Kappa Persei Aa (also named Misam) and Ab.
 

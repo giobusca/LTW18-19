@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 11 h 18 m 28.73664 s
-
 Declination: +33° 05′ 39.5107″
-
 Apparent magnitude: +3.490
-
 Distance: 399 ± 8 ly
-
 Radius: 57.07 ± 4.13 R
-
 Luminosity: 775 ± 122 L
-
 Temperature: 4,070 K
-
 Rotational velocity: 10 km/s
-
-
-
+== Brief description ==
 Nu Ursae Majoris (ν Ursae Majoris, abbreviated Nu UMa, ν UMa), also named Alula Borealis, is a double star in the northern circumpolar constellation of Ursa Major. At an apparent visual magnitude of +3.490, it is bright enough to be seen with the naked eye. Based upon parallax measurements, the distance to ν Ursae Majoris is about 399 light-years (122 parsecs).This is a giant star with a stellar classification of K3 III. It has expanded to about 57 times the radius of the Sun and is radiating 775 times the Sun's luminosity. The effective temperature of the outer envelope is 4,070 K; cool enough to give it an orange hue typical of a K-type star. It has a 10th-magnitude optical companion at an angular separation of 7.1 arcseconds.
 
 

@@ -1,71 +1,68 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 04 h 35 m 55.23907 s
-
 Declination: +16° 30′ 33.4885″
-
 Apparent magnitude: 0.86
-
 Distance: 65.3 ± 1.0 ly
-
 Temperature: 3,910 K
-
 Rotation: 643 days
-
-
-
-Aldebaran, designated Alpha Tauri (α Tauri, abbreviated Alpha Tau, α Tau), is an orange giant star located about 65 light-years from the Sun in the zodiac constellation of Taurus. It is the brightest star in its constellation and usually the fourteenth-brightest star in the nighttime sky, though it varies slowly in brightness between magnitude 0.75 and 0.95. It is likely that Aldebaran hosts a planet several times the size of Jupiter.
+== Brief description ==
+Aldebaran, designated Alpha Tauri (α Tauri, abbreviated Alpha Tau, α Tau), is an orange giant star located about 65 light-years from the Sun in the zodiac constellation of Taurus. It is the brightest star in its constellation and usually the fourteenth-brightest star in the night sky, though it varies slowly in brightness between magnitude 0.75 and 0.95. Aldebaran hosts a planet several times the size of Jupiter￼, named Aldebaran b.
 The planetary exploration probe Pioneer 10 is currently heading in the general direction of the star and should make its closest approach in about two million years.
 
 
 == Nomenclature ==
-Alpha Tauri is the star's Bayer designation. The name Al-de-baran is Arabic for "foremost" or “leading star”,   
+Alpha Tauri is the star's Bayer designation. The name Al-de-baran is Arabic for "foremost" or "leading star",
 because it precedes or leads the Pleiades.In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN, which included Aldebaran for this star. It is now so entered in the IAU Catalog of Star Names.
 
 
 === Names in other languages ===
 In Hindu astronomy it is identified as the lunar mansion Rohini ("the red one") and as one of the twenty-seven daughters of Daksha and the wife of the god Chandra (moon).
-In Bengali, it is named Stacidan due to the stars noticeably orange / reddish hue.In Persia it was known as Tascheter.The Romans called it Palilicium.In Ancient Greek it has been called Λαμπαδίας Lampadias, literally "torch-like or -bearer".In the Middle Ages it was sometimes called Cor Tauri (the Heart of the Bull/Taurus).In Chinese, 畢宿 (Bì Xiù), meaning Net, refers to an asterism consisting Aldebaran, ε Tauri, δ3 Tauri, δ1 Tauri, γ Tauri, 71 Tauri and λ Tauri. Consequently, Aldebaran itself is known as 畢宿五 (Bì Xiù wǔ), "the Fifth Star of Net".
+In Bengali, it is named Stacidan due to the stars noticeably orange-reddish hue.
+In Persia it was known as Tascheter.
+The Romans called it Palilicium.
+In Ancient Greek it has been called Λαμπαδίας Lampadias, literally "torch-like or -bearer".
+In the Middle Ages it was sometimes called Cor Tauri (the Heart of the Bull/Taurus).
+In Chinese, 畢宿 (Bì Xiù), meaning Net, refers to an asterism consisting Aldebaran, ε Tauri, δ3 Tauri, δ1 Tauri, γ Tauri, 71 Tauri and λ Tauri. Consequently, Aldebaran itself is known as 畢宿五 (Bì Xiù wǔ), "the Fifth Star of Net".
 
 
 === Mythology ===
 This easily seen and striking star in its suggestive asterism is a popular subject for ancient and modern myths.
 
 Mexican culture: For the Seris of northwestern Mexico, this star provides light for the seven women giving birth (Pleiades). It has three names: Hant Caalajc Ipápjö, Queeto, and Azoj Yeen oo Caap ("star that goes ahead"). The lunar month corresponding to October is called Queeto yaao "Aldebaran's path".
-Aboriginal culture: in the Clarence River of northeastern New South Wales, this star is the Ancestor Karambal, who stole another man's wife.  The woman's husband tracked him down and burned the tree in which he was hiding. It is believed that he rose to the sky as smoke and became the star Aldebaran.
+Aboriginal culture: in the Clarence River of northeastern New South Wales, this star is the Ancestor Karambal, who stole another man's wife. The woman's husband tracked him down and burned the tree in which he was hiding. It is believed that he rose to the sky as smoke and became the star Aldebaran.
 
 
-== Observation history ==
+== Observational history ==
 On 11 March AD 509, a lunar occultation of Aldebaran was observed in Athens, Greece. English astronomer Edmund Halley studied the timing of this event, and in 1718 concluded that Aldebaran must have changed position since that time, moving several minutes of arc further to the north. This, as well as observations of the changing positions of stars Sirius and Arcturus, led to the discovery of proper motion. Based on present day observations, the position of Aldebaran has shifted 7′ in the last 2000 years; roughly a quarter the diameter of the full Moon.  Note that 5,000 years ago the vernal equinox was close to Aldebaran.English astronomer William Herschel discovered a faint companion to Aldebaran in 1782; an 11th magnitude star at an angular separation of 117″. This star was shown to be itself a close double star by S. W. Burnham in 1888, and he discovered an additional 14th magnitude companion at an angular separation of 31″. Follow on measurements of proper motion showed that Herschel's companion was diverging from Aldebaran, and hence they were not physically connected. However, the companion discovered by Burnham had almost exactly the same proper motion as Aldebaran, suggesting that the two formed a wide binary star system.Working at his private observatory in Tulse Hill, England, in 1864 William Huggins performed the first studies of the spectrum of Aldebaran, where he was able to identify the lines of nine elements, including iron, sodium, calcium, and magnesium. In 1886, Edward C. Pickering at the Harvard College Observatory used a photographic plate to capture fifty absorption lines in the spectrum of Aldebaran. This became part of the Draper Catalogue, published in 1890. By 1887, the photographic technique had improved to the point that it was possible to measure a star's radial velocity from the amount of Doppler shift in the spectrum. By this means, the recession velocity of Aldebaran was estimated as 30 miles per second (48 km/s), using measurements performed at Potsdam Observatory by Hermann C. Vogel and his assistant Julius Scheiner.Aldebaran was observed using an interferometer attached to the Hooker Telescope at the Mount Wilson Observatory in 1921 in order to measure its angular diameter, but it was not resolved in these observations.
 
 
-== Physical properties ==
+== Physical characteristics ==
 
 Aldebaran is classified as a type K5 III star, which indicates it is an orange-hued giant star that has evolved off the main sequence band of the Hertzsprung–Russell diagram after exhausting the hydrogen at its core.  The collapse of the centre of the star into a degenerate helium core has ignited a shell of hydrogen outside the core and Aldebaran is now a red giant on the red giant branch (RGB).  It has expanded to 44 times the diameter of the Sun, equivalent to approximately 61 million kilometres (see 10 gigametres for similar sizes).
-Measurements by the Hipparcos satellite and other sources put Aldebaran around 65.3 light-years (20.0 parsecs) away. Asteroseismology has determined that it is about 17% more massive than the Sun, yet it shines with 425 times the Sun's luminosity due to the expanded radius. Aldebaran is a slightly variable star, of the slow irregular variable type LB. It varies by about 0.2 in apparent magnitude from 0.75 to 0.95. With a near-infrared J band magnitude of −2.1, only Betelgeuse (−2.9), R Doradus (−2.6), and Arcturus (−2.2) are brighter.The photosphere shows abundances of carbon, oxygen, and nitrogen that suggest the giant has gone through its first dredge-up stage—a normal step in the evolution of a star into a red giant during which material from deep within the star is brought up to the surface by convection. With its slow rotation, Aldebaran lacks a dynamo needed to generate a corona and hence is not a source of hard X-ray emission. However, small scale magnetic fields may still be present in the lower atmosphere, resulting from convection turbulence near the surface. (The measured strength of the magnetic field on Aldebaran is 0.22 G.) Any resulting soft X-ray emissions from this region may be attenuated by the chromosphere, although ultraviolet emission has been detected in the spectrum. The star is currently losing mass at a rate of (1–1.6) × 10−11 M⊙ yr−1 (about one Earth mass in 300,000 years) with a velocity of 30 km s−1. This stellar wind may be generated by the weak magnetic fields in the lower atmosphere.Beyond the chromosphere of Aldebaran is an extended molecular outer atmosphere (MOLsphere) where the temperature is cool enough for molecules of gas to form. This region lies between 1.2 and 2.8 times the radius of the star, with temperatures of 1,000−2,000 K. The spectrum reveals lines of carbon monoxide, water, and titanium oxide. Past this radius, the modest outflow of the stellar wind itself declines in temperature to about 7,500 K at a distance of 1 Astronomical Unit (AU)−the distance of the Earth from the Sun. The wind continues to expand until it reaches the termination shock boundary with the hot, ionized interstellar medium that dominates the Local Bubble, forming a roughly spherical astrosphere with a radius of around 1,000 AU, centered on Aldebaran.
+Measurements by the Hipparcos satellite and other sources put Aldebaran around 65.3 light-years (20.0 parsecs) away. Asteroseismology has determined that it is about 17% more massive than the Sun, yet it shines with 425 times the Sun's luminosity due to the expanded radius. Aldebaran is a slightly variable star, of the slow irregular variable type LB. It varies by about 0.2 in apparent magnitude from 0.75 to 0.95. With a near-infrared J band magnitude of −2.1, only Betelgeuse (−2.9), R Doradus (−2.6), and Arcturus (−2.2) are brighter.The photosphere shows abundances of carbon, oxygen, and nitrogen that suggest the giant has gone through its first dredge-up stage—a normal step in the evolution of a star into a red giant during which material from deep within the star is brought up to the surface by convection. With its slow rotation, Aldebaran lacks a dynamo needed to generate a corona and hence is not a source of hard X-ray emission. However, small scale magnetic fields may still be present in the lower atmosphere, resulting from convection turbulence near the surface. (The measured strength of the magnetic field on Aldebaran is 0.22 Gauss.) Any resulting soft X-ray emissions from this region may be attenuated by the chromosphere, although ultraviolet emission has been detected in the spectrum. The star is currently losing mass at a rate of (1–1.6) × 10−11 M⊙ yr−1 (about one Earth mass in 300,000 years) with a velocity of 30 km s−1. This stellar wind may be generated by the weak magnetic fields in the lower atmosphere.Beyond the chromosphere of Aldebaran is an extended molecular outer atmosphere (MOLsphere) where the temperature is cool enough for molecules of gas to form. This region lies between 1.2 and 2.8 times the radius of the star, with temperatures of 1,000−2,000 K. The spectrum reveals lines of carbon monoxide, water, and titanium oxide. Past this radius, the modest outflow of the stellar wind itself declines in temperature to about 7,500 K at a distance of 1 astronomical unit (AU)−the distance of the Earth from the Sun. The wind continues to expand until it reaches the termination shock boundary with the hot, ionized interstellar medium that dominates the Local Bubble, forming a roughly spherical astrosphere with a radius of around 1,000 AU, centered on Aldebaran.
 
 
-== Visibility ==
+== Observation ==
 
 Aldebaran is one of the easiest stars to find in the night sky, partly due to its brightness and partly due to its spatial relation to one of the more noticeable asterisms in the sky. If one follows the three stars of Orion's belt from left to right (in the Northern Hemisphere) or right to left (in the Southern), the first bright star found by continuing that line is Aldebaran.
 Since the star is located (by chance) in the line of sight between the Earth and the Hyades, it has the appearance of being the brightest member of the more scattered Hyades open star cluster that makes up the bull's-head-shaped asterism; however, the star cluster is actually more than twice as far away, at about 150 light years.
 Aldebaran is 5.47 degrees south of the ecliptic and can be occulted by the Moon. Such occultations occur when the Moon's ascending node is near the autumnal equinox. A series of 49 occultations occurred starting on 29 January 2015 and ending at 3 September 2018. Each event was visible from points in the northern hemisphere or close to the equator; people in e.g. Australia or South Africa can never observe an Aldebaran occultation since it is too far south of the ecliptic. A reasonably accurate estimate for the diameter of Aldebaran was obtained during the occultation of 22 September 1978. Aldebaran is in conjunction with the Sun around June 1 of each year.Occultations by planets are not possible at present, as each planet passes Aldebaran north. The closest conjunction of a planet with Aldebaran in the 21st century occurred on 9 July 2012, when Venus passed Aldebaran 56' northward. However, in far past and future, occultations of Aldebaran by Mercury and Venus have and will occur as result of wandering nodes. The next occultation of Aldebaran by a planet, Venus, will occur on 27 August 5366.
 
 
-== Companions ==
+== Visual companions ==
 Five faint stars are positioned so that they appear close to Aldebaran. These double stars were given alphabetic secondary star designations more or less in the order of their discovery, with the letter A reserved for the primary star. Some of the characteristics of these components, including their position relative to Aldebaran, are listed in the table at right.
 
 Some surveys have indicated that Alpha Tauri B may have about the same proper motion and parallax as Aldebaran and thus may be a physical binary system. However these measurements are difficult to make because the dim B component appears so close to the bright primary star. The resulting margin of error is too large to positively establish (or exclude) a physical relationship between the two stars. So far neither the B component, nor anything else, has been unambiguously shown to be physically associated with Aldebaran.Alpha Tauri CD is a binary system with the C and D component stars gravitationally bound to and co-orbiting each other. These co-orbiting stars have been shown to be located far beyond Aldebaran and are members of the Hyades star cluster. As with the rest of the stars in the cluster they do not physically interact with Aldebaran in any way.
 
 
-== Claims of a planetary system ==
+== Planetary system ==
 
-In 1993, radial velocity measurements of Aldebaran, Arcturus and Pollux showed that Aldebaran exhibited a long-period radial velocity oscillation, which could be interpreted as a substellar companion. The measurements for Aldebaran implied a companion with a minimum mass 11.4 times that of Jupiter in a 643-day orbit at a separation of 2.0 AU (300 Gm) in a mildly eccentric orbit. However, all three stars surveyed showed similar oscillations yielding similar companion masses, and the authors concluded that the variation was likely to be intrinsic to the star rather than due to the gravitational effect of a companion.  In 2015 a study showed stable longterm evidence for both a planetary companion and stellar activity. An asteroseismic analysis of the residuals to the planet fit has determined that Aldebaran b has a minimum mass of 5.8±0.7 Jupiter masses.
+In 1993, radial velocity measurements of Aldebaran, Arcturus and Pollux showed that Aldebaran exhibited a long-period radial velocity oscillation, which could be interpreted as a substellar companion. The measurements for Aldebaran implied a companion with a minimum mass 11.4 times that of Jupiter in a 643-day orbit at a separation of 2.0 AU (300 Gm) in a mildly eccentric orbit. However, all three stars surveyed showed similar oscillations yielding similar companion masses, and the authors concluded that the variation was likely to be intrinsic to the star rather than due to the gravitational effect of a companion.In 2015 a study showed stable long-term evidence for both a planetary companion and stellar activity. An asteroseismic analysis of the residuals to the planet fit has determined that Aldebaran b has a minimum mass of 5.8±0.7 Jupiter masses.
 
 
 == View from this star ==
-If the sun were to be observed from this star, it would be a faint 6.4 magnitude star located between Ophiuchus and Scorpius on the diametrically opposite coordinates.  This magnitude sits between Uranus's 5.95 and Pallas's 6.49.
+If the Sun were to be observed from this star, it would be located at the antipodal point of Aldebaran's coordinates, at 16h 35m 55s, –16° 30' 33" in the constellation Ophiuchus. It would be a faint 6.4 magnitude star, dimmer than Uranus seen from Earth at 5.38.
 
 

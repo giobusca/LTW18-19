@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 16 h 05 m 26.23198 s
-
 Declination: –19° 48′ 19.6300″
-
 Apparent magnitude: 2.62
-
 Distance: 400 ± 40 ly
-
 Mass: 15.0  M
-
 Radius: 6.3  R
-
 Luminosity: 31,600  L
-
 Temperature: 28,000  K
-
 Rotational velocity: 55 km/s km/s
-
-
-
+== Brief description ==
 Beta Scorpii (β Scorpii, abbreviated Beta Sco, β Sco) is a multiple star system in the southern zodiac constellation of Scorpius. It bore the traditional proper name of Acrab, though the International Astronomical Union now regards that name as applying only to the β Scorpii Aa component.
 
 

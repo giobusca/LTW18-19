@@ -1,19 +1,13 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 09 h 41 m 09.03 s
-
 Declination: +09° 53' 32.30"
 
 Apparent magnitude: +3.52
-
 Distance: 135 ly
-
 Mass: 2.12  M
-
-
-
+== Brief description ==
 Omicron Leonis (ο Leonis, abbreviated Omicron Leo, ο Leo) is a multiple star system in the constellation of Leo, west of Regulus, some 130 light-years from the Sun, where it marks one of the lion's forepaws.
 It consists of a binary pair, designated Omicron Leonis A and an optical companion, Omicron Leonis B. 'A's' two components are themselves designated Omicron Leonis Aa (also named Subra) and Ab.
 
@@ -24,3 +18,5 @@ It consists of a binary pair, designated Omicron Leonis A and an optical compani
 
 == Properties ==
 The primary is given the type F8-G0III giant and the secondary is a type A7m dwarf. Their combined apparent magnitude is +3.52.
+
+

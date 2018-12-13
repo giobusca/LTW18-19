@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Aries
-
 Right ascension: 01 h 53 m 31.81479 s
-
 Declination: +19° 17′ 37.8790″
-
 Apparent magnitude: 3.86 (4.58/4.64)
-
 Distance: 164 ± 8 ly
-
 Radius: 1.9 R
-
 Temperature: 10,970 K
-
 Rotational velocity: 54 km/s
-
-
-
+== Brief description ==
 Gamma Arietis (γ Arietis, abbreviated Gamma Ari, γ Ari) is a binary star in the northern constellation of Aries. The two components are designated γ¹ Arietis or Gamma Arietis B and γ² Arietis or Gamma Arietis A (also named Mesarthim). The combined apparent visual magnitude of the two stars is 3.86, which is readily visible to the naked eye and makes this the fourth-brightest member of Aries. Based upon parallax measurements obtained during the Hipparcos mission, the distance to Gamma Arietis from the Sun is approximately 164 light-years (50 parsecs).
 
 

@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 14 h 19 m 06.59235 s
-
 Declination: −13° 22′ 15.9459″
-
 Apparent magnitude: (5.00 + 5.63)
-
 Distance: 173.4 ± 0.9 ly
-
 Mass: 1.897 M
-
 Radius: 2.35 R
-
-
-
+== Brief description ==
 Lambda Virginis (λ Virginis, abbreviated Lam Vir, λ Vir) is a binary star system in the zodiac constellation of Virgo. With an apparent visual magnitude of 4.5, it is bright enough to be seen with the naked eye. Based upon parallax measurements, the system is about 173 light-years away from the Sun. Its two components are designated Lambda Virginis A (also named Khambalia) and B.
 
 

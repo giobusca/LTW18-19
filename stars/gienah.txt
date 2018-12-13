@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Corvus
-
 Right ascension: 12 h 15 m 48.37081 s
-
 Declination: –17° 32′ 30.9496″
-
 Apparent magnitude: 2.585
-
 Distance: 154 ± 1 ly
-
 Luminosity: 331 L
-
 Rotational velocity: 30 km/s
-
-
-
+== Brief description ==
 Gamma Corvi (γ Corvi, abbreviated Gamma Crv, γ Crv) is a binary star and the brightest star in the southern constellation of Corvus, having an apparent visual magnitude of 2.59. The system's two components are designated Gamma Corvi A (also named Gienah) and Gamma Corvi B. The distance to this system has been measured directly using the parallax technique, yielding an estimated 154 light-years (47 parsecs) from the Sun.
 
 

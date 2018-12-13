@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cepheus
-
 Right ascension: 21 h 28 m 39.59685 s
-
 Declination: +70° 33′ 38.5747″
-
 Apparent magnitude: 3.16 – 3.27
-
 Distance: 690 ± 40 ly
-
 Mass: 12.2 – 19.5 M
-
 Radius: 5.6 R
-
 Luminosity: 15,100 L
-
 Temperature: 27,000 K
-
 Rotational velocity: 28 km/s
-
-
-
+== Brief description ==
 Beta Cephei (β Cephei, abbreviated Beta Cep, β Cep) is a triple star system of the third magnitude in the constellation of Cepheus. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 690 light-years distant from the Sun. It is the prototype of the Beta Cephei variable stars.
 It consists of a binary pair (designated Beta Cephei A) together with a third companion (B). The binary's two components are themselves designated Beta Cephei Aa (also named Alfirk) and Ab.
 

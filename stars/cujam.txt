@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Hercules
-
 Right ascension: 16 h 25 m 24.95425 s
-
 Declination: +14° 01′ 59.7711″
-
 Apparent magnitude: (4.58 + 11.5)
-
 Distance: 250 ± 10 ly
-
 Mass: 2.14 M
-
 Radius: 3.30 R
-
 Luminosity: 70 L
-
 Rotation: 2.951
-
 Rotational velocity: 55 km/s
-
-
-
+== Brief description ==
 Omega Herculis (ω Herculis, abbreviated Ome Her, ω Her) is a binary star system in the northern constellation of Hercules. Based upon an annual parallax shift of 13.04 mas as seen from Earth, it is located around 250 light-years from the Sun. It is faintly visible to the naked eye, having a combined apparent visual magnitude of 4.58. The system is a candidate for membership in the Ursa Major Moving Group, although this remains uncertain.The two components are designated Omega Herculis A (also named Cujam) and B.
 
 

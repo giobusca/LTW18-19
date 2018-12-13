@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Crux
-
 Right ascension: 12 h 31 m 09.95961 s
-
 Declination: −57° 06′ 47.5684″
-
 Apparent magnitude: +1.64
-
 Distance: 88.6 ± 0.4 ly
-
 Mass: 1.5 ± 0.3 M
-
 Radius: 84 R
-
 Temperature: 3,626 K
-
-
-
+== Brief description ==
 Gamma Crucis (γ Crucis, abbreviated Gamma Cru, γ Cru), also named Gacrux, is the nearest class M giant star to the Sun. The distance to Gacrux has been determined using parallax measurements made during the Hipparcos mission, which yielded a value of 88.6 light-years (27.2 parsecs) away from the Sun. With an apparent visual magnitude of +1.63, this is the third-brightest star in the southern constellation of Crux, the Southern Cross, and one of the brightest stars in the night sky. A line from the two "Pointers", Alpha Centauri through Beta Centauri, leads to within a few degrees of this star.
 
 

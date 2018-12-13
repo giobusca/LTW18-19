@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Aquarius
-
 Right ascension: 22 h 05 m 47.03593 s
-
 Declination: −00° 19′ 11.4568″
-
 Apparent magnitude: 2.942
-
 Distance: 520 ± 20 ly
-
 Mass: 6.5 ± 0.3 M
-
 Radius: 77 ± 15 R
-
 Luminosity: 3,000 L
-
 Temperature: 5,210 ± 100 K
-
 Rotational velocity: 6.7 ± 1.5 km/s
-
-
-
+== Brief description ==
 Alpha Aquarii (α Aquarii, abbreviated Alpha Aqr, α Aqr), also named Sadalmelik, is a single star in the constellation of Aquarius. The apparent visual magnitude of 2.94 makes this the second-brightest star in Aquarius. Based upon parallax measurements made during the Hipparcos mission, it is located at a distance of roughly 520 light-years (160 parsecs) from the Sun.It forms the primary or 'A' component of a double star designated WDS J22058-0019 (the secondary or 'B' component is UCAC2 31789179).
 
 

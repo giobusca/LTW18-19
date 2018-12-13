@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 17 h 33 m 36.520 s
-
 Declination: −37° 06′ 13.76″
-
 Apparent magnitude: 1.62 / 14.9 / 12.0
-
 Distance: approx. 570 ly
-
 Mass: 14.5±1.1 M
-
 Radius: 8.8±1.2 R
-
 Luminosity: 36,300 L
-
 Temperature: 25,000±1,000 K
-
 Rotational velocity: 150 km/s
-
-
-
+== Brief description ==
 Lambda Scorpii (λ Scorpii, abbreviated Lambda Sco, λ Sco), also named Shaula, is (despite being designated 'Lambda') the second-brightest star system in the constellation of Scorpius, and one of the brightest stars in the nighttime sky.
 
 

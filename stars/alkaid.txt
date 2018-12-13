@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 13 h 47 m 32.43776 s
-
 Declination: +49° 18′ 47.7602″
-
 Apparent magnitude: +1.86
-
 Distance: 103.9 ± 0.8 ly
-
 Mass: 6.1 ± 0.1 M
-
 Radius: 3.4 R
-
 Luminosity: 594 ± 31 L
-
 Temperature: 15,540 ± 1157 K
-
 Rotational velocity: 150 km/s
-
-
-
+== Brief description ==
 Eta Ursae Majoris (η Ursae Majoris, abbreviated Eta UMa, η UMa), also named Alkaid, is a star in the constellation of Ursa Major. It is the most eastern (leftmost) star in the Big Dipper (Plough) asterism. However, unlike most stars of the Big Dipper, it is not a member of the Ursa Major moving group. With an apparent visual magnitude of +1.84, it is the third-brightest star in the constellation and one of the brightest stars in the night sky.
 
 

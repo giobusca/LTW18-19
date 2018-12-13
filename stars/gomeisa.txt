@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Canis Minor
-
 Right ascension: 07 h 27 m 09.04174 s
-
 Declination: +08° 17′ 21.5368″
-
 Apparent magnitude: 2.84 - 2.92
-
 Distance: 160 ± 10 ly
-
 Mass: 3.5 M
-
 Radius: 3.5 R
-
 Luminosity: 195 L
-
 Temperature: 11,772 K
-
 Rotational velocity: 210 km/s
-
-
-
+== Brief description ==
 Beta Canis Minoris (β Canis Minoris, abbreviated Beta CMi, β CMi), also named Gomeisa, is a star in the constellation of Canis Minor. In the night sky it is notable for its proximity to the prominent star Procyon.
 
 

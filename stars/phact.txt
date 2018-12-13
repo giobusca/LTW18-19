@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Columba
-
 Right ascension: 05 h 39 m 38.94103 s
-
 Declination: −34° 04′ 26.7950″
-
 Apparent magnitude: 2.645
-
 Distance: 261 ± 8 ly
-
 Mass: 4.5 M
-
 Radius: 5.8 R
-
 Temperature: 12,963 K
-
 Rotational velocity: 176 km/s
-
-
-
+== Brief description ==
 Alpha Columbae (α Columbae, abbreviated Alpha Col, α Col), also named Phact, is a third magnitude star in the southern constellation of Columba. It has an apparent visual magnitude of 2.6, making it the brightest member of Columba. Based upon parallax measurements made during the Hipparcos mission, Alpha Columbae is located at a distance of around 261 light-years (80 parsecs).
 
 

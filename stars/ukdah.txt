@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Hydra
-
 Right ascension: 09 h 39 m 51.36145 s
-
 Declination: −01° 08′ 34.1135″
-
 Apparent magnitude: 3.91
-
 Distance: 263 ± 3 ly
-
 Mass: 1.92 M
-
 Radius: 33 R
-
 Luminosity: 83 L
-
 Rotational velocity: 4.5 km/s
-
-
-
+== Brief description ==
 Iota Hydrae (ι Hydrae, abbreviated Iota Hya, ι Hya), also named Ukdah, is a star in the constellation of Hydra, about 8° to the north-northwest of Alphard (Alpha Hydrae) and just to the south of the celestial equator. Visible to the naked eye, it is a suspected variable star with an apparent visual magnitude that ranges between 3.87 and 3.91. Based upon an annual parallax shift of 12.39 mas measured during the Hipparcos mission, it is located around 263 light-years from the Sun.
 
 

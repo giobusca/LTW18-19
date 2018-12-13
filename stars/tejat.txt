@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Gemini
-
 Right ascension: 06 h 22 m 57.62686 s
-
 Declination: +22° 30′ 48.8979″
-
 Apparent magnitude: 2.857
-
 Distance: 230 ± 10 ly
-
 Mass: 2.1 M
-
 Radius: 80 R
-
 Luminosity: 1,148 L
-
 Temperature: 3,460 K
-
 Rotational velocity: 8.4 km/s
-
-
-
+== Brief description ==
 Mu Geminorum (μ Geminorum, abbreviated Mu Gem, μ Gem), also named Tejat, is a single star in the northern constellation of Gemini. From parallax measurements obtained during the Hipparcos mission, it is roughly 230 light-years (71 parsecs) distant from the Sun.Mu Geminorum forms the primary or 'A' component of a double star system designated WDS J06230+2231 along with UCAC2 39641417 (also designated WDS J06230+2231BC), itself a binary pair.
 
 

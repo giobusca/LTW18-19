@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 01 h 37 m 42.84548 s
-
 Declination: –57° 14′ 12.3101″
-
 Apparent magnitude: 0.40 - 0.46
-
 Distance: 139 ± 3 ly
-
 Mass: 6.7 M
-
 Radius: 7.3 × 11.4 R
-
 Luminosity: 3,150 L
-
 Temperature: ~15,000 K
-
 Rotational velocity: 250 km/s
-
-
-
+== Brief description ==
 Achernar  is the name of the primary (or 'A') component of the binary system designated Alpha Eridani (α Eridani, abbreviated Alpha Eri, α Eri), which is the brightest 'star' or point of light in, and lying at the southern tip of, the constellation of Eridanus, and the tenth-brightest in the night sky. The two components are designated Alpha Eridani A (the primary) and B (the secondary, also known informally as Achernar B). As determined by the Hipparcos astrometry satellite, it is approximately 139 light-years (43 pc) from the Sun.Of the ten apparent brightest stars in the night-time sky, Alpha Eridani is the hottest and bluest in color, due to Achernar being of spectral type B. Achernar has an unusually rapid rotational velocity, causing it to become oblate in shape. The secondary is smaller, of spectral type A, and orbits Achernar at a distance of roughly 12 astronomical units (AU).
 
 

@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Centaurus
-
 Right ascension: 14 h 06 m 40.94752 s
-
 Declination: –36° 22′ 11.8371″
-
 Apparent magnitude: +2.06
-
 Distance: 58.8 ± 0.2 ly
-
 Radius: 10.6 R
-
 Luminosity: 60 L
-
 Temperature: 4,980 K
-
-
-
+== Brief description ==
 Theta Centauri (θ Centauri, abbreviated Theta Cen, θ Cen), also named Menkent, is a star in the southern constellation of Centaurus, the centaur. With an apparent visual magnitude of +2.06, it is the fourth-brightest member of the constellation. Based on parallax measurements obtained during the Hipparcos mission, it is about 58.8 light-years (18.0 parsecs) distant from the Sun.
 
 

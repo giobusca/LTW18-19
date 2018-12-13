@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Perseus
-
 Right ascension: 03 h 44 m 19.13204 s
-
 Declination: 32° 17′ 17.6929″
-
 Apparent magnitude: 3.83
-
 Distance: approx. 1,100 ly
-
 Mass: 15.5 M
-
 Luminosity: 61,869 L
-
 Temperature: 22,840 K
-
 Rotational velocity: 90 km/s
-
-
-
+== Brief description ==
 Omicron Persei (ο Persei, abbreviated Omicron Per, ο Per) is a triple star system in the constellation of Perseus. From parallax measurements taken during the Hipparcos mission it is approximately 1,100 light-years (340 parsecs) from the Sun.
 The system consists of a binary pair designated Omicron Persei A and a third companion Omicron Persei B. A's two components are themselves designated Omicron Persei Aa (also named Atik) and Ab.
 

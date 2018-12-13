@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cetus
-
 Right ascension: 02 h 43 m 18.03910 s
-
 Declination: +03° 14′ 08.9390″
-
 Apparent magnitude: 3.47
-
 Distance: 80 ± 1 ly
-
 Mass: 1.88 M
-
 Radius: 1.9 R
-
 Luminosity: 21 L
-
 Temperature: 8,551 K
-
 Rotational velocity: 186 km/s
-
-
-
+== Brief description ==
 Gamma Ceti (γ Ceti, abbreviated Gamma Cet, γ Cet) is a triple star system in the equatorial constellation of Cetus. It has a combined apparent visual magnitude of 3.47. Based upon parallax measurements, this star is located at a distance of about 80 light-years (24.4 parsecs) from the Sun.The three components are designated Gamma Ceti A (also named Kaffaljidhma), B and C.
 
 

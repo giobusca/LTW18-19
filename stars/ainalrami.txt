@@ -1,17 +1,11 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 18 h 54 m 10.17695 s
-
 Declination: −22° 44′ 41.4247″
-
 Apparent magnitude: +4.86
-
 Distance: approx. 1,100 ly
-
-
-
+== Brief description ==
 Nu¹ Sagittarii (ν¹ Sagittarii, abbreviated Nu¹ Sgr, ν¹ Sgr) is a triple star system lying approximately 1,100 light-years from Earth. Its three components are designated Nu¹ Sagittarii A (also named Ainalrami), B and C. A and B themselves form a spectroscopic binary.
 
 

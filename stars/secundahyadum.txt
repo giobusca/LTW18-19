@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 04 h 22 m 56.09253 s
-
 Declination: +17° 32′ 33.0487″
-
 Apparent magnitude: (3.90 + 9.50)
-
 Distance: 156 ± 4 ly
-
 Radius: 11.4  R
-
 Luminosity: 69  L
-
 Temperature: 5,000  K
-
 Rotation: 138.2 d
-
 Rotational velocity: 4.2 km/s km/s
-
-
-
+== Brief description ==
 Delta¹ Tauri (δ¹ Tauri, abbreviated Del¹ Tau, δ¹ Tau) is a double star in the zodiac constellation of Taurus. Based upon an annual parallax shift of 20.96 mas as seen from Earth, it is located roughly 156 light-years distant from the Sun. The system is faintly visible to the naked eye with a combined apparent visual magnitude of +3.772. It is considered a member of the Hyades cluster.The two constituents are designated δ¹ Tauri A and B. A is itself a binary star with components designated δ¹ Tauri Aa (also named Secunda Hyadum) and Ab.
 
 

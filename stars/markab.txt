@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Pegasus
-
 Right ascension: 23 h 04 m 45.65345 s
-
 Declination: +15° 12′ 18.9617″
-
 Apparent magnitude: 2.48
-
 Distance: 133 ± 1 ly
-
 Radius: 4.72 ± 0.14 R
-
 Temperature: 9,765 ± 63 K
-
 Rotational velocity: 125 km/s
-
-
-
+== Brief description ==
 Alpha Pegasi (α Pegasi, abbreviated Alpha Peg, α Peg), also named Markab, is the third-brightest star in the constellation of Pegasus and one of the four stars in the asterism known as the Great Square of Pegasus.
 α Pegasi (Latinised to Alpha Pegasi) is the star's Bayer designation. It bore the traditional name Markab (or Marchab), which derived from an Arabic word مركب markab "the saddle of the horse", or is mistranscription of Mankib which itself comes from an Arabic phrase منكب الفرس Mankib al-Faras "(the Star of) the Shoulder (of the Constellation) of the Horse" for Beta Pegasi. 
 Markab has a stellar classification of A0 IV, indicating that it is an A-type subgiant star that has exhausted the hydrogen at its core and has evolved beyond the main sequence. It is rotating rapidly, with a projected rotational velocity of 125 km/s giving a lower bound on the azimuthal velocity along the star's equator. The effective temperature of the photosphere is nearly 10,000 K and the star has expanded to nearly five times the radius of the Sun.

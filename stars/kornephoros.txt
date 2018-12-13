@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Hercules
-
 Right ascension: 16 h 30 m 13.19955 s
-
 Declination: +21° 29′ 22.6008″
-
 Apparent magnitude: 2.81
-
 Distance: 139 ± 3 ly
-
 Mass: 2.9 M
-
 Radius: 17 R
-
 Luminosity: 151 L
-
 Temperature: 4,887 K
-
 Rotational velocity: 3.0 km/s
-
-
-
+== Brief description ==
 Beta Herculis (β Herculis, abbreviated Beta Her, β Her), also named Kornephoros, is a binary star and the brightest star in the northern constellation of Hercules at a base apparent visual magnitude of 2.81. This is a suspected variable star with an apparent magnitude that may rise as high as 2.76. Based upon parallax measurements, it is located at a distance of 139 light-years (43 parsecs) from the Sun.Although Beta Herculis appears to the naked eye to be a single star, in July 1899 the American astronomer W. W. Campbell discovered from spectroscopic measurements that its radial velocity varies, and concluded that it has a companion.
 
 

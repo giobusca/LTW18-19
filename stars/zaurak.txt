@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 03 h 58 m 01.76695 s
-
 Declination: −13° 30′ 30.6698″
-
 Apparent magnitude: 2.88 - 2.96
-
 Distance: 203 ± 7 ly
-
 Radius: 80 R
-
 Luminosity: 1,259 L
-
 Temperature: 3,811 K
-
 Rotational velocity: 3.8 km/s
-
-
-
+== Brief description ==
 Gamma Eridani (γ Eridani, abbreviated Gamma Eri, γ Eri), also named Zaurak, is a variable star in the constellation of Eridanus. It is visible to the naked eye with an apparent visual magnitude that varies around 2.9, and lies at a distance of about 203 light years from the Sun, as determined by the Hipparcos astrometry satellite. This is an evolved red giant star that is currently on the asymptotic giant branch of the Hertzsprung–Russell diagram.
 
 

@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Ophiuchus
-
 Right ascension: 17 h 10 m 22.68689 s
-
 Declination: –15° 43′ 29.6639″
-
 Apparent magnitude: 2.43
-
 Distance: 88 ± 2 ly
-
 Mass: 2.966 M
-
 Rotational velocity: 23 km/s
-
-
-
+== Brief description ==
 Eta Ophiuchi (η Ophiuchi, abbreviated Eta Oph, η Oph) is a binary star in the constellation of Ophiuchus. Based on parallax measurements taken during the Hipparcos mission, it is approximately 88 light-years from the Sun.
 Eta Ophiuchi is part of a multiple star system designated WDS J17104-1544. It itself is designated WDS J17104-1544AB and its two components WDS J17104-1544A (also named Sabik) and WDS J17104-1544B. The 'C' component is UCAC4 372-080717 and 'D' is UCAC2 26022336.
 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 12 h 54 m 01.74959 s
-
 Declination: +55° 57′ 35.3627″
-
 Apparent magnitude: 1.77
-
 Distance: 82.6 ± 0.4 ly
-
 Mass: 2.91 M
-
 Radius: 4.2 ± 0.2 R
-
 Luminosity: 108  L
-
 Temperature: 9985 K
-
 Rotational velocity: 33 km/s
-
-
-
+== Brief description ==
 Epsilon Ursae Majoris (ε Ursae Majoris, abbreviated Epsilon UMa, ε UMa), also named Alioth, is (despite being designated 'epsilon') the brightest star in the constellation of Ursa Major, and at magnitude 1.77 is the thirty-second-brightest star in the sky.
 It is the star in the tail of the bear closest to its body, and thus the star in the handle of the Big Dipper (Plough) closest to the bowl. It is also a member of the large and diffuse Ursa Major moving group. Historically, the star was frequently used in celestial navigation in the maritime trade, because it is listed as one of the 57 navigational stars.
 

@@ -1,30 +1,20 @@
 ==Datasheet==
 
 Constellation: Cetus
-
 Right ascension: 01 h 51 m 27.63482 s
-
 Declination: −10° 20′ 06.1289″
-
 Apparent magnitude: 3.742
-
 Distance: 235 ± 10 ly
-
 Mass: 2.34 M
-
 Radius: 25  R
-
 Luminosity: 240  L
-
 Rotational velocity: 3.2 km/s km/s
-
-
-
+== Brief description ==
 Zeta Ceti (ζ Ceti, abbreviated Zeta Cet, ζ Cet) is a binary star in the equatorial constellation of Cetus. It has a combined apparent visual magnitude of 3.74, which is bright enough to be seen with the naked eye. Based upon parallax measurements taken during the Hipparcos mission, it is approximately 235 light-years from the Sun.Zeta Ceti is the primary or 'A' component of a double star system designated WDS J01515-1020 (the secondary or 'B' component is HD 11366). Zeta Ceti's two components are therefore designated WDS J01515-1020 Aa and Ab. Aa is also named Baten Kaitos.
 
 
 == Nomenclature ==
-ζ Ceti (Latinised to Zeta Ceti) is the binary pair's Bayer designation. WDS J01515-1020 A is its designation in the Washington Double Star Catalog. The designations of the two components as WDS J01515-1020 Aa and Ab derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Baten Kaitos, derived from the Arabic بطن قيتوس batn qaytus "belly of the sea monster". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Baten Kaitos for the component WDS J01515-1020 Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Rabah al Naamat رابع ألنعامة raabi3 al naʽāmāt, which was translated into Latin as Quarta Struthionum, meaning "the fourth ostrich". This star, along with Eta Ceti (Deneb Algenubi), Theta Ceti (Thanih Al Naamat), Tau Ceti (Thalath Al Naamat), and Upsilon Ceti, formed Al Naʽāmāt ('ألنعامة), "the Hen Ostriches".In Chinese, 天倉 (Tiān Cāng), meaning Square Celestial Granary, refers to an asterism consisting of Zeta Ceti, Iota Ceti, Theta Ceti, Eta Ceti, Tau Ceti and 57 Ceti. Consequently, Zeta Ceti itself is known as 天倉四 (Tiān Cāng sì, English: the Second Star of Square Celestial Granary).
+ζ Ceti (Latinised to Zeta Ceti) is the binary pair's Bayer designation. WDS J01515-1020 A is its designation in the Washington Double Star Catalog. The designations of the two components as WDS J01515-1020 Aa and Ab derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).It bore the traditional name Baten Kaitos, derived from the Arabic بطن قيطس batn qaytus "belly of the sea monster". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Baten Kaitos for the component WDS J01515-1020 Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Rabah al Naamat رابع ألنعامة raabi3 al naʽāmāt, which was translated into Latin as Quarta Struthionum, meaning "the fourth ostrich". This star, along with Eta Ceti (Deneb Algenubi), Theta Ceti (Thanih Al Naamat), Tau Ceti (Thalath Al Naamat), and Upsilon Ceti, formed Al Naʽāmāt ('ألنعامة), "the Hen Ostriches".In Chinese, 天倉 (Tiān Cāng), meaning Square Celestial Granary, refers to an asterism consisting of Zeta Ceti, Iota Ceti, Theta Ceti, Eta Ceti, Tau Ceti and 57 Ceti. Consequently, Zeta Ceti itself is known as 天倉四 (Tiān Cāng sì, English: the Second Star of Square Celestial Granary).
 
 
 == Properties ==

@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 10 h 19 m 58.35056 s
-
 Declination: +19° 50′ 29.3468″
-
 Apparent magnitude: 2.08 (2.37/3.64)
-
 Distance: 130 ± 3 ly
-
 Mass: 1.23 M
-
 Radius: 31.88 R
-
 Luminosity: 320 L
-
 Temperature: 4,470 K
-
-
-
+== Brief description ==
 Gamma Leonis (γ Leonis, abbreviated Gamma Leo, γ Leo), also named Algieba, is a binary star system in the constellation of Leo. In 2009, a planetary companion around the primary was announced.
 
 

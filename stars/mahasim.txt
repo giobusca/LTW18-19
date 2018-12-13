@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Auriga
-
 Right ascension: 05 h 59 m 43.27012 s
-
 Declination: +37° 12′ 45.3047″
-
 Apparent magnitude: 2.62 - 2.70
-
 Distance: 166 ± 1 ly
-
 Mass: 3.38 ± 0.08 M
-
 Radius: 5.1 ± 0.4 R
-
 Luminosity: 263 L
-
 Temperature: 10,400 ± 300 K
-
 Rotation: 3.6187 days
-
 Rotational velocity: 55 km/s
-
-
-
+== Brief description ==
 Theta Aurigae (θ Aurigae, abbreviated Theta Aur, θ Aur) is a binary star in the constellation of Auriga. Based upon parallax measurements, the distance to this system is about 166 light-years (51 parsecs).The two components are designated Theta Aurigae A (also named Mahasim) and B.
 
 

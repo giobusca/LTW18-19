@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Perseus
-
 Right ascension: 03 h 08 m 10.13245 s
-
 Declination: +40° 57′ 20.3280″
-
 Apparent magnitude: 2.12
-
 Distance: 90 ± 3 ly
-
 Mass: 3.17 ± 0.21 M
-
 Radius: 2.73 ± 0.20 R
-
 Luminosity: 182 L
-
 Temperature: 13,000 K
-
 Rotational velocity: 49 km/s
-
-
-
+== Brief description ==
 Algol (), designated Beta Persei (β Persei, abbreviated Beta Per, β Per), known colloquially as the Demon Star, is a bright multiple star in the constellation of Perseus and one of the first non-nova variable stars to be discovered.
 Algol is a three-star system, consisting of Beta Persei Aa1, Aa2, and Ab - in which the hot luminous primary β Persei Aa1 and the larger, but cooler and fainter, β Persei Aa2 regularly pass in front of each-other causing eclipses. Thus Algol's magnitude is usually near-constant at 2.1, but regularly dips to 3.4 every 2.86 days during the roughly 10-hour-long partial eclipses. The secondary eclipse when the brighter primary star occults the fainter secondary is very shallow and can only be detected photoelectrically.Algol gives its name to its class of eclipsing variable, known as Algol variables.
 

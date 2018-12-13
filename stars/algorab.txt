@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Corvus
-
 Right ascension: 12 h 29 m 51.85517 s
-
 Declination: −16° 30′ 55.5525″
-
 Apparent magnitude: +2.962
-
 Distance: 86.9 ± 0.4 ly
-
 Rotational velocity: 236 km/s
-
-
-
+== Brief description ==
 Delta Corvi (δ Corvi, abbreviated Delta Crv, δ Crv), also named Algorab, is a third magnitude star at a distance of 86.9 light-years (26.6 parsecs) from the Sun in the southern constellation of Corvus.
 
 

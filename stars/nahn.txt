@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 09 h 09 m 21.53325 s
-
 Declination: +22° 02′ 43.6053″
-
 Apparent magnitude: (5.70 + 6.20)
-
 Distance: 370 ± 20 ly
-
 Luminosity: 118 L
-
 Temperature: 5,101 K
-
-
-
+== Brief description ==
 Xi Cancri (ξ Cancri, abbreviated Xi Cnc, ξ Cnc) is a spectroscopic binary star system in the zodiac constellation of Cancer. It is visible to the naked eye with an apparent visual magnitude of +5.15. Based upon parallax measurements obtained during the Hipparcos mission, it is roughly 370 light-years distant from the Sun.
 The two components are designated Xi Cancri A (also named Nahn) and B.
 

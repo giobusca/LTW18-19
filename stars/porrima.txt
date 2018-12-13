@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 12 h 41 m 39.64344 s
-
 Declination: –01° 26′ 57.7421″
-
-Apparent magnitude: 2.74
-
+Apparent magnitude: 2.74 (3.650/3.560
 Distance: 38.1 ± 0.3 ly
-
 Mass: 1.56 M
-
 Temperature: 6,757 K
-
-
-
+== Brief description ==
 Gamma Virginis (γ Virginis, abbreviated Gamma Vir, γ Vir), also named Porrima, is a binary star system in the constellation of Virgo.
 
 
@@ -33,3 +25,5 @@ Based upon X-ray emissions—an indicator of the strength of the stellar magneti
 
 == Changes of distance and position angle ==
 This table shows the apparent distance between the two stars and their relative position angle: first three columns show data predicted from an orbit calculated in 1937, the next two columns show in 2006, the next three columns show observations reported by the Hanwell Community Observatory.
+
+

@@ -1,20 +1,13 @@
 ==Datasheet==
 
 Constellation: Pegasus
-
 Right ascension: 22 h 10 m 11.98528 s
-
 Declination: +06° 11′ 52.3078″
-
 Apparent magnitude: +3.53
 
-
 Distance: 92 ± 2 ly
-
 Mass: 1.848 M
-
-
-
+== Brief description ==
 Theta Pegasi (θ Pegasi, abbreviated Theta Peg, θ Peg), also named Biham, is a star in the constellation of Pegasus.
 
 

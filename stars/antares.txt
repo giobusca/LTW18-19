@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 16 h 29 m 24.45970 s
-
 Declination: −26° 25′ 55.2094″
-
 Apparent magnitude: 0.6 - 1.6
-
 Distance: approx. 550 ly
-
 Radius: 680 R
-
 Temperature: 3,570 K
-
 Rotational velocity: 20 km/s
-
-
-
+== Brief description ==
 Antares (), also designated Alpha Scorpii (α Scorpii, abbreviated Alpha Sco, α Sco), is on average the fifteenth-brightest star in the night sky, and the brightest star in the constellation of Scorpius. Distinctly reddish when viewed with the naked eye, Antares is a slow irregular variable star that ranges in brightness from apparent magnitude +0.6 to +1.6. Often referred to as "the heart of the scorpion", Antares is flanked by Sigma and Tau Scorpii in the center of the constellation.
 Classified as a red supergiant of spectral type M1.5Iab-Ib, Antares is the brightest, most massive, and most evolved stellar member of the nearest OB association (the Scorpius–Centaurus Association). Antares is a member of the Upper Scorpius subgroup of the Scorpius–Centaurus Association, which contains thousands of stars with mean age 11 million years at a distance of approximately 170 parsecs (550 ly). Its exact size remains uncertain, but if placed at the center of the solar system it would reach to somewhere between the orbits of Mars and Jupiter. The mass is calculated to be around 12 times that of the Sun.
 

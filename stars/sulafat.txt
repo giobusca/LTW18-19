@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Lyra
-
 Right ascension: 18 h 58 m 56.62241 s
-
 Declination: +32° 41′ 22.4003″
-
 Apparent magnitude: 3.261
-
 Distance: 620 ± 30 ly
-
 Mass: 5.76 M
-
 Radius: 15.40 R
-
 Luminosity: 2,430 L
-
 Temperature: 10,000 K
-
 Rotational velocity: 71–72 km/s
-
-
-
+== Brief description ==
 Gamma Lyrae (Latinized from γ Lyrae, abbreviated Gamma Lyr, γ Lyr), also named Sulafat, is the second-brightest star in the northern constellation of Lyra. With an apparent visual magnitude of 3.3, it is readily visible to the naked eye. Parallax measurements yield an estimated distance of 620 light-years (190 parsecs) from the Sun. At that distance, the visual magnitude of the star is diminished by an extinction factor of 0.12±0.03 due to interstellar dust.
 
 

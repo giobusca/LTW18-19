@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Andromeda
-
 Right ascension: 02 h 03 m 53.9531 s
-
 Declination: +42° 19′ 47.009″
-
 Apparent magnitude: 2.10
-
 Distance: 350 ± 30 ly
-
 Radius: 80 R
-
 Luminosity: 2,000 L
-
 Temperature: 4,500 K
-
 Rotational velocity: < 17 km/s
-
-
-
+== Brief description ==
 Gamma Andromedae (γ Andromedae, abbreviated Gamma And, γ And) is the third-brightest point of light in the constellation of Andromeda.  It is a multiple star system approximately 350 light-years from the Earth.
 In 1778, Johann Tobias Mayer discovered that γ Andromedae was a double star.  When examined in a small telescope, it appears to be a bright, golden-yellow star (γ1 Andromedae or γ Andromedae A, also named Almach) next to a dimmer, indigo-blue star (γ2 Andromedae or γ Andromedae B), separated by approximately 10 arcseconds.  It is often considered by stargazers to be a beautiful double star with a striking contrast of color.  It was later discovered that γ2 Andromedae is itself a triple star system.  What appears as a single star to the naked eye is thus a quadruple star system.
 

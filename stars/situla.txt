@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Aquarius
-
 Right ascension: 22 h 37 m 45.38049 s
-
 Declination: –04° 13′ 40.9939″
-
 Apparent magnitude: 5.03
-
 Distance: 214 ± 3 ly
-
 Radius: 13 R
-
 Luminosity: 60 L
-
 Temperature: 4,581 K
-
 Rotational velocity: 3.8 km/s
-
-
-
+== Brief description ==
 Kappa Aquarii (κ Aquarii, abbreviated Kappa Aqr, κ Aqr) is a probable binary star in the equatorial constellation of Aquarius. This system is visible to the naked eye, but it is faint at an apparent magnitude of 5.03. Based upon parallax measurements made during the Hipparcos mission, it is around 214 light-years (66 parsecs) from the Sun.The two components are designated Kappa Aquarii A (also named Situla) and B.
 
 

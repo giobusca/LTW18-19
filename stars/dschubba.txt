@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 16 h 00 m 20.00528 s
-
 Declination: –22° 37′ 18.1431″
-
-Apparent magnitude: 1.6
-
+Apparent magnitude: (1.6
 Distance: 136.0ly
-
 Mass: 13 M
-
 Radius: 6.7 R
-
 Luminosity: 38,000 L
-
 Temperature: 27,400 K
-
 Rotational velocity: 180 km/s
-
-
-
+== Brief description ==
 Delta Scorpii (δ Scorpii, abbreviated Delta Sco, δ Sco) is a binary star (the presence of a third star in the system is being debated) in the constellation of Scorpius. The primary component is named Dschubba.
 
 
@@ -43,3 +32,5 @@ The primary, Delta Scorpii A, is a B class subgiant surrounded by a disc of mate
 === Variability ===
 Delta Scorpii A is a Gamma Cassiopeiae variable star. This type of star shows irregular slow brightness variations of a few hundredths of a magnitude due to material surrounding the star.
 In June 2000, Delta Scorpii was observed by Sebastian Otero to be 0.1 magnitudes brighter than normal. Its brightness has varied since then and has reached at least as high as magnitude 1.6, altering the familiar appearance of Scorpius. Spectra taken after the outburst began have shown that the star is throwing off luminous gases from its equatorial region. The companion passed close by in 2011, again resulting in the star peaking at 1.65 between 5 and 15 July 2011.
+
+

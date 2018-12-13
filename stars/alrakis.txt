@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 17 h 05 m 20.12403 s
-
 Declination: +54° 28′ 12.0994″
-
 Apparent magnitude: 4.92
-
 Distance: 89 ± 1 ly
-
 Mass: 1.35 M
-
-
-
+== Brief description ==
 Mu Draconis (μ Draconis, abbreviated Mu Dra, μ Dra) is a multiple star system near the head of the constellation of Draco. With a combined magnitude of 4.92, it is visible to the naked eye. Based on parallax estimates by the Hipparcos spacecraft, it is located approximately 89 light-years from the Sun.The system consists of a single primary star (designated Mu Draconis A, also named Alrakis), a secondary binary pair (Mu Draconis B) and a further single star (C). B's two components are designated Mu Draconis Ba and Bb.
 Mu Draconis A and Ba are nearly identical F-type main-sequence stars, with masses of 1.35 M☉ and 1.30 M☉, respectively. Both have the spectral class of F5V, and have similar apparent magnitude, at 5.66 and 5.69, respectively. The secondary, Mu Draconis B, has a drifting radial velocity, and is itself a spectroscopic binary with an orbital period of 2,270 days. The smaller component, Mu Draconis Bb, has a mass of 0.2 M☉. Mu Draconis C is a 14th magnitude common-proper-motion companion 13.2" away from the bright pair, with a mass of 0.29 M☉.
 

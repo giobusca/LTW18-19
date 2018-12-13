@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 11 h 46 m 3.01407 s
-
 Declination: +47° 46′ 45.8626″
-
 Apparent magnitude: 3.72
-
 Distance: 184 ± 2 ly
-
 Mass: 1.49 M
-
 Luminosity: 158  L
-
 Rotational velocity: 2.3 km/s km/s
-
-
-
+== Brief description ==
 Chi Ursae Majoris (χ Ursae Majoris, abbreviated Chi UMa, χ UMa), also named Taiyangshou, is a star in the constellation of Ursa Major. It is approximately 246 light-years from the Sun.
 
 

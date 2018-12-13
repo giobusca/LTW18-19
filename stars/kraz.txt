@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Corvus
-
 Right ascension: 12 h 34 m 23.23484 s
-
 Declination: −23° 23′ 48.3374″
-
 Apparent magnitude: 2.647
-
 Distance: 146 ± 1 ly
-
 Mass: 3.7 ± 0.1 M
-
 Radius: 16 R
-
 Luminosity: 164 L
-
 Temperature: 5,100 ± 80 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Beta Corvi (β Corvi, abbreviated Beta Crv, β Crv), also named Kraz, is the second-brightest star in the southern constellation of Corvus with an apparent visual magnitude of 2.647. Based on parallax measurements obtained during the Hipparcos mission, it is about 146 light-years (45 parsecs) distant from the Sun.
 
 

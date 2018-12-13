@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 15 h 24 m 55.77463 s
-
 Declination: +58° 57′ 57.8344″
-
 Apparent magnitude: 3.290
-
 Distance: 101.2 ± 0.3 ly
-
 Mass: 1.82 ± 0.23 M
-
 Radius: 11.99 ± 0.06 R
-
 Luminosity: 55.3 ± 5.3 L
-
 Temperature: 4,545 ± 110 K
-
 Rotation: 434 days
-
 Rotational velocity: 1.5 km/s
-
-
-
+== Brief description ==
 Iota Draconis (ι Draconis, abbreviated Iota Dra, ι Dra), also named Edasich, is a star in the northern circumpolar constellation of Draco. A visually unremarkable star of apparent magnitude 3.3, in 2002 it was discovered to have a planet orbiting it (designated Iota Draconis b, later named Hypatia). From parallax measurements, this star is located at a distance of about 101.2 light-years (31.0 parsecs) from the Sun.
 
 

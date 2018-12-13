@@ -1,45 +1,60 @@
 ==Datasheet==
 
-Constellation: Capricornus
-
-Right ascension: 21 h 47 m 02.44424 s
-
-Declination: −16° 07′ 38.2335″
-
-Apparent magnitude: (2.81 (- 2.90) - 3.05)
-
-Distance: 38.70 ± 0.09 ly
-
-Mass: 2.0 M
-
-Radius: 1.91 R
-
-Luminosity: 8.5 L
-
-Temperature: 7,301 K
-
-Rotational velocity: 105 km/s
-
-
-
-Delta Capricorni (δ Capricorni, abbreviated Del Cap, δ Cap) is a multiple star system approximately 39 light-years away in the constellation of Capricornus (the Sea Goat). The primary star in the system is a white giant and the combined light of its members makes it the brightest star within the constellation.
-The system consists of an eclipsing binary, designated Delta Capricorni A, and two companion stars, B and C. A's two components are themselves designated Delta Capricorni Aa (also named Deneb Algedi) and Ab.
-Because it is near the ecliptic, Delta Capricorni can be occulted by the Moon, and also (rarely) by planets.
+Constellation: Cygnus
+Right ascension: 20 h 41 m 25.9 s
+Declination: +45° 16′ 49″
+Apparent magnitude: (1.21 - 1.29
+Distance: 2615 ± 215 ly
+Mass: 19 ± 4 M
+Radius: 203 ± 17 R
+Luminosity: 196,000 ± 32,000 L
+Temperature: 8,525 ± 75 K
+Rotational velocity: 20 ± 2 km/s
+== Brief description ==
+Deneb (), also designated α Cygni (Latinised alpha Cygni, abbreviated Alpha Cyg, α Cyg), is the brightest star in the constellation of Cygnus, the swan. It is one of the vertices of the asterism known as the Summer Triangle and forms the 'head' of the Northern Cross. It is the 19th brightest star in the night sky, with an apparent magnitude of 1.25. A blue-white supergiant, Deneb is also one of the most luminous stars. However, its exact distance (and hence luminosity) has been difficult to calculate; it is estimated to be somewhere between 55,000 and 196,000 times as luminous as the Sun, rivalling Rigel as the most inherently luminous star of first magnitude.
 
 
 == Nomenclature ==
-δ Capricorni  (Latinised to Delta Capricorni) is the system's Bayer designation. The designations of the three constituents as Delta Capricorni A, B and C, and those of A's components - Delta Capricorni Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional names Deneb Algedi, derived from the Arabic ذنب الجدي (ðanab al-jady), meaning "the tail of the goat", referring to the fishlike tail of the celestial sea-goat Capricorn, and Scheddi. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Deneb Algedi for the component Delta Capricornii Aa on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese astronomy, Delta Capricorni is known as 壘壁陣四 (Lěi Bì Zhèn sì), meaning 'The Fourth Star of the Line of Ramparts'. This refers to its presence among an asterism known as 'The Line of Ramparts', which also includes Kappa Capricorni, Epsilon Capricorni, Gamma Capricorni, Iota Aquarii, Lambda Aquarii, Sigma Aquarii, Phi Aquarii, 27 Piscium, 29 Piscium, 33 Piscium and 30 Piscium.(in Chinese)
+α Cygni (Latinised to Alpha Cygni) is the star's Bayer designation. The traditional name Deneb is derived from the Arabic word for "tail", from the phrase ذنب الدجاجة Dhanab al-Dajājah, or "tail of the hen". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Deneb for this star. It is now so entered in the IAU Catalog of Star Names.
 
 
-== Observational history ==
-In 1906 astronomer Vesto Slipher of Lowell Observatory discovered that Delta Capricorni A was a spectroscopic binary. The orbit was determined in 1921 by Clifford Crump using 69 radial velocity measurements obtained at Yerkes Observatory. However the eclipsing binary nature of the system was not discovered until 1956 by Olin J. Eggen at Lick Observatory.Lunar occultations have been observed in 1951, 1962, and 1988.Delta Capricorni was recognised as a metallic-line star in 1957 and included in a 1958 catalog of magnetic stars.  It has also been associated with extreme ultraviolet and radio sources, believed to be from coronal activity in the secondary star.
+== Visibility ==
+
+Deneb lies at one vertex of a widely spaced asterism called the Summer Triangle, the other two members of which are the zero-magnitude stars Vega in the constellation Lyra and Altair in Aquila. This formation is the approximate shape of a right triangle, with Deneb located at one of the acute angles. The Summer Triangle is recognizable in the northern skies for there are few other bright stars in its vicinity.Deneb is also easily spotted as the tip of the Northern Cross asterism made up of the brightest stars in Cygnus, the others being Beta (Albireo), Gamma, Delta, and Epsilon Cygni. It never dips below the horizon at or above 45° north latitude, just grazing the northern horizon at its lowest point at such locations as Minneapolis, Montréal and Turin.
+In the northern hemisphere Deneb is high in the sky during summer evenings.In the southern hemisphere, Deneb is not at all visible south of 45° south parallel, so it just barely rises above the horizon in Tasmania and southern New Zealand during the southern winter (which corresponds to the northern summer).
 
 
-== Stellar system ==
-Delta Capricorni A is an Algol-type eclipsing binary star, with an orbital period of 1.022768 days and an inclination close to the line of sight from the Earth. The peak apparent visual magnitude of the pair is 2.81. During an eclipse of the primary, this magnitude drops by 0.24. When the primary is eclipsing the secondary, the magnitude decreases by 0.09.Delta Capricorni A, has an overall stellar classification of A7m III, indicating that it is a giant star that has exhausted the supply of hydrogen at its core. More specifically, this is a chemically-peculiar Am star with a spectral type of kA5hF0mF2 III under the revised MK system. This notation indicates that the calcium K-line matches the temperature of an A5 star, the hydrogen spectral type matches an F0 star, and the metallic absorption lines match an F2 star.In the past this star was suspected of being a Delta Scuti variable, which is rare for an Am star. This categorization was brought into question during observations in 1994 and it is most likely not inherently variable. The primary has double the Sun's mass and nearly twice its radius. It is rotating rapidly with a projected rotational velocity of 105 km s−1. (This rotation rate is synchronous with the orbital period.) Note that it is unusual for an Am star to have such a high rotational velocity. The outer envelope of the star is radiating energy at an effective temperature of 7,301 K, giving it the white-hued glow of an A-type star. The secondary component is a G-type or K-type star with around 90% of the mass of the Sun.There are two optical companions. A fifteenth magnitude star is one arcminute away, and a thirteenth magnitude star is over two arcminutes away from the primary star and that distance is increasing.
+=== Pole star ===
+Due to the Earth's axial precession, Deneb will be an approximate Pole star (7° off of the North celestial pole) at around 9800 AD.
 
 
-== In culture ==
-According to astrology, Delta Capricorni's representation of a flexible tail is reflected in its association with both good and bad fortune alike. It was one of the fifteen Behenian stars of medieval astrology, associated with chalcedony, marjoram and the kabbalistic symbol .
+== Distance and properties ==
+
+Deneb's exact distance from the Earth is still rather uncertain.  The currently accepted distance of around 802 parsecs (2,620 ly) (and the associated physical data shown in the starbox) is derived by a variety of methods, including spectral luminosity classes, atmospheric modelling, stellar evolution models, assumed membership of the Cygnus OB7 association, and direct measurements of angular diameter.  The original rather inaccurate Hipparcos parallax measurement (1.01 ± 0.57 mas) was not inconsistent with this distance, but the more recent re-analysis gives a much larger parallax and a distance barely half the widely accepted value.  One 2008 calculation using the Hipparcos data puts the most likely distance at 475 parsecs (1,550 ly), with an uncertainty of only around 15%, although parallax measurements of asymmetric, pulsating stars embedded within shells are known to be unreliable.  The controversy over whether the direct Hipparcos measurements can be ignored in favour of a wide range of indirect stellar models and interstellar distance scales is similar to the better known situation with the Pleiades. The Gaia satellite should provide distance measurements at least two orders of magnitude more reliable than Hipparcos and resolve many such questions, although it will not measure Deneb itself.Deneb's absolute magnitude is currently estimated as −8.4, placing it among the most luminous stars known, with an estimated luminosity nearly 200,000 times that of the Sun. This is towards the upper end of various published values over the last few decades.Deneb is the most luminous of the stars with apparent magnitude brighter than 1.5, and the most distant, by a factor of almost 2, of the 30 brightest stars. Based on its temperature and luminosity, and also on direct measurements of its tiny angular diameter (a mere 0.002-second of arc), Deneb appears to have a diameter of about over 200 times that of the Sun; if placed at the center of the Solar System, Deneb would extend out to the orbit of the Earth. It is one of the largest known white stars.
+Deneb is a bluish-white star of spectral type A2Ia, with a surface temperature of 8,500 kelvin. Since 1943, its spectrum has served as one of the stable references by which other stars are classified. It is the prototype of a class of variable stars known as Alpha Cygni variables.  Its surface undergoes non-radial fluctuations which cause its brightness to vary by up to 0.15 magnitude with no clear periodicity, and the spectral type to change slightly.Deneb's mass is estimated at 19 solar masses (M☉).  Its stellar wind causes it to lose mass at a rate of 8±3×10−7 M☉ per year, one hundred thousand times the flow rate from the Sun, i.e. roughly one Earth mass lost per 500 years.
+
+
+=== Non-binary system ===
+Deneb has been reported as a possible single line spectroscopic binary, where the spectral lines from the star suggest radial velocity changes (in a cyclical or more complex periodic fashion), but no spectral features from a companion are seen. More detailed analysis of the spectrum over time has not found any support for a companion.
+
+
+=== Evolutionary state ===
+Deneb spent much of its early life as a 23 M☉ O-type main-sequence star but it has now exhausted the supply of hydrogen in its core and begun to cool and expand. Stars in the mass range of Deneb eventually expand to become the most luminous red supergiants, and within a few million years their cores will collapse producing a supernova explosion.  It is now known that red supergiants up to a certain mass explode as the commonly seen type II-P supernovae, but more massive ones lose their outer layers to become hotter again.  Depending on their initial masses and the rate of mass loss, they may explode as yellow hypergiants or luminous blue variables, or they may become Wolf-Rayet stars before exploding in a type Ib or Ic supernova.  Identifying whether Deneb is currently evolving towards a red supergiant or is currently evolving bluewards again would place valuable constraints on the classes of stars that explode as red supergiants and those that explode as hotter stars.Stars evolving redwards for the first time are most likely fusing hydrogen in a shell around a helium core that has not yet grown hot enough to start fusion to carbon and oxygen.  Convection has begun to dredge up the products of fusion but these are not visible at the surface.  Post-red supergiant stars are expected to show those fusion products at the surface due to stronger convection during the red supergiant phase and due to loss of the obscuring outer layers of the star.  Deneb is thought to be evolving redwards, although current models do not exactly reproduce the surface elements showing in its spectrum.
+
+
+== Etymology and cultural significance ==
+Names similar to Deneb were given to at least seven different stars, most notably Deneb Kaitos, the brightest star in the constellation of Cetus; Deneb Algedi, the brightest star in Capricornus; and Denebola, the second brightest star in Leo. All these stars are referring to the tail of the animals that their respective constellations represent.
+Denebadigege was used in the Alfonsine Tables, other variants include Deneb Adige, Denebedigege and Arided.  This latter name was derived from Al Ridhādh, a name for the constellation. Johann Bayer called it Arrioph, derived from Aridf and Al Ridf, 'the hindmost'  or Gallina.  German poet and author Philippus Caesius termed it Os rosae, or Rosemund in German, or Uropygium – the parson's nose. The names Arided and Aridif have fallen out of use.
+In Chinese, 天津 (Tiān Jīn), meaning Celestial Ford, refers to an asterism consisting of Deneb, γ Cygni, δ Cygni, 30 Cygni, ν Cygni, τ Cygni, υ Cygni, ζ Cygni and ε Cygni. Consequently, Deneb itself is known as 天津四 (Tiān Jīn sì, English: the Fourth Star of the Celestial Ford).In the Chinese love story of Qi Xi, Deneb marks the magpie bridge across the Milky Way, which allows the separated lovers Niu Lang (Altair) and Zhi Nü (Vega) to be reunited on one special night of the year in late summer. In other versions of the story Deneb is a fairy who acts as chaperone when the lovers meet.
+The north pole of Mars points to the midpoint of the line connecting Deneb and the star Alderamin.
+
+
+=== Namesakes ===
+USS Arided was a United States Navy Crater-class cargo ship named after the star. The SS Deneb was an Italian merchant vessel that bore this name from 1951 until she was scrapped in 1966.
+
+
+=== In fiction ===
+
+The star Deneb, and hypothetical planets orbiting it, have been used many times in literature, film, electronic games, and music.  Examples include several episodes of the Star Trek TV series, the Silver Surfer comic book, the Rush albums A Farewell to Kings and Hemispheres, the Descent: FreeSpace – The Great War computer game, Stellaris, science fiction novel Hyperion, and Andy Weir, in his novel The Martian.
 
 

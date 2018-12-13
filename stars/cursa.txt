@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 05 h 07 m 50.98549 s
-
 Declination: −05° 05′ 11.2055″
-
 Apparent magnitude: 2.796
-
 Distance: 89 ± 1 ly
-
 Mass: 2.0 M
-
 Radius: 2.4 R
-
 Luminosity: 25 L
-
 Temperature: 8,360, K
-
 Rotational velocity: 196 km/s
-
-
-
+== Brief description ==
 Beta Eridani (β Eridani, abbreviated Beta Eri, β Eri), also named Cursa, is the second-brightest star in the constellation of Eridanus, located in the northeast end of this constellation near the shared border with Orion. The apparent visual magnitude of this star is 2.796, so it can be viewed with the naked eye in dark skies. Parallax measurements yield an estimated distance of about 89 light-years (27 parsecs) from the Earth.
 
 

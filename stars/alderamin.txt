@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cepheus
-
 Right ascension: 21 h 18 m 34.7715 s
-
 Declination: +62° 35′ 08.061″
-
 Apparent magnitude: 2.5141
-
 Distance: 49.05 ± 0.08 ly
-
 Mass: 1.74 M
-
 Radius: 2.3 R
-
 Luminosity: 17 L
-
 Temperature: 7,740 ± 170 K
-
 Rotational velocity: 246 km/s
-
-
-
+== Brief description ==
 Alpha Cephei (α Cephei, abbreviated Alpha Cep, α Cep), also named Alderamin, is a second magnitude star in the constellation of Cepheus near the northern pole. The star is relatively close to Earth at 49 light years (ly).
 
 

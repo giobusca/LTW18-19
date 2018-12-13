@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Aquarius
-
 Right ascension: 21 h 31 m 33.53171 s
-
 Declination: –05° 34′ 16.2320″
-
 Apparent magnitude: 2.87
-
 Distance: 540 ± 20 ly
-
 Mass: 6.0–6.5 M
-
 Radius: 50 R
-
 Luminosity: 2,300 L
-
 Temperature: 5,700 K
-
 Rotational velocity: 6.3 ± 1.3 km/s
-
-
-
+== Brief description ==
 Beta Aquarii (β Aquarii, abbreviated Beta Aqr, β Aqr) is a star in the constellation of Aquarius. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 540 light-years (165 parsecs) from the Sun. The primary or 'A' component is also named Sadalsuud.
 
 

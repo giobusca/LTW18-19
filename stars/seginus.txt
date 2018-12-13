@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Boötes
-
 Right ascension: 14 h 32 m 04.67180 s
-
 Declination: +38° 18′ 29.7043″
-
 Apparent magnitude: +3.03
-
 Distance: 86.8 ± 0.3 ly
-
 Luminosity: 34 L
-
 Temperature: 7,800 K
-
 Rotational velocity: 140 km/s
-
-
-
+== Brief description ==
 Gamma Boötis (γ Boötis, abbreviated Gamma Boo, γ Boo) is a binary star in the constellation of Boötes. It is a Delta Scuti type variable star with a period of 1.13 hours. Its brightness varies from magnitude +3.02 to +3.07. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 85 light-years distant from the Sun.
 Gamma Boötis forms the primary or 'A' component of a double star system designated WDS J14321+3818 ('B' is the star UCAC2 45176266). Gamma Boötis' two components are themselves designated WDS J14321+3818Aa (also named Seginus) and Ab.
 

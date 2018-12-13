@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Grus
-
 Right ascension: 21 h 53 m 55.72620 s
-
 Declination: –37° 21′ 53.4790″
-
 Apparent magnitude: 3.003
-
 Distance: 211 ± 9 ly
-
 Mass: 3.06 M
-
 Radius: 4.5 R
-
 Luminosity: 373 L
-
 Temperature: 12,520 K
-
 Rotational velocity: 57 km/s
-
-
-
+== Brief description ==
 Gamma Gruis (γ Gruis, abbreviated Gam Gru, γ Gru), also named Aldhanab, is a star in the southern constellation of Grus (it once belonged to the Ptolemaic constellation Piscis Austrinus). With an apparent visual magnitude of 3.0, it is the third-brightest star in Grus. Based upon parallax measurements, this star is located at a distance of roughly 211 light-years (65 parsecs) from the Sun.
 
 

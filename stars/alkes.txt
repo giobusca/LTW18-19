@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Crater
-
 Right ascension: 10 h 59 m 46.46486 s
-
 Declination: −18° 17′ 55.6172″
-
 Apparent magnitude: 4.07
-
 Distance: 141 ± 2 ly
-
 Mass: 1.81 M
-
 Radius: 12.32 R
-
 Luminosity: 66.0 L
-
 Temperature: 4.691 K
-
-
-
+== Brief description ==
 Alpha Crateris (α Crateris, abbreviated Alpha Crt, α Crt), also named Alkes, is a star in the constellation of Crater.  It is a cool giant star about 43.2 parsecs (141 ly) away.
 
 

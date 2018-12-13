@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Gemini
-
 Right ascension: 06 h 45 m 17.36432 s
-
 Declination: +12° 53′ 44.1311″
-
 Apparent magnitude: 3.35
-
 Distance: 58.7 ± 0.2 ly
-
 Mass: 1.706 ± 0.012 M
-
 Radius: 2.710 ± 0.021 R
-
 Luminosity: 11.574 ± 0.238 L
-
 Temperature: 6,480 ± 39 K
-
 Rotational velocity: 66.1 ± 3.3 km/s
-
-
-
+== Brief description ==
 Xi Geminorum (ξ Geminorum, abbreviated Xi Gem, ξ Gem), also named Alzirr, is a star in the zodiac constellation of Gemini. It forms one of the four feet of the outline demarcating the Gemini twins. The star has an apparent visual magnitude of 3.35, which is bright enough for it to be seen with the naked eye. From stellar parallax measurements, its distance from the Sun can be estimated as 58.7 light-years (18.0 parsecs).
 
 

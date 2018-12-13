@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 05 h 40 m 45.52666 s
-
 Declination: −01° 56′ 34.2649″
-
-Apparent magnitude: 2.08 + 4.28 + 4.01
-
+Apparent magnitude: (2.08 + 4.28 + 4.01
 Distance: 1,260 ± 180 ly
-
 Mass: 33 ± 10 M
-
 Radius: 20.0 ± 3.2 R
-
 Luminosity: 250,000 L
-
 Temperature: 29,500 ± 1000 K
-
 Rotation: 6.67 days
-
 Rotational velocity: 110 ± 10 km/s
-
-
-
+== Brief description ==
 Alnitak, designated Zeta Orionis (ζ Orionis, abbreviated Zeta Ori, ζ Ori) and 50 Orionis (50 Ori), is a multiple star several hundred parsecs from the Sun in the constellation of Orion. It is one of the three main stars of Orion's Belt along with Alnilam and Mintaka.
 The primary star is a hot blue supergiant with an absolute magnitude of -6.0 and is the brightest class O star in the night sky with a visual magnitude of +2.0.  It has two bluish 4th magnitude companions, one finely resolved and one only detected interferometrically and spectroscopically, producing a combined magnitude for the trio of +1.77. The stars are members of the Orion OB1 association and the Collinder 70 association.
 
@@ -54,3 +42,5 @@ In Chinese, 參宿 (Shēn Xiù), meaning Three Stars (asterism), refers to an as
 
 == Namesakes ==
 The USS Alnitah was a United States Navy Crater-class cargo ship named after the star.
+
+

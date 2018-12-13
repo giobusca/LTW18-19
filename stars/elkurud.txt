@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Columba
-
 Right ascension: 06 h 07 m 31.63216 s
-
 Declination: −37° 15′ 10.5114″
-
 Apparent magnitude: 5.02
-
 Distance: 720 ± 30 ly
-
 Luminosity: 472 L
-
 Temperature: 9,916 K
-
 Rotational velocity: 249 km/s
-
-
-
+== Brief description ==
 Theta Columbae (θ Columbae, abbreviated Theta Col, θ Col), also named Elkurud, is a solitary star in the southern constellation of Columba. It is faintly visible to the naked eye, having an apparent visual magnitude of 5.02. Based upon parallax measurements taken during the Hipparcos mission, it is roughly 720 light-years (220 parsecs) distant from the Sun.
 
 

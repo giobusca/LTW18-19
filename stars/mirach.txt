@@ -1,32 +1,21 @@
 ==Datasheet==
 
 Constellation: Andromeda
-
 Right ascension: 01 h 09 m 43.92388 s
-
 Declination: +35° 37′ 14.0075″
-
 Apparent magnitude: 2.05
-
 Distance: 197 ± 7 ly
-
 Mass: 3–4 M
-
 Radius: 100 R
-
 Luminosity: 1,995 L
-
 Temperature: 3,842 K
-
 Rotational velocity: 7.2 km/s
-
-
-
-Beta Andromedae (β Andromedae, abbreviated Beta And, β And), also named Mirach, is a prominent star in the northern constellation of Andromeda. It is located northeast of the Great Square of Pegasus and is theoretically visible to all observers north of 54° S. It is commonly used by stargazers to find the Andromeda Galaxy. The galaxy NGC 404, also known as Mirach's Ghost, is visible seven arc-minutes away.This star has an average apparent visual magnitude of 2.05, which makes it the brightest star in the constellation. However, the luminosity varies slightly from magnitude +2.01 to +2.10. Based upon parallax measurements, it is located at a distance of roughly 197 light-years (60 parsecs) from the Sun. The apparent magnitude of this star is reduced by 0.06 from extinction caused by the gas and dust along the line of sight.
+== Brief description ==
+Beta Andromedae (β Andromedae, abbreviated Beta And, β And), also named Mirach, is a prominent star in the northern constellation of Andromeda. It is northeast of the Great Square of Pegasus and is theoretically visible to all observers north of 54° S. It is commonly used by stargazers to find the Andromeda Galaxy. The galaxy NGC 404, also known as Mirach's Ghost, is seven arc minutes away from Mirach.This star has an average apparent visual magnitude of 2.05, making it the brightest star in the constellation. The luminosity varies slightly from magnitude +2.01 to +2.10. Based upon parallax measurements, it is roughly 197 light-years (60 parsecs) from the Sun. Its apparent magnitude is reduced by 0.06 by extinction due to gas and dust along the line of sight.
 
 
 == Properties ==
-Beta Andromedae is a red giant with a stellar classification of M0 III. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. It is suspected of being a semiregular variable star whose apparent visual magnitude varies from +2.01 to +2.10. At this stage of the star's evolution, the outer envelope has expanded to around 100 times the size of the Sun. It is radiating 1995 times the luminosity of the Sun at an effective temperature of 3842 K.
+Beta Andromedae is a red giant with a stellar classification of M0 III. Since 1943 the spectrum of this star has been one of the stable anchor points by which other stars are classified. It is suspected of being a semiregular variable star whose apparent visual magnitude varies from +2.01 to +2.10. At this stage of the star's evolution, the outer envelope has expanded to around 100 times the size of the Sun. It is radiating 1995 times the luminosity of the Sun at an effective temperature of 3842 K.
 
 
 == Nomenclature ==

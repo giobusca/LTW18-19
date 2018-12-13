@@ -1,19 +1,12 @@
 ==Datasheet==
 
 Constellation: Andromeda
-
 Right ascension: 01 h 36 m 47.84216 s
-
 Declination: +41° 24′ 19.6443″
-
 Apparent magnitude: 4.10
-
 Distance: 43.7 ± 0.2 ly
-
 Luminosity: 3.57 L
-
-
-
+== Brief description ==
 Upsilon Andromedae (υ Andromedae, abbreviated Upsilon And, υ And) is a binary star located approximately 44 light-years from Earth in the constellation of Andromeda. The system consists of an F-type main-sequence star (designated υ Andromedae A, also named Titawin) and a smaller red dwarf.
 As of  2010, four extrasolar planets (designated Upsilon Andromedae b, c, d and e; the first three named Saffar, Samh and Majriti, respectively) are believed to orbit υ Andromedae A. All four are likely to be jovian planets that are comparable in size to Jupiter. This was both the first multiple-planet system to be discovered around a main-sequence star, and the first multiple-planet system known in a multiple star system.
 

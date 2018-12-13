@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 13 h 02 m 10.59785 s
-
 Declination: +10° 57′ 32.9415″
-
 Apparent magnitude: +2.826
-
 Distance: 109.6 ± 0.5 ly
-
 Mass: 2.64 ± 0.11 M
-
 Radius: 10.6 ± 0.3 R
-
 Luminosity: 77 L
-
 Temperature: 5,086 K
-
 Rotation: 173 days
-
 Rotational velocity: 2.3 km/s
-
-
-
+== Brief description ==
 Epsilon Virginis (ε Virginis, abbreviated Epsilon Vir, ε Vir), also named Vindemiatrix, is a star in the zodiac constellation of Virgo. The apparent visual magnitude of this star is +2.8, making it the third-brightest member of Virgo. Based upon parallax measurements made during the Hipparcos mission, Vindemiatrix lies at a distance of about 109.6 light-years (33.6 parsecs) from the Sun, give or take a half light-year.
 
 

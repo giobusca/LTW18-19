@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 11 h 53 m 49.84732 s
-
 Declination: +53° 41′ 41.1350″
-
 Apparent magnitude: +2.438
-
 Distance: 83.2 ± 0.8 ly
-
 Mass: 2.94 M
-
 Radius: 3.04 ± 0.08 R
-
 Luminosity: 65.255 L
-
 Temperature: 9,355 K
-
 Rotational velocity: 178 km/s
-
-
-
+== Brief description ==
 Gamma Ursae Majoris (γ Ursae Majoris, abbreviated Gamma UMa, γ UMa), also named Phecda, is a star in the constellation of Ursa Major. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. Based upon parallax measurements with the Hipparcos astrometry satellite, it is located at distance of around 83.2 light-years (25.5 parsecs) from the Sun.It is more familiar to most observers in the northern hemisphere as the lower-left star forming the bowl of the Big Dipper, together with Alpha Ursae Majoris (Dubhe, upper-right), Beta Ursae Majoris (Merak, lower-right) and Delta Ursae Majoris (Megrez, upper-left). Along with four other stars in this well-known asterism, Phecda forms a loose association of stars known as the Ursa Major moving group. Like the other stars in the group, it is a main sequence star not unlike the Sun, although somewhat hotter, brighter and larger.
 Phecda is located in relatively close physical proximity to the prominent Mizar-Alcor star system. The two are separated by an estimated distance of 8.55 ly (2.62 pc); much closer than the two are from the Sun. The star Beta Ursae Majoris is separated from Gamma Ursae Majoris by 11.0 ly (3.4 pc).
 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 05 h 26 m 17.51312 s
-
 Declination: 28° 36′ 26.8262″
-
 Apparent magnitude: 1.65
-
 Distance: 134 ± 2 ly
-
 Mass: 5.0 ± 0.1 M
-
 Radius: 4.2 R
-
 Luminosity: 700 L
-
 Temperature: 13,824 ± 475 K
-
 Rotational velocity: 59 km/s
-
-
-
+== Brief description ==
 Beta Tauri (β Tauri, abbreviated Beta Tau, β Tau), also named Elnath or Alnath, is the second-brightest star in the constellation of Taurus with an apparent magnitude of 1.65.  It is a chemically peculiar B7 giant star, 134 light years away from Earth.  It was previously also known as Gamma Aurigae.
 
 

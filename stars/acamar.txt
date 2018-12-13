@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Eridanus
-
 Right ascension: 02 h 58 m 15.67525 s
-
 Declination: −40° 18′ 16.8524″
-
 Apparent magnitude: 3.2
-
 Distance: 161 ± 4 ly
-
 Mass: 2.6 M
-
 Radius: 16.0 R
-
 Luminosity: 145 L
-
 Temperature: 8,200 K
-
 Rotation: 569 days
-
 Rotational velocity: 70 km/s
-
-
-
+== Brief description ==
 Theta Eridani (θ Eridani, abbreviated Theta Eri, θ Eri) is a binary system in the constellation of Eridanus. Its two components are designated θ¹ Eridani, also named Acamar, and θ² Eridani. The system's distance from the Sun as measured by the Hipparcos astrometry satellite is approximately 120 light-years.
 
 

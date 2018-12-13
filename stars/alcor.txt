@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 13 h 25 m 13.53783 s
-
 Declination: +54° 59′ 16.6548″
-
 Apparent magnitude: +3.99
-
 Distance: 81.7 ± 0.3 ly
-
 Mass: 1.84 M
-
 Radius: 1.846 R
-
 Luminosity: 14.03 L
-
 Temperature: 8,221 K
-
 Rotational velocity: 228 km/s
-
-
-
+== Brief description ==
 Alcor is the fainter companion of Mizar, the two stars forming a naked eye double in the handle of the Big Dipper (or Plough) asterism in the constellation of Ursa Major. The two both lie about 83 light-years away from the Sun, as measured by the Hipparcos astrometry satellite.
 
 

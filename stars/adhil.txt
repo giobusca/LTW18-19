@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Andromeda
-
 Right ascension: 01 h 22 m 20.41924 s
-
 Declination: +45° 31′ 43.6003″
-
 Apparent magnitude: +4.90
-
 Distance: 214 ± 4 ly
-
 Mass: 2.5 M
-
 Radius: 10 R
-
 Luminosity: 45.7 L
-
 Temperature: 4,656 K
-
 Rotational velocity: 0.0 km/s
-
-
-
+== Brief description ==
 Xi Andromedae (ξ Andromedae, abbreviated Xi And, ξ And), also named Adhil, is a solitary star in the northern constellation of Andromeda. It has an apparent magnitude of +4.9. Based on parallax measurements obtained during the Hipparcos mission, it lies at a distance of roughly 214 light-years (66 parsecs) from the Sun.
 
 

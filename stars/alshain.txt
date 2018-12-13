@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Aquila
-
 Right ascension: 19 h 55 m 18.79256 s
-
 Declination: +06° 24′ 24.3425″
-
 Apparent magnitude: 3.87 + 12.0
-
 Distance: 44.7 ± 0.1 ly
-
 Mass: 1.26 ± 0.18 M
-
 Radius: 3.28 ± 0.15 R
-
 Luminosity: 6.0 ± 0.3 L
-
 Temperature: 5,100  K
-
 Rotational velocity: 0.9 km/s
-
-
-
+== Brief description ==
 Beta Aquilae (β Aquilae, abbreviated Beta Aql, β Aql) is a binary star in the equatorial constellation of Aquila. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 44.7 light-years from the Sun.
 Its two components are designated Beta Aquilae A (also named Alshain) and B.
 

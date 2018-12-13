@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Scorpius
-
 Right ascension: 17 h 30 m 45.83712 s
-
 Declination: –37° 17′ 44.9285″
-
 Apparent magnitude: 2.70
-
 Distance: 580 ± 20 ly
-
 Mass: 11.4 ± 0.5 M
-
 Radius: 6.1 R
-
 Luminosity: 7381 L
-
 Temperature: 22,831 ± 169 K
-
-
-
+== Brief description ==
 Upsilon Scorpii (υ Scorpii, abbreviated Upsilon Sco, υ Sco), also named Lesath, is a star located in the "stinger" of the southern zodiac constellation of Scorpius, the scorpion. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 580 light-years from the Sun. On the night sky it lies near the 1.6 magnitude star Lambda Scorpii, and the two form an optical pair that is sometimes called the "Cat's Eyes".
 
 

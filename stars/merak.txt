@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 11 h 01 m 50.47654 s
-
 Declination: +56° 22′ 56.7339″
-
 Apparent magnitude: +2.37
-
 Distance: 79.7 ± 0.3 ly
-
 Mass: 2.7 M
-
 Radius: 3.021 ± 0.038 R
-
 Luminosity: 63.015 ± 1.307 L
-
 Temperature: 9377 ± 75 K
-
 Rotational velocity: 46 km/s
-
-
-
+== Brief description ==
 Beta Ursae Majoris (β Ursae Majoris, abbreviated Beta UMa, β UMa), also named Merak, is a star in the northern circumpolar constellation of Ursa Major.
 The apparent visual magnitude of this star is +2.37, which means it is readily visible to the naked eye. It is more familiar to northern hemisphere observers as one of the "pointer stars" in the Big Dipper or the Plough (UK), which is a prominent asterism of seven stars that forms part of the larger constellation. Extending an imaginary straight line from this star through the nearby Alpha Ursae Majoris (Dubhe) extends to Polaris, the north star.
 

@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 44 m 41.09921 s
-
 Declination: +18° 09′ 15.5034″
-
 Apparent magnitude: +3.94
-
 Distance: 131 ± 1 ly
-
 Mass: 1.71 M
-
 Radius: 11 R
-
 Luminosity: 52 L
-
 Rotational velocity: 2.8 km/s
-
-
-
+== Brief description ==
 Delta Cancri (δ Cancri, abbreviated Delta Cnc, δ Cnc) is a double star about 180 light-years from the Sun in the constellation of Cancer.
 Its two constituents are designated Delta Cancri A and B. A is itself a binary star whose two components are Delta Cancri Aa (also named Asellus Australis) and Ab.
 It is 0.08 degree north of the ecliptic, so it can be occulted by the Moon and very rarely by planets.

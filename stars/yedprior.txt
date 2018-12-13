@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ophiuchus
-
 Right ascension: 16 h 14 m 20.73853 s
-
 Declination: –03° 41′ 39.5612″
-
 Apparent magnitude: 2.75
-
 Distance: 171 ± 1 ly
-
 Mass: 1.5 M
-
 Radius: 59 R
-
 Temperature: 3,679 K
-
 Rotational velocity: 7.0 km/s
-
-
-
+== Brief description ==
 Delta Ophiuchi (δ Ophiuchi, abbreviated Delta Oph, δ Oph), also named Yed Prior, is a star in the constellation of Ophiuchus. It forms a naked eye optical double with Epsilon Ophiuchi (named Yed Posterior). The apparent visual magnitude is 2.75, making this a third-magnitude star and the fourth-brightest in the constellation. Parallax measurements from the Hipparcos spacecraft yield a distance estimate of approximately 171 light-years (52 parsecs) from the Sun (Epsilon Ophiuchi is approximately 108 light-years (33 parsecs)).
 
 

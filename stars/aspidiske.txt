@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Carina
-
 Right ascension: 09 h 17 m 05.40686 s
-
 Declination: −59° 16′ 30.8353″
-
 Apparent magnitude: 2.21
-
 Distance: 690 ± 70 ly
-
 Mass: 7.4 M
-
 Luminosity: 4,900 L
-
 Temperature: 7,500 K
-
 Rotational velocity: 10.0 km/s
-
-
-
+== Brief description ==
 Iota Carinae (ι Carinae, abbreviated Iota Car, ι Car), also named Aspidiske, is a star in the southern circumpolar constellation (circumpolar if viewed at any location from approximately 40° S to the South Pole) of Carina. With an apparent visual magnitude of 2.2, it is one of the brighter stars in the night sky. It can be seen from the latitude of Alexandria or Mobile, Alabama and southward.The False Cross is an asterism formed from Iota Carinae, Delta Velorum, Kappa Velorum and Epsilon Carinae. It is so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.
 
 

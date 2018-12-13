@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 05 h 35 m 08.27761 s
-
 Declination: +09° 56′ 02.9611″
-
 Apparent magnitude: (3.54 + 5.61)
-
 Distance: approx. 1,100 ly
-
 Mass: 27.9 ± 3.3 M
-
 Radius: 10.0 R
-
 Luminosity: 165,000 L
-
 Temperature: 37,689 K
-
-
-
+== Brief description ==
 Meissa, designated Lambda Orionis (λ Orionis, abbreviated Lambda Ori, λ Ori) is a star in the constellation of Orion.  It is a multiple star approximately 1,100 ly away with a combined apparent magnitude of 3.33.  The main components are an O8 giant star and a B-class main sequence star, separated by about 4".
 
 

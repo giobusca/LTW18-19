@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Puppis
-
 Right ascension: 07 h 49 m 17.65567 s
-
 Declination: −24° 51′ 35.2305″
-
 Apparent magnitude: 3.35
-
 Distance: 1,200 ± 90 ly
-
 Mass: 9.9 ± 1.0 M
-
 Luminosity: 60,000 L
-
 Temperature: 4,880 ± 150 K
-
 Rotational velocity: 9.2 km/s
-
-
-
+== Brief description ==
 Xi Puppis (ξ Puppis, abbreviated Xi Pup, ξ Pup) is a multiple star system in the southern constellation of Puppis. With an apparent visual magnitude of 3.35, it is one of the brighter members of this constellation. Based on parallax measurements made during the Hipparcos mission, it is located approximately 1,200 light-years (370 parsecs) from the Sun, with a 7.5% margin of error.The system consists of a spectroscopic binary, designated Xi Puppis A, together with a third companion star, Xi Puppis B. A's two components are themselves designated Xi Puppis Aa (also named Azmidi) and Ab.
 
 

@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Ursa Major
-
 Right ascension: 10 h 17 m 05.78287 s
-
 Declination: +42° 54′ 51.6808″
-
 Apparent magnitude: +3.45
-
 Distance: 138 ± 5 ly
-
 Mass: 2.11 M
-
 Radius: 2.3 R
-
 Luminosity: 37 L
-
 Rotational velocity: 50 km/s
-
-
-
+== Brief description ==
 Lambda Ursae Majoris (λ Ursae Majoris, abbreviated Lambda UMa, λ UMa), also named Tania Borealis, is a star in the northern circumpolar constellation of Ursa Major.
 
 

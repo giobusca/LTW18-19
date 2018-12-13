@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Gemini
-
 Right ascension: 07 h 34 m 35.863 s
-
 Declination: +31° 53′ 17.79″
-
 Apparent magnitude: 1.93
-
 Distance: 51 ± 3 ly
-
 Mass: 2.76 M
-
 Radius: 2.4 R
-
 Luminosity: 0.0733 L
-
 Temperature: 10,286 K
-
 Rotational velocity: 18 km/s
-
-
-
+== Brief description ==
 Castor, also designated Alpha Geminorum (α Geminorum, abbreviated Alpha Gem, α Gem) is the second-brightest point of light in the constellation of Gemini and one of the brightest in the night sky. It appears singular to the naked eye, but it is actually a sextuple star system in three binary pairs made up of the stars Castor Aa, Castor Ab, Castor Ba, Castor Bb, Castor Ca, and Castor Cb. Although it has the Bayer designation alpha, it is fainter than Beta Geminorum, Pollux.
 
 

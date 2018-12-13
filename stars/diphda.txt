@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cetus
-
 Right ascension: 00 h 43 m 35.37090 s
-
 Declination: –17° 59′ 11.7827″
-
 Apparent magnitude: 2.02
-
 Distance: 96.3 ± 0.5 ly
-
 Mass: 2.8 M
-
 Radius: 16.78 ± 0.25 R
-
 Luminosity: 139.1 ± 7.0 L
-
 Temperature: 4,797 K
-
 Rotational velocity: 18 km/s
-
-
-
+== Brief description ==
 Beta Ceti (β Ceti, abbreviated Beta Cet, β Cet), also named Diphda, is the brightest star in the constellation of Cetus. Although designated 'beta', it is actually brighter than the 'alpha' star in the constellation (Alpha Ceti). This orange giant is easy to identify due to its location in an otherwise dark section of the celestial sphere. Based on parallax measurements, it lies at an estimated distance of 96.3 light-years (29.5 parsecs) from the Sun.
 
 

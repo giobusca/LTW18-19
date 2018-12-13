@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 16 h 23 m 59.48594 s
-
 Declination: +61° 30′ 51.1699″
-
 Apparent magnitude: +2.73
-
 Distance: 92.1 ± 0.2 ly
-
 Mass: 2.55 M
-
 Radius: 11 R
-
 Luminosity: 60 L
-
 Temperature: 5,055 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Eta Draconis (η Draconis, abbreviated Eta Dra, η Dra) is a binary star in the northern circumpolar constellation of Draco. Despite having an apparent visual magnitude of only +2.73, it is the second-brightest star in this generally faint constellation. Based upon parallax measurements collected during the Hipparcos mission, this star is located at a distance of about 92.1 light-years (28.2 parsecs) from the Sun.The two components are designated Eta Draconis A (also named Athebyne) and B.
 
 

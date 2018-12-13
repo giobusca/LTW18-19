@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Sagittarius
-
 Right ascension: 19 h 22 m 38.29770 s
-
 Declination: −44° 27′ 32.2458″
-
 Apparent magnitude: +4.01
-
 Distance: approx. 310 ly
-
 Radius: 2.73 R
-
 Luminosity: 324 L
-
 Temperature: 11,960 K
-
-
-
+== Brief description ==
 Beta¹ Sagittarii (β¹ Sagittarii, abbreviated Beta¹ Sgr, β¹ Sgr) is a binary star system in the zodiac constellation of Sagittarius. It is visible to the naked eye with a combined apparent visual magnitude of +4.01. Based upon an annual parallax shift of 10.40 mas as seen from Earth, it is located roughly 310 light-years from the Sun.
 The two components are designated Beta¹ Sagittarii A (also named Arkab Prior) and B.
 

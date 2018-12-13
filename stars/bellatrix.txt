@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 05 h 25 m 07.86325 s
-
 Declination: +06° 20′ 58.9318″
-
 Apparent magnitude: (1.59 - 1.64
-
 Distance: 250 ± 10 ly
-
 Mass: 8.6 M
-
 Radius: 5.75 R
-
 Luminosity: 9,211 L
-
-
-
+== Brief description ==
 Bellatrix, also designated Gamma Orionis (γ Orionis, abbreviated Gamma Ori, γ Ori), is the third-brightest star in the constellation of Orion, 5° west of the red giant Alpha Orionis (Betelgeuse). Just between the first and second magnitude and slightly variable, it is about the 25th-brightest star in the night sky.
 
 

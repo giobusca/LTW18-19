@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 04 h 19 m 47.6037 s
-
 Declination: +15° 37′ 39.512″
-
 Apparent magnitude: 3.654
-
 Distance: 154 ± 9 ly
-
 Mass: 2.70 ± 0.13 M
-
 Radius: 13.4 ± 0.2 R
-
 Luminosity: 85 L
-
 Temperature: 4,844 ± 47 K
-
 Rotation: 253 days
-
 Rotational velocity: 4 km/s
-
-
-
+== Brief description ==
 Gamma Tauri (γ Tauri, abbreviated Gamma Tau, γ Tau) is either a solitary, binary or double star (the Washington Double Star Catalog notes it as a "Dubious Double" or "Bogus Binary") that marks the tip of the "V" in the constellation of Taurus. is a member of, and located within about 2.5 parsecs of the center of, the Hyades star cluster, the nearest open cluster to the Sun. Based upon parallax measurements, Gamma Tauri is approximately 154 light-years from the Sun.
 Considered as a pair of stars, the two components are designated Gamma Tauri A (also named Prima Hyadum) and B.
 

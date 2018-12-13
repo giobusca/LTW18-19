@@ -1,27 +1,17 @@
 ==Datasheet==
 
 Constellation: Canis Major
-
 Right ascension: 06 h 58 m 37.6 s
-
 Declination: –28° 58′ 19″
 
 Apparent magnitude: 1.50
-
 Distance: 430 ± 30 ly
-
 Mass: 12.6 ± 1.0 M
-
 Radius: 13.9 R
-
 Luminosity: 38,700 L
-
 Temperature: 22,900 K
-
 Rotational velocity: 25 km/s
-
-
-
+== Brief description ==
 Epsilon Canis Majoris (ε Canis Majoris, abbreviated Epsilon CMa, ε CMa) is a binary star and, despite being designated 'epsilon', the second-brightest star in the constellation of Canis Major and one of the brightest stars in the night sky with an apparent magnitude of 1.50. About 4.7 million years ago, it was the brightest star in the sky, with an apparent magnitude of −3.99. Based upon parallax measurements obtained during the Hipparcos mission, it is about 430 light-years distant from the Sun.The two components are themselves designated Epsilon Canis Majoris A (also named Adhara) and B.
 
 
@@ -41,3 +31,5 @@ A few million years ago, Epsilon Canis Majoris was much closer to the Sun than i
 
 == In culture ==
 Epsilon Canis Majoris appears on the national flag of Brazil, symbolising the state of Tocantins.
+
+

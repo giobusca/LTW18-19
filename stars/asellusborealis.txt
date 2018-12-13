@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 43 m 17.14820 s
-
 Declination: +21° 28′ 06.6008″
-
 Apparent magnitude: 4.652
-
 Distance: 181 ± 2 ly
-
 Mass: 2.18 M
-
 Radius: 2.5 R
-
 Luminosity: 36 L
-
 Temperature: 8,800 K
-
 Rotational velocity: 86 ± 6 km/s
-
-
-
+== Brief description ==
 Gamma Cancri (γ Cancri, abbreviated Gamma Cnc, γ Cnc) is a multiple star system in the constellation of Cancer.
 It consists of a spectroscopic binary, designated Gamma Cancri A, and a single companion star, Gamma Cancri B. A's two components are themselves designated Gamma Cancri Aa (also named Asellus Borealis) and Ab.
 Since it is near the ecliptic, it can be occulted by the Moon and, very rarely, by planets.

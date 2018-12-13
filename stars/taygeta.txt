@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 45 m 12.49578 s
-
 Declination: 24° 28′ 02.2097″
-
 Apparent magnitude: 4.30
-
 Distance: 440 ly
-
 Mass: 4.5 M
-
 Luminosity: 600 L
-
-
-
+== Brief description ==
 19 Tauri is a double star in the constellation of Taurus and a member of the Pleiades open star cluster (M45).
 It consists of a binary pair designated 19 Tauri A together with a single star visual companion, 19 Tauri B. 'A's' two components are themselves designated 19 Tauri Aa (also named Taygeta) and Ab.
 Based on parallax measurements obtained during the Hipparcos mission, 19 Tauri A is approximately 440 light-years from the Sun.

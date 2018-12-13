@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 17 h 08 m 47.19596 s
-
 Declination: +65° 42′ 52.8634″
-
 Apparent magnitude: +3.17
-
 Distance: 330 ± 10 ly
-
 Mass: 3.5 M
-
 Radius: 2.3 R
-
 Luminosity: 148 L
-
 Temperature: 13,397 K
-
 Rotational velocity: 55 km/s
-
-
-
+== Brief description ==
 Zeta Draconis (ζ Draconis, abbreviated Zet Dra, ζ Dra) is a binary star in the northern circumpolar constellation of Draco. With an apparent visual magnitude of +3.17, it is the fifth-brightest member of this generally faint constellation. Its distance from the Sun has been measured using the parallax technique, yielding an estimate of roughly 330 light-years (100 parsecs).The two components are designated Zeta Draconis A (also named Aldhibah) and B.
 
 

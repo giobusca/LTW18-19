@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Perseus
-
 Right ascension: 02 h 50 m 41.80959 s
-
 Declination: +55° 53′ 43.7876″
-
 Apparent magnitude: 3.79
-
 Distance: 880 ± 60 ly
-
 Radius: 44 R
-
 Luminosity: 5,135 L
-
 Temperature: 4,047 K
-
 Rotational velocity: 5.8 km/s
-
-
-
+== Brief description ==
 Eta Persei (η Persei, abbreviated Eta Per, η Per), is a binary star and the 'A' component of a triple star system (the 'B' component is the star HD 237009) in the constellation of Perseus . It is approximately 1331 light-years away from Earth.
 The two components of Eta Persei itself are designated Eta Persei A (also named Miram) and B.
 

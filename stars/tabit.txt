@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 04 h 49 m 50.41091 s
-
 Declination: +06° 57′ 40.5883″
-
 Apparent magnitude: 3.16
-
 Distance: 26.32 ± 0.04 ly
-
 Mass: 1.236 M
-
 Radius: 1.323 ± 0.004 R
-
 Luminosity: 2.822 ± 0.030 L
-
 Temperature: 6,516 ± 19 K
-
 Rotational velocity: 17 km/s
-
-
-
+== Brief description ==
 Pi³ Orionis (π³ Orionis, abbreviated Pi³ Ori, π³ Ori), also named Tabit, is a star in the equatorial constellation of Orion. At an apparent visual magnitude of 3.16, it is readily visible to the naked eye and is the brightest star in the lion's hide (or shield) that Orion is holding. As measured using the parallax technique, it is 26.32 light-years (8.07 parsecs) distant from the Sun.
 
 

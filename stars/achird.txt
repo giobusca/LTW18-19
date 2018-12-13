@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Cassiopeia
-
 Right ascension: 00 h 49 m 06.29070 s
-
 Declination: +57° 48′ 54.6758″
-
 Apparent magnitude: 3.44
-
 Distance: 19.42 ± 0.06 ly
-
 Mass: 0.972 ± 0.012 M
-
 Radius: 1.0386 ± 0.0038 R
-
 Luminosity: 1.2321 ± 0.0074 L
-
 Temperature: 5973 ± 8 K
-
 Rotational velocity: 3.15 km/s
-
-
-
+== Brief description ==
 Eta Cassiopeiae (η Cassiopeiae, abbreviated Eta Cas, η Cas) is a binary star system in the northern circumpolar constellation of Cassiopeia. Its binary nature was first discovered by William Herschel in August 1779. Based upon parallax measurements, the distance to this system is 19.42 light-years (5.95 parsecs) from the Sun. The two components are designated Eta Cassiopeiae A (also named Achird) and B.
 
 

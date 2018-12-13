@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Leo
-
 Right ascension: 09 h 31 m 43.22754 s
-
 Declination: +22° 58′ 04.6904″
-
 Apparent magnitude: 4.32
-
 Distance: 329 ± 6 ly
-
 Radius: 45 R
-
 Luminosity: 472 L
-
 Temperature: 3,900 K
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Lambda Leonis (λ Leonis, abbreviated Lam Leo, λ Leo), also named Alterf, is a star in the constellation of Leo. The star is bright enough to be seen with the naked eye, having an apparent visual magnitude of 4.32 Based upon an annual parallax shift of 0.00991 arcseconds, it is located about 329 light-years from the Sun.
 
 

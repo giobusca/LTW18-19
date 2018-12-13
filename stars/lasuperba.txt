@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Canes Venatici
-
 Right ascension: 12 h 45 m 07.83 s
-
 Declination: +45° 26′ 24.92″
-
 Apparent magnitude: +4.86 to +7.32
-
 Distance: 760 ± 40 ly
-
 Mass: 3 (uncertain)  M
-
 Radius: 307 R
-
 Temperature: 2,600-3,200 K
-
-
-
+== Brief description ==
 La Superba (Y CVn, Y Canum Venaticorum) is strikingly red giant star in the constellation Canes Venatici.  It is a carbon star and semiregular variable.
 
 

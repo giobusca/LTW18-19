@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Pisces
-
 Right ascension: 01 h 45 m 23.63185 s
-
 Declination: +09° 09′ 27.8530″
-
 Apparent magnitude: 4.27
-
 Distance: 280 ± 20 ly
-
 Mass: 3.03  M
-
 Radius: 14.57  R
-
 Luminosity: 132  L
-
 Temperature: 5,004  K
-
 Rotational velocity: 2.88 km/s km/s
-
-
-
+== Brief description ==
 Omicron Piscium (ο Piscium, abbreviated Omi Psc, ο Psc) is a binary star in the constellation of Pisces. It is visible to the naked eye, having an apparent visual magnitude of 4.27. Based upon an annual parallax shift of 11.67 mas as seen from the Earth, the system is located roughly 280 light-years from the Sun. It is positioned near the ecliptic, so is subject to occultation by the Moon. It is a member of the thin disk population of the Milky Way.The two components are designated Omicron Piscium A (also named Torcular) and B.
 
 

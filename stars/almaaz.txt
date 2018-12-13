@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Auriga
-
 Right ascension: 05 h 01 m 58.129 s
-
 Declination: +43° 49′ 23.87″
-
 Apparent magnitude: 2.98
-
 Distance: 653 - 1,500ly
-
 Mass: 2.2-15 M
-
 Radius: 143 - 358 R
-
 Temperature: 7,750 K
-
 Rotational velocity: 54 km/s
-
-
-
+== Brief description ==
 Epsilon Aurigae (ε Aurigae, abbreviated Epsilon Aur, ε Aur) is a multiple star system in the northern constellation of Auriga. It is an unusual eclipsing binary system comprising an F0 supergiant (also named Almaaz) and a companion which is generally accepted to be a huge dark disk orbiting an unknown object, possibly a binary system of two small B-type stars. The distance to the system is still a subject of debate, but modern estimates place it approximately 2,000 light years from Earth. Data from the Gaia spacecraft puts its distance at around 1,350±300 light years from Earth.Epsilon Aurigae was first suspected to be a variable star when German astronomer Johann Heinrich Fritsch observed it in 1821. Later observations by Eduard Heis and Friedrich Wilhelm Argelander reinforced Fritsch's initial suspicions and attracted attention to the star. Hans Ludendorff, however, was the first to study it in great detail. His work revealed that the system was an eclipsing binary variable, a star that dims when its partner obscures its light.
 About every 27 years, Epsilon Aurigae's brightness drops from an apparent visual magnitude of +2.92 to +3.83. This dimming lasts 640–730 days. In addition to this eclipse, the system also has a low amplitude pulsation with a non-consistent period of around 66 days.Epsilon Aurigae's eclipsing companion has been subject to much debate since the object does not emit as much light as is expected for an object its size. As of 2008, the most popularly accepted model for this companion object is a binary star system surrounded by a massive, opaque disk of dust; theories speculating that the object is a large, semitransparent star or a black hole have since been discarded.
 

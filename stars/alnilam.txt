@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 05 h 36 m 12.8 s
-
 Declination: −01° 12′ 06.9″
-
-Apparent magnitude: 1.64 - 1.74
-
+Apparent magnitude: (1.64 - 1.74
 Distance: approx. 2,000 ly
-
 Mass: 40 M
-
 Radius: 32.4 R
-
 Luminosity: 537,000 L
-
 Temperature: 27,500±100 K
-
 Rotational velocity: 40-70 km/s
-
-
-
+== Brief description ==
 Alnilam, designated Epsilon Orionis (ε Orionis, abbreviated Epsilon Ori, ε Ori) and 46 Orionis (46 Ori), is a large blue supergiant star some 2,000 light-years distant in the constellation of Orion. It is estimated to be 275,000 to 832,000 times as luminous as the Sun, and 30-64.5 times as massive.
 
 
@@ -42,3 +31,5 @@ The traditional name Alnilam derives from the Arabic النيلم Al-nilam, rela
 === Orion's Belt ===
 
 The three belt stars were collectively known by many names in many cultures. Arabic terms include Al Nijād 'the Belt', Al Nasak 'the Line', Al Alkāt 'the Golden Grains or Nuts' and, in modern Arabic, Al Mīzān al H•akk 'the Accurate Scale Beam'. In Chinese mythology they were also known as The Weighing Beam.In Chinese, 參宿 (Shēn Sù), meaning Three Stars (asterism), refers to an asterism consisting of Alnilam, Alnitak, Mintaka (Orion's Belt) with Betelgeuse, Bellatrix, Saiph and Rigel Consequently, Alnilam are known as 參宿二 (Shēn Sù èr, English: the Second Star of Three Stars).. It is one of the western mansions of the White Tiger.
+
+

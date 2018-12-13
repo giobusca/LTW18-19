@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Virgo
-
 Right ascension: 14 h 16 m 00.86951 s
-
 Declination: −06° 00′ 01.9633″
-
 Apparent magnitude: 4.08
-
 Distance: 72.5 ± 0.3 ly
-
 Mass: 1.5 ± 0.05 M
-
 Radius: 2.5 R
-
 Luminosity: 8.7 L
-
 Temperature: 6282 K
-
 Rotational velocity: 16 km/s
-
-
-
+== Brief description ==
 Iota Virginis (ι Virginis, abbreviated Iota Vir, ι Vir) is a binary star in the constellation of Virgo. Its apparent magnitude is 4.08. Based on its parallax, it is assumed to be relatively nearby, at 72.5 light-years (22.24 parsecs).Its two components are designated Iota Virginis A (also named Syrma) and B.
 
 

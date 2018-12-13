@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Aquila
-
 Right ascension: 19 h 46 m 15.58029 s
-
 Declination: +10° 36′ 47.7408″
-
 Apparent magnitude: 2.712
-
 Distance: 395 ± 8 ly
-
 Radius: 95 R
-
 Rotational velocity: 8 km/s
-
-
-
+== Brief description ==
 Gamma Aquilae (γ Aquilae, abbreviated Gamma Aql, γ Aql), also known as Tarazed, is a star in the constellation of Aquila. It has an apparent visual magnitude of 2.712, making it readily visible to the naked eye at night. Parallax measurements place it at a distance of 395 light-years (121 parsecs) from the Sun.
 
 

@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Corona Borealis
-
 Right ascension: 15 h 34 m 41.268 s
-
 Declination: +26° 42′ 52.89″
-
 Apparent magnitude: 2.23
-
 Distance: 75.0 ± 0.5 ly
-
 Mass: 2.58 M
-
 Radius: 2.89–3.04 R
-
 Luminosity: 74 L
-
 Temperature: 9,700 K
-
 Rotational velocity: 139 km/s
-
-
-
+== Brief description ==
 Alpha Coronae Borealis (α Coronae Borealis, abbreviated Alpha CrB, α CrB), also named Alphecca, is an eclipsing binary star in the constellation of Corona Borealis. It is located about 75 light years from the Sun and contains two main sequence stars, one class A and one class G.
 
 

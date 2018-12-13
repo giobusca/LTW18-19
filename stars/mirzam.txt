@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Canis Major
-
 Right ascension: 06 h 22 m 41.98535 s
-
 Declination: −17° 57′ 21.3073″
-
 Apparent magnitude: (1.97 - 2.01
-
 Distance: 490 ± 20 ly
-
 Mass: 13.5 ± 0.5 M
-
 Radius: 9.7 ± 1.3 R
-
 Luminosity: 26600 L
-
 Temperature: 23,150 K
-
 Rotational velocity: 31 ± 5 km/s
-
-
-
+== Brief description ==
 Beta Canis Majoris (β Canis Majoris, abbreviated Beta CMa, β CMa), also named Mirzam, is a star in the southern constellation of Canis Major, the "Great Dog", located at a distance of about 500 light-years (150 parsecs) from the Sun. In the modern constellation it lies at the position of the dog's front leg.
 
 

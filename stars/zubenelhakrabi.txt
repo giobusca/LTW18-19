@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Libra
-
 Right ascension: 15 h 35 m 31.57881 s
-
 Declination: −14° 47′ 22.3278″
-
 Apparent magnitude: +3.91
-
 Distance: 163 ± 2 ly
-
 Mass: 1.15  M
-
 Radius: 11.14  R
-
 Luminosity: 72  L
-
 Temperature: 4,786  K
-
 Rotational velocity: 1.60 km/s km/s
-
-
-
+== Brief description ==
 Gamma Librae (γ Librae, abbreviated Gam Lib, γ Lib) is a suspected binary star system in the constellation of Libra. It is visible to the naked eye, having an apparent visual magnitude of +3.91. Based upon an annual parallax shift of 19.99 mas as seen from Earth, it lies 163 light years from the Sun.
 The primary component (designated Gamma Librae A) is named Zubenelhakrabi.
 

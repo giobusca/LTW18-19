@@ -1,21 +1,13 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 20 m 32.13630 s
-
 Declination: +24° 01′ 20.3198″
-
 Apparent magnitude: +5.93
-
 Distance: 550 ± 10 ly
-
 Luminosity: 78 L
-
 Rotational velocity: 188 km/s
-
-
-
+== Brief description ==
 Lambda Cancri (λ Cancri, abbreviated Lambda Cnc, λ Cnc) is a blue-white hued spectroscopic binary star in the zodiac constellation of Cancer. With a combined apparent visual magnitude of +5.93, it is faintly visible to the naked eye. Based upon parallax measurements obtained during the Gaia mission, it is about 550 light-years distant from the Sun.The two components are designated Lambda Cancri A (also named Piautos) and B.
 
 

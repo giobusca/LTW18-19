@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Orion
-
 Right ascension: 05 h 32 m 00.40009 s
-
 Declination: −00° 17′ 56.7424″
-
-Apparent magnitude: 2.50 + 3.90
-
+Apparent magnitude: (2.50 + 3.90
 Distance: 1,200ly
-
 Mass: 24 M
-
 Radius: 16.5 R
-
 Luminosity: 190,000 L
-
 Temperature: 29,500 ± 500 K
-
 Rotational velocity: 130 ± 10 km/s
-
-
-
+== Brief description ==
 Mintaka, also designated Delta Orionis (δ Orionis, abbreviated Delta Ori, δ Ori) and 34 Orionis (34 Ori) is a multiple star system some 1,200 light-years from the Sun in the constellation of Orion. Together with Alnitak (Zeta Orionis) and Alnilam (Epsilon Orionis), the three stars form Orion's Belt, known by many names among ancient cultures. When Orion is near the meridian, Mintaka is the right-most of the Belt's stars when viewed from the Northern Hemisphere facing south.
 
 
@@ -36,7 +25,7 @@ Radial velocity measurements taken by Henri-Alexandre Deslandres in 1900 at Pari
 
 
 == System ==
-Mintaka is a multiple star system. It has a distant magnitude 7 star about 52 arcseconds away from the main triple component and a much fainter star in between.
+Mintaka is a multiple star system. It has a distant magnitude 7 star about 52 arcseconds away from the main triple component and a much fainter star in between. 
 
 
 === A (triple system) ===
@@ -71,3 +60,5 @@ In Chinese, 參宿 (Shēn Sù), meaning Three Stars (asterism), refers to an ast
 
 == Namesakes ==
 The USS Mintaka (AK-94) was a United States Navy Crater-class cargo ship named after the star.
+
+

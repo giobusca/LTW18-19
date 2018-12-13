@@ -1,29 +1,17 @@
 ==Datasheet==
 
 Constellation: Boötes
-
 Right ascension: 15 h 01 m 56.76238 s
-
 Declination: +40° 23′ 26.0406″
-
 Apparent magnitude: 3.488
-
 Distance: 225 ± 2 ly
-
 Mass: 3.4 ± 0.2 M
-
 Radius: 21.5 ± 1.0 R
-
 Luminosity: 170 L
-
 Temperature: 4,932 K
-
 Rotation: 200 ± 10 days
-
 Rotational velocity: 4.10 ± 1.0 km/s
-
-
-
+== Brief description ==
 Beta Boötis (β Boötis, abbreviated Beta Boo, β Boo), also named Nekkar, is a star in the northern constellation of Boötes. It has an apparent visual magnitude of 3.5, making it one of the brighter members of the constellation. In the modern constellation, it marks the head of Boötis the herdsman. Based upon parallax measurements obtained during the Hipparcos mission, this star is approximately 225 light-years (69 parsecs) from the Sun. At that distance, the magnitude of the star is reduced by 0.06 from extinction caused by intervening gas and dust.
 
 

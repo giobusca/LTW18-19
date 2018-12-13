@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 17 h 30 m 25.96170 s
-
 Declination: +52° 18′ 04.9993″
-
 Apparent magnitude: 2.79
-
 Distance: 380 ± 4 ly
-
 Mass: 6.0 ± 0.2 M
-
 Radius: 40 R
-
 Luminosity: 1,000 L
-
 Temperature: 5,160 ± 150 K
-
 Rotational velocity: 13 km/s
-
-
-
+== Brief description ==
 Beta Draconis (β Draconis, abbreviated Beta Dra, β Dra) is a binary star and the third-brightest star in the northern circumpolar constellation of Draco. With an apparent visual magnitude of 2.79, it is bright enough to be easily seen with the naked eye. Based upon parallax measurements from the Hipparcos astrometry satellite, it lies at a distance of about 380 light-years (120 parsecs) from the Sun.The two components are designated Beta Draconis A (also named Rastaban) and B.
 
 

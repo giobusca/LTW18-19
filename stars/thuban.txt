@@ -1,29 +1,20 @@
 ==Datasheet==
 
 Constellation: Draco
-
 Right ascension: 14 h 04 m 23.3498 s
-
 Declination: 64° 22′ 33.062″
 
 Apparent magnitude: 3.6452
 
 Distance: 303 ± 5 ly
-
 Mass: 2.8 M
-
 Radius: 3.4 R
-
 Luminosity: 479 L
-
 Temperature: 10,100 K
-
 Rotation: 26.2
-
-
-
+== Brief description ==
 Thuban, also designated Alpha Draconis (α Draconis, abbreviated Alpha Dra, α Dra), is a star (or star system) in the constellation of Draco. A relatively inconspicuous star in the night sky of the Northern Hemisphere, it is historically significant as having been the north pole star from the 4th to 2nd millennium BC.
-Even though Johann Bayer gave Thuban the designation Alpha, its apparent magnitude of 3.65 means it is 3.7 times fainter than the brightest star in the constellation, Gamma Draconis (Eltanin), whose apparent magnitude is 2.24.
+Even though Johann Bayer gave Thuban the designation Alpha, its apparent magnitude of 3.65 means it is 3.7 times fainter than the brightest star in the constellation, Gamma Draconis (Eltanin), whose apparent magnitude is 2.24. 
 
 
 == Nomenclature ==
@@ -53,3 +44,5 @@ Thuban has a spectral class of A0III, indicating its similarity to Vega in tempe
 The United States Navy ship USS Thuban (AKA-19) was built in 1943 and decommissioned in 1967.
 Thuban has featured in works of fiction.
 According to British conspiracy theorist David Icke, Alpha Draconis is the origin of blood-drinking reptilians who lurk in underground bases and plot against humanity (with the aid of powerful figures such as Queen Elizabeth II).
+
+

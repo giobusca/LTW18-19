@@ -1,23 +1,14 @@
 ==Datasheet==
 
 Constellation: Gemini
-
 Right ascension: 07 h 45 m 18.94987 s
-
 Declination: +28° 01′ 34.3160″
-
 Apparent magnitude: 1.14
-
 Distance: 33.78 ± 0.09 ly
-
 Luminosity: 43 L
-
 Rotation: 558 days
-
 Rotational velocity: 2.8 km/s
-
-
-
+== Brief description ==
 Pollux, also designated Beta Geminorum (β Geminorum, abbreviated Beta Gem, β Gem), is an orange-hued evolved giant star approximately 34 light-years from the Sun in the northern constellation of Gemini.  It is the brightest star in the constellation of Gemini and the closest giant star to the Sun.
 Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified. In 2006, an extrasolar planet (designated Pollux b or β Geminorum b, later named Thestias) was confirmed to be orbiting it.
 

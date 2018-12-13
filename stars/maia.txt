@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Taurus
-
 Right ascension: 03 h 45 m 49.6067 s
-
 Declination: 24° 22′ 03.895″
-
 Apparent magnitude: 3.871
-
 Distance: approx. 400 ly
-
 Mass: 5+ M
-
 Radius: 6.04 R
-
 Luminosity: 850 L
-
 Temperature: 12,600 K
-
 Rotation: 33 km/s
-
-
-
+== Brief description ==
 Maia, designated 20 Tauri  (abbreviated 20 Tau), is a star in the constellation of Taurus.  It is the fourth-brightest star in the Pleiades open star cluster (M45), after Alcyone, Atlas and Electra, in that order. Maia is a blue giant of spectral type B8 III, and a mercury-manganese star.
 Maia's visual magnitude is 3.871, requiring darker skies to be seen. Its total bolometric luminosity is 660 times solar, mostly in the ultraviolet, thus suggesting a radius that is 5.5 times that of the Sun and a mass that is slightly more than 4 times solar. It was thought to be a variable star by astronomer Otto Struve. A class of stars known as Maia variables was proposed, which included Gamma Ursae Minoris, but Maia and some others in the class have since been found to be stable.Maia is one of the stars in the Maia Nebula (also known as NGC 1432), a bright emission or reflection nebula within the Pleiades star cluster.
 

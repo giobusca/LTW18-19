@@ -1,31 +1,21 @@
 ==Datasheet==
 
 Constellation: Aries
-
 Right ascension: 01 h 54 m 38.41099 s
-
 Declination: +20° 48′ 28.9133″
-
 Apparent magnitude: 2.655
-
 Distance: 59.6 ± 0.8 ly
-
 Mass: 2.34 ± 0.10 M
-
 Luminosity: 23 L
-
 Temperature: 9,000 K
-
 Rotational velocity: 73 km/s
-
-
-
+== Brief description ==
 Beta Arietis (β Arietis, abbreviated Beta Ari, β Ari), also named Sheratan, is a star system and the second-brightest star in the constellation of Aries, marking the ram's second horn.
 
 
 == Nomenclature ==
 Beta Arietis is the star's Bayer designation. It also bears the Flamsteed designation 6 Arietis.
-The traditional name, Sheratan (or Sharatan, Sheratim), in full Al Sharatan, is from the Arabic الشراطان aš-šarāţān "the two signs", a reference to the star having marked the northern vernal equinox together with Gamma Arietis several thousand years ago. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sheratan for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 婁宿 (Lóu Su), meaning Bond (asterism), refers to an asterism consisting of β Arietis, γ Arietis and α Arietis. Consequently, β Arietis itself is known as 婁宿一 (Lóu Su yī, English: the First Star of Bond).
+The traditional name, Sheratan (or Sharatan, Sheratim), in full Al Sharatan, is from the Arabic الشرطان aš-šaraţān "the two signs", a reference to the star having marked the northern vernal equinox together with Gamma Arietis several thousand years ago. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Sheratan for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 婁宿 (Lóu Su), meaning Bond (asterism), refers to an asterism consisting of β Arietis, γ Arietis and α Arietis. Consequently, β Arietis itself is known as 婁宿一 (Lóu Su yī, English: the First Star of Bond).
 
 
 == Properties ==

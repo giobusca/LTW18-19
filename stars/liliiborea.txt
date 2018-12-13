@@ -1,27 +1,16 @@
 ==Datasheet==
 
 Constellation: Aries
-
 Right ascension: 02 h 47 m 54.54142 s
-
 Declination: +29° 14′ 49.6132″
-
 Apparent magnitude: 4.514
-
 Distance: 172 ± 2 ly
-
 Mass: 1.6 M
-
 Radius: 11.1 ± 0.8 R
-
 Luminosity: 56 L
-
 Temperature: 4,603 K
-
 Rotational velocity: 4.5 km/s
-
-
-
+== Brief description ==
 39 Arietis (abbreviated 39 Ari), also named Lilii Borea, is a star in the northern constellation of Aries. It is visible to the naked eye with an apparent visual magnitude of +4.5. The distance to this star, as determined from an annual parallax shift of 19.01 mas, is approximately 172 light-years (53 parsecs).
 
 

@@ -1,25 +1,15 @@
 ==Datasheet==
 
 Constellation: Cancer
-
 Right ascension: 08 h 16 m 30.9206 s
-
 Declination: +09° 11′ 07.961″
-
 Apparent magnitude: 3.50 - 3.58
-
 Distance: 290 ± 30 ly
-
 Radius: 61 R
-
 Luminosity: 871 L
-
 Temperature: 3,990 K
-
 Rotational velocity: 6.9 km/s
-
-
-
+== Brief description ==
 Beta Cancri (β Cancri, abbreviated Beta Cnc, β Cnc), also named Tarf, is the brightest star in the zodiacal constellation of Cancer. It has an apparent visual magnitude of +3.5 and an absolute magnitude of −1.2. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 290 light-years distant from the Sun. An exoplanet, designated Beta Cancri b, is believed to be orbiting the star.Beta Cancri has a companion listed and together they are designated WDS J08165+0911. As the primary, Beta Cancri bears the designation WDS J08165+0911A. The companion is designated WDS J08165+0911B.
 
 
