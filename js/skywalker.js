@@ -210,10 +210,11 @@ function displayStar(star) {
     var constName = getConstName(rawText);
     var const_low = constName.toLowerCase().replace(/\s/g,"");
     newHTML += "<img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'>\n";
-    newHTML += "<button class='btn btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Position in the sky</button>\n";
+    newHTML += "<button class='btn-lg btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Position in the sky</button>\n";
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
-        newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
+        if(i<=10) newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
+        else newHTML += "<p class='mt-2'>"+desc_ar[i]+"</p>\n"
     }
 
     document.getElementById("display-area").innerHTML = newHTML;
