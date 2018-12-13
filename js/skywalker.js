@@ -179,6 +179,7 @@ function readTextFile(file) {
 function displayConst(constellation) {
     if(DEBUG) console.log("displayConst");
 
+    window.scrollTo(0, 0);
     var rawText = readTextFile("./const/"+constellation.toLowerCase().replace(/\s/g,""));
     if(rawText == null) alert("Could not find "+constellation);
 
@@ -202,6 +203,7 @@ function displayConst(constellation) {
 function displayStar(star) {
     if(DEBUG) console.log("diplayStar");
 
+    window.scrollTo(0, 0);
     var rawText = readTextFile("./stars/"+star.toLowerCase().replace(/\s/g,""));
     if(rawText==null) alert("Could not find "+"stars/"+star);
 
@@ -276,7 +278,7 @@ function index(){
     stars = stars.split(/\n/);
     for (var i=0; i < constellations.length; i++) {
         var singleC = constellations[i].split(";");
-        indexHTML += "<div class='row'><div class='col text-right align-text-top'><p class='mt-4' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"</p></div><div class='col text-left'><ul>";
+        indexHTML += "<div class='row'><div class='col text-right align-text-top'><p class='hover-blue' onclick='return displayConst(\""+singleC[0]+"\");'>"+singleC[0].toUpperCase()+"</p></div><div class='col text-left'><ul>";
         for (var j=0; j < stars.length-1; j++) {
             var singleS = stars[j].split(";");
             var constellation_code = singleS[1].split(" ");

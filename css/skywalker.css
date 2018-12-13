@@ -1,28 +1,38 @@
 .opaque100 {
     opacity: 1 !important;
-  }
+}
 
-  .opaque80 {
+.opaque80 {
     opacity: 0.8 !important;
-  }
+}
 
-  .opaque50 {
+.opaque50 {
     opacity: 0.5 !important;
-  }
+}
 
-  .bg-black {
+.bg-black {
     background-color: #00000098 !important;
-  }
+}
 
-  li {
+li {
     list-style-type:none;   /* removes default bullet */
     position:relative;      /* positioning context for bullet */
-    }
-    li:before  {
-      content:"\2022";    /* escaped unicode character */
-      font-size:1.5em;    /* the default unicode bullet size is very small */
-      line-height:0;        /* kills huge line height on resized bullet */
-      position:relative;  /* position bullet relative to list item */
-      top: auto;
-      left:-.5em;         /* position the bullet L- R relative to list item */
-    }
+  }
+  li:before  {
+    content:"\2022";    /* escaped unicode character */
+    font-size:1.5em;    /* the default unicode bullet size is very small */
+    line-height:0;        /* kills huge line height on resized bullet */
+    position:relative;  /* position bullet relative to list item */
+    top: auto;
+    left:-.5em;         /* position the bullet L- R relative to list item */
+  }
+  li:hover {
+    background-color: #33adff60;
+  }
+
+
+.hover-blue {
+}
+.hover-blue:hover {
+  background-color: #33adff60;
+}
