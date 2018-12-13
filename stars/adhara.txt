@@ -14,20 +14,16 @@ Rotational velocity: 25 km/s
 == Brief description ==
 Epsilon Canis Majoris (ε Canis Majoris, abbreviated Epsilon CMa, ε CMa) is a binary star and, despite being designated 'epsilon', the second-brightest star in the constellation of Canis Major and one of the brightest stars in the night sky with an apparent magnitude of 1.50. About 4.7 million years ago, it was the brightest star in the sky, with an apparent magnitude of −3.99. Based upon parallax measurements obtained during the Hipparcos mission, it is about 430 light-years distant from the Sun.The two components are themselves designated Epsilon Canis Majoris A (also named Adhara) and B.
 
-
 == Nomenclature ==
 ε Canis Majoris (Latinised to Epsilon Canis Majoris) is the binary's Bayer designation. The designations of the two components as Epsilon Canis Majoris A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Epsilon Canis Majoris bore the traditional name Adhara (sometimes spelled Adara, Adard, Udara or Udra), derived from the Arabic word عذارى ‘aðāra’, "virgins". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Adhara for the component Epsilon Canis Majoris A on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In the 17th-century catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Aoul al Adzari (أول العذاري awwal al-adhara), which was translated into Latin as Prima Virginum, meaning First of the Virgins. Along with Delta Canis Majoris (Wezen), Eta Canis Majoris (Aludra) and Omicron² Canis Majoris (Thanih al Adzari), these stars were Al ʽAdhārā (العذاري), 'the Virgins'.In Chinese, 弧矢 (Hú Shǐ), meaning Bow and Arrow, refers to an asterism consisting of Epsilon Canis Majoris, Delta Canis Majoris, Eta Canis Majoris, HD 63032, HD 65456, Omicron Puppis, k Puppis, Kappa Canis Majoris and Pi Puppis. Consequently, Epsilon Canis Majoris itself is known as 弧矢七 (Hú Shǐ qī, English: the Seventh Star of Bow and Arrow).
 
-
 === Namesake ===
 USS Adhara (AK-71) was a U.S. Navy Crater-class cargo ship named after the star.
-
 
 == Properties ==
 Epsilon Canis Majoris is a binary star. The primary, Epsilon Canis Majoris A, possesses an apparent magnitude of +1.5 and belongs to the spectral classification B2. Its color is blue or blueish-white, due to the surface temperature of 22,200K. It emits a total radiation equal to 38,700 times that of the Sun. This star is the brightest-known extreme ultraviolet source in the night sky.
 It is the strongest source of photons capable of ionizing hydrogen atoms in interstellar gas near the Sun, and is very important in determining the ionization state of the Local Interstellar Cloud.The +7.5-magnitude (the absolute magnitude amounts to +1.9) companion star, Epsilon Canis Majoris B, is 7.5" away with a position angle of 161° of the main star. Despite the relatively large angular distance the components can only be resolved in large telescopes, since the primary is approximately 250 times brighter than its companion.
 A few million years ago, Epsilon Canis Majoris was much closer to the Sun than it is at present, causing it to be a much brighter star in the night sky. About 4.7 million years ago, Adhara was 34 light-years from the Sun, and was the brightest star in the sky with a magnitude of –3.99. No other star has attained this brightness since, nor will any other star attain this brightness for at least five million years.
-
 
 == In culture ==
 Epsilon Canis Majoris appears on the national flag of Brazil, symbolising the state of Tocantins.
