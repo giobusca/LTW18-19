@@ -43,7 +43,7 @@ function search(search_arg){
     if (minDistance == 0) {
         displayConst(search_arg);
     }
-    else if (minDistance < 4) {
+    else if (minDistance < 2) {
         alert("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?");
         return false;
     }
@@ -62,7 +62,7 @@ function search(search_arg){
         if (minDistance == 0) {
             displayStar(search_arg);
         }
-        else if (minDistance < 4) {
+        else if (minDistance < 3) {
             alert("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?");
             return false;
         }
@@ -209,14 +209,20 @@ function displayStar(star) {
     newHTML += "<h1>"+star.toUpperCase()+"</h1>";
     var constName = getConstName(rawText);
     var const_low = constName.toLowerCase().replace(/\s/g,"");
-    newHTML += "<img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'>\n";
-    newHTML += "<button class='btn-lg btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Position in the sky</button>\n";
+    newHTML += "<div class='container'>\n";
+    newHTML += "<div class='row'>\n"
+    newHTML += "<div class='col'><img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'></div>\n";
+    newHTML += "<div class='col'>\n\t<button class='btn-lg btn-outline-light' type='button' id='visibility' onclick='return callVis();'>Position in the sky</button>\n";
     var desc_ar = rawText.split(/\n/);
     for(var i = 0; i < desc_ar.length; i++){
-        if(i<=10) newHTML += "<p class='mt-4'>"+desc_ar[i]+"</p>\n";
-        else newHTML += "<p class='mt-2'>"+desc_ar[i]+"</p>\n"
+        if(desc_ar[i] != "") {
+            if(desc_ar[i].includes("Brief description")) newHTML += "</div>";
+            if(i>5 && desc_ar[i].includes("==")) newHTML += "</div>\n<div class='row'>\n";
+            newHTML += "<p class='my-1 text-justify'>"+desc_ar[i]+"</p>\n";
+            if(i>5 &&desc_ar[i].includes("==")) newHTML += "</div>\n<div class='row'>\n";
+        }
     }
-
+    newHTML += "</div></div>"
     document.getElementById("display-area").innerHTML = newHTML;
     sessionStorage.starName = star;
     return true;

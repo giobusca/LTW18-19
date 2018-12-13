@@ -13,9 +13,7 @@ Delta Sagittarii (δ Sagittarii, abbreviated Delta Sgr, δ Sgr), also named Kaus
 
 == Properties ==
 Eggleton and Tokovinin (2008) list Delta Sagittarii as a binary star system consisting of an evolved K-type giant star with a stellar classification of K3 III, and a white dwarf companion. The giant is a weak barium star, most likely having had its surface abundance of s-process elements enhanced through mass transfer from its orbiting companion. It has an estimated 3.21 times the mass of the Sun and is about 260 million years old.Delta Sagittarii has three dim visual companions:
-a 14th magnitude star at a separation of 26 arcseconds,
-a 15th magnitude star at a separation of 40 arcseconds, and
-a 13th magnitude star at a separation of 58 arcseconds from the primary.
+a 14th magnitude star at a separation of 26 arcseconds, a 15th magnitude star at a separation of 40 arcseconds, anda 13th magnitude star at a separation of 58 arcseconds from the primary.
 
 
 == Nomenclature ==
