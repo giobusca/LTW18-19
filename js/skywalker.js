@@ -162,6 +162,8 @@ function displayConst(constellation) {
     }
 
     document.getElementById("display-area").innerHTML = newHTML;
+
+    addConstToStarLinks();
     return true;
 }
 
@@ -394,4 +396,43 @@ function callVis() {
 
     window.location.href = "./skywalker-vis.htm";
     return true;
+}
+
+function addConstToStarLinks(){
+    // create an array with the names of the stars
+    var const_desc = $("p:not(.text-left)").toArray();
+    var const_stars = [null];
+    for(var i=0; i<const_desc.length; i++) {
+        const_stars[i] = const_desc[i].innerHTML;
+        const_stars[i] = const_stars[i].toLowerCase();
+        const_stars[i] = const_stars[i].slice(0,const_stars[i].indexOf("–"));
+        const_stars[i] = const_stars[i].trim();
+    }
+
+    // create an array with the star list
+    var star_list = JSON.parse(localStorage.listStars);
+    star_list = star_list.split("\n");
+    for(var j=0; j<star_list.length; j++) {
+        star_list[j].toLowerCase();
+        star_list[j] = star_list[j].slice(0,star_list[j].indexOf(";"))
+    }
+
+    // for every element of the stars in the constellation, scan the list of the stars
+    // to see if it's present, using the levenshtein distance
+    // and add a click event using jQuery
+    var lvD = null;       // variable to store the levanshtein distance
+    for(i=0; i<const_stars.length; i++) {
+        for(j=0; j<star_list.length; j++) {
+            lvD = levenshteinDistance(const_stars[i], star_list[j]);
+            if(lvD<3) {
+                $(const_desc[i]).addClass("hover-blue");
+                $(const_desc[i]).click(function (evt){
+                    var starName = evt.target.innerHTML.toLowerCase()
+                    starName = starName.slice(0,starName.indexOf("–"));
+                    starName = starName.trim();
+                    displayStar(starName);
+                });
+            }
+        }
+    }
 }

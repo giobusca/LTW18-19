@@ -1,10 +1,10 @@
 Cygnus is a prominent constellation in the northern sky. Its name means “the swan” in Latin, and it is also known as the Swan constellation. Cygnus is associated with the myth of Zeus and Leda in Greek mythology. The constellation is easy to find in the sky as it features a well-known asterism known as the Northern Cross. Cygnus was first catalogued the by Greek astronomer Ptolemy in the 2nd century. Notable objects in the constellation include Cygnus X-1, a famous x-ray source, the bright stars Deneb and Albireo, the Fireworks Galaxy (NGC 6946), and several well-known nebulae: the Pelican Nebula (IC 5070), the North America Nebula (NGC 7000), the Crescent Nebula (NGC 6888), and the Veil Nebula (NGC 6960, 6962, 6979, 6992, and 6995).
 Cygnus constellation is associated with several myths, most frequently the one of the Spartan Queen Leda, who gave birth to two sets of twins, the immortal Pollux and Helen and mortal Castor and Clytemnestra, after being seduced by the god Zeus, who had transformed himself into a swan. The immortal children were fathered by the god and the mortal ones by Leda’s husband, King Tyndareus. Castor and Pollux are represented by the zodiac constellation Gemini. Cygnus is also sometimes identified as Orpheus, the Greek tragic hero who was murdered by the Thracian Maenads for not honouring Dionysus. After death, Orpheus was transformed into a swan and placed next to his lyre in the sky. The lyre is represented by the neighbouring constellation Lyra. Cygnus constellation is also sometimes associated with any of the several people called Cycnus in Greek mythology. The most famous ones are Cycnus, the murderous son of Ares who challenged Heracles to a duel and was killed, Cycnus, the son of Poseidon, who fought on the side of the Trojans in the Trojan War, was killed by Achilles, and transformed into a swan after death, and Cycnus, a close friend of Phaeton, the mortal son of the Sun god Helios. Of the above three, the myth of Phaeton is the one that is most frequently associated with Cygnus constellation. In the story, Phaeton and Cycnus were racing each other across the sky when they came too close to the Sun. Their chariots burned up and they fell to the Earth. Cycnus came to and, after looking for Phaeton for a while, he discovered his dead friend’s body trapped at the bottom of the Eridanus River. He was unable to recover the body, so he made a pact with Zeus: if the god gave him the body of a swan, he would only live as long as a swan usually does. Once transformed, Cycnus was able to dive into the river, retrieve Phaeton’s body and give his friend a proper burial. This allowed Phaeton’s soul to travel to the afterlife. Zeus was moved by Cycnus’ sacrifice and placed his image in the sky. The Chinese also associate the constellation with a myth, the one of the “magpie bridge,” Que Qiao. In the story, the lovers Niu Lang and Zhi Nu are separated by the Goddess of Heaven because Zhi Nu is a fairy, and is therefore not allowed to be with a mortal man. When the Goddess learns that the two are secretly married, she takes Zhi Nu with her and creates a river in the sky to keep the lovers separated. The river is represented by the Milky Way itself in the legend. Zhi Nu’s husband Niu Lang takes their two children to Heaven so that they can all be together, but the Goddess does not relent and keeps the lovers separated. Once a year, the myth goes, all the magpies in the world assemble to help the lovers be together by forming an enormous bridge over the wide river. The constellation Cygnus represents the magpie bridge in this story.
-Deneb (Alpha Cygni)
-Sadr (Gamma Cygni)
-Gienah (Epsilon Cygni)
-Rukh (Delta Cygni)
-Albireo (Beta Cygni)
+Deneb – (Alpha Cygni)
+Sadr – (Gamma Cygni)
+Gienah – (Epsilon Cygni)
+Rukh – (Delta Cygni)
+Albireo – (Beta Cygni)
 Zeta Cygni
 Tau Cygni
 Kappa Cygni
@@ -16,4 +16,4 @@ Bessel’s Star (Piazzi’s Falling Star) – 61 Cygni
 Theta Cygni
 16 Cygni
 Gliese 777
-Ruchba (Omega Cygni)
+Omega Cygni

@@ -1,7 +1,7 @@
 Canes Venatici is derived from the Latin language and means “hunting dogs,” representing the hunting dogs of the herdsman in the Bootes constellation. It can be found in the third quadrant of the Northern hemisphere and is located specifically between latitudes of +90° and -40°. This constellation is also home to the famous Cor Caroli and La Superba stars.
 In the Middle Ages, Canes Venatici was identified with the two dogs held on a leash by Boötes, the Herdsman, because there was a mistake in the translation of Ptolemy’s Almagest from Greek to Arabic. In Ptolemy’s text, some of the stars in Boötes represent the Herdsman’s club. The translator loosely translated the Greek word for “club” (Κολλοροβος ) as “the spearshaft with a hook” (“al-`aşā dhāt al-kullāb”). When the Arabic phrase he used was later translated to Latin, the translator mistook one of the words for kilāb, which means “dogs.” Boötes was depicted with two dogs in 1533 on a map by the German astronomer Peter Apian, and Hevelius decided to define the dogs’ position in the night sky in the 17th century. Hevelius named the northern dog Asterion (“little star” in Greek) and the southern one Chara (“joy”). The name Chara later started to be used specifically to refer to the star Beta CVn.
-Cor Caroli (Alpha Canum Venaticorum)
-Chara (Beta Canum Venaticorum)
-La Superba (Gamma Canum Venaticorum)
+Cor Caroli – (Alpha Canum Venaticorum)
+Chara – (Beta Canum Venaticorum)
+La Superba – (Gamma Canum Venaticorum)
 AM Canum Venaticorum
 RS Canum Venaticorum
