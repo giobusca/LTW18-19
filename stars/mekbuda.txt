@@ -1,0 +1,32 @@
+==Datasheet==
+
+Constellation: Gemini
+Right ascension: 07 h 04 m 06.53079 s
+Declination: +20° 34′ 13.0739″
+Apparent magnitude: (3.68 to 4.16)
+Mass: 7.7 ± 0.3 M
+Radius: (65.24 ± 0.20) ± 4.17 R
+Luminosity: 2,900 L
+Temperature: 5,260–5,780 K
+Rotational velocity: 19 km/s
+== Brief description ==
+Zeta Geminorum (ζ Geminorum, abbreviated Zeta Gem, ζ Gem) is a star (possibly binary) in the zodiac constellation of Gemini, on the outstretched left 'leg' of the twin Pollux. As a member of the category of variable stars known as classical Cepheids, it has a regular pulsation frequency that is closely related to the luminosity and the star serves as an important calibrator for the cosmic distance ladder. Based on parallax measurements, it is approximately 1,200 light-years from the Sun.Zeta Geminorum is the primary or 'A' component of a multiple star system designated WDS J07041+2034 (the secondary or 'B' component is UCAC2 39130002; the 'C' component is HD 268518; 'D' is UCAC3 222-78010, and 'E' is UCAC2 39129951). Zeta Geminorum's two components are therefore designated WDS J07041+2034 Aa and Ab. Aa is also named Mekbuda.
+
+
+== Nomenclature ==
+ζ Geminorum (Latinised to Zeta Geminorum) is the star's Bayer designation. WDS J07041+2034 A is its designation in the Washington Double Star Catalog. The designations of the two components as WDS J03158-0849 Aa and Ab derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Zeta Geminorum bore the traditional name Mekbuda, from an Arabic phrase meaning "the lion's folded paw" (Zeta and Epsilon Geminorum (Mebsuta) were the paws of a lion). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Mekbuda for the component WDS J07041+2034 Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 井宿 (Jǐng Su), meaning Well (asterism), refers to an asterism consisting of Zeta Geminorum,  Mu Geminorum, Gamma Geminorum, Nu Geminorum, Xi Geminorum, Epsilon Geminorum, 36 Geminorum and Lambda Geminorum. Consequently, Zeta Geminorum itself is known as 井宿七 (Jǐng Su qī, English: the Seventh Star of Well).
+
+
+== Observation history ==
+
+In 1825, German astronomer Julius Schmidt discovered that Zeta Geminorum varies in brightness with a period of about 10 days, although it had been suspected of variability as early as 1790. In 1899, American astronomer W. W. Campbell announced that Zeta Geminorum has a variable radial velocity. (This variation was independently discovered by Russian astronomer Aristarkh Belopolsky, published in 1901.) Based on his observations, Campbell later published orbital elements for the binary. However, he found that the curve departed from a keplerian orbit and even suggested that it was a triple star system in order to explain the irregularities. The periodic variation in radial velocity was subsequently explained as the result of radial pulsations that occur in a class of variable stars known as Cepheid variables — named after Delta Cephei.The periodicity of the star is itself variable, a trend first noted by German astronomer Paul Guthnick in 1920, who suspected that the period change was the result of an orbiting companion. In 1930, Danish astronomer Axel Nielsen suggested that the change was instead the result in a steady decrease of about 3.6 seconds per year in the period.
+
+
+== Companions ==
+Zeta Geminorum has four companions listed in the Washington Double Star Catalog. The closest is WDS J07041+2034 D, a 12th magnitude star measured to be 67.8" away in 2008. It was 80" distant when first measured in 1905. WDS J07041+2034 C is a magnitude 7.6 G1 main sequence star, 91.9" away when discovered in 1779 and 101.3" distant in 2008. WDS J07041+2034 B is an 11th magnitude star, 76.0" distant in 1831 and 87.4" in 2008.WDS J07041+2034 B is itself a spectroscopic binary, although little is known about the two components. The combined spectrum is of an F4 main sequence star. It is thought to be physically associated with the supergiant primary and a member of a loose cluster of stars around Zeta Geminorum.A combination of photometry, spectroscopy, and astrometry has identified 26 stars approximately 355 parsecs away, which are likely to be members of the birth cluster of Zeta Geminorum. The brightest are late B and early A giant stars such as the 7th magnitude stars HD 49381 and HD 50634, while the faintest detected cluster members are 12th magnitude class F main sequence stars including WDS J07041+2034 B.
+
+
+== Properties ==
+Zeta Geminorum has been reported to be spectroscopic binary on the basis of lunar occultation observations, but this has not been confirmed by other methods.Zeta Geminorum's primary (WDS J07041+2034 Aa) is a Classical Cepheid variable that undergoes regular, periodic variation in brightness because of radial pulsations. In the V band, the apparent magnitude varies between a high of 3.68 and a low of 4.16 (with a mean of 3.93) over a period of 10.148 days. This period of variation is decreasing at the rate of 3.1 seconds per year, or 0.085 seconds per cycle. The spectral classification varies between F7Ib and G3Ib over the course of a pulsation cycle. Likewise the effective temperature of the outer envelope varies between 5,780 K and 5,260 K, while the radius varies from 61 to 69 times the Sun's radius. On average, it is radiating about 2,900 times the luminosity of the Sun.Membership of a cluster provides independent validation of distances determined using recent Hubble Space Telescope and Hipparcos parallaxes. This strongly constrains the star's distance: 363 ± 9(σ2) ± 26(σ) parsecs. Zeta Geminorum is thus an important calibrator for the Cepheid period-luminosity relation used for establishing the cosmic distance ladder.
+
+

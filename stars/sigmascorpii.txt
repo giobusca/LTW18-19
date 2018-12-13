@@ -1,0 +1,21 @@
+==Datasheet==
+
+Constellation: Scorpius
+Right ascension: 16 h 21 m 11.31571 s
+Declination: –25° 35′ 34.0515″
+Apparent magnitude: +2.88
+Rotational velocity: 25 km/s
+== Brief description ==
+Sigma Scorpii (or σ Scorpii and abbreviated Sigma Sco, σ Sco), is a multiple star system in the constellation of Scorpius, located near the red supergiant Antares, which outshines it. This system has a combined apparent visual magnitude of +2.88, making it one of the brighter members of the constellation. Based upon parallax measurements made during the Hipparcos mission, the distance to Sigma Scorpii is roughly 696 light-years (214 parsecs). North et al. (2007) computed a more accurate estimate of 568+75−59 light years (174+23−18 parsecs).The system consists of a spectroscopic binary with components designated Sigma Scorpii Aa1 (also named Alniyat and a Beta Cephei variable) and Aa2; a third component (designated Sigma Scorpii Ab) at 0.4 arcseconds from the spectroscopic pair, and a fourth component (Sigma Scorpii B) at about 20 arcseconds.
+
+
+== Nomenclature ==
+
+σ Scorpii (Latinised to Sigma Scorpii) is the star system's Bayer designation. The designations of the four components as Sigma Scorpii Aa1, Aa2, Ab and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Sigma Scorpii and Tau Scorpii together bore the traditional name Al Niyat (or Alniyat) derived from the Arabic النياط an-niyāţ meaning "the arteries (of the scorpion)" and referring to their position flanking the star Antares, the scorpion's heart. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alniyat for the component Sigma Scorpii Aa1 on February 1, 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 心宿 (Xīn Xiù), meaning Heart, refers to an asterism consisting of Sigma Scorpii, Antares and Tau Scorpii. Consequently, Sigma Scorpii itself is known as 心宿一 (Xīn Xiù yī), "the First Star of Heart".The indigenous Boorong people of northwestern Victoria in Australia saw this star and Tau Scorpii as wives of Djuit (Antares).
+
+
+== Properties ==
+The brightest component of the system, Sigma Scorpii Aa, is a double-lined spectroscopic binary, which means that the pair has not been resolved using a telescope. Instead, their orbit is determined by changes in their combined spectrum caused by the Doppler shift. This indicates that the pair complete an orbit every 33.01 days and have an orbital eccentricity of 0.32.The primary component of the spectroscopic binary, Sigma Scorpii Aa1, is an evolved giant star with a stellar classification of B1 III. It has around 18 times the mass of the Sun and 12 times the Sun's radius. This star is radiating about 29000 times the luminosity of the Sun from its outer envelope at an effective temperature of 26150 K. This is a variable star of the Beta Cephei type, causing the apparent magnitude to vary between +2.86 and +2.94 with multiple periods of 0.2468429, 0.239671, and 8.2 days. During each pulsation cycle, the temperature of the star varies by 4000±2000 K. The other member of the core pair, Sigma Scorpii Aa2, is a main sequence star with a classification of B1 V.Orbiting this binary at a separation of half an arcsecond, or at least 120 Astronomical units (AU), four times the Sun–Neptune distance, is the magnitude +5.2 Sigma Scorpii Ab, which has an orbital period of over a hundred years. Even farther out at 20 arcseconds, or more than 4500 AU, is Sigma Scorpii B with a magnitude of +8.7. It is classified as a B9 dwarf.
+Given its position, youth, and space velocity, the Sigma Scorpii system is a likely member of the Gould Belt, and in particular the Upper Scorpius subgroup of the Scorpius-Centaurus Association (Sco OB2). Recent isochronal age estimates for the system yield ages of 8–10 million years through comparison of the HR diagram positions for the stars to modern evolutionary tracks. This agrees well with the mean age for the Upper Scorpius group which is approximately 11 million years.
+
+

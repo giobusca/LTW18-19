@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Serpens
+Right ascension: 18 h 56 m 13.18 s
+Declination: +04° 12′ 12.9″
+Apparent magnitude: (4.62
+Distance: approx. 150 ly
+Mass: 1.097  M
+Radius: 0.9870  R
+Luminosity: 1.1817  L
+Temperature: 6,067  K
+== Brief description ==
+Theta Serpentis (θ Serpentis, abbreviated Theta Ser, θ Ser) is a triple star system in the constellation of Serpens.
+It consists of a binary pair designated Theta Serpentis AB and whose two components are designated Theta¹ Serpentis or Theta Serpentis A (and also named Alya) and Theta² Serpentis or Theta Serpentis B, together with a third visual companion Theta Serpentis C.Based upon parallax measurements obtained during the Hipparcos mission, θ Serpentis AB is approximately 160 light-years, and θ Serpentis C approximately 86 light-years, from the Sun.
+
+
+== Nomenclature ==
+θ Serpentis (Latinised to Theta Serpentis) is the system's Bayer designation; θ¹ and θ² Serpentis those of the brightest two components. The designations of the two constituents as Theta Serpentis AB and C, and those of AB's components - Theta Serpentis A and B - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional name Alya, or Alga, from the Arabic الية ’alyah "fat tail (of a sheep)". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Alya for the component Theta Serpentis A on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Dzaneb al Haiyet, which was translated into Latin as Cauda Serpentis, meaning 'the serpent's tail'.In Chinese, 天市左垣 (Tiān Shì Zuǒ Yuán), meaning Left Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven old states in China, consisting of Theta Serpentis, Delta Herculis, Lambda Herculis, Mu Herculis, Omicron Herculis, 112 Herculis, Zeta Aquilae, Eta Serpentis, Nu Ophiuchi, Xi Serpentis and Eta Ophiuchi. Consequently, Theta Serpentis itself is known as 天市左垣七 (Tiān Shì Zuǒ Yuán qī, English: the Seventh Star of Left Wall of Heavenly Market Enclosure), representing the state Xu (徐).
+
+
+== Properties ==
+Both Theta¹ Serpentis and Theta² Serpentis are white A-type main sequence dwarfs.  θ¹ has an apparent magnitude of +4.62 while the slightly dimmer θ² has a magnitude of +4.98. These two stars are 22 arcseconds apart on the sky, putting them at least 900 AU apart with an orbital period of at least 14,000 years. Both stars are similar to each other in all respects, having luminosities of 18 and 13 times solar respectively, radii of about twice solar and also masses of roughly 2 times that of the Sun. Both stars have a surface temperature of 8,000 kelvins.
+Theta Serpentis C is a yellow G-type star with an apparent magnitude of +6.71.  It is separated by 7 arcminutes from θ².
+
+

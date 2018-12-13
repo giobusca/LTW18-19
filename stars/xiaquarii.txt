@@ -1,0 +1,22 @@
+==Datasheet==
+
+Constellation: Aquarius
+Right ascension: 21 h 37 m 45.10931 s
+Declination: –07° 51′ 15.1299″
+Apparent magnitude: 4.682
+Distance: 179 ± 2 ly
+Mass: 1.9 M
+Temperature: 7,691 K
+Rotational velocity: 170 km/s
+== Brief description ==
+Xi Aquarii (ξ Aquarii, abbreviated Xi Aqr, ξ Aqr) is a binary star system in the equatorial constellation of Aquarius. It is visible to the naked eye with an apparent visual magnitude of 4.7. Based upon parallax measurements made during the Hipparcos mission, this system lies at a distance of around 179 light-years (55 parsecs) from the Sun.The two components are designated Xi Aquarii A (also named Bunda) and B.
+
+
+== Nomenclature ==
+ξ Aquarii (Latinised to Xi Aquarii) is the binary's Bayer designation. The designations of the two components as Xi Aquarii A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).Along with Beta Aquarii (Sadalsuud) it constituted the Persian lunar mansion Bunda. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Bunda for the component Xi Aquarii A on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Thanih Saad al Saaoud (تاني سعد السعود – taanii sa‘d al-su‘ūd), which was translated into Latin as Secunda Fortunæ Fortunarum, meaning "the second of luck of lucks". This star, along with Beta Aquarii and 46 Capricorni, were Saʽd al Suʽud (سعد السعود), "the Luck of Lucks".In Chinese, 天壘城 (Tiān Lěi Chéng), meaning Celestial Ramparts, refers to an asterism consisting of Xi Aquarii, 46 Capricorni, 47 Capricorni, Lambda Capricorni, 50 Capricorni, 18 Aquarii, 29 Capricorni, 9 Aquarii, 8 Aquarii, Nu Aquarii, 14 Aquarii, 17 Aquarii and 19 Aquarii. Consequently, Xi Aquarii itself is known as 天壘城一 (Tiān Lěi Chéng yī, English: the First Star of Celestial Ramparts).
+
+
+== Properties ==
+Xi Aquarii is a single-lined spectroscopic binary system, which means that the presence of an unseen orbiting companion can be inferred from Doppler shifts in the spectral absorption lines. The two bodies orbit each other with a period of 8,016 days (22 y) and an eccentricity of 0.54. The primary component, Xi Aquarii A, is an A-type main sequence star with a stellar classification of A7 V. It has about 1.9 times the mass of the Sun and is rotating rapidly with a projected rotational velocity of 170 km/s. The orbital data is consistent with the secondary component, Xi Aquarii B, being either a red dwarf or a white dwarf star.
+
+
