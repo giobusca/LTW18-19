@@ -19,7 +19,7 @@ $(document).ready(function() {
             $("#col1").append('<h1>'+sessionStorage.starName.toUpperCase()+'</h1>');
             $("#col1").append('<h2>Azimuth: '+parseFloat(sessionStorage.az).toFixed(2)+'</h2>');
             $("#col1").append('<h2>Altitude: '+parseFloat(sessionStorage.alt).toFixed(2)+'</h2>');
-            $("#col1").append('<button class="btn btn-light mt-5" onclick="goBack()">Go Back</button>');
+            $("#col1").append('<button class="btn btn-outline-light mt-5 ml-5" onclick="goBack()">Go Back</button>');
         }
         else {
             setTimeout(check, 1000); // check again in a second
