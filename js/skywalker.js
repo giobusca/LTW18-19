@@ -90,14 +90,14 @@ function search(search_arg){
 // ======== edits the display area to the description of a constellation ========
 function displayConst(constellation) {
     if(DEBUG) console.log("displayConst");
-
+    constellation_low = constellation.toLowerCase().replace(/\s/g,"").replace("ö","o");
+    
     window.scrollTo(0, 0);
-    var rawText = readTextFile("./const/"+constellation.toLowerCase().replace(/\s/g,""));
+    var rawText = readTextFile("./const/"+constellation_low);
     if(rawText == null) alert("Could not find "+constellation);
 
     var newHTML = "";
     newHTML += "<h1>"+constellation.toUpperCase()+"</h1>";
-    constellation_low = constellation.toLowerCase().replace(/\s/g,"");
     newHTML += "<img src='./images/constellations/"+constellation_low+".png' alt='Constellation map from IAU' width='600'>\n";
 
     var desc_ar = rawText.split(/\n/);
