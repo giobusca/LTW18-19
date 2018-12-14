@@ -27,54 +27,63 @@ function search(search_arg){
     //var search_arg_capitalized = search_arg_low.charAt(0).toUpperCase() + search_arg_low.substring(1,search_arg_low.length);
     if(DEBUG) console.log("You searched for: "+search_arg);
 
-    // decides if search is for stars or const, or not found
-    // possible improvement -> single, parametrised if instead of 2 similar ifs
+    // measeures the levenshtein distance w.r.t. the constellations' list
     var listTextC = JSON.parse(localStorage.listConst).split(/\n/);
-    var minDistance = 100;
+    var minConstDistance = 100;
     var betterConst = "";
     for (let i = 0; i < listTextC.length; i ++){
         var element = listTextC[i].split(";");
         var dist = levenshteinDistance(search_arg_low, element[0].replace(/\s/g,""));
-        if (dist < minDistance){
-            minDistance = dist;
+        if (dist < minConstDistance){
+            minConstDistance = dist;
             betterConst = element[0];
         }
     }
-    if (minDistance == 0) {
+    // if found perfect match in the constellations' list, displayConst
+    if (minConstDistance == 0) {
         displayConst(search_arg);
-    }
-    else if (minDistance < 2) {
-        if (window.confirm("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?")){
-            displayConst(betterConst);
-        }
-        else return false;
-    }
-    else {
+        return true;
+    } else {
+        // otherwise measures the levenshtein distence w.r.t. the stars' list
         var listTextS = JSON.parse(localStorage.listStars).split(/\n/);
-        minDistance = 100;
+        var minStarDistance = 100;
         var betterStar = "";
         for (let i = 0; i < listTextS.length; i ++){
             var element = listTextS[i].split(";");
             var dist = levenshteinDistance(search_arg_low, element[0].replace(/\s/g,""));
-            if (dist < minDistance){
-                minDistance = dist;
+            if (dist < minStarDistance){
+                minStarDistance = dist;
                 betterStar = element[0];
             }
         }
-        if (minDistance == 0) {
+        // if found perfect match for the star, displayStar
+        if (minStarDistance == 0) {
             displayStar(search_arg);
-        }
-        else if (minDistance < 3) {
-          if (window.confirm("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?")){
-              displayStar(betterStar);
-          }
-          else return false;
-        }
-        else {
-            alert("Could not find "+search_arg);
-            return false;
+            return true;
         }
     }
+    // reaches this point only if there's no perfect match with either star or constellation
+    // check if it's not too far away from any constellation or star
+    if (minConstDistance <= 3 || minStarDistance <= 3) {
+        if(minConstDistance < minStarDistance) {
+            // closer to a constellation than a star
+            if (window.confirm("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?")){
+                displayConst(betterConst);
+                return true;
+            }
+        } else {
+            // closer to a star than a constellation
+            if (window.confirm("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?")){
+                displayStar(betterStar);
+                return true;
+            }
+        }
+    } else {
+        // no match found within set levenshtein distance
+        alert("Could not find "+search_arg);
+        return false;
+    }
+
     return true;
 }
 
@@ -195,6 +204,8 @@ function displayStar(star) {
     newHTML += "</div></div>"
     document.getElementById("display-area").innerHTML = newHTML;
     sessionStorage.starName = star;
+
+    addStarToConstLink();
     return true;
 }
 
@@ -398,6 +409,7 @@ function callVis() {
     return true;
 }
 
+// ======== adds the link in the constellations' pages that leads to each of the respective stars
 function addConstToStarLinks(){
     // create an array with the names of the stars
     var const_desc = $("p:not(.text-left)").toArray();
@@ -435,4 +447,28 @@ function addConstToStarLinks(){
             }
         }
     }
+}
+
+// ======== adds the link in the stars' pages that leads to the respective constellation
+function addStarToConstLink(){
+    // find the element that tells the constellation in the star's page
+    // by taking all of the <p> objects and scanning their interior
+    var all_p = $("p").toArray();
+    for(var i=0; i<all_p.length; i++) {
+        if( $(all_p[i]).text().includes("Constellation:") ) {
+            var const_dom = all_p[i];
+        }
+    }
+
+    // add the highlighting and the link on the 'click' event of the constellation
+    $(const_dom).addClass("hover-blue");
+    $(const_dom).click(function(evt){
+        // extract the name of the constellation from the DOM object
+        var const_name = evt.target.innerText
+        const_name = const_name.slice(const_name.indexOf(":")+1,const_name.length).toLowerCase();
+        const_name = const_name.trim();
+
+        displayConst(const_name);        
+    })
+
 }
