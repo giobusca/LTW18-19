@@ -18,20 +18,23 @@ if(typeof(Storage) !== "undefined") {
 // ======== takes the argument of the form and passes it to the search function
 function searchForm(){
     var search_arg = document.forms["search-form"].elements["star-search"].value;
-    switch(search_arg){
-        case "Luke":
+    switch(search_arg.toLowerCase().trim()){
         case "luke":
             luke();
             break;
         case "deathstar":
         case "death star":
-        case "Deathstar":
-        case "Death Star":
             deathStar();
             break;
         case "force":
-        case "Force":
             force();
+            break;
+        case "first":
+        case "han":
+            first();
+            break;
+        case "try":
+            yoda();
             break;
         default:
             search(search_arg);
