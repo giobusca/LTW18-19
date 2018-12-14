@@ -1,0 +1,19 @@
+==Datasheet==
+
+Constellation: Hydra
+Right ascension: 09 h 54 m 52.20987 s
+Declination: −19° 00′ 33.6949″
+Distance: 530 ± 20 ly
+== Brief description ==
+HD 85951, also designated HR 3923 and named Felis, is a star in the constellation of Hydra. Its apparent magnitude is 4.95. Based on parallax measurements it is about 530 light-years (162 parsecs) from the Sun.
+
+
+== Nomenclature ==
+HD 85951 is the star's entry in the Henry Draper Catalogue and HR 3923 that in the Bright Star Catalogue.
+This was the brightest star in the now-obsolete constellation of Felis. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Felis for this star on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+This star is a K-type orange giant with a stellar classification of K5 III.
+
+

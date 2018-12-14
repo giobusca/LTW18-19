@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Corona Australis
+Right ascension: 19 h 09 m 28.34097 s
+Declination: –37° 54′ 16.1022″
+Apparent magnitude: 4.102
+Distance: 125 ± 1 ly
+Mass: 2.3 M
+Radius: 2.3 R
+Luminosity: 31 L
+Temperature: 9,100 K
+Rotational velocity: 195 km/s
+== Brief description ==
+Alpha Coronae Australis (α Coronae Australis, abbreviated Alf CrA, α CrA), also named Meridiana, is the brightest star in the constellation of Corona Australis and is located about 125 light-years from Earth.
+
+
+== Nomenclature ==
+α Coronae Australis (Latinised to Alpha Coronae Australis) is the star's Bayer designation.
+It is the only star in the constellation with a traditional proper name, Alphekka Meridiana (Latin for 'Alphekka South'), after Alphecca, the brightest star in the constellation Corona Borealis. The name Alphecca or Alphekka is Arabic, short for نير الفكّة nayyir al-fakka "the bright (star) of the broken (ring of stars)". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Meridiana for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 鱉 (Biē), meaning River Turtle, refers to an asterism consisting of Alpha Coronae Australis, Alpha Telescopii, Eta¹ Coronae Australis, Zeta Coronae Australis, Delta Coronae Australis, Beta Coronae Australis, Gamma Coronae Australis, Epsilon Coronae Australis, HD 175362, Kappa² Coronae Australis and Theta Coronae Australis. Consequently, Alpha Coronae Australis itself is known as 鱉六 (Biēliù, English: the Sixth Star of River Turtle.).
+
+
+== Properties ==
+Alpha Coronae Australis belongs to the spectral class A2Va, making it an A-type star like Vega. Like the latter, it has excess infrared radiation, which indicates it may be ringeld by a disk of dust. It has an apparent magnitude of +4.10. The star's mass and radius are estimated at 2.3 times the Sun's mass and radius. With an effective temperature of roughly 9,100 K, the star radiates a total luminosity of about 31 times the Sun's. This star is roughly 254 million years old. A rapidly rotating star, it spins at almost 200 km per second at the equator, making a complete revolution in approximately 14 hours, close to its breakup velocity.
+
+

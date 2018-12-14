@@ -1,0 +1,22 @@
+==Datasheet==
+
+Constellation: Aries
+Right ascension: 02 h 49 m 59.03324 s
+Declination: +27° 15′ 37.8260″
+Apparent magnitude: 3.63
+Distance: 166 ± 2 ly
+Luminosity: 160 L
+Rotational velocity: 175 km/s
+== Brief description ==
+41 Arietis (abbreviated 41 Ari) is a triple star system in the northern constellation of Aries. With an apparent visual magnitude of 3.63, this system is readily visible to the naked eye. It has an annual parallax shift of 19.69 mas, which indicates it is at a distance of 166 light-years (51 parsecs) from the Sun.
+The system consists of a binary pair, designated 41 Arietis A, together with a third companion star, 41 Arietis D. (41 Arietis B and C form optical pairs with A, but are not physically related.) The components of A are themselves designated 41 Arietis Aa (also named Bharani) and Ab.
+
+
+== Nomenclature ==
+41 Arietis is the system's Flamsteed designation. It does not possess a Greek-letter Bayer designation, since this system was once part of the now-obsolete constellation Musca Borealis, but is sometimes designated c Arietis. The designations of the two constituents as 41 Arietis A and D, and those of A's components - 41 Arietis Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In Hindu astronomy, Bharani (Devanagari: भरणी; Tamil: பரணி) is the second nakshatra, or lunar mansion corresponding to 35, 39 and 41 Arietis. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Bharani for the component 41 Arietis Aa on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 胃宿 (Wèi Su), meaning Stomach (asterism), refers to an asterism consisting of 41, 35 and 39 Arietis. Consequently, 41 Arietis itself is known as 胃宿三 (Wèi Su sān, English: the Third Star of Stomach.)
+
+
+== Properties ==
+The primary component is a B-type main sequence star with a stellar classification of B8 Vn. The suffix 'n' indicates 'nebulous' absorption lines in the star's spectrum caused by the Doppler effect of rapid rotation. It has a projected rotational velocity of 175 km/s. This is creating an equatorial bulge that is 12% large than the star's polar radius. It is a candidate member of the AB Doradus moving group and has an orbiting companion at an angular separation of 0.3 arcseconds.
+
+

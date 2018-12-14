@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Perseus
+Right ascension: 03 h 58 m 57.90229 s
+Declination: +35° 47′ 27.7132″
+Apparent magnitude: 4.04
+Distance: approx. 1,200 ly
+Mass: 26 M
+Radius: 14 R
+Luminosity: 263,000 L
+Temperature: 35,000 K
+Rotational velocity: 220 km/s
+== Brief description ==
+Xi Persei (ξ Persei, abbreviated Xi Per, ξ Per), also named Menkib, is a star in the constellation of Perseus. Based upon parallax measurements taken during the Hipparcos mission, it is approximately 1,200 light-years from the Sun.
+
+
+== Nomenclature ==
+ξ Persei (Latinised to Xi Persei) is the star's Bayer designation.
+It bore the traditional name Menkib, Menchib, Menkhib or Al Mankib, from Mankib al Thurayya (Arabic for "shoulder" [of the Pleiades]). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Menkib for this star on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.In Chinese, 卷舌 (Juǎn Shé), meaning Rolled Tongue, refers to an asterism consisting of Xi Persei, Nu Persei, Epsilon Persei, Zeta Persei, Omicron Persei and 40 Persei. Consequently, Xi Persei itself is known as 卷舌三 (Juǎn Shé sān, "the Third Star of Rolled Tongue").
+
+
+== Properties ==
+Xi Persei has an apparent magnitude of +4.06 and is classified as a blue giant (spectral class O7.5III). It is intrinsically 12,700 times brighter than the Sun with absolute magnitude -5.5 in the V band.  If the ultraviolet light that emanates from Menkib is included, its total bolometric luminosity is 263,000 times that of the Sun.
+The star has a mass of some 30 solar masses and a surface temperature of 35,000 kelvins, making it one of the hottest stars that can be seen with the naked eye. The fluorescence of the California Nebula (NGC 1499) is due to this star’s prodigious radiation.
+
+

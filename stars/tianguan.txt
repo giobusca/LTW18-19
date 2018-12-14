@@ -1,0 +1,24 @@
+==Datasheet==
+
+Constellation: Taurus
+Right ascension: 05 h 37 m 38.68542 s
+Declination: +21° 08′ 33.1588″
+Apparent magnitude: (2.88 - 3.17
+Distance: approx. 440 ly
+Mass: 11.2 M
+Radius: 5.5 R
+Luminosity: 4,169 L
+Temperature: 15,500 K
+Rotational velocity: 125 km/s
+== Brief description ==
+Zeta Tauri (ζ Tauri, abbreviated Zet Tau, ζ Tau) is a binary star in the zodiac constellation of Taurus, the Bull. It has an apparent visual magnitude of 3.0, which is bright enough to be seen with the naked eye. Parallax measurements place it at a distance of roughly 440 light-years from the Sun.The two components are designated Zeta Tauri A (also named Tianguan) and B.
+
+
+== Nomenclature ==
+ζ Tauri (Latinised to Zeta Tauri) is the star's Bayer designation; it also bears the Flamsteed designation of 123 Tauri. The designations of the two components as Zeta Tauri A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In Chinese astronomy, Zeta Tauri is called 天關, Pinyin: Tiānguān, meaning Celestial Gate, an asterism within the Net (畢宿 Bì Xiù) mansion (see also: Chinese constellation). 天關 (Tiānguān) has also been transliterated as Tien Kwan. (Technically, Tiānguān refers not just to Zeta Tauri but to an asterism of which Zeta Tauri is the main star, alongside 113, 126, 128, 129, 130 and 127 Tauri - see Taurus (Chinese astronomy).) In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Tianguan for the component Zeta Tauri A on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Zeta Tauri is a single-lined spectroscopic binary system, which means the two components are orbiting so close to each other that they can not be resolved with a telescope. Instead, the orbital motion of the primary component is indicated by Doppler effect shifts in the absorption lines in its spectrum. The two components are separated by an estimated distance of about 1.17 astronomical units, or 117% of the distance from the Earth to the Sun. They are following circular orbits with a period of nearly 133 days.Compared to the Sun, the primary, Zeta Tauri A, is an enormous star with more than 11 times the mass and 5–6 times the radius. It is rotating rapidly with a projected rotational velocity of 125 km s−1. The companion, Zeta Tauri B, has about 94% the mass of the Sun, although it is unknown whether this is a main sequence star, a neutron star, or a white dwarf. If it is a main sequence star, then the mass indicates it may have a stellar classification of G4.The spectrum of the primary component has a stellar classification of B2 IIIpe. A luminosity class of 'III' indicates this is a giant star that has exhausted the hydrogen at its core and evolved away from the main sequence. The 'p' suffix indicates an unspecified chemical peculiarity in the spectrum, while 'e' is used for stars that display emission lines. For Be stars such as this, the emission lines are produced by a rotating circumstellar disk of gas, made of material that has been ejected from the star's outer envelope. An oscillatory pattern in this spectrum is being caused by a single-armed spiral density wave in the disk. The disk may be precessing from the gravitational influence of the secondary component.Zeta Tauri shows variation in its spectrum and brightness. The General Catalogue of Variable Stars lists it as an eclipsing variable and a Gamma Cassiopeiae variable, but it may not be either.
+
+

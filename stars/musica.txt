@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Delphinus
+Right ascension: 20 h 58 m 25.93397 s
+Declination: +10° 50′ 21.4289″
+Apparent magnitude: 5.506
+Distance: 246 ± 6 ly
+Mass: 2.3 M
+Radius: 8.5 R
+Luminosity: 40 L
+Temperature: 4,979 K
+== Brief description ==
+18 Delphini (abbreviated 18 Del), also named Musica, is a yellow giant star approximately 238 light-years from Earth in the constellation of Delphinus of the low northern hemisphere. An object believed to be an extrasolar planet (designated 18 Delphini b or Arion) orbits the star.
+
+
+== Nomenclature ==
+18 Delphini is the star's Flamsteed designation. Following its discovery the planet was designated 18 Delphini b.In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Musica for this star and Arion for its planet.The winning names were those submitted by the Tokushima Prefectural Jonan High School Science Club of Japan. 'Musica' is Latin for 'music'. Arion was a genius of poetry and music in ancient Greece. According to legend, his life was saved at sea by dolphins after attracting their attention by the playing of his kithara. ('Delphinus' is Latin for 'dolphin')
+In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star became so entered in the IAU Catalog of Star Names.
+
+
+== Description ==
+18 Delphini has a spectral type of G6III  and is a red clump giant, an evolved star that is burning helium in its core.  It has a temperature of 4979 K, is 8.5 times larger than the sun and 40 times more luminous.  It has a current mass of 2.3 M☉.
+
+
+== Planetary system ==
+On February 19, 2008, a 10.3 Jupiter mass extrasolar planet was found to be orbiting the star.
+
+

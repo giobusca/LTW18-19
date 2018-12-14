@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Pegasus
+Right ascension: 23 h 20 m 38.24188 s
+Declination: +23° 44′ 25.2098″
+Apparent magnitude: +4.58
+Distance: 162 ± 3 ly
+Mass: 2.14 M
+Radius: 2.8 R
+Luminosity: 32 L
+Temperature: 7,709 K
+Rotational velocity: 149 km/s
+== Brief description ==
+Tau Pegasi (τ Pegasi, abbreviated Tau Peg, τ Peg), also named Salm, is a 4.6 magnitude star in the constellation of Pegasus.
+
+
+== Nomenclature ==
+τ Pegasi (Latinised to Tau Pegasi) is the star's Bayer designation.
+The star bore the traditional names Salm, Kerb (or El Khereb) and Markab (often spelled Markeb), a name shared with Alpha Pegasi, k Puppis and Kappa Velorum. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Salm for this star and Markeb for the component Kappa Velorum A, both on 5 September 2017. Markab had previously been approved for Alpha Pegasi on 30 June 2016. All three are now so included in the List of IAU-approved Star Names.In Chinese, 離宮 (Lì Gōng), meaning Resting Palace, refers to an asterism consisting of Tau Pegasi, Lambda Pegasi, Mu Pegasi, Omicron Pegasi, Eta Pegasi and Nu Pegasi. Consequently, Tau Pegasi itself is known as 離宮五 (Lì Gōng wǔ), "the Fifth Star of Resting Palace".
+
+
+== Properties ==
+Tau Pegasi belongs to spectral class A5 Vp, making it an A-type main-sequence star.
+This is a Delta Scuti variable star with a pulsation period of 0.94 hours. It is rotating rapidly with a projected rotational velocity of 150 km s−1. Tau Pegasi is radiating nearly 30 times the luminosity of the Sun from its outer atmosphere at an effective temperature of 7,762 K.
+
+

@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Cassiopeia
+Right ascension: 01 h 54 m 23.72567 s
+Declination: +63° 40′ 12.3628″
+Apparent magnitude: 3.37
+Distance: 410 ± 20 ly
+Mass: 9.2 ± 0.2 M
+Radius: 6 R
+Luminosity: 2,500 L
+Temperature: 15,174 K
+Rotational velocity: 30 km/s
+== Brief description ==
+Epsilon Cassiopeiae (ε Cassiopeiae, abbreviated Eps Cas, ε Cas), also named Segin, is a star in the constellation of Cassiopeia. With an apparent visual magnitude of 3.4, this is one of the brightest stars in the constellation. The distance to this star has been determined directly using parallax measurements, yielding a value of around 390–430 light-years (120–130 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ε Cassiopeiae (Latinised to Epsilon Cassiopeiae) is the star's Bayer designation.
+The star bore the traditional name Segin, which probably originates from an erroneous transcription of Seginus, the traditional name for Gamma Boötis, which itself is of uncertain origin. Different sources report varying pronunciations, with SEG-in the most common but the variants SAY-gin and seg-EEN also appearing. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Segin for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.While some published reports incorrectly claim that this star was designated by NASA as Navi ('Ivan', backwards), in honor of astronaut Virgil Ivan "Gus" Grissom, one of the three astronauts who died in the Apollo 1 accident, the actual star so designated is Gamma Cassiopeiae in the center of the constellation.In Chinese, 閣道 (Gé Dào), meaning Flying Corridor, refers to an asterism consisting of Epsilon Cassiopeiae, Iota Cassiopeiae, Delta Cassiopeiae, Theta Cassiopeiae, Nu Cassiopeiae and Omicron Cassiopeiae. Consequently, Epsilon Cassiopeiae itself is known as 閣道二 (Gé Dào èr, English: the Second Star of Flying Corridor.)
+
+
+== Properties ==
+Epsilon Cassiopeiae has a stellar classification of B3 V, indicating that it is a main sequence star fusing hydrogen in its core. Cote et al. (2003) indicate that it displays the spectral properties of a Be star, even though it is not categorized as such. The presence of emission lines in the spectrum indicates the presence of a circumstellar shell of gas that has been thrown off by the star. The outer atmosphere has an effective temperature of 15,174 K (14,901 °C; 26,854 °F), giving it the blue-white hue of a B-type star.The interferometer-measured angular diameter is 0.43 milliarcseconds. At the estimated distance of this star, this yields a physical size of roughly 6 times the radius of the Sun.Observation during the Hipparcos mission suggest that the star may undergo weak periodic variability. The amplitude of this variation is 0.0025 in magnitude with a frequency of 11.17797 times per day, or one cycle every 2.15 hours. The signal-to-noise ratio for this measured variation is 4.978. Hipparcos measurements of the space velocity components for this star suggest that it is a member of the Cas-Tau group of co-moving stars, with a 93% likelihood. This group may be kinematically associated with the alpha Persei Cluster, indicating that the Cas-Tau group, including Epsilon Cassiopeiae, may have been separated from the cluster through tidal interactions.
+
+

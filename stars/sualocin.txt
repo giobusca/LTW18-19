@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Delphinus
+Right ascension: 20 h 39 m 38.2872 s
+Declination: +15° 54′ 43.4637″
+Apparent magnitude: +3.777
+Distance: 254 ± 9 ly
+Mass: 2.82 M
+Radius: 3.92 R
+Surface gravity: 3.93 cgs
+Temperature: 11,643 K
+Rotational velocity: 144 km/s
+== Brief description ==
+Alpha Delphini (α Delphini, abbreviated Alpha Del, α Del) is a multiple star system in the constellation of Delphinus.
+It consists of a binary star, designated Alpha Delphini A, together with five faint, probably optical companions, designated Alpha Delphini B, C, D, E and F. A's two components are themselves designated Alpha Delphini Aa (also named Sualocin) and Ab.
+
+== Nomenclature ==
+α Delphini (Latinised to Alpha Delphini) is the system's Bayer designation. The designations of the six constituents as Alpha Delphini A to F, and those of A's components - Alpha Delphini Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).
+The system bore an historical name, Sualocin, which arose as follows: Niccolò Cacciatore was the assistant to Giuseppe Piazzi, and later his successor as Director of the Palermo Observatory. The name first appeared in Piazzi's Palermo Star Catalogue. When the Catalogue was published in 1814, the unfamiliar names Sualocin and Rotanev were attached to Alpha and Beta Delphini, respectively. Eventually the Reverend Thomas Webb, a British astronomer, puzzled out the explanation.[13] Cacciatore's name, Nicholas Hunter in English translation, would be Latinized to Nicolaus Venator. Reversing the letters of this construction produces the two star names. They have endured, the result of Cacciatore's little practical joke of naming the two stars after himself. How Webb arrived at this explanation 45 years after the publication of the catalogue is still a mystery.
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Sualocin for the component Alpha Delphini Aa on 12 September 2016 and it is now so included in the List of IAU-approved Star Names.
+In Chinese, 瓠瓜 (Hù Guā), meaning Good Gourd, refers to an asterism consisting of Alpha Delphini, Gamma2 Delphini, Delta Delphini, Beta Delphini and Zeta Delphini. Consequently, Alpha Delphini itself is known as 瓠瓜一 (Hù Guā yī, English: the First Star of Good Gourd).
+In Hindu astronomy, the star corresponded to one of the nakshatras named Dhanishta.
+
+== Properties ==
+Alpha Delphini A is a spectroscopic binary star which has now been resolved using speckle interferometry. The components are separated by 0.2" and have a 17-year orbit. Alpha Delphini Aa has a spectral type of B9IV. The spectral type of the secondary star cannot be determined as it is too close and too faint compared to the primary, and its other properties are also unknown. The primary is a subgiant that has begun to evolve away from the main sequence. It is 2.82 times as massive as the sun and about twice as hot.
+The five faint companions have visual magnitudes around 11th to 13th magnitude and separations of 35" to 72". They all show motion relative to Alpha Delphini A.

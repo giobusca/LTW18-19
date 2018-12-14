@@ -1,0 +1,23 @@
+==Datasheet==
+
+Constellation: Eridanus
+Right ascension: 04 h 38 m 10.82486 s
+Declination: −14° 18′ 14.4600″
+Apparent magnitude: 3.87
+Distance: 110 ± 1 ly
+Mass: 1.07 ± 0.25 M
+Radius: 9.8 R
+Luminosity: 37 L
+Temperature: 4603 K
+== Brief description ==
+53 Eridani (abbreviated 53 Eri), also designated l Eridani (l Eri), is a binary star in the constellation of Eridanus. The system has a combined apparent magnitude of 3.87, making it visible to the naked eye even in inner city skies. Parallax estimates made by the Hipparcos spacecraft put it at a distance of about 110 light-years, or 33.7 parsecs from the Sun.The two components are designated 53 Eridani A (also named Sceptrum) and B.
+
+
+== Nomenclature ==
+53 Eridani is the system's Flamsteed designation; l Eridani its Bayer designation. The designations of the two components as 53 Eridani A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).53 Eridani bore the traditional name Sceptrum, Latin for "scepter", as it was one of the brighter stars, designated "p Sceptri (Brandenburgici)", in the obsolete constellation of Sceptrum Brandenburgicum. The constellation was coined by Gottfried Kirch to honor the Brandenburg province of Prussia, and although it was later used in other atlases by Johann Elert Bode, the constellation fell out of use. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Sceptrum for the component 53 Eridani A on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+53 Eridani is a visual binary, where the orbit of the two stars is calculated from their orbital motions. The primary star, 53 Eridani A, is an evolved red giant with a spectral type of K1III. It is almost ten times as wide as the Sun and slightly more massive than the Sun. The secondary star, 53 Eridani B, has an apparent magnitude of 6.95 and its spectral type is unknown. The two have an orbital period of 77 years and have a quite eccentric orbit, at 0.666. The total mass of the system is 2.49 M☉.
+
+

@@ -1,0 +1,24 @@
+==Datasheet==
+
+Constellation: Gemini
+Right ascension: 07 h 39 m 09.93286 s
+Declination: +34° 35′ 03.6443″
+Apparent magnitude: 4.90
+Distance: 166 ± 3 ly
+Radius: 3.7 R
+Luminosity: 24 L
+Temperature: 6,309 K
+Rotational velocity: 91.1 km/s
+== Brief description ==
+Omicron Geminorum (ο Geminorum, abbreviated Omicron Gem, ο Gem), also named Jishui, is a solitary star in the constellation of Gemini. It is faintly visible to the naked eye with an apparent visual magnitude of 4.90. Based upon an annual parallax shift of 19.61 mas, it is located at a distance of 166 light-years from the Sun.
+
+
+== Nomenclature ==
+ο Geminorum (Latinised to Omicron Geminorum) is the star's Bayer designation.
+The star bore the traditional Chinese name of Jishui. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Jishui for this star on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+This is an F-type giant star with a stellar classification of F3 III. The measured angular diameter is 0.68±0.03 mas, which, at its estimated distance, yields a physical size of about 3.7 times the radius of the Sun. It radiates approximately 24 times the solar luminosity from an outer atmosphere at an effective temperature of 6,309 K.
+
+

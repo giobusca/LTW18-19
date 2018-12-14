@@ -1,0 +1,22 @@
+==Datasheet==
+
+Constellation: Hydra
+Right ascension: 8 h 46 m 46.51223 s
+Declination: +06° 25′ 07.6855″
+Apparent magnitude: AB: 3.38
+Distance: 129 ± 5 ly
+Luminosity: 67 L
+Temperature: 5,620 K
+Rotational velocity: 19 km/s
+== Brief description ==
+Epsilon Hydrae (ε Hydrae, abbreviated Epsilon Hya, ε Hya) is a multiple star system of a combined third magnitude in the constellation of Hydra. Based upon parallax measurements obtained during the Hipparcos mission, it is located roughly 129 light-years (40 parsecs) distant from the Sun.The system consists of a binary pair designated Epsilon Hydrae AB, whose two components are themselves designated Epsilon Hydrae A (also named Ashlesha) and B,  orbited by a spectroscopic binary designated Epsilon Hydrae C.  A possible fourth component, designated Epsilon Hydrae D, shares a common proper motion with the other components and thus is most likely a gravitationally-bound member of the system.
+
+
+== Nomenclature ==
+ε Hydrae (Latinised to Epsilon Hydrae) is the system's Bayer designation. The designations of the three constituents as Epsilon Hydrae AB, C and D, and those of AB's components - Epsilon Hydrae A and B - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In ancient Indian astronomy, the five-star cluster of Hydrae is collectively called Ashlesha "the embrace" (Ayilyam in southern India), the 9th of the 27 nakshatras or lunar mansions in Hindu astrology. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Ashlesha for the component Epsilon Hydrae A on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.This system, along with Delta Hydrae (Lisan al Sudja), Zeta Hydrae, Eta Hydrae, Rho Hydrae and Sigma Hydrae (Minhar al Shija), were Ulug Beg's Min al Azʽal, "Belonging to the Uninhabited Spot". According to a 1971 NASA technical memorandum, Min al Azʽal or Minazal were the title for five stars: Delta Hydrae as Minazal I, Eta Hydrae as Minazal II, Epsilon Hydrae as Minazal III, Rho Hydrae as Minazal IV and Zeta Hydrae as Minazal V.In Chinese, 柳宿 (Liǔ Sù), meaning Willow (asterism), refers to an asterism consisting of Epsilon Hydrae, Delta Hydrae, Sigma Hydrae, Eta Hydrae, Rho Hydrae, Zeta Hydrae, Omega Hydrae and Theta Hydrae Consequently, Epsilon Hydrae itself is known as 柳宿五 (Liǔ Sù wǔ, English: the Fifth Star of Willow).Unwala, "The Crab", was the name given by the people of Groote Eylandt to the star cluster including this star, Delta Hydrae, Zeta Hydrae, Eta Hydrae, Rho Hydrae and Sigma Hydrae.
+
+
+== Properties ==
+The Epsilon Hydrae AB binary has an orbital period of 15 years and an angular separation of 0.2 arcseconds. The spectroscopic binary Epsilon Hydrae C has a period of 9.9047 days and an orbital eccentricity of 0.62, while simultaneously orbiting AB with a period of 870 years. C is separated from AB by 3 arcseconds. Epsilon Hydrae D is separated from AB by 19 arcseconds and has an estimated orbital period of around 10,000 years.The primary, Epsilon Hydrae A, is a giant star that is shining with 67 times the luminosity of the Sun. This energy is being radiated from the star's outer atmosphere at an effective temperature of 5,620 K, giving it the yellow hue of a G-type star. It is rotating rapidly with a projected rotational velocity of 19 km s−1. It has an X-ray luminosity of 2.8 × 1029 erg s−1.
+
+

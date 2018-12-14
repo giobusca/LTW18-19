@@ -1,0 +1,18 @@
+==Datasheet==
+
+Constellation: Boötes
+Right ascension: 14 h 16 m 23.01880 s
+Declination: +46° 05′ 17.9005″
+Apparent magnitude: +4.18
+Distance: 99.0 ± 0.5 ly
+Radius: 1.7 R
+Rotational velocity: 100 km/s
+== Brief description ==
+Lambda Boötis (λ Boötis, abbreviated Lam Boo, λ Boo), also named Xuange, is a star in the northern constellation of Boötes. Based on parallax measurements, it is approximately 99 light-years from the Sun.Lambda Boötis is a white A-type main sequence dwarf with an apparent magnitude of +4.18. It is the prototype of a group of rare stars known as Lambda Boötis stars, all of which are dwarf stars with unusually low abundances of metals in their spectra. Its diameter has been directly measured to be 1.7 times that of the Sun.
+
+
+== Nomenclature ==
+λ Boötis (Latinised to Lambda Boötis) is the star's Bayer designation.
+In Chinese astronomy, Lambda Boötis is called 玄戈, Pinyin: Xuángē, meaning 'sombre lance', because this star is marking itself and standing alone in the Sombre Lance asterism, Purple Forbidden enclosure (see : Chinese constellations). 玄戈 (Xuángē) westernized into Heuen Ko, but that name was assigned to Gamma Boötis by R.H. Allen, with the meaning of 'the heavenly spear'. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Xuange for Lambda Boötis on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.This star, along with the Aselli (Theta Boötis, Iota Boötis and Kappa Boötis), were Al Aulād al Dhiʼbah (ألعولد ألذعب - al aulād al dhiʼb), "the Whelps of the Hyenas". Al Aulād al Dhiʼbah or Aulad al Thiba was the title of this star in a 1971 NASA memorandum.
+
+

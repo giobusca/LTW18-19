@@ -1,0 +1,34 @@
+==Datasheet==
+
+Constellation: Aquila
+Right ascension: 19 h 05 m 24.60802 s
+Declination: +13° 51′ 48.5182″
+Apparent magnitude: 2.983
+Distance: 83.0 ± 0.3 ly
+Mass: 2.37 M
+Radius: 2.27 R
+Luminosity: 39.4 L
+Temperature: 9,620 ± 20 K
+Rotational velocity: 317 km/s
+== Brief description ==
+Zeta Aquilae (ζ Aquilae, abbreviated Zeta Aql, ζ Aql) is a spectroscopic binary star in the equatorial constellation of Aquila. It is readily visible with the naked eye, being of the third magnitude. Based on parallax measurements obtained during the Hipparcos mission, it is approximately 83 light-years (25 parsecs) distant from the Sun.Zeta Aquilae's two components can be designated Zeta Aquilae A (also named Okab) and B. Zeta Aquilae has a number of companions listed and together they are designated WDS J19054+1352. As the primary star of this group, Zeta Aquilae also bears the designation WDS J19054+1352A. The companions are then designated WDS J19054+1352B, C, D and E.
+
+
+== Nomenclature ==
+ζ Aquilae (Latinised to Zeta Aquilae) is the binary's Bayer designation. The designations of the two components as Zeta Aquilae A and B derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU). WDS J19054+1352 is the entry of the wider system of which Zeta Aquilae is a member in the Washington Double Star Catalog.
+Zeta and Epsilon Aquilae together bore the traditional name Deneb el Okab, from an Arabic term ذنب العقاب Dhanab Al-uqab meaning "the tail of the eagle", which they mark ('Aquila' is Latin for 'eagle'). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Okab for the component Zeta Aquilae A on 1 June 2018 and it is now so included in the List of IAU-approved Star Names.Epsilon and Zeta Aquilae also bore the Mandarin names Woo and Yuë, derived from and representing the old states Wu (吳) (located at the mouth of the Yangtze River) and Yue (越) (in Zhejiang province).In the catalogue of stars in the Calendarium of Al Achsasi Al Mouakket, Zeta Aquilae was designated Dzeneb al Tair (from the Arabic ذنب الطائر ðanab aṭ-ṭā’ir), which was translated into Latin as Cauda (Vulturis) Volantis, meaning the eagle's tail.In Chinese, 天市左垣 (Tiān Shì Zuǒ Yuán), meaning Left Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven old states in China and is marking the left borderline of the enclosure, consisting of Zeta Aquilae; Delta, Lambda, Mu, Omicron and 112 Herculis; Theta¹ and Eta Serpentis; Nu Ophiuchi, Xi Serpentis and Eta Ophiuchi. Consequently, Zeta Aquilae itself is known as 天市左垣六 (Tiān Shì Zuǒ Yuán liù, English: the Sixth Star of Left Wall of Heavenly Market Enclosure), representing the state mentioned above.
+
+
+== Properties ==
+Zeta Aquilae has a combined stellar classification of A0 Vn, with the luminosity class 'V' indicating is a main sequence star that is generating energy through the nuclear fusion of hydrogen at its core. It has more than double the mass and twice the radius of the Sun, and is radiating more than 39 times the Sun's luminosity. The effective temperature of the star's outer envelope is about 9620 K, which gives it the white hue typical of A-type stars. The estimated age of this star is 50–150 million years.This star is rotating rapidly, with a projected rotational velocity of 317 km s−1 giving a lower bound on the azimuthal velocity along the equator. As a result, it has a pronounced equatorial bulge, causing the star to assume an oblate spheroidal shape. The equatorial radius is about 30.7% greater than the polar radius. Because of the Doppler effect, this rapid rotation makes the absorption lines in the star's spectrum broaden and smear out, as indicated by the 'n' suffix in the stellar class.
+Astronomers use Zeta Aquilae as a telluric standard star. That is, the spectrum of this star is used to correct for telluric contamination from the Earth's atmosphere when examining the spectra of neighboring stars. Observation of this star in the infrared band during the 2MASS survey appeared to reveal excess emission. However, the distribution of this emission couldn't be readily explained by a conjectured disk of circumstellar dust. Instead, the detection was later ascribed to errors caused by saturation of the near-infrared detectors.
+
+
+=== Companions ===
+The Washington Double Star Catalog lists two 12th magnitude stars at 7.5" and 160" (WDS J19054+1352B and C), plus an 11th magnitude star separated by 200" (WDS J19054+1352D) and a more distant 16th magnitude star (WDS J19054+1352E). The Catalog of Components of Double and Multiple Stars lists the same two 12th magnitude star at 6.5" and 160".In 2014 WDS J19054+1352B was identified as a binary companion with a mass of 0.5 M☉ separated by 185 AU from the primary. WDS J19054+1352E was also considered to be a co-moving companion with a mass of 0.14 M☉ 38000 AU from the primary.
+
+
+== In culture ==
+Zeta Aquilae is depicted in the computer games Descent II and Elite: Dangerous.
+
+

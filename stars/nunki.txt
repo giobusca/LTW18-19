@@ -1,0 +1,29 @@
+==Datasheet==
+
+Constellation: Sagittarius
+Right ascension: 18 h 55 m 15.92650 s
+Declination: –26° 17′ 48.2068″
+Apparent magnitude: 2.05
+Distance: 228 ± 5 ly
+Mass: 7.8 ± 0.2 M
+Radius: 4.5 R
+Luminosity: 3,300 L
+Temperature: 18,890 K
+Rotational velocity: 165 km/s
+== Brief description ==
+Sigma Sagittarii (σ Sagittarii, abbreviated Sigma Sgr, σ Sgr), also named Nunki, is the second-brightest star in the constellation of Sagittarius. It has an apparent magnitude of +2.05, making it readily visible to the naked eye. The distance to this star, determined using parallax measurements from the Hipparcos astrometry satellite, yields an estimated value of 228 light-years (70 parsecs) from the Sun.
+
+
+== Properties ==
+Sigma Sagittarii has a spectrum matching a stellar classification of B2.5 V, which indicates this is a B-type main-sequence star. Its total luminosity is 3300 times that of the Sun while it has a surface temperature of 18,890 K. X-ray emission has been detected from this star, which has an estimated X-ray luminosity of 1.2 × 1028 erg s−1.It has a 10th magnitude optical companion located 5.2 arcminutes away.It is 3.45 degrees south of the ecliptic, so it can be occulted by the Moon and rarely by planets. The last occultation by a planet took place on November 17, 1981, when it was occulted by Venus. This is the brightest star that can be principally occulted by an exterior planet between 5000 BC and 5000 AD. However, only Mars can do this, and only rarely; the last time was on September 3, 423.
+
+
+== Nomenclature ==
+σ Sagittarii (Latinised to Sigma Sagittarii) is the star's Bayer designation.
+It bore the traditional name of Nunki, which was an Assyrian or Babylonian name recovered by archaeologists and made public by R. H. Allen. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Nunki for this star on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.This star, together with :
+
+Gamma Sagittarii, Delta Sagittarii, Epsilon Sagittarii, Zeta Sagittarii, Lambda Sagittarii, Tau Sagittarii and Phi Sagittarii, comprised the Teapot asterism.
+Phi Sagittarii, Zeta Sagittarii, Chi Sagittarii and Tau Sagittarii were the Arabic Al Naʽām al Ṣādirah (النعم السادرة), the Returning Ostriches.Zeta Sagittarii and Pi Sagittarii may have been the Akkadian Gu-shi-rab‑ba, the Yoke of the Sea.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Thanih al Sadirah, which was translated into Latin as Secunda τού al Sadirah, meaning second returning ostrich.In Chinese, 斗 (Dǒu), meaning Dipper, refers to an asterism consisting of Sigma Sagittarii, Phi Sagittarii, Lambda Sagittarii,
+Mu Sagittarii, Tau Sagittarii and Zeta Sagittarii. Consequently, Sigma Sagittarii itself is known as 斗宿四 (Dǒu Sù sì, English: the Fourth Star of Dipper.)
+
+

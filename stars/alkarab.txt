@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Pegasus
+Right ascension: 23 h 25 m 22.78350 s
+Declination: 23° 24′ 14.7606″
+Apparent magnitude: 4.40
+Distance: 170 ± 2 ly
+Mass: 2.17 M
+Radius: 6.0 R
+Luminosity: 42.35 L
+Temperature: 5,888 K
+Rotational velocity: 33.7 km/s
+== Brief description ==
+Upsilon Pegasi (υ Pegasi, abbreviated Ups Peg, υ Peg), also named Alkarab, is a star in the constellation of Pegasus. Its apparent magnitude is 4.40 and it is approximately 170.4 light-years distant from the Sun based on parallax.
+
+
+== Nomenclature ==
+υ Pegasi (Latinised to Upsilon Pegasi) is the star's Bayer designation.
+The star bore the traditional Arabic name Al Karab ("the Bucket-rope"). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Alkarab for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+Upsilon Pegasi is a spectral class F8III yellow-white giant star.
+Its iron abundance is -0.01 (97.7% of the Sun). It is moving through the Galaxy at a speed of 50.6 km/s relative to the Sun. Its projected Galactic orbit carries it between 18,600 and 26,300 light-years from the center of the Galaxy. 
+
+

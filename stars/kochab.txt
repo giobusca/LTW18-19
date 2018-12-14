@@ -1,0 +1,30 @@
+==Datasheet==
+
+Constellation: Ursa Minor
+Right ascension: 14 h 50 m 42.32580 s
+Declination: +74° 09′ 19.8142″
+Apparent magnitude: 2.08
+Distance: 130.9 ± 0.6 ly
+Mass: 2.2 ± 0.3 M
+Radius: 42.06 ± 0.91 R
+Luminosity: 390 ± 25 L
+Temperature: 4,030 K
+Rotational velocity: 8 km/s
+== Brief description ==
+Beta Ursae Minoris (β Ursae Minoris, abbreviated Beta UMi, β UMi), also named Kochab, is the brightest star in the bowl of the Little Dipper asterism (which is part of the constellation of Ursa Minor), and only slightly fainter than Polaris, the northern pole star and brightest star in Ursa Minor. Kochab is 16 degrees from Polaris and has an apparent visual magnitude of 2.08. The distance to this star from the Sun can be deduced from the parallax measurements made during the Hipparcos mission, yielding a value of 130.9 light-years (40.1 parsecs).Amateur astronomers can use Kochab as a very precise guide for setting up a telescope, as the celestial north pole is located 43 arcminutes away from Polaris, very close to the line connecting Polaris with Kochab.
+
+
+== Nomenclature ==
+β Ursae Minoris (Latinised to Beta Ursae Minoris) is the star's Bayer designation.
+It bore the traditional name Kochab which appeared in the Renaissance and its meaning is uncertain. It may be from Arabic الكوكب al-kawkab or Hebrew כוכב kōkhāv, both of which mean 'star', or more likely derived from Alrucaba or Rucaba, a name applied to Theta Ursae Majoris. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Kochab for this star.
+In Chinese, 北極 (Běi Jí), meaning North Pole, refers to an asterism consisting of Beta Ursae Minoris, Gamma Ursae Minoris, 5 Ursae Minoris, 4 Ursae Minoris and Σ 1694. Consequently, Beta Ursae Minoris itself is known as 北極二 (Běi Jí èr, English: the Second Star of North Pole.), representing 帝 (Dì), meaning Emperor.
+
+
+== Properties ==
+This is a giant star with a stellar classification of K4 III. It is 130 times more luminous than the Sun. Kochab has reached a state in its evolution where the outer envelope has expanded to 42 times the girth of the Sun. This enlarged atmosphere is radiating 390 times as much luminosity as the Sun from its outer atmosphere at an effective temperature of 4,030 K. This heat gives the star the orange-hued glow of a K-type star.By modelling this star based upon evolutionary tracks, the mass of this star can be estimated as 2.2 ± 0.3 that of the Sun. A mass estimate using the interferometrically-measured radius of this star and its spectroscopically-determined surface gravity yields 2.5 ± 0.9 solar masses. The star is known to undergo periodic variations in luminosity over roughly 4.6 days, with the astroseismic frequencies depending sensitively on the star's mass. From this, a much lower mass estimate of 1.3 ± 0.3 solar is reached.From around 2500 BCE, as Thuban became less and less aligned with the celestial north, Kochab became one pillar of the circumpolar stars first with Mizar, a star in the middle of the handle of the Big Dipper (Ursa Major), and later with Pherkad (in Ursa Minor). In fact, circa the year 2467 BCE, the true north was best observed by drawing a plumb line between Mizar and Kochab, a fact with which the ancient Egyptians were well acquainted as they aligned the great Pyramid of Giza with it. This cycle of the succession of pole stars occurs due to the precession of the equinoxes. Kochab and Mizar were referred to by Ancient Egyptian astronomers as "The Indestructibles" lighting the North.  As precession continues, by the year 1100 BCE Kochab is within roughly 7° of the northern celestial pole, with old references over emphasizing this near pass by mentioning Beta Ursae Minoris as "Polaris", relating it to the current pole star, Polaris, which is slightly brighter and will have a much closer alignment of less than 0.5° by 2100 AD.This change in the identity of the pole stars is a result of Earth's precessional motion. After 2000 BCE, Kochab and a new star, its neighbor Pherkad, were closer to the pole and together served as twin pole stars, circling the North Pole, from around 1700 BCE until just after 300 AD. Neither star was as proximitous to the celestial north pole as Polaris is now. Today, they are sometimes referred to as the "Guardians of the Pole."
+
+
+=== Planetary companion ===
+Estimated to be around 2.95 billion years old, give or take 1 billion years, Kochab was announced to have a planetary companion around 6.1 times as massive as Jupiter with an orbit of 522 days.
+
+

@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Triangulum Australe
+Right ascension: 16 h 48 m 39.89508 s
+Declination: –69° 01′ 39.7626″
+Apparent magnitude: 1.91
+Distance: 391 ± 7 ly
+Mass: 7 M
+Luminosity: 5,500 L
+Temperature: 4,150 K
+== Brief description ==
+Alpha Trianguli Australis (α Trianguli Australis, abbreviated Alpha TrA, α TrA), also named Atria, is the brightest star in the southern constellation of Triangulum Australe, forming an apex of a triangle with Beta and Gamma Trianguli Australis that gives the constellation its name (Latin for southern triangle).
+
+
+== Nomenclature ==
+α Trianguli Australis (Latinised to Alpha Trianguli Australis) is the star's Bayer designation. The historical name Atria is a contraction. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Atria for this star
+In Chinese caused by adaptation of the European southern hemisphere constellations into the Chinese system, 三角形 (Sān Jiǎo Xíng), meaning Triangle, refers to an asterism consisting of α Trianguli Australis, γ Trianguli Australis and β Trianguli Australis. Consequently, α Trianguli Australis itself is known as 三角形三 (Sān Jiǎo Xíng sān, English: the Third Star of Triangle.)
+
+
+== Properties ==
+Alpha Trianguli Australis is a bright giant star with an apparent magnitude of +1.91. Based upon parallax measurements, this star is located roughly 391 light-years (120 parsecs) distant from the Earth. The estimated age of the star is 48 million years old; sufficiently old for a massive star to evolve away from the main sequence and expand into a giant. It has a mass roughly seven times the mass of the Sun, but is emitting about 5,500 times the Sun's luminosity. The effective temperature of the star's outer envelope is 4,150 K, which gives it the characteristic orange hue of a K-type star. With a diameter 130 times that of the Sun, it would almost reach the orbit of Venus if placed at the centre of the Solar System.
+There is evidence that Atria may be a binary star. It displays unusual properties for a star of its class, including stellar flares and a higher than normal emission of X-rays. These can be explained by a young, magnetically active companion with a stellar classification of about G0 V. Such a star would have a mass similar to the Sun, with an orbital period of at least 130 years. Young, G-type stars have a high temperature corona and frequently emit flares causing sudden increases in luminosity. The pair may be separated by about 50 Astronomical Units.
+
+
+== In culture ==
+Atria appears on the flag of Brazil, symbolizing the state of Rio Grande do Sul.
+
+

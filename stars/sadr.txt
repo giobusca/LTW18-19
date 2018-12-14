@@ -1,0 +1,22 @@
+==Datasheet==
+
+Constellation: Cygnus
+Right ascension: 20 h 22 m 13.70184 s
+Declination: +40° 15′ 24.0450″
+Apparent magnitude: 2.23
+Distance: approx. 1,800 ly
+Rotational velocity: 15 km/s
+== Brief description ==
+Gamma Cygni (γ Cygni, abbreviated Gamma Cyg, γ Cyg), also named Sadr, is a star in the northern constellation of Cygnus, forming the intersection of an asterism of five stars called the Northern Cross. Based upon parallax measurements obtained during the Hipparcos mission, it is approximately 1,800 light-years (560 parsecs) from the Sun.It forms the primary or 'A' component of a multiple star system designated WDS J20222+4015 (the secondary or 'BC' component is CCDM J20222+4015BC, a close pair of stars 40" away from γ Cygni).
+
+
+== Nomenclature ==
+γ Cygni (Latinised to Gamma Cygni) is the star's Bayer designation. WDS J20222+4015A is its designation in the Washington Double Star Catalog.
+It bore the traditional name Sadr (also spelled Sadir or Sador), derived from the Arabic صدر ṣadr "chest", the same word which gave rise to the star Schedar (Alpha Cassiopeiae). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Sadr for this star (WDS J20222+4015A) on 21 August 2016 and it is now so included in the List of IAU-approved Star Names.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Sadr al Dedjadjet, (صدر الدجاجة / ṣadr al-dajājati), which was translated into Latin as Pectus Gallinǣ, meaning the hen's chest.In Chinese, 天津 (Tiān Jīn), meaning Celestial Ford, refers to an asterism consisting of Gamma Cygni, Delta Cygni, 30 Cygni, Alpha Cygni, Nu Cygni, Tau Cygni, Upsilon Cygni, Zeta Cygni and Epsilon Cygni. Consequently, Gamma Cygni itself is known as 天津一 (Tiān Jīn yī, English: the First Star of Celestial Ford).
+
+
+== Properties ==
+
+With an apparent visual magnitude of 2.23, Gamma Cygni is among the brighter stars visible in the night sky. The stellar classification of this star is F8 Iab, indicating that it has reached the supergiant stage of its stellar evolution. Since 1943, the spectrum of this star has served as one of the stable anchor points by which other stars are classified.Compared to the Sun this is an enormous star, with 12 times the Sun's mass and about 150 times the Sun's radius. It is emitting over 33,000 times as much energy as the Sun, at an effective temperature of 6,100 K in its outer envelope. This temperature is what gives the star the characteristic yellow-white hue of an F-type star. Massive stars such as this consume their nuclear fuel much more rapidly than the Sun, so the estimated age of this star is only about 12 million years oldThe spectrum of this star shows some unusual dynamic features, including variations in radial velocity of up to 2 km/s, occurring on a time scale of 100 days or more. Indeed, on the Hertzsprung–Russell diagram, Gamma Cygni lies close to the instability strip and its spectrum is markedly like that of a Cepheid variable. This star is surrounded by a diffuse nebula called IC 1318, or the Gamma Cygni region.
+
+

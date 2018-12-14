@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Hercules
+Right ascension: 16 h 08 m 04.52481 s
+Declination: 17° 02′ 49.1150″
+Apparent magnitude: 4.994
+Distance: 381 ± 6 ly
+Mass: 3.17 M
+Radius: 16 R
+Luminosity: 148 L
+Temperature: 5,119 K
+Rotational velocity: 9.9 km/s
+== Brief description ==
+Kappa Herculis (κ Herculis, abbreviated Kappa Her, κ Her) is a double star in the constellation of Hercules. The two components, Kappa Herculis A (also named Marsic) and B, were 27.3 arc seconds apart in 2000. Based on parallax measurements from the Hipparcos mission, κ Her A is about 113 parsecs (370 light-years) from the Sun and κ Her B is 600 parsecs (2,000 light-years).
+A faint third component Kappa Herculis C is just over 1 arc-minute away.  It is at the same distance as κ Her A and has an almost-identical space motion.The star 8 Herculis forms a naked-eye pair with Kappa Herculis 14′ away.
+
+
+== Nomenclature ==
+κ Herculis (Latinised to Kappa Herculis) is the system's Bayer designation. The designations of the components as Kappa Herculis A, B and C derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore the traditional names of "Marsic", "Marfik" or "Marfak", all of which come from the Arabic لمرفق Al-Mirfaq meaning "the elbow", a name (or some derivative of which) it shared with Lambda Ophiuchi. The Working Group on Star Names (WGSN) approved the name Marsic for the component Kappa Herculis A on February 1, 2017, and Marfik for the primary component of Lambda Ophiuchi on September 12, 2016, and they are both now so included in the List of IAU-approved Star Names.In Chinese, 天市右垣 (Tiān Shì Yòu Yuán), meaning Right Wall of Heavenly Market Enclosure, refers to an asterism which represents eleven old states in China and marks the right borderline of the enclosure, consisting of Kappa Herculis, Beta Herculis, Gamma Herculis, Gamma Serpentis, Beta Serpentis, Delta Serpentis, Alpha Serpentis, Epsilon Serpentis, Delta Ophiuchi, Epsilon Ophiuchi and Zeta Ophiuchi. Consequently, Kappa Herculis itself is known as 天市右垣三 (Tiān Shì Yòu Yuán sān, English: the Third Star of Right Wall of Heavenly Market Enclosure), representing the state of Jin (晉) (or Tsin), together with 36 Capricorni in Twelve States (asterism).
+
+
+== Properties ==
+Kappa Herculis A is a giant star with stellar classification G8III. With a mass of three M☉ and radius that is 16 R☉, the star boasts a bolometric luminosity that is 148 L☉.  Its slightly companion is cooler and about a third of the luminosity.
+Kappa Herculis is a suspected variable star with a reported magnitude range of 4.70 to 5.02.
+
+

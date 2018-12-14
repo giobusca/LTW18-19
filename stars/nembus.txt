@@ -1,0 +1,17 @@
+==Datasheet==
+
+Constellation: Andromeda
+Right ascension: 01 h 37 m 59.56074 s
+Declination: +48° 37′ 41.5798″
+Apparent magnitude: 3.57
+Distance: 169 ± 4 ly
+== Brief description ==
+51 Andromedae, abbreviated 51 And and also named Nembus, is the 5th brightest (4th magnitude) star in the northern constellation of Andromeda. It is an orange K-type giant star with an apparent magnitude of +3.59 and is approximately 169 light-years from the Earth.
+At an estimated age of 1.7 billion years, this is an evolved red giant star with a stellar classification of K3- III CN0.5. The suffix notation indicates a mild enhancement of cyanogen absorption lines in its spectrum. This star has 1.8 times the mass of the Sun and it has expanded to 21.3 times the Sun's radius. It is radiating 142 times the Sun's luminosity from its enlarged photosphere at an effective temperature of 4,951 K.
+
+
+== Nomenclature ==
+51 Andromedae is the star's Flamsteed designation. (Ptolemy included this star in Andromeda in the Almagest, but it was moved into Perseus by Johann Bayer, who designated it Upsilon Persei. Flamsteed moved it back, and the International Astronomical Union (IAU) made Flamsteed's 51 Andromedae its official designation in 1930.)
+The star bore the traditional name Nembus in Bayer's Uranometria (1603) and Bode's star atlas Uranographia (1801). In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Nembus for this star on 5 September 2017 and it is now so included in the List of IAU-approved Star Names.In Chinese, 天大將軍 (Tiān Dà Jiāng Jūn), meaning Heaven's Great General, refers to an asterism consisting of 51 Andromedae, Gamma Andromedae, Phi Persei, 49 Andromedae, Chi Andromedae, Upsilon Andromedae, Tau Andromedae, 56 Andromedae, Beta Trianguli, Gamma Trianguli and Delta Trianguli. Consequently, 51 Andromedae itself is known as 天大將軍三 (Tiān Dà Jiāng Jūn sān, English: the Third Star of Heaven's Great General.)
+
+

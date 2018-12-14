@@ -1,0 +1,17 @@
+==Datasheet==
+
+Constellation: Draco
+Right ascension: 12 h 55 m 28.54827 s
+Declination: +65° 26′ 18.5073″
+Apparent magnitude: 5.225
+Distance: 95.5 ± 0.6 ly
+Temperature: 7,129 K
+== Brief description ==
+8 Draconis (abbreviated 8 Dra), also named Taiyi, is a star in the northern circumpolar constellation of Draco. Based upon an annual parallax shift of 34.14 mas as seen from the Earth, the star is located approximately 96 light-years from the Sun.
+It is a Gamma Doradus variable star with a brightness variation of about one tenth of a magnitude.
+
+
+== Nomenclature ==
+8 Draconis is the star's Flamsteed designation.  It also received the variable star designation IR Draconis in 2000, after its variability had been discovered using Hipparcos photometry.The star bore the traditional Chinese name of Taiyi. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Taiyi for this star on 30 June 2017 and it is now so entered on the List of IAU-approved Star Names.
+
+

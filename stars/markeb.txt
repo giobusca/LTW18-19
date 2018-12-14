@@ -1,0 +1,24 @@
+==Datasheet==
+
+Constellation: Vela
+Right ascension: 09 h 22 m 06.81761 s
+Declination: –55° 00′ 38.4017″
+Apparent magnitude: 2.48
+Distance: 570 ± 30 ly
+== Brief description ==
+Kappa Velorum (κ Velorum, abbreviated Kap Vel, κ Vel) is a binary star system in the southern constellation of Vela. The two components are designated Kappa Velorum A (also named Markeb) and B.
+From parallax measurements, this system is located at a distance of roughly 572 light-years (175 parsecs) from the Sun. The apparent visual magnitude is 2.48, making it readily visible to the naked eye in the southern hemisphere. It forms part of an asterism known as the False Cross along with Delta Velorum, Iota Carinae and Epsilon Carinae, so called because it is sometimes mistaken for the Southern Cross, causing errors in astronavigation.
+
+
+== Nomenclature ==
+κ Velorum (Latinised to Kappa Velorum) is the system's Bayer designation. The designations of the two components as Kappa Velorum A and B derives from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).The system bore has the traditional name Markab, from the Arabic مركب, markab meaning "something to ride". It was often spelled Markeb to distinguish it from similarly named stars such as Alpha Pegasi. In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN approved the name Markeb for the component Kappa Velorum A on 5 September 2017. Markab had previously been approved for Alpha Pegasi on 30 June 2016. Both are now so included in the List of IAU-approved Star Names.In Chinese, 天社 (Tiān Shè), meaning Celestial Earth God's Temple, refers to an asterism consisting of Kappa Velorum, Gamma² Velorum, b Velorum and Delta Velorum. Consequently, Kappa Velorum itself is known as 天社五 (Tiān Shè wǔ), "the Fifth Star of Celestial Earth God's Temple".
+
+
+== Properties ==
+Kappa Velorum is a spectroscopic binary system consisting of a pair of stars that complete an orbit around each other with a period of 116.65 days and an eccentricity of 0.19. Because the individual stars have not been resolved, further details of the orbit have not yet been determined. The combined stellar classification of the pair is B2 IV, which matches the class of a B-type subgiant star that has exhausted the hydrogen at its core and begun to evolve into a giant. It has an estimated size of 6.9 times the Sun's radius.The system is only a couple of degrees from the south celestial pole of Mars, so it could therefore be considered the southern polar star of that planet. Due to precession of the equinoxes, it will be the closest bright star of note to the south celestial pole of Earth in the period surrounding 9000 AD.
+
+
+=== Interstellar medium ===
+Analysis of the spectrum of Kappa Velorum shows absorption lines due to the interstellar medium between Earth and the star. Observation of these features over many years has shown that the lines vary in strength, probably caused by a small dense cloud extending 10²–10³ au moving across the line of sight.
+
+

@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Sagittarius
+Right ascension: 18 h 27 m 58.24072 s
+Declination: −25° 25′ 18.1146″
+Apparent magnitude: +2.82
+Distance: 78.2 ± 0.3 ly
+Mass: 2.6 M
+Radius: 11 R
+Temperature: 4,770 K
+Rotational velocity: 3.81 km/s
+== Brief description ==
+Lambda Sagittarii (λ Sagittarii, abbreviated Lambda Sgr, λ Sgr), also named Kaus Borealis, is a star in the southern constellation of Sagittarius. The star marks the top of the Archer's bow.
+
+
+== Properties ==
+With an apparent visual magnitude of +2.82, this is one of the brighter members of the constellation and, according to the Bortle Dark-Sky Scale, it is readily visible to the naked eye. Based upon parallax measurements, it is 78.2 light-years (24.0 parsecs) from the Sun.Being 2.1 degrees south of the ecliptic, Lambda Sgr is sometimes occulted by the Moon and, rarely, by a planet. The last planet to pass in front of it was Venus, on 19 November 1984. The previous occasion was 5 December 1865, when it was occulted by Mercury.Kaus Borealis is a subgiant star with a stellar classification of K0 IV. It has a mass 2.6 times that of the Sun. The interferometry-measured angular diameter of this star, after correction for limb darkening, is 4.24 ± 0.05 mas. At the estimated distance of Lambda Sagittarii, this yields a physical size of about 11 times the radius of the Sun. This expanded outer envelope is radiating energy at an effective temperature of 4,770 K, causing it to glow with the cool orange hue of a K-type star. It appears to be rotating at a leisurely rate, with a projected rotational velocity of 3.81 km s−1.
+
+
+== Nomenclature ==
+λ Sagittarii (Latinised to Lambda Sagittarii) is the star's Bayer designation.
+It bore the traditional name Kaus Borealis, which derives from the Arabic قوس qaws 'bow' and Latin boreālis 'northern'. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Kaus Borealis for this star.
+This star, with Gamma Sagittarii, Delta Sagittarii, Epsilon Sagittarii, Zeta Sagittarii, Sigma Sagittarii, Tau Sagittarii and Phi Sagittarii comprises the Teapot asterism.In the catalogue of stars in the Calendarium of Al Achsasi al Mouakket, this star was designated Rai al Naaim, which was translated into Latin as Pastor Struthionum, meaning keeper of the ostriches.This star is Al Tizini's Rāʽi al Naʽāïm (ألراع ٱلنعم), the Keeper of the Naʽams (Ostrich), meaning the "keeper" the two asterisms Al Naʽām al Wārid (النعم الوارد), "The Going Ostriches" and Al Naʽām al Ṣādirah (النعم السادرة),  "The Returning Ostriches".In Chinese, 斗 (Dǒu), meaning Dipper, refers to an asterism consisting of Lambda Sagittarii, Phi Sagittarii, Mu Sagittarii, Sigma Sagittarii, Tau Sagittarii and Zeta Sagittarii. Consequently, Lambda Sagittarii itself is known as 斗宿二 (Dǒu Sù èr, English: the Second Star of Dipper.)
+
+

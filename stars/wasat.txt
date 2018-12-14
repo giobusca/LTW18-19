@@ -1,0 +1,24 @@
+==Datasheet==
+
+Constellation: Gemini
+Right ascension: 07 h 20 m 07.37978 s
+Declination: +21° 58′ 56.3377″
+Apparent magnitude: +3.53
+Distance: 60.5 ± 0.7 ly
+Mass: 1.57 M
+Temperature: 6,900 K
+Rotational velocity: 129.7 km/s
+== Brief description ==
+Delta Geminorum (δ Geminorum, abbreviated Delta Gem, δ Gem), also named Wasat, is a triple star system in the constellation of Gemini.
+
+
+== Nomenclature ==
+δ Geminorum (Latinised to Delta Geminorum) is the system's Bayer designation.
+It bore the traditional name Wasat, which derives from the Arabic word for "middle". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Wasat for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 天樽 (Tiān Zūn), meaning Celestial Wine Cup, refers to an asterism consisting of Delta Geminorum, 57 Geminorum and Omega Geminorum. Consequently, Delta Geminorum itself is known as 天樽二 (Tiān Zūn èr, English: the Second Star of Celestial Wine Cup.).  From this Chinese name, the name Ta Tsun has appeared.
+
+
+== Properties ==
+
+Delta Geminorum is a subgiant star with the stellar classification F0 IV. It is about 60.5 light-years (18.5 parsecs) distant. This star has 1.57 times the mass of the Sun and is rotating rapidly with a projected rotational velocity of 129.7 km s−1. The estimated age is 1.6 billion years.It has an apparent visual magnitude of +3.53, allowing it to be seen with the naked eye. It is  0.18 degree south of the ecliptic so it is occasionally occulted by the Moon and, rarely, by a planet. The last occultation by a planet was by Saturn on June 30, 1857, and the next will be by Venus on August 12, 2420. In 1930, the dwarf planet Pluto was discovered about 0.5° to the east of this star by American astronomer Clyde Tombaugh.Delta Geminorum is a triple star system. The inner components form a spectroscopic binary with a period of 6.1 years (2,238.7 days) and an orbital eccentricity of 0.3530. A cooler class K companion is not apparent to the naked eye but clearly visible in a small telescope. It orbits the inner pair with a period of 1,200 years and an eccentricity of 0.11. Although according to  its radial velocity is away from the Sun, it is actually approaching the Solar System. In about 1.1 million years, it will make its closest approach at a separation of roughly 6.7 ly (2.1 pc).
+
+

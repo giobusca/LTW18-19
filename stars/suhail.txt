@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Vela
+Right ascension: 09 h 07 m 59.75787 s
+Declination: −43° 25′ 57.3273″
+Apparent magnitude: (2.14 - 2.30
+Distance: 545 ± 10 ly
+Mass: 7 ± 1 M
+Radius: 210 R
+Luminosity: 7,900 L
+Temperature: 3,800 - 4,000 K
+Rotational velocity: 6.7 km/s
+== Brief description ==
+Lambda Velorum (λ Velorum, abbreviated Lambda Vel, λ Vel), also named Suhail, is a star in the southern constellation of Vela. With a mean apparent visual magnitude of 2.21, this is the third-brightest star in the constellation and one of the brighter stars in the sky. The distance to this star can be measured directly using the parallax technique, yielding an estimated 545 light-years (167 parsecs) from the Sun.
+
+
+== Nomenclature ==
+λ Velorum (Latinised to Lambda Velorum) is the star's Bayer designation.
+It bore the traditional Arabic name السهيل الوزن suhayl al-wazn (Al Suhail al Wazn), but as a modern navigation star this was shortened to Suhail. 'Suhail' (a common Arabic male first name) was traditionally used for at least three other stars: Canopus; Gamma Velorum (al Suhail al Muhlif); and Zeta Puppis (Suhail Hadar). In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Suhail for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names (Canopus had its name approved as is, and Zeta Puppis was given the name Naos).In Chinese astronomy, Suhail is called 天記, Pinyin: Tiānjì, meaning Judge for Estimating the Age of Animals, because this star is marking itself and stands alone in the Judge for Estimating the Age of Animals asterism, Ghost mansion (see : Chinese constellation). 天記 (Tiānjì), westernized into Tseen Ke, but the name Tseen Ke was designated for Psi Velorum by R. H. Allen works and the meaning is "Heaven's Record".
+
+
+== Properties ==
+The outer envelope of λ Velorum has an effective temperature of about 4,000 K, giving it the cool orange hue of a K-type star. It is an Lc-type, slow irregular variable star with its brightness varying between apparent magnitudes +2.14 to +2.30.λ Velorum is an evolved star that has exhausted the hydrogen in its core region.  It has about seven times the mass of the Sun.  It is likely to be on or approaching the asymptotic giant branch (AGB), although its properties do not exclude it being a slightly more massive star on the red giant branch (RGB).  As an AGB star it has an inert core of carbon and oxygen and is alternately fusing helium and hydrogen in two shells outside the core. The star's outer envelope has expanded to form a deep, convective, hydrogen burning layer that is generating a magnetic field. The surface strength of this field has been measured at 1.72 ± 0.33 G.  Massive stars use their hydrogen "fuel" much faster than do smaller stars and Lambda Velorum is estimated to be only some 32 million years old.λ Velorum is near the upper end of the mass range for intermediate stars, which end their lives by producing a planetary nebula and a white dwarf remnant.  It may be massive enough to produce an electron capture supernova.
+
+

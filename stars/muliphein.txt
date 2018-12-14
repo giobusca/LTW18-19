@@ -1,0 +1,28 @@
+==Datasheet==
+
+Constellation: Canis Major
+Right ascension: 07 h 03 m 45.49305 s
+Declination: −15° 37′ 59.8300″
+Apparent magnitude: +4.10
+Distance: 440 ± 10 ly
+Radius: 5.6 R
+Temperature: 13,596 K
+Rotation: 6.16 d
+Rotational velocity: 30 km/s
+== Brief description ==
+Gamma Canis Majoris (γ Canis Majoris, abbreviated Gamma CMa, γ CMa), also named Muliphein, is a star in the constellation of Canis Major. It is unclear exactly why this relatively faint star was given the 'gamma' designation, but possibly because it is in the same part of the constellation as Sirius (alpha) and Mirzam (beta).
+
+
+== Nomenclature ==
+γ Canis Majoris (Latinised to Gamma Canis Majoris) is the star's Bayer designation.
+It bore the traditional name Muliphein, not to be confused with Muhlifain, which is Gamma Centauri; both names derive from the same Arabic root, محلفين muħlifayn. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Muliphein for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.
+
+
+== Properties ==
+Gamma Canis Majoris is a blue-white B-type bright giant with a stellar classification of B8II and an apparent magnitude of +4.11. It is approximately 440 light years from Earth. It is a chemically peculiar Hg-Mg star displaying abnormal lines of mercury and magnesium. This star has 5.6 times the radius of the Sun and the outer atmosphere has an effective temperature of 13,596 K.This star is suspected of being a spectroscopic binary system, and there is a candidate companion at an angular separation of 0.332″ along a position angle of 114.8°. It is a member of the Collinder 121 open cluster.
+
+
+== Modern legacy ==
+Muliphein appears on the  flag of Brazil, symbolizing the state of Rondônia.The US Navy cargo ship USS Muliphen (AKA-61) was named after the star.
+
+

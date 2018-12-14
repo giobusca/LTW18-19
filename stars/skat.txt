@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Aquarius
+Right ascension: 22 h 54 m 39.0125 s
+Declination: −15° 49′ 14.953″
+Apparent magnitude: 3.252
+Distance: approx. 160 ly
+Mass: 2.0 M
+Radius: 2.4 R
+Luminosity: 26 L
+Temperature: 9,000 K
+Rotational velocity: 81 km/s
+== Brief description ==
+Delta Aquarii (δ Aquarii, abbreviated Delta Aqr, δ Aqr), also named Skat, is the third-brightest star in the constellation of Aquarius. The apparent visual magnitude is 3.3, which can be seen with the naked eye. The distance to this star is estimated as 160 light-years (49 parsecs) from the Sun based upon parallax measurements.
+
+
+== Nomenclature ==
+δ Aquarii (Latinised to Delta Aquarii) is the star's Bayer designation.
+It bore the traditional name Skat (which had also been used for Beta Pegasi), generally thought to derive from the Arabic الساق (as-saq), meaning "leg" or "shin"; however, the medieval forms Scheat, Seat, Sheat suggest it may instead be from the Arabic شئت (ši'at), meaning "wish".[1] In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Skat for this star on 21 August 2016, and it is now so included in the List of IAU-approved Star Names.In Chinese, 羽林軍 (Yǔ Lín Jūn), meaning Palace Guard, refers to an asterism consisting of Delta Aquarii, 29 Aquarii, 35 Aquarii, 41 Aquarii, 47 Aquarii, 49 Aquarii, Lambda Piscis Austrini, HD 212448, Epsilon Piscis Austrini, 21 Piscis Austrini, 20 Piscis Austrini, Upsilon Aquarii, 68 Aquarii, 66 Aquarii, 61 Aquarii, 53 Aquarii, 50 Aquarii, 56 Aquarii, 45 Aquarii, 58 Aquarii, 64 Aquarii, 65 Aquarii, 70 Aquarii, 74 Aquarii, Tau2 Aquarii, Tau1 Aquarii, 77 Aquarii, 88 Aquarii, 89 Aquarii, 86 Aquarii, 101 Aquarii, 100 Aquarii, 99 Aquarii, 98 Aquarii, 97 Aquarii, 94 Aquarii, Psi3Aquarii, Psi2Aquarii, Psi1Aquarii, 87 Aquarii, 85 Aquarii, 83 Aquarii, Chi Aquarii, Omega1 Aquarii and Omega2 Aquarii. Consequently, Delta Aquarii itself is known as 羽林軍二十六 (Yǔ Lín Jūn ershíliù, English: the Twenty Sixth Star of Palace Guard).
+
+
+== Properties ==
+The spectrum of Delta Aquarii matches a stellar classification of A3 V, indicating this is an A-type main-sequence star that is generating energy through the nuclear fusion of hydrogen at its core. This star has double the Sun's mass and a radius 2.4 times as large. It is radiating 26 times the luminosity of the Sun from its outer atmosphere at an effective temperature of around 9,000 K. This heat gives it the characteristic white-hued glow of an A-type star. It has a relatively high rate of rotation, with a projected rotational velocity of 81 km s−1.Delta Aquarii has been closely examined for a companion, but none has been discovered. Nor does it display a strong signal of excess infrared emission that might indicate the presence of circumstellar matter. Delta Aquarii is a probable stream star member of the Ursa Major Moving Group, which has an estimated age of 500 million years.
+
+

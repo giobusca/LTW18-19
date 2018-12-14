@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Scorpius
+Right ascension: 15 h 58 m 51.11324 s
+Declination: −26° 06′ 50.7886″
+Apparent magnitude: 2.890
+Distance: approx. 590 ly
+Mass: 12.5 ± 0.6 M
+Radius: 5 R
+Luminosity: 21,900 L
+Temperature: 25,230 K
+Rotation: 100
+Rotational velocity: 108 km/s
+== Brief description ==
+Pi Scorpii (π Scorpii, abbreviated Pi Sco, π Sco) is a triple star system in the southern constellation of Scorpius. With a combined apparent magnitude of 2.9, it can be easily seen with the naked eye. Parallax measurements yield an estimated distance of around 590 light-years (180 parsecs) from the Sun.It consists of a binary pair, designated Pi Scorpii A, with a more distant third companion, B. A's two components are themselves designated Pi Scorpii Aa (also named Fang) and Ab.
+
+
+== Nomenclature ==
+π Scorpii (Latinised to Pi Scorpii) is the system's Bayer designation. The designations of the three constituents as Pi Scorpii A and B and those of A's components - Pi Scorpii Aa and Ab - derive from the convention used by the Washington Multiplicity Catalog (WMC) for multiple star systems, and adopted by the International Astronomical Union (IAU).In Chinese, 房宿 (Fáng Xiù), meaning Room, refers to an asterism consisting of Pi Scorpii, Rho Scorpii, Delta Scorpii, Beta¹ Scorpii and Beta² Scorpii. Consequently, Pi Scorpii itself is known as 房宿一 (Fáng Xiù yī), "the First Star of Room". In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN decided to attribute proper names to individual stars rather than entire multiple systems. It approved the name Fang for the component Pi Scorpii Aa on 30 June 2017 and it is now so included in the List of IAU-approved Star Names.
+
+
+== Properties ==
+The fact that Pi Scorpii had two constituents (A and B) remained unknown until 1899, when it was announced by American astronomer Edward Charles Pickering. Two years later, an orbital period of 1.571 days was found by American astronomer Solon Irving Bailey, but it would not be until 1927 that the precise orbit of this spectroscopic binary was determined by Russian astronomer Otto Struve and American astrophysicist Christian T. Elvey.The primary, or A, component of this system itself forms an eclipsing binary of the Beta Lyrae type. Both its members are hot, B-type main sequence stars with a blue-white hue. They display an ellipsoidal variation of 0.03 in magnitude. The two stars are rotating rapidly, with projected rotational velocities of 108 and 87 km/s respectively. Their orbital period is 1.57 days and they are separated by an estimated distance of only 15 solar radii along a circular orbit.The primary is orbited by a smaller, more distant companion (B), which has an apparent magnitude of +12.2. This component is separated from the pair by 50 arcseconds, putting it at least 7000 AU away.The Pi Scorpii system is a kinematic member of the Upper Scorpius subgroup of the Scorpius-Centaurus Association, a group of thousands of young stars with mean age 11 million years at distance 470 light years (145 parsecs). A recent analysis of the HR diagram position for the primary star Pi Scorpii A estimates its effective temperature to be 25,230 kelvins with a luminosity of 21,900 Suns, consistent with an isochronal age of 12-14 million years and an estimated mass of 12–13 solar masses.
+
+

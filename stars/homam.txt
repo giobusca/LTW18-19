@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Pegasus
+Right ascension: 22 h 41 m 27.72072 s
+Declination: +10° 49′ 52.9079″
+Apparent magnitude: +3.414
+Distance: 204 ± 2 ly
+Mass: 3.22 M
+Radius: 4.03 ± 0.22 R
+Luminosity: 224 L
+Temperature: 11,190 ± 55 K
+Rotational velocity: 140 km/s
+== Brief description ==
+Zeta Pegasi (ζ Pegasi, abbreviated Zeta Peg, ζ Peg), also named Homam, is a single star in the northern constellation of Pegasus. With an apparent visual magnitude of +3.4, this star is bright enough to be seen with the naked eye and is one of the brighter members of Pegasus. Parallax measurements place it at a distance of around 204 light-years (63 parsecs) from the Sun.
+
+
+== Nomenclature ==
+ζ Pegasi (Latinised to Zeta Pegasi) is the star's Bayer designation.
+It bore the traditional name Homam, meaning "Man of High Spirit" or "Lucky Star of High Minded". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Homam for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 雷電 (Léi Diàn), meaning Thunder and Lightning, refers to an asterism consisting ζ Pegasi, ξ Pegasi, σ Pegasi, 55 Pegasi, 66 Pegasi and 70 Pegasi. Consequently, ζ Pegasi itself is known as 雷電一 (Léi Diàn yī), "the First Star of Thunder and Lightning".
+
+
+== Properties ==
+This star has a stellar classification of B8 V, which identifies it as a large B-type main sequence star that is generating energy through the nuclear fusion of hydrogen at its core. The radius of this star is about four times that of the Sun. It is a slowly pulsating B star that varies slightly in luminosity with a period of 22.952 ± 0.804 hours, completing 1.04566 cycles per day. Zeta Pegasi is about 120 million years old and is rotating rapidly with a projected rotational velocity in the range of 140–210 km s−1. The effective temperature of its outer envelope is around 11,190 K, giving it the characteristic blue-white glow of a B-type star.Zeta Pegasi has been examined for infrared excess that may indicate the presence of circumstellar matter, but none was found. This star does have two optical companions. The first is a magnitude 11.6 star at an angular separation of 68 arcseconds along a position angle of 139°, as of 1997. The second is an 11th magnitude star at a separation of 177 arcseconds with a position angle of 5°. Zeta Pegasi is not known to be a member of a stellar association.
+
+

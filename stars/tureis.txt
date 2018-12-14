@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Puppis
+Right ascension: 08 h 07 m 32.64882 s
+Declination: −24° 18′ 15.5679″
+Apparent magnitude: 2.78
+Distance: 63.5 ± 0.2 ly
+Mass: 1.85 M
+Radius: 3.41 R
+Luminosity: 22 L
+Temperature: 6,920 K
+Rotational velocity: 15 km/s
+== Brief description ==
+Rho Puppis (ρ Puppis, abbreviated Rho Pup, ρ Pup), also named Tureis, is a star in the southern constellation of Puppis. With an average apparent visual magnitude of 2.78, it is the third-brightest member of this generally faint constellation. Based upon parallax measurements made during the Hipparcos mission, Rho Puppis is located at a distance of 63.5 light-years (19.5 parsecs) from the Sun.  It is the prototype of the ρ Puppis class of evolved Am stars.
+
+
+== Nomenclature ==
+ρ Puppis (Latinised to Rho Puppis) is the star's Bayer designation.
+It bore the traditional name Tureis or Turais, which was shared by Iota Carinae. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Tureis for this star on 12 September 2016 and it is now so entered in the IAU Catalog of Star Names (Iota Carinae was given the name Aspidiske on 20 July 2016).
+
+
+== Properties ==
+At present Rho Puppis is moving away from the Sun with a radial velocity of +46.1 km s−1. The closest approach occurred about 394,000 years ago when it came within roughly 11.6 ly (3.6 pc) of the Solar System; about the same distance as Procyon in the present era.The variability of this star was announced in 1956 by American astronomer Olin J. Eggen. It was determined to be a Delta Scuti-type variable star, making it one of the first stars of that type to be identified. Photometric observations dating back to 1946 provide a lengthy record of its pattern of pulsation; it undergoes periodic pulsations with a single period of 0.14088143(3) days, or 7.1 cycles per day. During each cycle, the star's magnitude varies with an amplitude of 0.15 and the radial velocity varies by 10 km s−1. The peak brightness occurs 28.8 minutes following the minimum radial velocity. The outer atmosphere's effective temperature of 6,920 K is one of the lowest known for a Delta Scuti variable.Rho Puppis has an estimated age of about 2 billion years and it has 3.4 times the Sun's radius. It has a stellar classification of F5IIkF2IImF5II.  This complex format indicates that ρ Puppis is an Am star, with relatively weak lines of calcium and strong lines of other metals.  The spectral type indicated by the calcium k line is F5, while that indicated by heavier metal absorption lines is F2.  The roman numerals indicate a luminosity class of bright giant.  Most such stars are found in binary star systems, but this appears to be an exception as no companion has been discovered.  Evolved stars with Am-like peculiarities of abundance have come to be known as ρ Puppis stars. The star's metallicity is more than double that in the Sun.This star shows an excess emission of infrared radiation, suggesting that there is a circumstellar disk of dust orbiting this star. The mean temperature of the emission is 85 K, corresponding to an orbital separation from the host star of 50 AU.
+
+

@@ -1,0 +1,25 @@
+==Datasheet==
+
+Constellation: Lepus
+Right ascension: 05 h 28 m 14.72316 s
+Declination: −20° 45′ 33.9878″
+Apparent magnitude: 2.84
+Distance: 160 ± 1 ly
+Mass: 3.5 ± 0.1 M
+Radius: 16 R
+Luminosity: 171 L
+Temperature: 5,450 ± 100 K
+Rotational velocity: 11 km/s
+== Brief description ==
+Beta Leporis (β Leporis, abbreviated Beta Lep, β Lep), also named Nihal, is the second brightest star in the constellation of Lepus.
+
+
+== Nomenclature ==
+Beta Leporis is the star's Bayer designation. It is also known by the traditional named Nihal, Arabic for "quenching their thirst". The occasional spelling Nibal appears to be due to a misreading. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Nihal for this star.
+In Chinese, 廁 (Cè), meaning Toilet, refers to an asterism consisting of β Leporis, α Leporis, γ Leporis and δ Leporis. Consequently, β Leporis itself is known as 廁二 (Cè èr), "the Second Star of Toilet".
+
+
+== Properties ==
+Based on parallax measurements from the Hipparcos astrometry satellite, this star is located about 160 light-years (49 parsecs) from the Earth. It has an apparent visual magnitude of 2.84 and a stellar classification of G5 II. The mass of this star is 3.5 times the mass of the Sun and it is about 240 million years old, which is sufficient time for a star this massive to consume the hydrogen at its core and evolve away from the main sequence, becoming a G-type bright giant.This is a double star system and may be a binary. Using adaptive optics on the AEOS telescope at Haleakala Observatory, the pair was found to be separated by an angle of 2.58 arcseconds at a position angle of 1.4°. Component B has been observed to fluctuate in brightness and is catalogued as suspected variable star NSV 2008.
+
+

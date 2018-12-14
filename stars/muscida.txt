@@ -1,0 +1,31 @@
+==Datasheet==
+
+Constellation: Ursa Major
+Right ascension: 08 h 30 m 15.87064 s
+Declination: +60° 43′ 05.4115″
+Apparent magnitude: +3.35
+Distance: 179 ± 2 ly
+Mass: 3.09 M
+Radius: 14 R
+Luminosity: 138 L
+Temperature: 5,242 K
+Rotational velocity: 15 km/s
+== Brief description ==
+Omicron Ursae Majoris (ο Ursae Majoris, abbreviated Omicron UMa, ο UMa), also named Muscida, is a star system in the northern circumpolar constellation of Ursa Major. It has an apparent visual magnitude of +3.35 and is located at a distance of around 179 light-years (55 parsecs) from the Sun. In 2012, an extrasolar planet, designated Omicron Ursae Majoris Ab was found to be orbiting the primary.
+
+
+== Nomenclature ==
+ο Ursae Majoris (Latinised to Omicron Ursae Majorise) is the star's Bayer designation.
+The traditional name Muscida was shared with the optical double star Pi Ursae Majoris. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Muscida for this star.
+In Chinese, 內階 (Nèi Jiē), meaning Inner Steps, refers to an asterism consisting of ο Ursae Majoris, 16 Ursae Majoris, 6 Ursae Majoris, 23 Ursae Majoris, 5 Ursae Majoris and 17 Ursae Majoris. Consequently, ο Ursae Majoris itself is known as 內階一 (Nèi Jiē yī, English: the First Star of Inner Steps.).
+
+
+== Properties and observations ==
+The stellar classification of this star, G4 II–III, places it midway between the giant and bright giant stages of its evolution. The interferometry-measured angular diameter of this star is about 2.42 mas, which, at its estimated distance, equates to a physical radius of about 14 times the radius of the Sun. It has about three times the mass of the Sun and radiates 138 times the Sun's luminosity from its outer atmosphere at an effective temperature of 5,282 K, giving it the yellowish hue of a G-type star.In 1963, East German astronomer Gerhard Jakisch reported this star as a variable with a period of 358 days and an amplitude of 0.08 magnitude. The 1982 edition of the New Catalogue of Suspected Variable Stars listed it with a variability from 3.30 to 3.36 in the visual band. However, in 1992 American astronomer Dorrit Hoffleit noted that the two comparison stars used to determine the variability may themselves be variable. Hence the actual variability of this star may be suspect.Muscida has a magnitude 15.2 common proper motion companion at an angular separation of 7.1 arcseconds. With a probability of 99.4%, this companion is the source for the X-ray emission from the system. Omicron Ursae Majoris is sometimes listed with two more companions, but, based on proper motion data, these appear to be optical companions.
+This system is a member of the thin disk population and is following an orbit through the Milky Way galaxy with an eccentricity of 0.12. It comes as close to the Galactic Center as 23.5 kly (7.2 kpc) and as distant as 30.2 kly (9.3 kpc). This orbit carries it no more than about 330 ly (100 pc) above the galactic plane. It is considered a runaway star because it has a high peculiar velocity of 35.5 km s−1 relative to the typical motion of stars in its vicinity.
+
+
+== Planetary system ==
+In 2012, an extrasolar planet designated Omicron Ursae Majoris Ab and orbiting the primary at 3.9 astronomical units, was found. This gas giant (4.1 times as massive as Jupiter) completes an orbit in 1630 days.
+
+

@@ -1,0 +1,29 @@
+==Datasheet==
+
+Constellation: Taurus
+Right ascension: 03 h 49 m 09.74258 s
+Declination: +24° 03′ 12.3003″
+Apparent magnitude: 3.63
+Distance: 431 ± 13 ly
+Mass: 4.74 ± 0.25 M
+Radius: 2.0 R
+Temperature: 13446 ± 218 K
+Rotational velocity: 280 km/s
+== Brief description ==
+Atlas, also designated 27 Tauri, is a triple star system in the constellation of Taurus. It is a member of the Pleiades, an open star cluster (M45). It is located 431 light-years (132 parsecs) away.
+
+
+== Nomenclature ==
+27 Tauri is the star's Flamsteed designation.
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Atlas for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.
+
+
+== Mythology ==
+
+Atlas was a Titan and the father of the Pleiades sisters in Greek mythology.
+
+
+== Properties ==
+The primary component, Atlas A, is a blue-white B-type giant with an apparent magnitude of +3.62. It is a binary star whose components have magnitudes of 3.84 and 5.46. The binary makes one orbit every 290 days, and the eccentricity is about 0.24.
+
+

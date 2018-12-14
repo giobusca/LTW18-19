@@ -1,0 +1,27 @@
+==Datasheet==
+
+Constellation: Ophiuchus
+Right ascension: 17 h 34 m 56.06945 s
+Declination: +12° 33′ 36.1346″
+Apparent magnitude: 2.07
+Distance: 48.6 ± 0.8 ly
+Radius: 2.6 R
+Luminosity: 25.1–25.6 L
+Rotational velocity: 240 km/s
+== Brief description ==
+Alpha Ophiuchi (α Ophiuchi, abbreviated Alpha Oph, α Oph), also called Rasalhague, is a binary star and the brightest star in the constellation of Ophiuchus.
+
+
+== Nomenclature ==
+The name Alpha Ophiuchi is a Romanisation of the star's Bayer designation, α Ophiuchi.  It is also known by the traditional name Rasalhague, from Arabic  رأس الحواء (raʾis al-ḥawwāʾ), meaning "the head of the serpent collector". In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN; which included Rasalhague for this star.
+
+
+== Properties ==
+Alpha Ophiuchi is a binary star system with an orbital period of about 8.62 years. The orbital parameters were only poorly known until 2011 when observations using adaptive optics produced a better orbital fit, allowing the individual masses of the two components to be determined. The primary component, Alpha Ophiuchi A, has a mass of about 2.4 times the mass of the Sun, while the secondary, Alpha Ophiuchi B, has 0.85 solar masses. Estimates of the mass of the primary by other means range from a low of 1.92 to 2.10 solar masses, up to 2.84 or even 4.8 solar masses. The mass of the secondary suggests that it has a stellar classification in the range K5V to K7V, which indicates it is a main sequence star that is still generating energy by the thermonuclear fusion of hydrogen at its core. The pair reached periastron passage, or closest approach, around April 19, 2012, when they had an angular separation of 50 milliarcseconds.This star system has a combined apparent magnitude of +2.08 and is located at a distance of about 48.6 light-years (14.9 parsecs) from the Earth. The stellar classification of A5 III indicates that the primary is a giant star that has evolved away from the main sequence after consuming the hydrogen at its core. It is radiating about 25 times the luminosity of the Sun and has an effective temperature of about 8,000 K, giving it the characteristic white hue of an A-type star.The spectrum of Alpha Ophiuchi shows an anomalously high level of absorption of the lines for singly-ionized calcium (Ca II). However, this is likely the result of interstellar matter between the Earth and the star, rather than a property of the star or circumstellar dust.
+
+
+=== Rotation ===
+
+Alpha Ophiuchi A is a rapidly rotating star with a projected rotational velocity of 240 km s−1.  It is spinning at about 88.5% of the rate that would cause the star to break up.  This gives it an oblate spheroid shape with an equatorial bulge about 20% larger than the polar radius.  The polar radius is calculated to be 2.388 R☉ and the equatorial radius 2.858 R☉.Because of the oblateness and rapid spin, the surface gravity at the pole is higher than at the equator.  An effect known as gravity darkening means that the temperature at the poles is also higher than at the equator.  The polar temperature is calculated to be 9,384 K and the equatorial temperature 7,569 K.The energy radiated by an oblate star is higher along its axis of rotation because of the larger projected area and the Stefan–Boltzmann law.  The axis of rotation of α Ophiuchi is inclined about 87.°7 ± 0°4 to the line of sight from the Earth, so that it is being observed from nearly equator-on.  The apparent bolometric luminosity seen at this angle is 25.6 L☉, but the true luminosity of the star is thought to be 31.3 L☉.  Since a star's effective temperature is simply the temperature which would produce its total energy output from a black body, the true effective temperature of 8,336 K is different from the apparent effective temperature of 8,047 K.
+
+

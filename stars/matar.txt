@@ -1,0 +1,26 @@
+==Datasheet==
+
+Constellation: Pegasus
+Right ascension: 22 h 43 m 00.13743 s
+Declination: +30° 13′ 16.4822″
+Apparent magnitude: +2.95
+Distance: 167 ± 2 ly
+Rotation: 818
+Rotational velocity: 1.4 km/s
+== Brief description ==
+Eta Pegasi (η Pegasi, abbreviated Eta Peg, η Peg), also named Matar, is a binary star in the constellation of Pegasus. The apparent visual magnitude of this star is +2.95, making it the fifth-brightest member of Pegasus. Based upon parallax measurements, the distance to this star is about 167 light-years (51 parsecs) from the Sun.
+
+
+== Nomenclature ==
+η Pegasi (Latinised to Eta Pegasi) is the star's Bayer designation.
+It bore the traditional name Matar, derived from the Arabic سعد المطر Al Saʽd al Maṭar, meaning lucky star of rain. In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalogue and standardize proper names for stars. The WGSN approved the name Matar for this star on 21 August 2016 and it is now so entered in the IAU Catalog of Star Names.In Chinese, 離宮 (Lì Gōng), meaning Resting Palace, refers to an asterism consisting η Pegasi, λ Pegasi, μ Pegasi, ο Pegasi, τ Pegasi and ν Pegasi. Consequently, η Pegasi itself is known as 離宮四 (Lì Gōng sì), "the Fourth Star of Resting Palace".
+
+
+=== Namesake ===
+USS Matar (AK-119) was a United States Navy Crater class cargo ship named after the star.
+
+
+== Properties ==
+The Eta Pegasi system consists of a pair of stars in a binary orbit with a period of 813 days and an eccentricity of 0.183. The primary component is a bright giant star with a stellar classification of G2 II and about three and a half times the mass of the Sun. The interferometry-measured angular diameter of this star, after correcting for limb darkening, is 3.471 ± 0.027 mas, which, at its estimated distance, equates to a physical radius of more than 24 times the radius of the Sun. It is radiating 331 times the luminosity of the Sun from its expanded outer envelope at an effective temperature of 4,970 K. The rotation rate of the star slowed as it expanded, so it has a projected rotational velocity of 1.7 km s−1 with an estimated rotation period of 818 days.The secondary component is an F-type main sequence star with a classification of F0 V. There are also 2 class G stars further away that may or may not be physically related to the main pair.
+
+

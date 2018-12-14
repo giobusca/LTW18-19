@@ -1,0 +1,31 @@
+==Datasheet==
+
+Constellation: Pegasus
+Right ascension: 22 h 57 m 27.98004 s
+Declination: +20° 46′ 07.7912″
+Apparent magnitude: 5.49
+Distance: 50.9 ± 0.3 ly
+Mass: 1.11 M
+Radius: 1.237 ± 0.047 R
+Rotation: 21.9 ± 0.4 days
+== Brief description ==
+51 Pegasi (abbreviated 51 Peg), also named Helvetios, is a Sun-like star located 50.9 light-years (15.6 parsecs) from Earth in the constellation of Pegasus. It was the first main-sequence star found to have an exoplanet (designated 51 Pegasi b, officially named Dimidium, formerly unofficially dubbed Bellerophon) orbiting it.
+
+
+== Properties ==
+
+The star is of apparent magnitude 5.49, and so is visible with the naked eye under suitable viewing conditions.
+51 Pegasi was listed as a standard star for the spectral type G2IV in the 1989 The Perkins catalog of revised MK types for the cooler stars.  Historically it was generally given a stellar classification of G5V, and even in more modern catalogues it is usually listed as a main-sequence star.  It is generally considered to still be generating energy through the thermonuclear fusion of hydrogen at its core, but to be in a more evolved state than the sun. The effective temperature of the chromosphere is about 5571 K, giving 51 Pegasi the characteristic yellow hue of a G-type star. It is estimated to be 6.1–8.1 billion years old, somewhat older than the Sun, with a radius 24% larger and 11% more massive. The star has a higher proportion of elements other than hydrogen/helium compared to the Sun; a quantity astronomers term a star's metallicity. Stars with higher metallicity such as this are more likely to host planets. In 1996 astronomers Baliunas, Sokoloff, and Soon measured a rotational period of 37 days for 51 Pegasi.Although the star was suspected of being variable during a 1981 study, subsequent observation showed there was almost no chromospheric activity between 1977 and 1989. Further examination between 1994 and 2007 showed a similar low or flat level of activity. This, along with its relatively low X-ray emission, suggests that the star may be in a Maunder minimum period during which a star produces a reduced number of star spots.
+The star rotates at an inclination of 79+11−30 degrees relative to Earth.
+
+
+== Nomenclature ==
+51 Pegasi is the Flamsteed designation. On its discovery, the planet was designated 51 Pegasi b by its discoverers and unofficially dubbed Bellerophon by the astronomer Geoffrey Marcy, in keeping with the convention of naming planets after Greek and Roman mythological figures (Bellerophon was a figure from Greek mythology who rode the winged horse Pegasus).In July 2014 the International Astronomical Union launched a process for giving proper names to certain exoplanets and their host stars. The process involved public nomination and voting for the new names. In December 2015, the IAU announced the winning names were Helvetios for this star and Dimidium for its planet.The winning names were those submitted by the Astronomische Gesellschaft Luzern, Switzerland. 'Helvetios' is Latin for 'the Helvetian' and refers to the Celtic tribe that lived in Switzerland during antiquity; 'Dimidium' is Latin for 'half', referring to the planet's mass of at least half the mass of Jupiter.In 2016, the IAU organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. In its first bulletin of July 2016, the WGSN explicitly recognized the names of exoplanets and their host stars approved by the Executive Committee Working Group Public Naming of Planets and Planetary Satellites, including the names of stars adopted during the 2015 NameExoWorlds campaign. This star is now so entered in the IAU Catalog of Star Names.
+
+
+== Planetary system ==
+
+On October 6, 1995, Swiss astronomers Michel Mayor and Didier Queloz announced the discovery of an exoplanet orbiting 51 Pegasi.  The discovery was made at Observatoire de Haute-Provence in France.
+51 Pegasi b (51 Peg b) was the first discovered planetary-mass companion of a main-sequence parent star.  It orbits very close to the star, experiences estimated temperatures around 1200 °C, and has a mass at least half that of Jupiter.  At the time of its discovery, this close distance was not compatible with theories of planet formation and resulted in discussions of planetary migration. However, several "hot Jupiters" are now known to be oblique relative to the stellar axis.
+
+
