@@ -19,6 +19,7 @@ $(document).ready(function() {
             $("#col1").append('<h1>'+sessionStorage.starName.toUpperCase()+'</h1>');
             $("#col1").append('<h2>Azimuth: '+parseFloat(sessionStorage.az).toFixed(2)+'</h2>');
             $("#col1").append('<h2>Altitude: '+parseFloat(sessionStorage.alt).toFixed(2)+'</h2>');
+            $("#col1").append('<button class="btn btn-outline-light mt-5 ml-5" onclick="goBack()">Go Back</button>');
         }
         else {
             setTimeout(check, 1000); // check again in a second
@@ -29,4 +30,6 @@ $(document).ready(function() {
     $("div.bg-dark").append('<p class="p-1 text-center text-warning">Waiting for Geolocation</p>');
     $("div.bg-dark").append('<div class="progress"><div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div></div>');
     check();
+
 })
+function goBack(){ window.history.back(); };

@@ -17,22 +17,25 @@
 li {
     list-style-type:none;   /* removes default bullet */
     position:relative;      /* positioning context for bullet */
-  }
-  li:before  {
+}
+li:before  {
     content:"\2022";    /* escaped unicode character */
     font-size:1.5em;    /* the default unicode bullet size is very small */
     line-height:0;        /* kills huge line height on resized bullet */
     position:relative;  /* position bullet relative to list item */
     top: auto;
     left:-.5em;         /* position the bullet L- R relative to list item */
-  }
-  li:hover {
+}
+li:hover {
     background-color: #33adff60;
-  }
+    border-radius:0.25rem;
+}
 
 
 .hover-blue {
+    text-decoration: underline;
 }
 .hover-blue:hover {
-  background-color: #33adff60;
+    background-color: #33adff60;
+    border-radius: 0.25rem;
 }
