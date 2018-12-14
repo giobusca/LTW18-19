@@ -1,4 +1,5 @@
 var DEBUG = true;
+var easter = 0;
 
 // ======== inizialises the constellations' and stars' lists in localStorage if not already present
 if(typeof(Storage) !== "undefined") {
@@ -17,7 +18,15 @@ if(typeof(Storage) !== "undefined") {
 // ======== takes the argument of the form and passes it to the search function
 function searchForm(){
     var search_arg = document.forms["search-form"].elements["star-search"].value;
-    search(search_arg);
+    switch(search_arg){
+        case "Luke":
+        case "luke":
+            luke();
+            break;
+        default:
+            search(search_arg);
+
+    }
     return false;
 }
 
@@ -80,7 +89,12 @@ function search(search_arg){
         }
     } else {
         // no match found within set levenshtein distance
+        if(easter > 5) {
+            droids();
+            easter = 0;
+        }
         alert("Could not find "+search_arg);
+        easter++;
         return false;
     }
 
