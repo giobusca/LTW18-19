@@ -187,7 +187,7 @@ function displayStar(star) {
     var newHTML = "";
     newHTML += "<h1>"+star.toUpperCase()+"</h1>";
     var constName = getConstName(rawText);
-    var const_low = constName.toLowerCase().replace(/\s/g,"");
+    var const_low = constName.toLowerCase().replace(/\s/g,"").replace("ö","o");
     newHTML += "<div class='container'>\n";
     newHTML += "<div class='row'>\n"
     newHTML += "<div class='col'><img src='./images/constellations/"+const_low+".png' alt='Constellation map from IAU' width='600' align='left'></div>\n";
@@ -468,7 +468,7 @@ function addStarToConstLink(){
         const_name = const_name.slice(const_name.indexOf(":")+1,const_name.length).toLowerCase();
         const_name = const_name.trim();
 
-        displayConst(const_name);        
+        displayConst(const_name);
     })
 
 }
