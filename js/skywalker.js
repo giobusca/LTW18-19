@@ -23,6 +23,16 @@ function searchForm(){
         case "luke":
             luke();
             break;
+        case "deathstar":
+        case "death star":
+        case "Deathstar":
+        case "Death Star":
+            deathStar();
+            break;
+        case "force":
+        case "Force":
+            force();
+            break;
         default:
             search(search_arg);
 
@@ -79,22 +89,23 @@ function search(search_arg){
             if (window.confirm("Perhaps you meant: '"+betterConst.charAt(0).toUpperCase()+betterConst.substring(1)+"'?")){
                 displayConst(betterConst);
                 return true;
-            }
+            } else easter++;
         } else {
             // closer to a star than a constellation
             if (window.confirm("Perhaps you meant: '"+betterStar.charAt(0).toUpperCase()+betterStar.substring(1)+"'?")){
                 displayStar(betterStar);
                 return true;
-            }
+            } else easter++;
         }
     } else {
         // no match found within set levenshtein distance
-        if(easter > 5) {
+        if(easter >= 6) {
             droids();
             easter = 0;
+        } else {
+            alert("Could not find "+search_arg);
+            easter++;
         }
-        alert("Could not find "+search_arg);
-        easter++;
         return false;
     }
 
