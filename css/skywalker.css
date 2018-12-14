@@ -35,4 +35,5 @@ li {
 }
 .hover-blue:hover {
   background-color: #33adff60;
+  border-radius: 0.25rem;
 }
